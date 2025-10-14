@@ -2,6 +2,8 @@ study the ai module’s python exercises in google colab, study head first java 
 Go over them alex lee videos again… practice stuff with scanners and while loops  
 Look into Manim for python animation \-\> helps learn maths and make cool animations, but this is for later when i’m deep into the coding shebang.
 
+install Kanban board plugin
+
 Read Obsidian documentation.
 
 need to delete citadel messages from:
@@ -19,6 +21,8 @@ need to delete citadel messages from:
 
 ==Start personal programming, look in [[app and project ideas]], work on wishlist app in python.==
 
+Watch this video for more git knowledge. https://youtu.be/hrTQipWp6co
+
 ==Start studying arabic and driving theory on weekends.==
 
 I've finished lecture 1 of SE, need to finish 2 and 3 then move onto DSA (use the pdf habib gave) and do DSA lectures 1-4. 
@@ -27,8 +31,6 @@ Catch up on EPS (Assessment/interview stuff, finish CV)
 Apply to jobs at Sainsbury's, Tesco and Aldi (Need to remake CV, I have a WIP one for Placements but I need a generic one thats quality for regular apps)
 
 Contact Amazon Support to delete account connected to kamihame7@gmail.com
-
-Check everyday if my username and email are available to swap onto my new account.
 
 Map out my main tools for FighterZ characters (Blueku, SSJku, Blacku, Hit, UIKu, Jiren, S Broly)
 

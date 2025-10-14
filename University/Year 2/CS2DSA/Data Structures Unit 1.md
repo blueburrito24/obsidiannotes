@@ -148,4 +148,179 @@ Variables can be objects (like the aforementioned reference Object variable) so 
 
 #Classes define objects, like design blueprints for a house or patterns for a seamstress' new dress. A class declares the data that each object would store, like a cookie cutter defines what shape a cookie would hold. These declarations are the members of the class.
 Visibility modifiers like public, private and protected allow other classes to mingle with the members of a class. Most fields and helper methods should be private as a general rule of thumb. Any members that have no visibility modifiers are treated as "package access" aka can be accessible by any class in the same package.
+![[{2C3D2AA6-494D-4FAE-A7C1-FABCACC4891C}.png| 500]]
 
+#Instance-Data is when a variable is declared in a class but not inside any method, i.e., right at the top of the class. This data can be referenced in any method of that class, because the location of a variable determines its scope/reach.
+
+When creating and managing objects, we have two perspectives to consider:
+- Designing/developing an object and considering the details of how it works
+- Designing/developing other objects that can interact with that object, during which we only take interest in the services (outputs) of those objects.
+Objects should be "self-governing" meaning that only the object itself can modify the variables it contains, e.g., an object from a Dog class can only control what it outputs as "speech". No other object should be able to modify the variables of the "Dog" object. This attribute is called #Encapsulation.
+Each object in a program only interact amongst each other through their methods, their attributes and inner details are hidden from other objects.
+==The methods of a class define the interface between objects of that class and the overarching program.==
+Code that uses an object, i.e., a client, should not access the variables of the object.
+==Use methods, not direct data!==
+
+#Visibility-Modifiers control access to the members (variables and methods) of a class.
+Some examples include:
+- final, which makes constant/unmodifiable variables
+- public, which makes variables usable from anywhere outside of the class
+- private, which makes variables only usable from within the class
+- protected, which makes variables only usable by a class and any classes that inherit it.
+![[{06EC94ED-7C7D-43D1-AA75-6CA7ABF12896}.png | 500]]
+
+Instance data is declared at the class level, whereas #Local-Data is declared at the method level. Local data can only be used within that method. 
+This can include the parameter names in a method header and variables within the method. Local data ceases when its method is not in use.
+
+#Constructors are alike methods that are called when a object is instantiated. Constructors are how we determine the initial state of an object,
+Constructors unlike methods hold the same name as their parent class and do not return values (aka a void method).
+If a class has no given constructor it has a default one.
+
+#Method-Overloading is when multiple methods share the same name but still function as they have different parameters. A method's name and its number, type and order of its parameters are what make up its "signature".
+If each method's signature is unique then the computer will know what method is being referenced.
+```java
+System.out.println(String s) // This method is a good example of overloading. Each reference has a different parameter so it still works.
+...println(int i)
+...println(double d)
+...println(char c)
+...println(boolean b)
+```
+Method overloading is used for class constructors and providing a client-class different ways to initialise the fields of its parent-class.
+![[{F2A5215B-54F2-4D63-83E6-7805606B4FF0}.png | 500]]
+
+An object can refer to itself using the keyword "this".
+```java
+public class SavingAccount {
+	private float balance;
+	private int accountNumber;
+	private String name;
+	
+	public SavingAccount(int accountNumber, String owner) {
+		this.balance = 0;
+		this.accountNumber = accountNumber;
+		this.name = owner;
+		}
+	}
+```
+If an object reference variable doesn't point to an object, it is null. e.g.,
+```java
+Integer y // no object pointed to, becomes null
+y = new Integer(74) // points to an object, has a value
+```
+Two or more variables can also point to the same object.
+![[{6615B517-AFE9-4A6C-A996-2F2D0A3D3DE2}.png | 500]]
+Both x and y here reference SavingAccount, so if you change the balance value then both x and y's balance values are altered.
+
+If an object is not referenced at all, it is referred to as "garbage". Java automatically "collects" this garbage, in that the Java runtime environment collects these unreferenced objects and returns their memory allocation to the system for future use. In other languages you would have to explicitly return that memory space.
+
+### Passing Objects as Parameters
+Formal parameters is what we call the parameters in the header of a method, whereas actual parameters is what we call those listed in a method call.
+```java
+// formal parameters
+public class SavingAccount(int accountNumber, String owner)
+// actual parameters
+SavingAccount = new SavingAccount(24009, James)
+```
+In Java, all parameters are #passed-by-value meaning that when the method is called, the value of the actual parameter is copied into the formal parameter.
+However, if an object is used as a parameter then the address of the object is passed and the formal parameter is an alias for the actual parameter.
+```java
+public class newAccount {
+// instance data omitted
+	public class newAccount {
+	// body of logic omitted
+	}
+	
+	public class isAccountValid(Person person) {
+		return person.getName()
+		return person.getAddress()
+		return person.getPhone()
+		}
+}
+// In this example, isAccountValid uses Person as a parameter to access the data addressed through Person e.g., name, home address, phone number
+```
+If you modify the object being referenced, i.e., its state, you modify the state of the object referenced by the actual parameter.
+However if you modify the formal parameter, such as assigning it to a different object (i.e., y = new Person) then the actual parameters being used are not impacted.
+
+There is another kind of variable, called a #static-variable, which is declared with the keyword static e.g., private static int count = 0;
+Static variables are shared amongst all instances of a class, so there is only one version of that variable for all objects of a class. This means that all the objects instantiated through this class share this one variable, regardless of their own additional services. This can be used to keep track of how many objects have been instantiated from a single class.
+
+Static variables are shared among all instances of a class, as well as #Static-methods. As the static variable is declared, a static method will have static in its declaration. Static variables and methods are both referred to as class variables and class methods.
+A great practical example of a static method in a class is java.lang.Math:
+```java
+System.out.println("Square root of 27:" + Math.sqrt(27));
+System.out.println("The larger number is:" + Math.max(5, 8));
+// Notice how we call the Math class but don't need an object to make use of the methods sqrt or max?
+```
+java.lang.Math is an API, so we can even call the methods from it without referencing an instance of the class Math, so long as we have the API imported of course.
+
+The keyword static can also be used as a class modifier. A class typically involves fields and methods, can be a class from an object of a class or a class itself (while not being in any instance of that class), a class can also have a class as one of its members. This is called an "inner class".
+For the purpose of encapsulation, an inner class can be defined as static. E.g., here we have a static inner class called BinaryTreeNode. The fields in BinaryTreeNode are public so we don't have to get or set them, but we still have a good level of encapsulation.
+```java
+package dsaj;
+
+import java.util.Iterator;
+/**
+  * Class BinaryTree models some operations of a binary tree.
+  *
+  * @author A Barnes
+  *
+  * @param <T>
+  */
+public class BinaryTree<T> implements Iterable<T>{
+
+	protected BinaryTreeNode<T> root;
+	
+	// constructs an empty tree
+	public BinaryTree() {
+	root = null;
+	}
+
+	/**
+	  * Constructs a tree with just a root node
+	  * @param element
+	  */
+	public BinaryTree(T element) {
+	root = new BinaryTreeNode<T>(element);
+	}
+	
+	/**
+	  * Reset the tree to empty state
+	  */
+	public void clear() {
+	root = null;
+	}
+	
+	// OTHER METHOD DETAIL OMITTED
+	
+	/**
+	  * Inner class for modelling a node on a binary tree.
+	  * @author A Barnes
+	  *
+	  * @param <E>
+	  */
+	protected static class BinaryTreeNode<E> {
+		public E element;
+		public BinaryTreeNode<E> left;
+		public BinaryTreeNode<E> right;
+		/**
+		  * Constructor for creating a leaf node
+		  * @param element
+		  */
+		public BinaryTreeNode(E element) {
+		this.element = element;
+		left = null;
+		right = null; // no children
+		}
+		
+		/**
+		  * Returns true if this binary tree node is a leaf node,
+		  * i.e. a tree node with no children.
+		  * @return Returns true if this is a leaf node;
+		  * returns false otherwise.
+		  */
+		public boolean isLeaf() {
+			return (left == null && right == null);
+		}
+	}// end of inner class
+}
+```

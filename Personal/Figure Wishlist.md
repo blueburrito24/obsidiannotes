@@ -68,16 +68,16 @@ MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 
 Second term might be like:
--DangITProductions ML Spidey heads
+-DangITProductions ML Spidey heads + bpr and vallejo black paints
 -MAFEX Spider-Gwen
--MESS TOYS Superior Neighbour
--MESS TOYS Scarlet Spider
+-MAFEX Carnage
 -SV-Action Noir
-That's like 220~
+-SH Figuarts GAMERVERSE Spider-Man
+That's 200.84
 
 then Third term could be:
 -6inch+ Grey Hulk
 -MESS TOYS Scarlet Neighbour + KIISU accessories
--ML MK1 Iron Man
--Gamerverse Spider-Man
-That's like 180~
+-Marvel Legends Maximum Series Deadpool
+-MESS TOYS Scarlet Spider
+That's 179.23
