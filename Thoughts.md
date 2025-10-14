@@ -1,3 +1,7 @@
 I wonder if action figures is just going to be unproductive. Like I already struggle with learning and being practical with my learning but I also keep funnelling all my "productive" efforts and energy towards my hobbies. With action figures it reaches the point of money.
 
-I think I should look at all the figures in my wishlist when possible and just think, what do I really want out of these? Like having a collection is one thing but I don't want to have a wall of 300 figures standing there. There needs to be an end goal, not just endless consuming. I have an image of my wishlist but its a bit outdated, so I could use that for visual help. Definitely do it this weekend. 15.10.2025.
+I think I should look at all the figures in my wishlist when possible and just think, what do I really want out of these? Like having a collection is one thing but I don't want to have a wall of 300 figures standing there. There needs to be an end goal, not just endless consuming. I have an image of my wishlist but its a bit outdated, so I could use that for visual help. Definitely do it this weekend. 
+
+I need to remember that as much as it sucks to be a retard and not understand this content, it's better that I'm a retard and trying to understand this content than a retard who doesn't try.
+
+15.10.2025.
