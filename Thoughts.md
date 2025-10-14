@@ -1,0 +1,1 @@
+I wonder if action figures is just going to be unproductive. Like I already struggle with learning and being practical with my learning but I also keep funnelling all my "productive" efforts and energy towards my hobbies. With action figures it reaches the point of money.
