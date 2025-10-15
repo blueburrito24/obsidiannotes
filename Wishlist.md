@@ -21,7 +21,7 @@ Also note, I want to repaint Venom's spider-logo to be like the one on the 12in 
 [Vallejo Vermillion red](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH9JR8?source=ps-sl-shoppingads-lpcontext&smid=A24YWSJL4NZAIN&th=1) 5.12 ✅
 [Epoxy putty](https://www.amazon.co.uk/Milliput-Epoxy-Putty-White/dp/B004RO1XQU/262-1879676-9991234?pd_rd_w=6Qhcj&content-id=amzn1.sym.26650545-76bb-4cec-9169-6ae3698dbb86&pf_rd_p=26650545-76bb-4cec-9169-6ae3698dbb86&pf_rd_r=BSGBWQE5W18RJDH8TJBE&pd_rd_wg=VIPJZ&pd_rd_r=29c41a72-69f5-4ca8-8e24-c97e51b025ce&pd_rd_i=B004RO1XQU&psc=1) 6.38✅
 
-**Using my PSP sale money, I’m going to buy the [Kaiyodo Revoltech Iron Spider](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m24214284932) 104.87.**
+**Using my PSP sale money, I'm going to buy the [Kaiyodo Revoltech Iron Spider](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m24214284932) 104.87.**
 
 ***Newspaper accessory made with printed papers***  
 [Portable light for photos](https://www.aliexpress.com/item/4001132435958.html?invitationCode=Nk5WWG9Fd1pIUHU0VkNuTU90bE4xbmptNzY5SG5hZHhLc2lXRWhYb1AwdWVQemFTZUJrNWVWT0s1MU1hdTAyWg&srcSns=sns_Copy&spreadType=socialShare&social_params=61255092969&bizType=ProductDetail&spreadCode=Nk5WWG9Fd1pIUHU0VkNuTU90bE4xbmptNzY5SG5hZHhLc2lXRWhYb1AwdWVQemFTZUJrNWVWT0s1MU1hdTAyWg&aff_fcid=53caf2040f224c14a827912e34cd185c-1758731852211-08817-_Ex3vUBy&tt=MG&aff_fsk=_Ex3vUBy&aff_platform=default&sk=_Ex3vUBy&aff_trace_key=53caf2040f224c14a827912e34cd185c-1758731852211-08817-_Ex3vUBy&shareId=61255092969&businessType=ProductDetail&platform=AE&terminal_id=b4f21691d67147bda3b5aa1df2020bba&afSmartRedirect=y) 21.95  
@@ -34,7 +34,6 @@ Also note, I want to repaint Venom's spider-logo to be like the one on the 12in 
 [Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 [Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 #### ***FIGURES I WANT***
-also note [[Custom figure ideas]]
 DARK AVENGERS SPIDER-MAN 24.99 Releases December 3. Will order in-person at Forbidden Planet (using money from third monthly budget). SPIDER-MAN 2099 goes up for preorder on 29 October. Releases Spring 2026. Will pre-order on Amazon (using money from second monthly budget).
 ![[DA Spidey Render.png| 300]]![[2099 Render.png| 300]]
 Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers.
@@ -51,10 +50,11 @@ MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 [Vallejo Black](https://amzn.eu/d/bbalCsI) 4.94  
 [4pcs Micron Pens 0.25mm](https://www.amazon.co.uk/Sakura-Pigma-Micron-Black-0-25mm/dp/B07XYXBX62?crid=4KI9FKRLRZWC&dib=eyJ2IjoiMSJ9.kSObt0GaKA1Rh6eOZGgWH2GV4iVQSgaY5m8oSFGg6hKDWS9AIomD5-RxeBkmZr7gb_l8Cb52zQuYD8wAZpmmh3YQrfC1m1zffUzQ3Tdk_oAyVy-pDe8j6xo69SNp8_TOc_GZmgmyNa6P_mRCmF7g6q5mGgC0FZBoIYdpu0Xt5nh8-l5Q-4uDnbedPp4sQknLrNw_QOwrb-HWN-j8kbM5gmSTEm82w37PodkUemmycgj2rSOYE3Kmv5lG34nDeKFUWgBPDbk_iZJpBQ-s2XHYsUZK-3HHtgGXWvdjOtXNGE0.MRifi4vEzHhMs_DHUd3O9KRelZnJ99eDQC73XpDWhIc&dib_tag=se&keywords=black+micron+pen&qid=1757281827&s=officeproduct&sprefix=black+micron+pen%2Coffice-products%2C231&sr=1-8) 9.86
 [DangITProductions custom Maximum Spidey headsculpt with interchangeable lenses, needs painting](https://www.ebay.co.uk/itm/187471260540?itmmeta=01K7009YGKVX734M19ETF88PMP&hash=item2ba6286b7c:g:zxEAAeSwGqJolWW2) 40
-[wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71  
+[wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71
 [Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
-[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82   
+[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
 [Marvel Legends BAF SP//DR](https://www.ebay.com/itm/127349764428?_skw=marvel+legends+sp%2F%2Fdr+baf+complete&itmmeta=01K7KPXF1QZ66CQ5Y7X7B68STE&hash=item1da6a3314c:g:1bYAAeSw-hpouHjl&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dw%2FXJyPU8yVkGTfNPBYXvYtfEO4X7aHH33%2Fb%2Bq6o50tOFD7CA1%2ByOxzUvutyXJsVechJFohtEPgN385C2qZgU9Vr9V%2FKuL8XKQVTrCRvC45H6W%2BRHBWjOqs1vHzs6smGAeIPjRWLBaH3j0LP1EGjNbCP8qd80c02F%2BCsyFbAwqm8b4hRpDWbyy70SuJ9G7jRbN7x6epwG%2BZFIhcy59WmJSywXiK%2FTXGVxzjeWoeahWvu5SB4cfWSj2y4ixTc03Qgc2QcTdUHIvxFHmkDzJXJFB0rs0Lf%2FD1peRgGtug3KnPqiZWCyFhSLF5TVv516xsro%3D%7Ctkp%3ABk9SR_7w9fa8Zg) 98.81
+Marvel Legends Ultimate Spider-Woman [[Custom figure ideas]] 40.94
 ![[unnamed.jpg | 500]]
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 
@@ -62,13 +62,14 @@ Second term might be like:
 -DangITProductions ML Spidey heads + bpr and vallejo black paints
 -Marvel Legends SP//DR
 -MAFEX Carnage
--SH Figuarts GAMERVERSE Spider-Man
-That's 247.15
+-Marvel Legends Ultimate Spider-Woman custom
+That's 241.27
 
 then Third term could be:
+-SH Figuarts GAMERVERSE Spider-Man
 -6inch+ Grey Hulk
 -MESS TOYS Scarlet Neighbour + KIISU accessories
 -Marvel Legends Maximum Series Deadpool
 -MESS TOYS Scarlet Spider
--SV-Action Noir
-That's 243.22
+-Marvel Legends Iron Man Mk1 32.83
+That's 258.89
