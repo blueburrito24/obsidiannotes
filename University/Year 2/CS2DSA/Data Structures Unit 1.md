@@ -486,3 +486,52 @@ A good example would be an Animal hierarchy:
 - Dog class (type of pet)
 
 ### Polymorphism
+#Polymorphism refers to something having too many forms. 
+A polymorphic reference is a reference variable that refers to different types of objects at different times.
+Polymorphism leads to dynamic binding, which means that the binding of the call (reference) to the code (object) occurs during runtime and not compile time.
+An object reference can also refer to any object of a class related to it by inheritance.
+```java
+Mammal pet;
+Horse secretariat = new Horse();
+pet = secretariat; // a valid assignment
+```
+The horse object reference in ==secretariat== is assigned to "pet", which is designed to keep a Mammal object reference. The "pet" variable acts as its pointing towards a Mammal object, even though it's actually pointing to the Horse object - this is polymorphism through inheritance.
+Polymorphism can also occur through an interface and so any object that implements said interface.
+```java
+public interface Speaker
+{
+	void speak();
+	void announce(String announcement);
+}
+```
+Here we have implemented the classes "Philosopher" and "Dog". Both implement "Speaker", so the client class "Seminar" can keep object references for either "Philosopher" or "Dog".
+```java
+public class Seminar
+{
+	// The speakerof this seminar.
+	private Speaker current;
+	
+	/**
+	  * The constructor of a seminar object. This type of speakers for
+	  * this seminar is dependent on the type of seminar.
+	  */
+	  public Seminar(char type)
+	  {
+		  switch(type)
+		  {
+			  case 'd': this.current = new Dog();
+				  break;
+			  default : this.current = new Philosopher();
+					break;
+					}
+				}
+			}
+```
+Since Java 7, the expression in a switch statement can use more than just primitive data types (such as char, byte, short, int) alongside complex expressions (such as Character, Byte, Short, Integer, String, enum).
+![[{B4E92CD1-9A5D-4D28-9E6A-7A02C5B87EE0}.png | 600]]
+
+Since Java 5.0, <T.> has been a placeholder available to use. We can use <T.> which means #Generic-type, to define a class without an actual type present until the class is instantiated.
+![[{E094520C-7E01-4361-91FD-43371FAFB29A}.png | 500]]
+![[{10CC27FB-C14E-43F3-8972-03D6204C5315}.png | 600]]
+Note that Raffle does not explicitly use the keyword implement or extends (implements) so while it uses the Box class it is only a client.
+Box is a generic class in this case. It uses a generic type (<T.>) for a field (class variable) that has not been explicitly defined until the later Raffle constructor.

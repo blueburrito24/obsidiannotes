@@ -4,6 +4,7 @@ Look into Manim for python animation \-\> helps learn maths and make cool animat
 
 install Kanban board plugin
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
+Set up bitwarden
 
 Read Obsidian documentation.
 
