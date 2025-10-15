@@ -556,7 +556,7 @@ public class Auction
 	  */
 	  public void showLots()
 	  {
-	  Iterator<Lot> it = lots.iterator();
+	  Iterator<Lot> it = lots.iterator(); // <Lot> is specifying what type of object is being passed through the Iterator.
 	  while(it.hasNext())
 	  {
 		  Lot lot = it.next(); // No type casting is needed
@@ -568,3 +568,4 @@ public class Auction
 ```
 The variable ==lots== is now expected to hold the object reference of an ArrayList object that keeps reference to Lot objects. Because of the generic type (Here it's Lot instead of T) there is no line needed to explicitly type-cast the Lot object class. The Iterator object can return the lots passed through without needing to return it as a String through toString (the method).
 ![[{4E44588C-D5F7-42FD-B762-86172C4A9BEA}.png | 600]]
+The showLots method can be implemented using a ==for== statement.
