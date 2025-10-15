@@ -327,3 +327,107 @@ public class BinaryTree<T> implements Iterable<T>{
 }
 ```
 
+#Wrapper-Classes are classes used to put primitive data types into an object oriented context, e.g., collections of objects.
+Java has some pre-built wrapper classes for the following:
+- int = Integer
+- short (16bit int) = Short
+- long (32bit int) = Long
+- float = Float
+- double = Double
+- char = Character
+- boolean = Boolean
+These wrapper classes can provide useful methods, like Integer.parseInt which takes a string and returns its numeric value (i.e., a String that contains only numbers, like "123").
+We can also make our own wrapper classes, e.g., PureStack, a wrapper class that uses a java.util.Stack object to remodel the contents/operations of a pure "stack".
+```java
+package dsaj;
+import java.util.Stack;
+/** Class PureStack is a wrapper class which uses a java.util.Stack object
+  * to model the contents and the operations of a pure stack.
+  * @author S H S Wong
+  */
+public class PureStack<I> {
+
+private Stack<I> contents;
+
+/**
+  * Constructor: creates a new java.util.Stack object to model
+  * the contents and the operations of a pure stack.
+  */
+public PureStack() {
+contents = new Stack<I>();
+}
+
+/**
+  * Adds one element to the top of the stack.
+  * @param the element to be added to the stack
+  */
+public void push(I item) {
+contents.push(item);
+}
+
+/**
+  * Removes and returns the top element from the stack.
+  * @return the element at the top of the stack
+  */
+public I pop() {
+return contents.pop();
+}
+
+/**
+  * Returns the top element of the stack without removing it.
+  * @return the element at the top of the stack
+  */
+public I peek() {
+return contents.peek();
+}
+
+/** 
+  * Returns the number of elements in the stack.
+  * @return the number of elements in the stack
+  */
+public int size() {
+return contents.size();
+}
+
+/**
+  * Returns true if the stack contains no elements and false otherwise.
+  * @return true if the stack contains no elements
+  */
+public boolean isEmpty() {
+return contents.isEmpty();
+}
+}
+```
+
+#Interfaces help simplify common details between different classes. Such as different types of mammals, or different types of bank accounts.
+![[{65037121-F3DA-4273-B00C-6186AEBC3479}.png | 600]]
+An interface is a collection of constants (final fields that cannot be changed) and abstract methods (named methods with no bodies of logic).
+```java
+/**
+  * A Java interface to model the complexity of a task
+  *        e.g., an exam question
+  */
+  interface Complexity
+  {
+	  void setComplexity(int complexity);
+	  int getComplexity();
+}
+```
+This above interface has the abstract methods setComplexity and getComplexity.
+A class using this interface would provide bodies of logic for each abstract method, meaning all interface methods are "public abstract".
+A class that implements an interface will explicitly mention so in the header of the class.
+```java
+public class Questions implements Complexity
+{
+	int difficulty;
+	public void setComplexity(int complexity);
+	{
+	difficulty = complexity;
+	}
+	public int getComplexity()
+	{
+		return difficulty;
+	}
+}
+```
+A class is only defined as implementing another class if it declares so in the header via the keyword =="implements"==.

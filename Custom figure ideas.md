@@ -10,7 +10,7 @@ Marvel Legends Ultimate Spider-Woman custom:
 [Vallejo Inky Red](https://www.amazon.co.uk/Vallejo-Game-Ink-Acrylic-Paint/dp/B000PH9IPG?crid=2MANEM1VFRKTF&dib=eyJ2IjoiMSJ9.drGpQ0vzHSwWl_rFP9YA_s-1v4E982RX-9yuYcDgmMqX4FVY2IHOKf0FQsv4wMJyKHroLCj7v1KP9NzMvz77uVW4FdNEjStobZVE5KabQnMjAr5RxFJ-9hNtU5yyH0Zy_MGvW6p4b5O9Xk26C57q4iCvx3vtCcSdBSXiYj7vzdkgbnPOdG_E0uB7zvyarm6TYxkcaAK9SWhYKejK-2FC8kfWP_fj-FLcGRx1ziEb5pQJMpMHhyTveN0-pPjj3zvumkpf7jM6UkmVTkk2NzE38MDjyN3Bfk2DjJN_GnwM2Ts.mrOpUNMEnnOrO9Qqq7tEpL4vujGojBS3xXlYfUUM4IA&dib_tag=se&keywords=vallejo%2Bcrimson%2Bred&qid=1760278394&s=officeproduct&sprefix=vallejo%2Bcrimson%2Bred%2Coffice-products%2C129&sr=1-3&th=1) 2.95 and [Vallejo Metal Medium](https://www.amazon.co.uk/Vallejo-Model-Color-Metal-Medium/dp/B000PHBETE?crid=2C63FZ7I3LUWA&dib=eyJ2IjoiMSJ9.Wz_3jXGnIYzW3cfftZ6964GnbOPmZfoZeSaV8euuVpM05AUdRyaIMEnSs4wfX_QC9EYjrIDw_H5cAMf_1frz8kf0RsUWd03mBFt3NShcxDU0gr8ELAZRCFf9VKAjuHa1SY21bDV6qDaWTRtdYwsW7Z_7s2Kt_nnOBXSQRe591s2POph857AUU1liihWeaiGoCm1Y2b0VzwTJyHyBNLWkUVQ57diE1Qcj9U83hELReV6LgZGh3ZGmXGSMo7H9xjegwInNTzZn8C1YvIcfMse46UjNS7nnpFszppkn0gQZRCc.S6LY7rAGHWCOGaREscucPMQh3Ay7aTRRSZYsr2PpHMA&dib_tag=se&keywords=vallejo%2Bmetallic%2Bmedium&qid=1757889852&rdc=1&s=officeproduct&sprefix=vallejo%2Bmetallic%2Bmediu%2Coffice-products%2C141&sr=1-2&th=1) 3.49 for a reflective paintjob
 I already have Vallejo white so that's sorted. I would just need to get rid of the scarf and resculpt the head a bit to have a masked look with no mouth detail, alongside shaving off the mask and eyes.
 From there I just have to repaint the whole thing in metallic red, paint the fingers, spider symbol and lenses on with white and then repaint the hair.
-Also need to add toe articulation and do the [[crunch mod]].
+Also need to add toe articulation and do the [[ML Ab-Crunch mod]].
 ![[Pasted image 20251012152521.png | 400]] ![[Pasted image 20251012152638.png | 250]]
 Marvel Legends USM's Blood Spider custom:
 [ML Scarlet Spider](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-4-Scarlet-Spider-p642293937) 29.99 for base body
@@ -22,7 +22,7 @@ Then all I need to do is paint on the red spider symbol and lenses with red and 
 ![[{AC14740B-12B0-4487-AA89-88E813E16239}.png | 300]] ![[G3RCrsIbIAAD4b-.jpeg | 375]]
 ![[{6CA842F7-822E-4B15-BA5D-9DDF1E2DD61F}.png | 100]] ![[{950E7515-E67E-4AF3-ADD7-F0DEBBA5CB1E}.png | 140]] ![[{306FFC7E-FC4F-463A-B9B3-7BBA7D2A8C8A}.png | 100]] ![[Pasted image 20251015083304.png | 125]]
 Marvel Legends GAMERVERSE Venom upgrade:
-Do the [[crunch mod]] on this figure.
+Do the [[ML Ab-Crunch mod]] on this figure.
 I want to increase the forward-shoulder range, so I'm going to attempt to adapt this mod.
 https://www.youtube.com/watch?v=GoviqGwjY5s
 If the inner structure of the shoulders is similar to the Vulcan body I will carve out the front gap of the shoulders for more forward-range, alongside the actual inner-tract of the shoulder joints.
@@ -31,5 +31,5 @@ I'm also gonna paint out the legs of the spider-symbol and round out the body, t
 ![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]]
 Marvel Legends Maximum-er Spider-Man:
 I already have the right red, blue and black paints I need to repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. 
-The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. Also note that I should do this repaint after I do the [[crunch mod]].
+The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. Also note that I should do this repaint after I do the [[ML Ab-Crunch mod]].
 This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
