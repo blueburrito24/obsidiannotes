@@ -60,15 +60,15 @@ MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 
 Second term might be like:
 -DangITProductions ML Spidey heads + bpr and vallejo black paints
--MAFEX Spider-Gwen
+-Marvel Legends SP//DR
 -MAFEX Carnage
--SV-Action Noir
 -SH Figuarts GAMERVERSE Spider-Man
-That's 200.84
+That's 247.15
 
 then Third term could be:
 -6inch+ Grey Hulk
 -MESS TOYS Scarlet Neighbour + KIISU accessories
 -Marvel Legends Maximum Series Deadpool
 -MESS TOYS Scarlet Spider
-That's 179.23
+-SV-Action Noir
+That's 243.22
