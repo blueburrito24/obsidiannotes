@@ -3,7 +3,7 @@ Important tutorials:
 [How to paint regular spider symbolsl](https://youtu.be/xDrXjyuO5bc?si=V7qNdi77Jdu1jBp0)
 [How to add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8)
 
-![[Ultimate_Spider-Woman.jpg | 150]]![[ML Warbird.png| 150]]
+![[Ultimate_Spider-Woman.jpg | 150]] ![[ML Warbird.png| 275]]
 Marvel Legends Ultimate Spider-Woman custom:
 [Marvel Legends Warbird](https://www.amazon.co.uk/Marvel-MVL-Legends-Yellow-2/dp/B0D95233ZD?crid=2VQ7D711JGFS8&dib=eyJ2IjoiMSJ9.EAutf6ifqk1OvjXHlBeEyKMP1HCvOhFIAfYswDLHRPHloDwFvBqiv9EN-GskCnwLYGGg6ht9Tcxaf3aixvUKGqQZgRW_cV1UdWmAyzcN40qGKPakBRL9iCaVOgCuI_FByxRLbTBLmaTSoAZ0bDUPmlJlPoyqTUWVr74vtw-S5d002mhraEmsUz5x_llhhVr6ana5C4VXERapAsPjq4aeApsTqcGV0XP4qkrnVFjZ8AiEBbH6MA99-EBHorzwnnZbO5-1YRz_ChJEP66fBIb3fy1fvtE-lE3EyGT-4PwE8Tg.VbhHhHSGGEd-nETjMK5rO4wuvxJMgBlyo8Dm-bpUT2g&dib_tag=se&keywords=marvel+legends+warbird&qid=1760273431&sprefix=marvel+legends+warbird%2Caps%2C118&sr=8-4) 24.99, -> has the headsculpts and updated body I need
 [Vallejo Mahogany Brown](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH7P24?crid=13O6BFQ6DK79T&dib=eyJ2IjoiMSJ9._NdZkcWPNydc-uULg8JqsYc8zr8t9IiSKA3f-hqtA3Catd4dqeLfAHfQCznOXMgiv_eg0qccxlM5wcx3RzSbN0ECrStWm7ZyN_CWRWGsvc5OwkaQP-FBpnZaVVM9kb6h5tz_gkD6Qe8C6r5R0gJCTZ9WDy7SaGRCAmWh0GraVtuTg1Ex2-kvjmHAulQpt48rkY9xPaWbM0Wm3AVD69YbygTFGPURylHfojMH3JHiTN781KB3WsYYQSFzmQG42NiVjg7OBmMXyfPjMwqqKTF8IEwiKRfdxnF_y5SPq0ef64o.slCI2hy73WUy61Y_ZW70Qyua2yjRU6JqBHZslJQ8Vn8&dib_tag=se&keywords=vallejo%2Bbrown&qid=1760272850&sprefix=vallejo%2Bbrow%2Caps%2C113&sr=8-4&th=1) 2.95 and [Vallejo Blackwash](https://www.amazon.co.uk/Vallejo-Model-Color-Wash-Paints/dp/B00AOL8G8S?crid=FXUI0CRJ203W&dib=eyJ2IjoiMSJ9.BYxeG6_U7ob3g2Rxqi9xz_zeZwVId0z1rg8_wOidxRScYkkFNtXTkJtDL-STznxqQTeZcnsQ5sCWXqkmakl9q6VKDO3atcHsoO7TdFsm5n-0_OwSfoWeArMP1aeSr2RNeVryXVR8iKvwtm-STkZloLOxWCiKslj3B5H2UVJ8s8qIBA8mB2I9sR9a1dXqYwD3KeNURg1cFytfDxxTG5nMlwH8oUqJej7e-S2PNBWFaHjUUjK11nI-4HTP9rUjkmdIeP7sEom3f4gt1er79EEZDEM9JVQhpGt9lHsyqrtfzFc.9aL33NqLE5tubKNB_cVhniXmPk_PBZwwgZnRzrJE__Y&dib_tag=se&keywords=vallejo+black+wash&qid=1757174907&sprefix=vallejo+black+was%2Caps%2C108&sr=8-4) 6.56 for repainting the hair
@@ -11,7 +11,7 @@ Marvel Legends Ultimate Spider-Woman custom:
 I already have Vallejo white so that's sorted. I would just need to get rid of the scarf and resculpt the head a bit to have a masked look with no mouth detail, alongside shaving off the mask and eyes.
 From there I just have to repaint the whole thing in metallic red, paint the fingers, spider symbol and lenses on with white and then repaint the hair.
 Also need to add toe articulation.
-![[Pasted image 20251012152521.png | 400]] ![[Pasted image 20251012152638.png | 200]]
+![[Pasted image 20251012152521.png | 400]] ![[Pasted image 20251012152638.png | 250]]
 Marvel Legends USM's Blood Spider custom:
 [ML Scarlet Spider](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-4-Scarlet-Spider-p642293937) 29.99 for base body
 [Rit Synthetic Dye](https://www.amazon.co.uk/Rit-Dye-More-Synthetic-7oz-Graphite/dp/B076N3R6Z3/262-1879676-9991234?pd_rd_w=QOtjp&content-id=amzn1.sym.c7e2bad4-5f0a-4571-946c-cadf3ebf9cb4&pf_rd_p=c7e2bad4-5f0a-4571-946c-cadf3ebf9cb4&pf_rd_r=004VBWQQ13YEB3ZPNZ6W&pd_rd_wg=gF8l3&pd_rd_r=f901cf0d-053c-406b-9fcb-23f3a27119e5&pd_rd_i=B076N3R6Z3&psc=1) 8.49 for dying the body black
@@ -30,5 +30,6 @@ I'm also gonna repaint these Marvel Select heads + the Marvel Select's "backpack
 I'm also gonna paint out the legs of the spider-symbol and round out the body, then add new legs based on the 12in design.
 ![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]]
 Marvel Legends Maximum-er Spider-Man:
-I already have the right red, blue and black paints I need to repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. Also note that I should do this repaint after I do the [[crunch mod]].
+I already have the right red, blue and black paints I need to repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. 
+The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. Also note that I should do this repaint after I do the [[crunch mod]].
 This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
