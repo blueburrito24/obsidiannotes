@@ -40,11 +40,7 @@ Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articu
 MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 6inch+ Grey Hulk (Releases in Q2 2026, likely 60usd aka 50gbp, needs eyes removed, buy via Gundamit)
 ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]]
-[MESS TOYS Superior Neighbour](https://a.aliexpress.com/_EzpOC0e) 33.09  
-[MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005008455372278.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050857874619%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 29.49
-[KIISU Scarlet head and hands](https://kiisucreations.bigcartel.com/cart?empty=true&add[461181033]=1&add[461181051]=1&utm_source=share_cart) 24.75
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
-[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 61.52
 [Marvel Legends Maximum Series Deadpool](https://www.amazon.co.uk/Marvel-Legends-Maximum-Deadpool-Action/dp/B0DMRD3K4G?crid=2XS44Z9P20TAV&dib=eyJ2IjoiMSJ9.iNJkSCrO1riF8rBG2AbRw56cSABwEpo6SRwCAvtNzXTqnrMLCSnXng3DC0tKpbePziKbK9f7HbOvG8UEO1zJcYLVlWjKGCeCp9Da3ucVTLe_-8oGZmUfnyQnJSo2HYR4LPV69DS3Qh9VSvotC0YljPjqfLoilYwvgPduVwFn6axkLMyM7MJngV_HL8pCf6YK3RpRmRhc95rW_BKXrs8md6VBiKsqfo8oF0EKH3KRZOd1K_SCWvWaqDMlpuWyvdeKA3cbKbuvwMp8qW8PGPIG3Awb0I39VuNH33CJ2broocA.U1CfSDYbzldiik9Q9ra5pBec9rG19Dr1tuZ3ufQQ9fk&dib_tag=se&keywords=maximum+deadpool&qid=1759855126&sprefix=maximum+deadpool%2Caps%2C176&sr=8-4) 44.99
 [Bold Pyrrole Red](https://www.ebay.co.uk/itm/204769887945?_skw=Pro+Acryl+Bold+Pyrrole+Red&itmmeta=01K4K0W4S203NKVYZP57YWJ24T&hash=item2fad3c86c9:g:0fAAAOSwuadmL2d8&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cubmpXIEpjBsH%2Flj8wj0qdBI%2B5rCR8riHCSM3cU1bZQ5%2BatWSGr53dMboYV3L8X6dbNi5epaxJOoo5u3RTy%2B3NQIfnyhTMJ84Gq9Hlx2JrR3AU3K91ZEw89E1phPpqBNSyyid%2FrmVgrUGapc4xAXLZGTJpbjwsF9%2FBR3jTnKvvdQreJ3%2FX6odtuty%2BsOjv2knpu1GERzYc3A62FAzEc%2BZ7YLVeSU2dwzBwUYQ0deP3JauOwDDCxhk554lfMmdtJv4GEpEsfxBmWM8RcMo8L1JCJlrRNTFQPrcWfpP2%2Fk2dag%3D%3D%7Ctkp%3ABk9SR5DO8OCkZg) 8.84  
 [Vallejo Black](https://amzn.eu/d/bbalCsI) 4.94  
@@ -55,21 +51,21 @@ MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 [SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
 [Marvel Legends BAF SP//DR](https://www.ebay.com/itm/127349764428?_skw=marvel+legends+sp%2F%2Fdr+baf+complete&itmmeta=01K7KPXF1QZ66CQ5Y7X7B68STE&hash=item1da6a3314c:g:1bYAAeSw-hpouHjl&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dw%2FXJyPU8yVkGTfNPBYXvYtfEO4X7aHH33%2Fb%2Bq6o50tOFD7CA1%2ByOxzUvutyXJsVechJFohtEPgN385C2qZgU9Vr9V%2FKuL8XKQVTrCRvC45H6W%2BRHBWjOqs1vHzs6smGAeIPjRWLBaH3j0LP1EGjNbCP8qd80c02F%2BCsyFbAwqm8b4hRpDWbyy70SuJ9G7jRbN7x6epwG%2BZFIhcy59WmJSywXiK%2FTXGVxzjeWoeahWvu5SB4cfWSj2y4ixTc03Qgc2QcTdUHIvxFHmkDzJXJFB0rs0Lf%2FD1peRgGtug3KnPqiZWCyFhSLF5TVv516xsro%3D%7Ctkp%3ABk9SR_7w9fa8Zg) 98.81
 Marvel Legends Ultimate Spider-Woman [[Custom figure ideas]] 40.94
+[Cloak A1](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 9.39 for Ultimate Spider-Woman and [Red Cloak](https://www.aliexpress.com/item/1005007851128667.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000042537003630%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 11.12 for Ultimate Miles Morales
 ![[unnamed.jpg | 500]]
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 
 Second term might be like:
--DangITProductions ML Spidey heads + bpr and vallejo black paints
--Marvel Legends SP//DR
--MAFEX Carnage
--Marvel Legends Ultimate Spider-Woman custom
-That's 241.27
+-Marvel Legends Maximum Spider-Man DIP heads + paints 53.78
+-Marvel Legends SP//DR 98.81
+-Marvel Legends Ultimate Spider-Woman custom 40.94
+-Cloaks for the Ultimates 20.51
+That's 214.04
 
 then Third term could be:
--SH Figuarts GAMERVERSE Spider-Man
--6inch+ Grey Hulk
--MESS TOYS Scarlet Neighbour + KIISU accessories
--Marvel Legends Maximum Series Deadpool
--MESS TOYS Scarlet Spider
+-SH Figuarts GAMERVERSE Spider-Man 46.82
+-6inch+ Grey Hulk 50
+-Marvel Legends Maximum Series Deadpool 44.99
+-MESS TOYS Scarlet Spider 30
 -Marvel Legends Iron Man Mk1 32.83
-That's 258.89
+That's 204.64
