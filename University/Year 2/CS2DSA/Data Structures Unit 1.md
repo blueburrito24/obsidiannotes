@@ -69,30 +69,30 @@ Set Operations and using Sets to remove duplicates from Linked-Lists are common 
 
 UML Diagrams consist of the classes, attributes (fields) and operations (methods) of a class. They include the relationships between classes and the constraints (features) of connections between objects.
 ![[{EB546BF4-1E45-487B-9EB2-FCAB63ACF59C}.png | 300]]
-This UML diagram depicts an abstract class with private variables and public methods, each showing their parameter type and structure.
-![[{75AE6DB5-93B9-465A-82DF-47E2799B9522}.png | 400]]
+This UML diagram depicts an abstract class with private fields and public methods, each showing their parameter type and structure.
+![[{75AE6DB5-93B9-465A-82DF-47E2799B9522}.png | 600]]
 This UML diagram shows multiple classes, some of which denoting how much of an object they can input or output. e.g., 1 person can have 0 or 1 pet and 1 person can have 1 car, the Car and Pet classes inherit the Ownable class which holds their logic to interact with the Person class.
 Inheritance involves superclasses and subclasses, which allows for logic reuse and streamlining activities.
 This UML diagram is a more streamlined rendition which allows for more Ownables of each type being allocated to a single Person.
-![[{01BBEE7C-D9B0-42B7-A65E-396D12E90425}.png | 400]]
+![[{01BBEE7C-D9B0-42B7-A65E-396D12E90425}.png | 600]]
 Typical components of a UML class diagram:
 - class (abstract/concrete)
 - interface
 - relation:
-  -association 
+  -association "owns a" or "borrows" etc
   ![[{322AF244-0107-438F-8822-9102386C9FC2}.png | 500]]
-  -aggregation "has a" 
+  -aggregation "has a" or "has"
   ![[{C5F50ECA-5F32-4D38-9FA5-463CAB8F8F86}.png | 500]]
-  -composition "owns a"
+  -composition "is part of a" or "makes up"
   ![[{799F71D4-0F63-4A89-9A6D-EBEF4F6E8435}.png | 500]]
   -dependency "uses"
   ![[{5C48227D-8094-4FE1-B08E-AE3A947C6679}.png | 500]]
   -generalisation "is a" or extends
   ![[{CDA17F12-435F-40B6-A2F4-77E5247D6FDB}.png | 500]]
-  -realisation or implements
+  -realisation or implements (interface has method names, implementing class uses that method name with its own code)
   ![[{36F93393-22F1-4900-8893-A4EED23818ED}.png | 500]]
 
-  ![[{70DF2244-ACD2-4E38-AA7C-686FEEBDCBEA}.png | 500]]
+  ![[{70DF2244-ACD2-4E38-AA7C-686FEEBDCBEA}.png | 600]]
 
 ## #CS2DSA_OOP
 ### A catch-up on first year CS's OOP module/Object Orientation as a whole.
