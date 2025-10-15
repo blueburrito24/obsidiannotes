@@ -52,7 +52,7 @@ Heaps come in two variations:
 ==Inserting== is O(log n) because of how inserting works. You add the value into the heap, then the value has to bubble up to its right position based on its size.
 ==Deleting== acts the same, O(log n), as when you delete a root value the smallest or biggest value must shift to the root position.
 
-#Hashmaps store data through key-value pairs. Keys are associated with data within the storage via a Hash-function. A Hash-function could be the length of a String, such as John being in position 4. This makes ==accessing== data from a Hash-map typically O(1), however if there is too much data in one Hash e.g., two names John and Andy being in position 4, values will have to be adjusted into a Linked-List and the accessing speed can slow down to O(n).
+#Hashmaps store data through key-value pairs. Keys are associated with data within the storage via a Hash-function. A Hash-function could be the length of a String, such as John being in position 4. This makes ==accessing== data from a Hash-map typically O(1), however if there is too much data in one Hash e.g., two names, John and Andy, being in position 4, values will have to be adjusted into a Linked-List and the accessing speed can slow down to O(n).
 ==Inserting== is a similar scenario, where inserting data is typically O(1) but if there's too many values associated with a single position then it slows to O(n).
 ==Deleting== is O(1) as you can just delete by key, but again with a Linked-List situation it would become O(n).
 Note that Hashmaps are called Dictionaries in Python.
@@ -98,13 +98,16 @@ Typical components of a UML class diagram:
 ### A catch-up on first year CS's OOP module/Object Orientation as a whole.
 (Page 5 onwards of the PDF)
 
-Something huge is our definition of an "object". An object in java, although like the typical vague noun, is not just a tangible thing. An object can be a bank account's value or a list of items in a shopping cart. 
+Something huge is our definition of an "object". An object in java, unlike the typical vague noun, is not a tangible thing. An object can be a bank account's value or a list of items in a shopping cart. 
 ==**Objects represent values!**==
 #Objects can contain "primitive" data types, numbers, floats, doubles (can store more data than float). They can also represent multiple pieces of data, e.g., a bank account balance (integer), account code (integer or string) and the account name (string).
 
 *An object is an instance of a class.*
 ==The class would hold the values and logic for the balance, code and name. An object would be the occurrence of those values.
 Another example, we have a class "Dog" which holds data for the name and dialogue of a dog object. Then we call a dog object, dog1, which has the name Lucy and "Woof!". That dog1 is an instance of the Dog class.==
+```java
+Dog dog1 = new Dog("Lucy", "Woof!");
+```
 Concrete classes can be templates for objects. Abstract classes can be templates for other classes' objects e.g., A car can have general vehicle elements, but has its own features. A truck can be another "subclass" that inherits the abstract "superclass."
 
 Quick side-track, #inheritance is a subclass that "is a" type of the superclass, while implementation is a subclass that "can do" what the superclass says it can. E.g., A Dog subclass could inherit the "legs" "height" "speak" methods from a mammal superclass, but it has to provide the body of logic within the method e.g., the Dog class can implement "speak" with its own specific way of speaking while a Person class could implement "speak" in another way. 
@@ -124,7 +127,7 @@ A java interface is an example of a class being abstracted.
 int x; /* creates a variable x to hold a primitive integer */
 Integer y; /* creates a variable y to hold a reference to
 an object of the Integer class */
-y = new Integer(74); /* creates a new Integer object with value 74 and
+Integer y = new Integer(74); /* creates a new Integer object with value 74 and
 sets the object reference variable y
 to point to the new object */
 ```
@@ -148,7 +151,6 @@ Variables can be objects (like the aforementioned reference Object variable) so 
 
 #Classes define objects, like design blueprints for a house or patterns for a seamstress' new dress. A class declares the data that each object would store, like a cookie cutter defines what shape a cookie would hold. These declarations are the members of the class.
 Visibility modifiers like public, private and protected allow other classes to mingle with the members of a class. Most fields and helper methods should be private as a general rule of thumb. Any members that have no visibility modifiers are treated as "package access" aka can be accessible by any class in the same package.
-![[{2C3D2AA6-494D-4FAE-A7C1-FABCACC4891C}.png| 500]]
 
 #Instance-Data is when a variable is declared in a class but not inside any method, i.e., right at the top of the class. This data can be referenced in any method of that class, because the location of a variable determines its scope/reach.
 
@@ -167,7 +169,7 @@ Some examples include:
 - public, which makes variables usable from anywhere outside of the class
 - private, which makes variables only usable from within the class
 - protected, which makes variables only usable by a class and any classes that inherit it.
-![[{06EC94ED-7C7D-43D1-AA75-6CA7ABF12896}.png | 500]]
+![[{5632EAB2-53A6-45A8-A63D-D39CB50AE525}.png| 500]]
 
 Instance data is declared at the class level, whereas #Local-Data is declared at the method level. Local data can only be used within that method. 
 This can include the parameter names in a method header and variables within the method. Local data ceases when its method is not in use.
@@ -186,7 +188,7 @@ System.out.println(String s) // This method is a good example of overloading. Ea
 ...println(boolean b)
 ```
 Method overloading is used for class constructors and providing a client-class different ways to initialise the fields of its parent-class.
-![[{F2A5215B-54F2-4D63-83E6-7805606B4FF0}.png | 500]]
+![[{D2AC6C6C-0C2A-4886-88C3-DB4AEA666012}.png | 500]]
 
 An object can refer to itself using the keyword "this".
 ```java
@@ -208,7 +210,7 @@ Integer y // no object pointed to, becomes null
 y = new Integer(74) // points to an object, has a value
 ```
 Two or more variables can also point to the same object.
-![[{6615B517-AFE9-4A6C-A996-2F2D0A3D3DE2}.png | 500]]
+![[{41556997-D5FA-452D-978E-4D181E3AF78E}.png | 500]]
 Both x and y here reference SavingAccount, so if you change the balance value then both x and y's balance values are altered.
 
 If an object is not referenced at all, it is referred to as "garbage". Java automatically "collects" this garbage, in that the Java runtime environment collects these unreferenced objects and returns their memory allocation to the system for future use. In other languages you would have to explicitly return that memory space.
@@ -219,7 +221,7 @@ Formal parameters is what we call the parameters in the header of a method, wher
 // formal parameters
 public class SavingAccount(int accountNumber, String owner)
 // actual parameters
-SavingAccount = new SavingAccount(24009, James)
+SavingAccount jamesSaving = new SavingAccount(24009, James)
 ```
 In Java, all parameters are #passed-by-value meaning that when the method is called, the value of the actual parameter is copied into the formal parameter.
 However, if an object is used as a parameter then the address of the object is passed and the formal parameter is an alias for the actual parameter.
@@ -268,8 +270,8 @@ import java.util.Iterator;
   */
 public class BinaryTree<T> implements Iterable<T>{
 
-	protected BinaryTreeNode<T> root;
-	
+	protected BinaryTreeNode<T> root; // <T> is like a placeholder that keeps this memory address intact for the later created object being referenced.
+		// Note that the <T> placeholder is a use of Java Generics.
 	// constructs an empty tree
 	public BinaryTree() {
 	root = null;
@@ -324,3 +326,4 @@ public class BinaryTree<T> implements Iterable<T>{
 	}// end of inner class
 }
 ```
+
