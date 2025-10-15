@@ -535,3 +535,36 @@ Since Java 5.0, <T.> has been a placeholder available to use. We can use <T.> wh
 ![[{10CC27FB-C14E-43F3-8972-03D6204C5315}.png | 600]]
 Note that Raffle does not explicitly use the keyword implement or extends (implements) so while it uses the Box class it is only a client.
 Box is a generic class in this case. It uses a generic type (<T.>) for a field (class variable) that has not been explicitly defined until the later Raffle constructor.
+
+## Generics VS. Type Casting
+With Java 1.4x or below, when we access objects in a collection (such as objects stored in an ArrayList object) we have to cast explicitly. Below the ==Auction== class uses a showLots method to represent lots in an auction. It uses an #Iterator to go through objects in the ==lots== (in the ArrayList object) one by one.
+When an object reference is retrieved in ==lots== using hasNext we have to cast it explicitly to avoid a run time error.
+![[Pasted image 20251015201907.png | 600]]
+Here we can only treat the objects in ==lots== as themselves when we use #Type-casting. This is due to the nature of collection objects - they are designed to keep object references of any type, not necessarily object references of the same type (i.e., iterated objects in a collection object). A regular collection object assumes that the elements in each collection object are instances of the ==Object== class, So when we explicitly type-cast we are then able to treat the object as its true self instead of an instance of the ==Object== class.
+![[{E1E22D25-A945-492D-8CA0-93472C24223D}.png | 600]]
+Generics were introduced in Java 5.0, making use of the Type variable gives us a cleaner approach to collection objects. Generic types remove the need for explicitly type-casting when accessing an object from a collection.
+```java
+import java.util.ArrayList;
+import java.util.Iterator;
+public class Auction
+{
+	// The list of Lots in this auction.
+	private ArrayList<Lot> lots = new ArrayList<Lot>(); // a generic ArrayList
+	
+	/**
+	  * Show the full list of lots in this auction.
+	  */
+	  public void showLots()
+	  {
+	  Iterator<Lot> it = lots.iterator();
+	  while(it.hasNext())
+	  {
+		  Lot lot = it.next(); // No type casting is needed
+		  
+		  System.out.println(lot); // No need to invoke toString() explicitly
+		  }
+	}
+}
+```
+The variable ==lots== is now expected to hold the object reference of an ArrayList object that keeps reference to Lot objects. Because of the generic type (Here it's Lot instead of T) there is no line needed to explicitly type-cast the Lot object class. The Iterator object can return the lots passed through without needing to return it as a String through toString (the method).
+![[{4E44588C-D5F7-42FD-B762-86172C4A9BEA}.png | 600]]
