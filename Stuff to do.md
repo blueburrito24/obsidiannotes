@@ -32,7 +32,7 @@ Apply to jobs at Sainsbury's, Tesco and Aldi (Need to remake CV, I have a WIP on
 
 Contact Amazon Support to delete account connected to kamihame7@gmail.com
 
-Map out my main tools for FighterZ characters (Blueku, SSJku, Blacku, Hit, UIKu, Jiren, S Broly)
+Map out my main tools for FighterZ characters (Blueku, SSJku, Blacku, Hit, UIKu, Jiren, S Broly, Beerus)
 
 current modules:  
 ***DATA STRUCTURES AND ALGORITHMS*** e.g., [[Data Structures concepts]] 
