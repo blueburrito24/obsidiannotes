@@ -110,7 +110,7 @@ Dog dog1 = new Dog("Lucy", "Woof!");
 ```
 Concrete classes can be templates for objects. Abstract classes can be templates for other classes' objects e.g., A car can have general vehicle elements, but has its own features. A truck can be another "subclass" that inherits the abstract "superclass."
 
-Quick side-track, #inheritance is a subclass that "is a" type of the superclass, while implementation is a subclass that "can do" what the superclass says it can. E.g., A Dog subclass could inherit the "legs" "height" "speak" methods from a mammal superclass, but it has to provide the body of logic within the method e.g., the Dog class can implement "speak" with its own specific way of speaking while a Person class could implement "speak" in another way. 
+Quick side-track, #Inheritance is a subclass that "is a" type of the superclass, while implementation is a subclass that "can do" what the superclass says it can. E.g., A Dog subclass could inherit the "legs" "height" "speak" methods from a mammal superclass, but it has to provide the body of logic within the method e.g., the Dog class can implement "speak" with its own specific way of speaking while a Person class could implement "speak" in another way. 
 You can't instantiate something that has no body of logic.
 
 Note that this is type of relation visible in UML Class Diagrams. A Car will have its own original methods for registration and getRegistration, but will also extend and therefore inherit the getOwnerTel and changeOwner methods from the Ownable class. (Example of abstract class inheritance, abstract isn't just different ways of using a method but also each instance of a method being different i.e., different cars having different Owners and Telephone Numbers).
@@ -431,3 +431,58 @@ public class Questions implements Complexity
 }
 ```
 A class is only defined as implementing another class if it declares so in the header via the keyword =="implements"==.
+Since Java 8, concrete methods can be included in interfaces if they hold the keyword =="default"==.
+![[{B83A767E-F572-4758-B34D-6B7F9200A4E6}.png | 600]]
+#Comparable is an interface in the java.lang package. It contains the method "compareTo" which returns a value based on the comparison of two specificed objects.
+```java
+int result = obj1.compareTo(obj2);
+```
+If obj1 < obj2 then compareTo will return a negative integer.
+If obj1 = obj2 then it would be 0.
+If obj1 > obj2 then it would be positive.
+This method allows us to compare objects of the same type with some sort of order.
+String objects can be compared by their alphabetical order, Integer objects can be compared by their numerical order, but an Object class cannot be compared by any pre-defined order. This is why we use compareTo.
+
+#Iterator is an interface in the java.util package.
+Iterator is used to move through classes that collect many objects one at a time.
+Its primary methods are ==hasNext==, which returns a boolean value, and ==next==, which returns an object. It also has a method called ==remove==, which takes no parameters and returns no value, it only removes the most recently returned object by the ==next== method.
+Since Java 8 ==remove== has been a ==default== method and throws an instance of ==UnsupportedOperationException== and does nothing else. 
+If a class implements Iterator then it can override the regular implementation and use ==remove== as normal.
+Also since Java 8, Iterator has gained a new ==default== method called ==forEachRemaining==.
+
+#Iterable is another interface, from the java.lang package. It has a method called ==iterator== which takes no parameters and returns an Iterator over the given collection.
+Collection classes that implement Iterable enable its objects to be used by the ==for== statement i.e., they can be iterated through individually using a "for-each" statement.
+Since Java 8,==forEach== and ==spilterator== have been added to the Iterable interface. Both new methods are ==default==.
+
+### Inheritance
+
+#Inheritance is like reusing a mold for a toy, its a cheaper, quicker, easier way to make a new class.
+The child class inheriting from the parent class will retain its variables and methods but can add its own.
+#Protected is a modifier that's unique to inheritance. Alike ==private== it hides its fields from any other class, except that ==protected== fields are available to the child class of a parent class while still maintaining encapsulation to a degree.
+The keyword #super lets a child class refer to its parent class, often used to refer to the parent class' constructor.
+In the same way that a child class can inherit its parent class' variables and methods it can also override them unless it is defined as ==final==.
+
+Child classes can also be the parent of another class, so inheritance can evolve into a #Class-Hierarchy.
+![[{5E9EFB6D-059D-4B7E-A71E-0762280BAA06}.png | 600]]
+All Java classes are based on the model of the ==Object== class. ==Object== class has a toString method which is often overriden, an equals method that tests if two objects are aliases is often overriden, hashCode method which returns the hash code value of an object. When two objects are determined as aliases by equals, their hash code value is identical, so both methods must be redefined if one is overriden.
+
+Abstract classes are useful for conceptually abstract objects, like a "Vehicle".
+Abstract classes are useful for implementing collection classes.
+```java
+package dsaj;
+
+import java.util.Iterator;
+
+public abstract class AbstractSet<T> implements setADT<T> {
+	// IMPLEMENTATION DETAIL OMITTED.
+}
+```
+
+We can also make hierarchies of interfaces.
+A good example would be an Animal hierarchy:
+- Animal interface (can eat) ->
+- Domesticated interface (can be pet) ->
+- Pet interface (lives indoors) ->
+- Dog class (type of pet)
+
+### Polymorphism

@@ -38,16 +38,6 @@ also note [[Custom figure ideas]]
 DARK AVENGERS SPIDER-MAN 24.99 Releases December 3. Will order in-person at Forbidden Planet (using money from third monthly budget). SPIDER-MAN 2099 goes up for preorder on 29 October. Releases Spring 2026. Will pre-order on Amazon (using money from second monthly budget).
 ![[DA Spidey Render.png| 300]]![[2099 Render.png| 300]]
 Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers.
-[Jada Toys Akuma](https://www.staractionfigures.co.uk/akuma) 22.95 (Also get Amazon link when it goes up) OR wait for Deluxe Akuma with special effects
-[Jada Toys Ryu P2](https://www.aliexpress.com/item/1005007922196450.html?spm=a2g0o.productlist.main.1.503938d3ROLPiy&algo_pvid=9450e35a-c432-4a87-be7f-3c094d3fe361&algo_exp_id=9450e35a-c432-4a87-be7f-3c094d3fe361-0&pdp_ext_f=%7B%22order%22%3A%2234%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2120.13%2114.09%21%21%21185.36%21129.74%21%40211b804117601736965686725e6fc1%2112000042934643524%21sea%21UK%212834634728%21XZ%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=WbDFsJCUNtzM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007922196450%7C_p_origin_prod%3A) 38.09 OR wait for SF ALPHA 3 Ryu
-[Jada Toys Violent Ken](https://www.amiami.com/eng/detail/?gcode=FIGURE-178311) 20.80
-All three Jada figures need their face removed S DIO style.
-![[Akuma Pic.png| 150]] ![[Ryu P2 Render.png| 150]] ![[{DDB8ABF3-4DEC-462D-A898-499FAEA86B14}.png | 150]]![[Violent Ken Pic.png| 150]]
-[SH Figuarts Kind-Hearted Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.32
-[SH Figuarts Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 27.14
-[SH Figuarts Dangerous Pride Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.32
-All three DB figures need their faces removed (no mouths or noses).
-![[Daima Piccolo Promo.png| 150]] ![[Kind-Hearted Goku Promo.png| 150]] ![[Dangerous Pride Vegeta.png| 150]]
 MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 6inch+ Grey Hulk (Releases in Q2 2026, likely 60usd aka 50gbp, needs eyes removed, buy via Gundamit)
 ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]]
@@ -55,8 +45,6 @@ MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 [MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005008455372278.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050857874619%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 29.49
 [KIISU Scarlet head and hands](https://kiisucreations.bigcartel.com/cart?empty=true&add[461181033]=1&add[461181051]=1&utm_source=share_cart) 24.75
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
-[MAFEX Spider-Gwen](https://www.nin-nin-game.com/en/mafex/145885-mafex-no134-spider-man-into-the-spider-verse-ghost-spider-spider-ham-reissue-medicom-toy-.html) 38.72
-[MAFEX Peter B Parker](https://www.nin-nin-game.com/en/mafex/135801-mafex-no-235-spider-man-into-the-spider-verse-spider-man-peter-b-parker-renewal-ver-medicom-toy-.html) 48.69
 [MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 61.52
 [Marvel Legends Maximum Series Deadpool](https://www.amazon.co.uk/Marvel-Legends-Maximum-Deadpool-Action/dp/B0DMRD3K4G?crid=2XS44Z9P20TAV&dib=eyJ2IjoiMSJ9.iNJkSCrO1riF8rBG2AbRw56cSABwEpo6SRwCAvtNzXTqnrMLCSnXng3DC0tKpbePziKbK9f7HbOvG8UEO1zJcYLVlWjKGCeCp9Da3ucVTLe_-8oGZmUfnyQnJSo2HYR4LPV69DS3Qh9VSvotC0YljPjqfLoilYwvgPduVwFn6axkLMyM7MJngV_HL8pCf6YK3RpRmRhc95rW_BKXrs8md6VBiKsqfo8oF0EKH3KRZOd1K_SCWvWaqDMlpuWyvdeKA3cbKbuvwMp8qW8PGPIG3Awb0I39VuNH33CJ2broocA.U1CfSDYbzldiik9Q9ra5pBec9rG19Dr1tuZ3ufQQ9fk&dib_tag=se&keywords=maximum+deadpool&qid=1759855126&sprefix=maximum+deadpool%2Caps%2C176&sr=8-4) 44.99
 [Bold Pyrrole Red](https://www.ebay.co.uk/itm/204769887945?_skw=Pro+Acryl+Bold+Pyrrole+Red&itmmeta=01K4K0W4S203NKVYZP57YWJ24T&hash=item2fad3c86c9:g:0fAAAOSwuadmL2d8&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cubmpXIEpjBsH%2Flj8wj0qdBI%2B5rCR8riHCSM3cU1bZQ5%2BatWSGr53dMboYV3L8X6dbNi5epaxJOoo5u3RTy%2B3NQIfnyhTMJ84Gq9Hlx2JrR3AU3K91ZEw89E1phPpqBNSyyid%2FrmVgrUGapc4xAXLZGTJpbjwsF9%2FBR3jTnKvvdQreJ3%2FX6odtuty%2BsOjv2knpu1GERzYc3A62FAzEc%2BZ7YLVeSU2dwzBwUYQ0deP3JauOwDDCxhk554lfMmdtJv4GEpEsfxBmWM8RcMo8L1JCJlrRNTFQPrcWfpP2%2Fk2dag%3D%3D%7Ctkp%3ABk9SR5DO8OCkZg) 8.84  

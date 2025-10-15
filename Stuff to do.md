@@ -3,6 +3,7 @@ Go over them alex lee videos again… practice stuff with scanners and while loo
 Look into Manim for python animation \-\> helps learn maths and make cool animations, but this is for later when i’m deep into the coding shebang.
 
 install Kanban board plugin
+start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 
 Read Obsidian documentation.
 
