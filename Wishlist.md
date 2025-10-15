@@ -34,13 +34,16 @@ Also note, I want to repaint Venom's spider-logo to be like the one on the 12in 
 [Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 [Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 #### ***FIGURES I WANT***
-DARK AVENGERS SPIDER-MAN 24.99 Releases December 3. Will order in-person at Forbidden Planet (using money from third monthly budget). SPIDER-MAN 2099 goes up for preorder on 29 October. Releases Spring 2026. Will pre-order on Amazon (using money from second monthly budget).
+DARK AVENGERS SPIDER-MAN 24.99 Releases December 3. Will order in-person at Forbidden Planet. 
+SPIDER-MAN 2099 goes up for preorder on 29 October. Releases Spring 2026.
 ![[DA Spidey Render.png| 300]]![[2099 Render.png| 300]]
 Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers.
 MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 6inch+ Grey Hulk (Releases in Q2 2026, likely 60usd aka 50gbp, needs eyes removed, buy via Gundamit)
 ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]]
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
+[Marvel Legends Pizza Spidey boot, comes with extra clothing](https://www.aliexpress.com/item/1005003312494959.html?pdp_npi=4%40dis%21GBP%21%EF%BF%A122.11%21%EF%BF%A118.79%21%21%21204.16%21173.50%21%40211b61a417605406552856722ed1f9%2112000028475807967%21sh%21UK%212834634728%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007593937303.1005003312494959) 24.19 (will give the figure to Eesa
+![[Pasted image 20251015170141.png | 300]])
 [Marvel Legends Maximum Series Deadpool](https://www.amazon.co.uk/Marvel-Legends-Maximum-Deadpool-Action/dp/B0DMRD3K4G?crid=2XS44Z9P20TAV&dib=eyJ2IjoiMSJ9.iNJkSCrO1riF8rBG2AbRw56cSABwEpo6SRwCAvtNzXTqnrMLCSnXng3DC0tKpbePziKbK9f7HbOvG8UEO1zJcYLVlWjKGCeCp9Da3ucVTLe_-8oGZmUfnyQnJSo2HYR4LPV69DS3Qh9VSvotC0YljPjqfLoilYwvgPduVwFn6axkLMyM7MJngV_HL8pCf6YK3RpRmRhc95rW_BKXrs8md6VBiKsqfo8oF0EKH3KRZOd1K_SCWvWaqDMlpuWyvdeKA3cbKbuvwMp8qW8PGPIG3Awb0I39VuNH33CJ2broocA.U1CfSDYbzldiik9Q9ra5pBec9rG19Dr1tuZ3ufQQ9fk&dib_tag=se&keywords=maximum+deadpool&qid=1759855126&sprefix=maximum+deadpool%2Caps%2C176&sr=8-4) 44.99
 [Bold Pyrrole Red](https://www.ebay.co.uk/itm/204769887945?_skw=Pro+Acryl+Bold+Pyrrole+Red&itmmeta=01K4K0W4S203NKVYZP57YWJ24T&hash=item2fad3c86c9:g:0fAAAOSwuadmL2d8&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cubmpXIEpjBsH%2Flj8wj0qdBI%2B5rCR8riHCSM3cU1bZQ5%2BatWSGr53dMboYV3L8X6dbNi5epaxJOoo5u3RTy%2B3NQIfnyhTMJ84Gq9Hlx2JrR3AU3K91ZEw89E1phPpqBNSyyid%2FrmVgrUGapc4xAXLZGTJpbjwsF9%2FBR3jTnKvvdQreJ3%2FX6odtuty%2BsOjv2knpu1GERzYc3A62FAzEc%2BZ7YLVeSU2dwzBwUYQ0deP3JauOwDDCxhk554lfMmdtJv4GEpEsfxBmWM8RcMo8L1JCJlrRNTFQPrcWfpP2%2Fk2dag%3D%3D%7Ctkp%3ABk9SR5DO8OCkZg) 8.84  
 [Vallejo Black](https://amzn.eu/d/bbalCsI) 4.94  
@@ -68,4 +71,5 @@ then Third term could be:
 -Marvel Legends Maximum Series Deadpool 44.99
 -MESS TOYS Scarlet Spider 30
 -Marvel Legends Iron Man Mk1 32.83
-That's 204.64
+-Marvel Legends Spider-Man 2099 24.99
+That's 229.63

@@ -2,6 +2,7 @@ Important tutorials:
 [How to paint symbiote symbols](https://youtu.be/RPi2WmLPxv8) 
 [How to paint regular spider symbolsl](https://youtu.be/xDrXjyuO5bc?si=V7qNdi77Jdu1jBp0)
 [How to add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8)
+[How to add boot swivel](https://www.youtube.com/shorts/uowj8-r82cg) DO NOT DO WHAT HE DID, ADD THE BOOT SWIVEL AT THE ACTUAL BOOT CUT!!!! Also use a short screw.
 
 ![[Ultimate_Spider-Woman.jpg | 150]] ![[ML Warbird.png| 275]]
 Marvel Legends Ultimate Spider-Woman custom:
@@ -28,8 +29,11 @@ https://www.youtube.com/watch?v=GoviqGwjY5s
 If the inner structure of the shoulders is similar to the Vulcan body I will carve out the front gap of the shoulders for more forward-range, alongside the actual inner-tract of the shoulder joints.
 I'm also gonna repaint these Marvel Select heads + the Marvel Select's "backpack" accessory with all its tendrils + dremel out the joints on the Select hands and mod it with some odd joints from AliExpress. 
 I'm also gonna paint out the legs of the spider-symbol and round out the body, then add new legs based on the 12in design.
-![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]]
+Also add boot swivel!
+![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]] ![[G3Tbq0qacAA4ZRa.jpeg | 140]]
 Marvel Legends Maximum-er Spider-Man:
 I already have the right red, blue and black paints I need to repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. 
-The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. Also note that I should do this repaint after I do the [[ML Ab-Crunch mod]].
+The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. I want to do shorter legs than WOS or Toybiz though.
+Also note that I should do this repaint after I do the [[ML Ab-Crunch mod]].
 This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
+I'll probably do these mods in January considering I won't get the custom headsculpt until then.
