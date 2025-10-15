@@ -66,6 +66,8 @@ MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
 [wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71  
 [Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
 [SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82   
+[Marvel Legends BAF SP//DR](https://www.ebay.com/itm/127349764428?_skw=marvel+legends+sp%2F%2Fdr+baf+complete&itmmeta=01K7KPXF1QZ66CQ5Y7X7B68STE&hash=item1da6a3314c:g:1bYAAeSw-hpouHjl&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dw%2FXJyPU8yVkGTfNPBYXvYtfEO4X7aHH33%2Fb%2Bq6o50tOFD7CA1%2ByOxzUvutyXJsVechJFohtEPgN385C2qZgU9Vr9V%2FKuL8XKQVTrCRvC45H6W%2BRHBWjOqs1vHzs6smGAeIPjRWLBaH3j0LP1EGjNbCP8qd80c02F%2BCsyFbAwqm8b4hRpDWbyy70SuJ9G7jRbN7x6epwG%2BZFIhcy59WmJSywXiK%2FTXGVxzjeWoeahWvu5SB4cfWSj2y4ixTc03Qgc2QcTdUHIvxFHmkDzJXJFB0rs0Lf%2FD1peRgGtug3KnPqiZWCyFhSLF5TVv516xsro%3D%7Ctkp%3ABk9SR_7w9fa8Zg) 98.81
+![[unnamed.jpg | 500]]
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 
 Second term might be like:
