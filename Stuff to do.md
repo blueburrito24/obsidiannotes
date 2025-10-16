@@ -6,6 +6,8 @@ install Kanban board plugin
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 Set up bitwarden
 
+Design a Venomised Captain America. White eyes, sharp A, harsh blue shading and a shield that screams corrupt. Lots of tendrils and teeth. Take inspo from WoS.
+
 Idea for YT intro:
 entirely silhouetted. blue venom chasing red spider-man through the sky and spider-man flips around to attack, as does venom. then it freeze frames and they both morph into two flipped Bs for blueburrito, then an overlay of a web effect zooming in and out plays to transition to the actual video with some ps1 spider-man effects.
 

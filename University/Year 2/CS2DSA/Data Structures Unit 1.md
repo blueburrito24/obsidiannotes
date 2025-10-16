@@ -568,4 +568,63 @@ public class Auction
 ```
 The variable ==lots== is now expected to hold the object reference of an ArrayList object that keeps reference to Lot objects. Because of the generic type (Here it's Lot instead of T) there is no line needed to explicitly type-cast the Lot object class. The Iterator object can return the lots passed through without needing to return it as a String through toString (the method).
 ![[{4E44588C-D5F7-42FD-B762-86172C4A9BEA}.png | 600]]
-The showLots method can be implemented using a ==for== statement.
+
+## Standard for VS. Enhanced for
+==showLots== can be implemented using a standard ==for== (loop) statement.
+```java
+	/** Show the full list of lots in this auction. */
+	public void showLots()
+	{
+		for(Iterator<Lot> it = lots.iterator(); // Initialise step
+			it.hasNext()                           // Test step
+				              // No update step is needed
+			)
+		{
+			// Retrieve the next element in the collection and output it.
+			System.out.println(it.next());
+		}
+	}
+```
+Alongside ==for== we can implement showLots using an "enhanced" ==for== statement. This makes it easier to construct a for-loop, and is also known as a for/in or for-each loop. The above for-loop can be rewritten as so:
+```java
+	public void showLots() {
+		for(Lot lot : lots) // Declare a lot variable
+					 // that will hold each <Lot> object
+					 // from the lots collection
+			System.out.println(lot); // print each object out
+		}
+	}
+```
+The right hand side of the colon is a reference to a collection object, ==lots==, generally it can also be a reference to a static array but those are the only two things it can be.
+Left hand side of the colon must be an element of the collection/static array i.e., Lot object.
+==System.out.println(lot)== automatically calls lot.toString(), so the object is converted to a ==String== for printing.
+
+Enhanced ==for== statements are simpler to write for iterating a collection of objects, but it relies on the use of java.util.Iterator. This means that if the collection object does not have said Iterator, the enhanced ==for== statement will fail.
+If a collection object is intended to use enhanced ==for== then it needs to implement the Iterable interface. Note that while you do need to import Iterators, Iterable is within the java.lang package AKA its pre-included.
+##### Interesting note below #####
+![[{CC6A0A77-8CE2-42B8-8761-0D86CF5D7A48}.png | 600]]
+
+There are 3 ways we can handle #Exceptions.
+- Don't handle it -> program crashes and results in error.
+- Handle it where it occurs.
+- Handle it elsewhere.
+If you handle it where it occurs, you use a try/catch block around the risky code.
+```java
+try {
+    // risky code
+} catch (IOException e) {
+    // handle the I/O error
+}
+```
+Code within "finally" blocks always run even against exceptions occurring, which is good for closing resources like files.
+Beyond Java 7, you can close files without "finally":
+```java
+public static String readFirstLineFromFile(String path) throws IOException
+{
+    try (BufferedReader br = new BufferedReader(new FileReader(path))) {
+        return br.readLine();
+    }
+}
+```
+The resource ==BufferedReader== is declared inside the parentheses of the ==try== statement. Java automatically closes it when the try block finishes — whether the code completes normally or an exception is thrown.
+![[{E761C43C-8333-465C-8C43-A0D5FD864253}.png | 600]]
