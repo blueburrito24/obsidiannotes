@@ -8,10 +8,10 @@ O(1)
 	constant time, consistently fast no matter what size of input
 O(n) 
 	linear time, time increases with the size of input
-O(n^2) 
-	every item in a data-set interacts with every other item, e.g., 10 students handshaking amongst each other = 100 handshakes. Very slow!
+O(n<sup>2</sup>) 
+	every item in a data-set interacts with every other item, e.g., 10 students handshaking amongst each other = 100 handshakes. Note that this is about pairs interacting not just items interacting with eachother.
 O(log n) 
-	faster than O(n) but slower than O(1). Like perusing a dictionary, this algorithm speed goes to the middle of a data set then jumps back or forth to find the inquired data. This halves and halves the operation over and over.
+	faster than O(n) but slower than O(1). Like perusing a dictionary, this algorithm speed goes to the middle of a data set then jumps back or forth to find the inquired data. This halves and halves the operation over and over. So inversely, n increases the operations by a small amount .
 
 Accessing data via a data-set, like an array, would be an example of O(1). Making a new array in order to add new data, or deleting data (besides data at the very end) which shifts the whole array, would be O(n).
 

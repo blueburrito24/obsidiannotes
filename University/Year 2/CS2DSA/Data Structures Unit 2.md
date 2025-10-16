@@ -53,12 +53,12 @@ O(1) ≺ O(log n) ≺ O(n) ≺ O(n log n) ≺ O(n²) ≺ O(n³) ≺ O(2ⁿ)
 | O(n³)      | Cubic       | Floyd-Warshall algorithm        |
 | O(2ⁿ)      | Exponential | Traveling salesman problem      |
 ## Asymptotic Analysis
-#Asymptotic-Analysis focuses on limiting behaviour as n grows, ignoring constant multipliers between different implementations. A typical binary search could run x2 slower than an efficient one, but both are O(log n). The constant factor is called a #hidden-constant and is considered unimportant.
+#Asymptotic-Analysis focuses on limiting behaviour as n grows, ignoring constant multipliers between different implementations. A typical binary search could run twice as slow compared to an efficient one, but both are O(log n). The constant factor is called a #hidden-constant and is considered unimportant when n grows arbitrarily large, so Big-O focuses on growth rate instead.
 
 However if you want to distinguish between two algorithms that both have the same Big O (e.g., both insertion sort and bubble sort are O(n<sup>2</sup>)), use tilde notation which retains the constant.
 $$Insertion-sort: C(n) \sim (1/4)n^2 comparisons$$
 $$Bubble-sort: C(n) \sim (1/2)n^2 comparisons$$
-Bubble sort is consistently x2 slower, but both are also inferior to O(n log n) sorts.
+Bubble sort is consistently x2 slower, but both are vastly inferior to O(n log n) sorts, which handle large datasets far better.
 
 ## Analysing Time Complexity of Algorithms
 
@@ -109,3 +109,9 @@ A faster processor doesn't solve complexity. A 10x processor speedup would give 
 For large datasets using an efficient algorithm is what matters, not processor speed. Inefficient algorithms can lead to memory overflow and failure to solve larger problems.
 
 ## Average Case VS. Worst Case Analysis
+Some algorithms perform differently on different inputs:
+
+**Quick sort example:**
+
+- Average case: O(n log n) on random data
+- Worst case: O(n²) when data is already sorted or reverse-sorted
