@@ -109,9 +109,13 @@ A faster processor doesn't solve complexity. A 10x processor speedup would give 
 For large datasets using an efficient algorithm is what matters, not processor speed. Inefficient algorithms can lead to memory overflow and failure to solve larger problems.
 
 ## Average Case VS. Worst Case Analysis
+
 Some algorithms perform differently on different inputs:
-
-**Quick sort example:**
-
+Quick sort example:
 - Average case: O(n log n) on random data
 - Worst case: O(n²) when data is already sorted or reverse-sorted
+Although the worst case is rare in random data, it's common in practice (re-sorting after modifications, sorting in reverse, etc.). If worst cases occur frequently in your application, you need to account for them.
+
+## Software Engineering & Data Structures
+
+As software grows more complex, efficient algorithms and data structures become essential for handling large problems. Understanding the characteristics of each data structure enables you to make appropriate engineering choices during development.

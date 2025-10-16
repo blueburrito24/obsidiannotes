@@ -13,15 +13,6 @@ entirely silhouetted. blue venom chasing red spider-man through the sky and spid
 
 Read Obsidian documentation.
 
-need to delete citadel messages from:
--xenoverse-mod-promotion
--xenoverse-mod-wip
--xenoverse-gallery
--xenoverse-discussion
--art
--off-topic
--general
-
 ==Work on CV/Placement stuff. [[EPS Placement Notes]]==
 
 ==Catch up on DSA for Weeks 3 and 4, AI for Weeks 3 and 4, Team Project and Software Engineering for Weeks 2-4.==
