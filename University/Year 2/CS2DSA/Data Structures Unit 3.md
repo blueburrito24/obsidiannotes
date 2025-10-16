@@ -23,4 +23,15 @@ Bounded collections specifically need ==isFull()== to check if the collection ha
 A collection is an abstraction in the sense that it separates interface from implementation (what client classes can do, how it works internally). Java interfaces define these operations.
 This makes the collection flexible - you can swap implementations without affecting the client code e.g., replacing ArrayList with a LinkedList without changing any code in the collection. We obtain this benefit because the Iterator interface handles all these operations itself whereas we don't have to indulge on how the Iterator works with an ArrayList vs. a LinkedList.
 ![[{0C948C64-E00D-451B-8FD7-2E75B0A53D41}.png | 600]]
-Collections are useful in that any computer software will 
+Collections are useful in that any computer software will often work with a large number of homogeneous objects. If we understand the properties of these collections we can make more informed decisions, here are some issues of collections we should consider:
+- How does it operate conceptually?
+- What is its formal interface definition?
+- What problems does it solve?
+- How might it be implemented?
+- What are the benefits and costs (storage and execution time)?
+
+#Interfaces are ideal for defining collection ADTs because of how they acknowledge abstract methods. Interfaces don't contain data members so they provide a simple and abstract view of operations.
+Java interfaces on their own are incomplete though, they need classes with fields to utilise those elements.
+The operations that work on a collection of objects are largely independent of the nature of those objects.
+From this we can gather that classes and interfaces in the context of collection structures should be ==generic==.
+
