@@ -1,9 +1,8 @@
 #### **ACADEMIC YEAR CALCULATIONS**  
 3 (months) x 80 (monthly spending limit) \= 240 (term spending limit)  
-585.31 \- 240 \= **345.31gbp (Second Term) 2:1 \= 230 for figures and 115 for [[Book wishlist]]**
-
-676.28 \- 240 \= **436.28gbp (Third Term) = 250 for figures and 100 for [[Book wishlist]]**
-**Also note, this means I have 85 available for [[Game wishlist]]
+697.31 \- 300 \= 397.31gbp (Second Term)
+726.28 \- 300 \= 426.28gbp (Third Term)
+*These two are general spending budgets. They can be for anything from [[Wishlist]] or [[Game wishlist]] or [[Book wishlist]]*
 
 **MONEY FROM SELLING STEAM DECK 300 + Accessories money 27, (301.73/327)**
 [SH Figuarts Toei Spider-Man](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m35711783435) 84.73 ✅
@@ -34,42 +33,30 @@ Also note, I want to repaint Venom's spider-logo to be like the one on the 12in 
 [Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 [Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 #### ***FIGURES I WANT***
-DARK AVENGERS SPIDER-MAN 24.99 Releases December 3. Will order in-person at Forbidden Planet. 
-SPIDER-MAN 2099 goes up for preorder on 29 October. Releases Spring 2026.
-![[DA Spidey Render.png| 300]]![[2099 Render.png| 300]]
+DARK AVENGERS SPIDER-MAN 24.99 Releases December 3.
+![[DA Spidey Render.png| 300]]
 Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers.
-MESS TOYS Scarlet Spider (Prototype revealed, no release date, probably 30)
-6inch+ Grey Hulk (Releases in Q2 2026, likely 60usd aka 50gbp, needs eyes removed, buy via Gundamit)
-![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]]
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
-[Marvel Legends Pizza Spidey boot, comes with extra clothing](https://www.aliexpress.com/item/1005003312494959.html?pdp_npi=4%40dis%21GBP%21%EF%BF%A122.11%21%EF%BF%A118.79%21%21%21204.16%21173.50%21%40211b61a417605406552856722ed1f9%2112000028475807967%21sh%21UK%212834634728%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007593937303.1005003312494959) 24.19 (will give the figure to Eesa
+[Marvel Legends Pizza Spidey boot, comes with extra clothing](https://www.aliexpress.com/item/1005003312494959.html?pdp_npi=4%40dis%21GBP%21%EF%BF%A122.11%21%EF%BF%A118.79%21%21%21204.16%21173.50%21%40211b61a417605406552856722ed1f9%2112000028475807967%21sh%21UK%212834634728%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007593937303.1005003312494959) 24.19 (will give the figure to Eesa)
 ![[Pasted image 20251015170141.png | 300]])
-[Marvel Legends Maximum Series Deadpool](https://www.amazon.co.uk/Marvel-Legends-Maximum-Deadpool-Action/dp/B0DMRD3K4G?crid=2XS44Z9P20TAV&dib=eyJ2IjoiMSJ9.iNJkSCrO1riF8rBG2AbRw56cSABwEpo6SRwCAvtNzXTqnrMLCSnXng3DC0tKpbePziKbK9f7HbOvG8UEO1zJcYLVlWjKGCeCp9Da3ucVTLe_-8oGZmUfnyQnJSo2HYR4LPV69DS3Qh9VSvotC0YljPjqfLoilYwvgPduVwFn6axkLMyM7MJngV_HL8pCf6YK3RpRmRhc95rW_BKXrs8md6VBiKsqfo8oF0EKH3KRZOd1K_SCWvWaqDMlpuWyvdeKA3cbKbuvwMp8qW8PGPIG3Awb0I39VuNH33CJ2broocA.U1CfSDYbzldiik9Q9ra5pBec9rG19Dr1tuZ3ufQQ9fk&dib_tag=se&keywords=maximum+deadpool&qid=1759855126&sprefix=maximum+deadpool%2Caps%2C176&sr=8-4) 44.99
-[Bold Pyrrole Red](https://www.ebay.co.uk/itm/204769887945?_skw=Pro+Acryl+Bold+Pyrrole+Red&itmmeta=01K4K0W4S203NKVYZP57YWJ24T&hash=item2fad3c86c9:g:0fAAAOSwuadmL2d8&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cubmpXIEpjBsH%2Flj8wj0qdBI%2B5rCR8riHCSM3cU1bZQ5%2BatWSGr53dMboYV3L8X6dbNi5epaxJOoo5u3RTy%2B3NQIfnyhTMJ84Gq9Hlx2JrR3AU3K91ZEw89E1phPpqBNSyyid%2FrmVgrUGapc4xAXLZGTJpbjwsF9%2FBR3jTnKvvdQreJ3%2FX6odtuty%2BsOjv2knpu1GERzYc3A62FAzEc%2BZ7YLVeSU2dwzBwUYQ0deP3JauOwDDCxhk554lfMmdtJv4GEpEsfxBmWM8RcMo8L1JCJlrRNTFQPrcWfpP2%2Fk2dag%3D%3D%7Ctkp%3ABk9SR5DO8OCkZg) 8.84  
-[Vallejo Black](https://amzn.eu/d/bbalCsI) 4.94  
-[4pcs Micron Pens 0.25mm](https://www.amazon.co.uk/Sakura-Pigma-Micron-Black-0-25mm/dp/B07XYXBX62?crid=4KI9FKRLRZWC&dib=eyJ2IjoiMSJ9.kSObt0GaKA1Rh6eOZGgWH2GV4iVQSgaY5m8oSFGg6hKDWS9AIomD5-RxeBkmZr7gb_l8Cb52zQuYD8wAZpmmh3YQrfC1m1zffUzQ3Tdk_oAyVy-pDe8j6xo69SNp8_TOc_GZmgmyNa6P_mRCmF7g6q5mGgC0FZBoIYdpu0Xt5nh8-l5Q-4uDnbedPp4sQknLrNw_QOwrb-HWN-j8kbM5gmSTEm82w37PodkUemmycgj2rSOYE3Kmv5lG34nDeKFUWgBPDbk_iZJpBQ-s2XHYsUZK-3HHtgGXWvdjOtXNGE0.MRifi4vEzHhMs_DHUd3O9KRelZnJ99eDQC73XpDWhIc&dib_tag=se&keywords=black+micron+pen&qid=1757281827&s=officeproduct&sprefix=black+micron+pen%2Coffice-products%2C231&sr=1-8) 9.86
-[DangITProductions custom Maximum Spidey headsculpt with interchangeable lenses, needs painting](https://www.ebay.co.uk/itm/187471260540?itmmeta=01K7009YGKVX734M19ETF88PMP&hash=item2ba6286b7c:g:zxEAAeSwGqJolWW2) 40
 [wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71
-[Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
-[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
-[Marvel Legends BAF SP//DR](https://www.ebay.com/itm/127349764428?_skw=marvel+legends+sp%2F%2Fdr+baf+complete&itmmeta=01K7KPXF1QZ66CQ5Y7X7B68STE&hash=item1da6a3314c:g:1bYAAeSw-hpouHjl&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dw%2FXJyPU8yVkGTfNPBYXvYtfEO4X7aHH33%2Fb%2Bq6o50tOFD7CA1%2ByOxzUvutyXJsVechJFohtEPgN385C2qZgU9Vr9V%2FKuL8XKQVTrCRvC45H6W%2BRHBWjOqs1vHzs6smGAeIPjRWLBaH3j0LP1EGjNbCP8qd80c02F%2BCsyFbAwqm8b4hRpDWbyy70SuJ9G7jRbN7x6epwG%2BZFIhcy59WmJSywXiK%2FTXGVxzjeWoeahWvu5SB4cfWSj2y4ixTc03Qgc2QcTdUHIvxFHmkDzJXJFB0rs0Lf%2FD1peRgGtug3KnPqiZWCyFhSLF5TVv516xsro%3D%7Ctkp%3ABk9SR_7w9fa8Zg) 98.81
-Marvel Legends Ultimate Spider-Woman [[Custom figure ideas]] 40.94
-[Cloak A1](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 9.39 for Ultimate Spider-Woman and [Red Cloak](https://www.aliexpress.com/item/1005007851128667.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000042537003630%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 11.12 for Ultimate Miles Morales
-![[unnamed.jpg | 500]]
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 
 Second term might be like:
--Marvel Legends Maximum Spider-Man DIP heads + paints 53.78
--Marvel Legends SP//DR 98.81
--Marvel Legends Ultimate Spider-Woman custom 40.94
--Cloaks for the Ultimates 20.51
+![[unnamed.jpg | 300]] ![[s-l1600 1.jpg | 165]]
+-[DangITProductions custom Maximum Spidey headsculpt](https://www.ebay.co.uk/itm/187471260540?itmmeta=01K7009YGKVX734M19ETF88PMP&hash=item2ba6286b7c:g:zxEAAeSwGqJolWW2) + 
+[Bold Pyrrole Red](https://www.ebay.co.uk/itm/204769887945?) + [Vallejo Black](https://amzn.eu/d/bbalCsI) + [4pcs Micron Pens 0.25mm](https://amzn.eu/d/5hDV86i) 53.78
+-[Marvel Legends BAF SP//DR](https://www.ebay.com/itm/127349764428?_skw=marvel+legends+sp%2F%2Fdr+baf+complete&itmmeta=01K7KPXF1QZ66CQ5Y7X7B68STE&hash=item1da6a3314c:g:1bYAAeSw-hpouHjl&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dw%2FXJyPU8yVkGTfNPBYXvYtfEO4X7aHH33%2Fb%2Bq6o50tOFD7CA1%2ByOxzUvutyXJsVechJFohtEPgN385C2qZgU9Vr9V%2FKuL8XKQVTrCRvC45H6W%2BRHBWjOqs1vHzs6smGAeIPjRWLBaH3j0LP1EGjNbCP8qd80c02F%2BCsyFbAwqm8b4hRpDWbyy70SuJ9G7jRbN7x6epwG%2BZFIhcy59WmJSywXiK%2FTXGVxzjeWoeahWvu5SB4cfWSj2y4ixTc03Qgc2QcTdUHIvxFHmkDzJXJFB0rs0Lf%2FD1peRgGtug3KnPqiZWCyFhSLF5TVv516xsro%3D%7Ctkp%3ABk9SR_7w9fa8Zg) 98.81
+-Marvel Legends Ultimate Spider-Woman custom (see [[Custom figure ideas]]) 40.94
+-[Cloak A1](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) for Ultimate Spider-Woman and [Red Cloak](https://www.aliexpress.com/item/1005007851128667.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000042537003630%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) for Ultimate Miles Morales 20.51
 That's 214.04
 
 then Third term could be:
--SH Figuarts GAMERVERSE Spider-Man 46.82
+![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
+-[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
 -6inch+ Grey Hulk 50
--Marvel Legends Maximum Series Deadpool 44.99
+-[Marvel Legends Maximum Series Deadpool](https://www.amazon.co.uk/Marvel-Legends-Maximum-Deadpool-Action/dp/B0DMRD3K4G?crid=2XS44Z9P20TAV&dib=eyJ2IjoiMSJ9.iNJkSCrO1riF8rBG2AbRw56cSABwEpo6SRwCAvtNzXTqnrMLCSnXng3DC0tKpbePziKbK9f7HbOvG8UEO1zJcYLVlWjKGCeCp9Da3ucVTLe_-8oGZmUfnyQnJSo2HYR4LPV69DS3Qh9VSvotC0YljPjqfLoilYwvgPduVwFn6axkLMyM7MJngV_HL8pCf6YK3RpRmRhc95rW_BKXrs8md6VBiKsqfo8oF0EKH3KRZOd1K_SCWvWaqDMlpuWyvdeKA3cbKbuvwMp8qW8PGPIG3Awb0I39VuNH33CJ2broocA.U1CfSDYbzldiik9Q9ra5pBec9rG19Dr1tuZ3ufQQ9fk&dib_tag=se&keywords=maximum+deadpool&qid=1759855126&sprefix=maximum+deadpool%2Caps%2C176&sr=8-4) 44.99
 -MESS TOYS Scarlet Spider 30
--Marvel Legends Iron Man Mk1 32.83
+-[Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
 -Marvel Legends Spider-Man 2099 24.99
 That's 229.63
