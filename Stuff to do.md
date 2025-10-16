@@ -2,6 +2,8 @@ study the ai module’s python exercises in google colab, study head first java 
 Go over them alex lee videos again… practice stuff with scanners and while loops  
 Look into Manim for python animation \-\> helps learn maths and make cool animations, but this is for later when i’m deep into the coding shebang.
 
+"smartness of sukuna" "aura of gohan" edit where its umamusume traits and a chud in the middle
+
 install Kanban board plugin
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 Set up bitwarden
