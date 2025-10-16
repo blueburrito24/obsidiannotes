@@ -536,7 +536,7 @@ Since Java 5.0, <T.> has been a placeholder available to use. We can use <T.> wh
 Note that Raffle does not explicitly use the keyword implement or extends (implements) so while it uses the Box class it is only a client.
 Box is a generic class in this case. It uses a generic type (<T.>) for a field (class variable) that has not been explicitly defined until the later Raffle constructor.
 
-## Generics VS. Type Casting
+## Type-casting VS. Generics
 With Java 1.4x or below, when we access objects in a collection (such as objects stored in an ArrayList object) we have to cast explicitly. Below the ==Auction== class uses a showLots method to represent lots in an auction. It uses an #Iterator to go through objects in the ==lots== (in the ArrayList object) one by one.
 When an object reference is retrieved in ==lots== using hasNext we have to cast it explicitly to avoid a run time error.
 ![[Pasted image 20251015201907.png | 600]]
