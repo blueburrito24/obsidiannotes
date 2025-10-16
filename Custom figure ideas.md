@@ -32,10 +32,10 @@ Also note that at the start of the tutorial I'm gonna act like I'm throwing away
 
 ![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]] ![[G3Tbq0qacAA4ZRa.jpeg | 140]]
 Marvel Legends Maximum-er Spider-Man:
-I already have the right red, blue and black paints I need to repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. 
-The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. I want to do shorter legs than WOS or Toybiz though.
-Also note that I should do this repaint after I do the [[ML Ab-Crunch mod]].
-This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
+- I already have the right red, blue and black paints I need to repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. 
+- The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. I want to do shorter legs than WOS or Toybiz though.
+- Also note that I should do this repaint after I do the [[ML Ab-Crunch mod]].
+- This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
 I'll probably do these mods in January considering I won't get the custom headsculpt until then.
 
 ![[venomized-captain-america-v0-gla0wbazggzd1.webp | 200]] ![[87550963_203356550736534_2742559501857551729_n.jpg | 200]] ![[ok8sqlvtv6pf1.gif | 200]] ![[71epu3YhCML._AC_SL1500_.jpg | 200]]
@@ -70,3 +70,4 @@ I have already black and white (ordered with ML Spidey custom head), black dye f
 - I can follow the Spider-logo tutorial to make the Bat logo painting easier also.
 - At this point the sculpt and painting is done on all fronts, I can now use my Loctite super glue to adhere the cape to the ridge of the neck cavity for a clean transition.
 - Also I can sculpt some batarangs.
+Should document the process of this one too!
