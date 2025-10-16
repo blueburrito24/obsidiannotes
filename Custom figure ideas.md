@@ -68,6 +68,6 @@ I have already black and white (ordered with ML Spidey custom head), black dye f
 - I need to also recreate the neck structure on the X-Cutioner body onto the Magneto body. My best bet is to saw off the area with the neck joint and imitate its cavity on the Magneto figure - then I can super glue the neck joint itself onto the Magneto body's neck cavity.
 - After all this, I can dye the figure with Rit Synthetic Dye, at that point I can paint the majority of the body grey with the yellow utility belt and black gauntlets and boots plus his white eyes.
 - I can follow the Spider-logo tutorial to make the Bat logo painting easier also.
-- At this point the sculpt and painting is done on all fronts, I can now use my Loctite super glue to adhere the cape to the ridge of the neck cavity for a clean transition.
+- At this point the sculpt and painting is done on all fronts, I can now use my Loctite super glue to adhere the cape to the ridge of the neck cavity for a clean transition. Make sure to check how the cape fits around the neck before gluing!!
 - Also I can sculpt some batarangs.
 Should document the process of this one too!
