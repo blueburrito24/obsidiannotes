@@ -1,6 +1,6 @@
 Important tutorials:
 [How to paint symbiote symbols](https://youtu.be/RPi2WmLPxv8) 
-[How to paint regular spider symbolsl](https://youtu.be/xDrXjyuO5bc?si=V7qNdi77Jdu1jBp0)
+[How to paint regular spider symbols](https://youtu.be/xDrXjyuO5bc?si=V7qNdi77Jdu1jBp0)
 [How to add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8)
 [How to add swivel](https://www.youtube.com/watch?v=bZ4SuznssNU)
 
