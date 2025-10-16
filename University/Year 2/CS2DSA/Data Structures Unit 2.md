@@ -1,3 +1,5 @@
+Note that [[Data Structures Unit 1]] was made purely from my own notes, whereas this Unit 2 has been made with assistance from claude.ai to summarise chapters.
+
 ### Growth functions
 A #Growth-function mathematically describes how completion time or space grows with the size of the problem (n, think of like #Big-O-Notation).
 $$T(n) = n^2 + 3n + 100$$
@@ -101,3 +103,9 @@ for (int i=0; i<n; i++)
 ```
 
 ## Comparing Growth Functions
+A faster processor doesn't solve complexity. A 10x processor speedup would give us:
+- O(n) algorithm can handle 10x more data
+- O(2<sum>n</sum>) algorithm can handle only ~3.3x more data
+For large datasets using an efficient algorithm is what matters, not processor speed. Inefficient algorithms can lead to memory overflow and failure to solve larger problems.
+
+## Average Case VS. Worst Case Analysis
