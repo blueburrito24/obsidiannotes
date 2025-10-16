@@ -13,8 +13,6 @@ entirely silhouetted. blue venom chasing red spider-man through the sky and spid
 
 Read Obsidian documentation.
 
-==Work on CV/Placement stuff. [[EPS Placement Notes]]==
-
 ==Catch up on DSA for Weeks 3 and 4, AI for Weeks 3 and 4, Team Project and Software Engineering for Weeks 2-4.==
 
 ==Start personal programming, look in [[app and project ideas]], work on wishlist app in python.==
@@ -22,9 +20,6 @@ Read Obsidian documentation.
 Watch this video for more git knowledge. https://youtu.be/hrTQipWp6co
 
 ==Start studying arabic and driving theory on weekends.==
-
-I've finished lecture 1 of SE, need to finish 2 and 3 then move onto DSA (use the pdf habib gave) and do DSA lectures 1-4. 
-Catch up on EPS (Assessment/interview stuff, finish CV)
 
 Apply to jobs at Sainsbury's, Tesco and Aldi (Need to remake CV, I have a WIP one for Placements but I need a generic one thats quality for regular apps)
 
