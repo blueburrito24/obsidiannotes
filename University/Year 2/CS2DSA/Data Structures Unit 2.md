@@ -53,7 +53,7 @@ O(1) ≺ O(log n) ≺ O(n) ≺ O(n log n) ≺ O(n²) ≺ O(n³) ≺ O(2ⁿ)
 | O(n³)      | Cubic       | Floyd-Warshall algorithm        |
 | O(2ⁿ)      | Exponential | Traveling salesman problem      |
 ## Asymptotic Analysis
-#Asymptotic-Analysis focuses on limiting behaviour as n grows, ignoring constant multipliers between different implementations. A typical binary search could run twice as slow compared to an efficient one, but both are O(log n). The constant factor is called a #hidden-constant and is considered unimportant when n grows arbitrarily large, so Big-O focuses on growth rate instead.
+#Asymptotic-Analysis focuses on limiting behaviour as n grows, ignoring constant factors that differ between different implementations. A typical binary search could run twice as slow compared to an efficient one, but both are O(log n). The constant factor is called a #hidden-constant and is considered unimportant when n grows arbitrarily large, so Big-O helps us find how scalable the algorithms are at that level of n.
 
 However if you want to distinguish between two algorithms that both have the same Big O (e.g., both insertion sort and bubble sort are O(n<sup>2</sup>)), use tilde notation which retains the constant.
 $$Insertion-sort: C(n) \sim (1/4)n^2 comparisons$$
