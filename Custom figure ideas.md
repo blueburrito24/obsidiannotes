@@ -33,6 +33,7 @@ Also add boot swivel!
 
 When I mod Venom I want to document it as a tutorial for future reference. I'll take photos and clips (need to buy tripod in [[Wishlist]]) at different stages e.g., comparing Venom to Maximum Spider-Man and showing from various angles how their different approach to butterfly joints affects their range of motion, showing how I plan and then modify the body, showing images of what my ideas for the figure are.
 Then I can include images of the figure before and after doing various poses, to show the effect of the articulation mods. Should credit any images used that aren't mine and credit any tutorials that inspired me such as the Cyclops butterfly mod above.
+Also note that at the start of the tutorial I'm gonna act like I'm throwing away Captain America, then at the end I'll show my Venomized Captain America next to my custom Venom and other figures.
 
 ![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]] ![[G3Tbq0qacAA4ZRa.jpeg | 140]]
 Marvel Legends Maximum-er Spider-Man:
