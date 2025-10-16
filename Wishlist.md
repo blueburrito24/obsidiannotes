@@ -48,8 +48,8 @@ Second term might be like:
 [Bold Pyrrole Red](https://www.ebay.co.uk/itm/204769887945?) + [Vallejo Black](https://amzn.eu/d/bbalCsI) + [4pcs Micron Pens 0.25mm](https://amzn.eu/d/5hDV86i) 53.78
 -[Marvel Legends BAF SP//DR](https://www.ebay.com/itm/127349764428?_skw=marvel+legends+sp%2F%2Fdr+baf+complete&itmmeta=01K7KPXF1QZ66CQ5Y7X7B68STE&hash=item1da6a3314c:g:1bYAAeSw-hpouHjl&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dw%2FXJyPU8yVkGTfNPBYXvYtfEO4X7aHH33%2Fb%2Bq6o50tOFD7CA1%2ByOxzUvutyXJsVechJFohtEPgN385C2qZgU9Vr9V%2FKuL8XKQVTrCRvC45H6W%2BRHBWjOqs1vHzs6smGAeIPjRWLBaH3j0LP1EGjNbCP8qd80c02F%2BCsyFbAwqm8b4hRpDWbyy70SuJ9G7jRbN7x6epwG%2BZFIhcy59WmJSywXiK%2FTXGVxzjeWoeahWvu5SB4cfWSj2y4ixTc03Qgc2QcTdUHIvxFHmkDzJXJFB0rs0Lf%2FD1peRgGtug3KnPqiZWCyFhSLF5TVv516xsro%3D%7Ctkp%3ABk9SR_7w9fa8Zg) 98.81
 -Marvel Legends Ultimate Spider-Woman custom (see [[Custom figure ideas]]) 40.94
--[Cloak A1](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) for Ultimate Spider-Woman and [Red Cloak](https://www.aliexpress.com/item/1005007851128667.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000042537003630%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) for Ultimate Miles Morales 20.51
-That's 214.04
+-Marvel Legends Court-Of-Owls Batman custom (see [[Custom figure ideas]]) 71.31
+That's 264.84
 
 then Third term could be:
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
