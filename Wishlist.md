@@ -1,5 +1,5 @@
 #### **ACADEMIC YEAR CALCULATIONS**  
-3 (months) x 80 (monthly spending limit) \= 240 (term spending limit)  
+3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
 697.31 \- 300 \= 397.31gbp (Second Term)
 726.28 \- 300 \= 426.28gbp (Third Term)
 *These two are general spending budgets. They can be for anything from [[Wishlist]] or [[Game wishlist]] or [[Book wishlist]]*

@@ -23,3 +23,4 @@ Bounded collections specifically need ==isFull()== to check if the collection ha
 A collection is an abstraction in the sense that it separates interface from implementation (what client classes can do, how it works internally). Java interfaces define these operations.
 This makes the collection flexible - you can swap implementations without affecting the client code e.g., replacing ArrayList with a LinkedList without changing any code in the collection. We obtain this benefit because the Iterator interface handles all these operations itself whereas we don't have to indulge on how the Iterator works with an ArrayList vs. a LinkedList.
 ![[{0C948C64-E00D-451B-8FD7-2E75B0A53D41}.png | 600]]
+Collections are useful in that any computer software will 
