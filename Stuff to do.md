@@ -8,6 +8,7 @@ install Kanban board plugin
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 Set up bitwarden
 set up nomedia file on phone
+buy batman tdkr paperback, spider-man/deadpool omnibus and spider-man noir omnibus on monday from forbidden planet
 
 Look into GI Joe Classified line
 Make a pal for GohanZ2
