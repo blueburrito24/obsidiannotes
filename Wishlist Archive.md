@@ -14,4 +14,5 @@ Also note, I want to repaint Venom's spider-logo to be like the one on the 12in 
 [Vallejo Vermillion red](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH9JR8?source=ps-sl-shoppingads-lpcontext&smid=A24YWSJL4NZAIN&th=1) 5.12
 [Epoxy putty](https://www.amazon.co.uk/Milliput-Epoxy-Putty-White/dp/B004RO1XQU/262-1879676-9991234?pd_rd_w=6Qhcj&content-id=amzn1.sym.26650545-76bb-4cec-9169-6ae3698dbb86&pf_rd_p=26650545-76bb-4cec-9169-6ae3698dbb86&pf_rd_r=BSGBWQE5W18RJDH8TJBE&pd_rd_wg=VIPJZ&pd_rd_r=29c41a72-69f5-4ca8-8e24-c97e51b025ce&pd_rd_i=B004RO1XQU&psc=1) 6.38
 
-**Using my PSP sale money, I'm going to buy the [Kaiyodo Revoltech Iron Spider](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m24214284932) 104.87.**
+**Using my PSP sale money, I bought Revoltech Iron Spider alongside Revoltech 1.0 Spider-Man for 140**
+![[Pasted image 20251017144512.png | 300]] ![[Pasted image 20251017144526.png | 280]]
