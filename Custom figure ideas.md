@@ -59,8 +59,7 @@ Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 [Assorted Sandpaper Sheets](https://www.amazon.co.uk/dp/B0B5LJFF1T?tag=b357-21&linkCode=osi&th=1&psc=1) 3.95
 TOTAL PRICE 71.31
 I have already black and white (ordered with ML Spidey custom head), black dye from the Captain America custom.
-- Magneto has the arms and hands perfect for Batman. So I will saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel. I will also do the same for the legs, sawing off 
-- X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail. Also note that I need to remove the kneepads on the X-Cutioner calves and smooth that area after removing it.
+- Magneto has the arms and hands perfect for Batman. So I will saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel. I will also do the same for the legs, sawing off X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail. Also note that I need to remove the kneepads on the X-Cutioner calves and smooth that area after removing it. I also need to shave off the glove-detail on X-Cutioner's grabby hands.
 - I also want to retain the X-Cutioner's crotch-piece for its ball-joint waist. So I need to shave and sand off the lower half of Magneto's body alongside creating a proper female connector so it works with the ball-joint.
 - I need to get rid of the lettering on X-Cutioner's belt and then the big one - shave off the details of his head and sculpt on ears and a "nose". (Reference the last image above.)
 - I also need to add toe-articulation (following the tutorial) and cover up the metal rod with putty to maintain the sculpt.
