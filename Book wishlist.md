@@ -3,6 +3,7 @@
 [Marvel Masterworks: Iron Man](https://ebay.us/m/nGJAoU) 33.10gbp
 [TMNT: Mirage Years](https://www.amazon.co.uk/Teenage-Mutant-Ninja-Turtles-1993-1995/dp/B0D72JW6R4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 33.65gbp  
 [Transformers Vol 1](https://forbiddenplanet.com/416587-transformers-volume-1-robots-in-disguise/?utm_medium=promotion&utm_source=439616-edge-of-spider-verse-spider-society&utm_campaign=product-detail-order-related-products) 10.34gbp
+[Spider-Man/Deadpool Omnibus](https://forbiddenplanet.com/350489-spider-mandeadpool-omnibus-uk-edition/) 20.69gbp
 [Spider-Man Black Suit & Blood](https://forbiddenplanet.com/451066-spider-man-black-suit-blood/) 11.72gbp  
 [Venom: Black, White & Blood](https://forbiddenplanet.com/subscriptions/series/marvel-comics/venom-black-white-blood/) 3.75gbp per issue   
 [Venomverse](https://www.amazon.co.uk/Venomverse-Cullen-Bunn/dp/184653884X) 11.48gbp
