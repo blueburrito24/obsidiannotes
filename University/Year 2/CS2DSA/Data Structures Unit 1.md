@@ -36,10 +36,10 @@ Linked lists can have their items easily removed or added compared to arrays, ho
 ==Inserting items== is O(1) if you reference what nodes you're inserting between, otherwise it's O(n).
 Similarly, ==deleting items== has the same caveats. Specifically if you don't use pointers you have to go through the list to delete an item, which is O(n). #Pointers are memory addresses.
 
-#Stacks are Last-in, First-out groups of data, like Pringles. Each element is stored in an ordered manner and to access or alter elements you have to go through each item, there's no indexing. ==Accessing items== in the stack is an O(n) operation.
+#Stacks are #LIFO groups of data, like Pringles. Each element is stored in an ordered manner and to access or alter elements you have to go through each item, there's no indexing. ==Accessing items== in the stack is an O(n) operation.
 ==Inserting== is O(1) since you just place it on top, and ==deleting== is O(1) too.
 
-#Queues are First-in, First-out groups of data. It's alike a conveyer belt, elements can only be removed from the front and added at the back.
+#Queues are #FIFO groups of data. It's alike a conveyer belt, elements can only be removed from the front and added at the back.
 ==Accessing== items is O(n) as you have to search through the set.
 ==Inserting/Deleting== is O(1) as you add and delete from the front and back. 
 
