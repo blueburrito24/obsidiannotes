@@ -9,6 +9,7 @@ start using Anki for CS flashcards (also would be good for Arabic and maybe driv
 Set up bitwarden
 
 Look into GI Joe Classified line
+Make a pal for GohanZ2
 
 Idea for YT intro:
 entirely silhouetted. blue venom chasing red spider-man through the sky and spider-man flips around to attack, as does venom. then it freeze frames and they both morph into two flipped Bs for blueburrito, then an overlay of a web effect zooming in and out plays to transition to the actual video with some ps1 spider-man effects.
