@@ -24,7 +24,7 @@ Marvel Legends GAMERVERSE Venom upgrade:
 - I'm also gonna repaint these Marvel Select heads + the Marvel Select's "backpack" accessory with all its tendrils + dremel out the joints on the Select hands and mod it with some odd joints from AliExpress. 
 - I'm also gonna paint out the legs of the spider-symbol and round out the body, then add new legs based on the 12in design.
 - Also add boot swivel using screws!
-- *Heat up the fig, pop the pins, 1-2 layer of super glue on both sides of joint (ex: knee joint) let it dry, then air heat the legs, attach knee and pin it back.*
+- *Heat up the fig with a hairdryer, pop the pins, 1-2 layer of super glue on both sides of joint (ex: knee joint) let it dry, then air heat the legs, attach knee and pin it back.*
 
 When I mod Venom I want to document it as a tutorial for future reference. I'll take photos and clips (need to buy tripod in [[Wishlist]]) at different stages e.g., comparing Venom to Maximum Spider-Man and showing from various angles how their different approach to butterfly joints affects their range of motion, showing how I plan and then modify the body, showing images of what my ideas for the figure are.
 Then I can include images of the figure before and after doing various poses, to show the effect of the articulation mods. Should credit any images used that aren't mine and credit any tutorials that inspired me such as the Cyclops butterfly mod above.
@@ -59,8 +59,9 @@ Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 [Assorted Sandpaper Sheets](https://www.amazon.co.uk/dp/B0B5LJFF1T?tag=b357-21&linkCode=osi&th=1&psc=1) 3.95
 TOTAL PRICE 71.31
 I have already black and white (ordered with ML Spidey custom head), black dye from the Captain America custom.
-- Magneto has the arms and hands perfect for Batman. So I will saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel. I will also do the same for the legs, sawing off X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail. Also note that I need to remove the kneepads on the X-Cutioner calves and smooth that area after removing it. I also need to shave off the glove-detail on X-Cutioner's grabby hands.
-- I also want to retain the X-Cutioner's crotch-piece for its ball-joint waist. So I need to shave and sand off the lower half of Magneto's body alongside creating a proper female connector so it works with the ball-joint.
+- Magneto has the arms and hands perfect for Batman. So I will saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel. I will also do the same for the legs, sawing off 
+- X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail. Also note that I need to remove the kneepads on the X-Cutioner calves and smooth that area after removing it.
+- I also want to retain the X-Cutioner's crotch-piece for its ball-joint waist. So I need to round the lower rim of Magneto's body, but also form a crater from the bottom with a female connector for the waist joint seated inside. This will allow for smooth movement in the same way MAFEX bodies approach waist movement.
 - I need to get rid of the lettering on X-Cutioner's belt and then the big one - shave off the details of his head and sculpt on ears and a "nose". (Reference the last image above.)
 - I also need to add toe-articulation (following the tutorial) and cover up the metal rod with putty to maintain the sculpt.
 - Make sure that you sand from harsher to softer grits of sandpaper when sanding out the details on the head and smoothing the sculpted ears onto his head. 
