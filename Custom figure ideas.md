@@ -3,6 +3,7 @@ Important tutorials:
 [How to paint regular spider symbols](https://youtu.be/xDrXjyuO5bc?si=V7qNdi77Jdu1jBp0)
 [How to add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8)
 [How to add swivel](https://www.youtube.com/watch?v=bZ4SuznssNU)
+[3x2mm Magnets](https://www.amazon.co.uk/MAGABALLNET-Magnets-Neodymium-Cupboard-Whiteboard/dp/B0FCMGQVV8?crid=1F72Q28205OMQ&dib=eyJ2IjoiMSJ9.UhUNYlN2tgrvvdSRksOG6GlZq8r7htEVEXl6cP2xoxNWaThiKkG-SZ4tYOGrFiimDpvYN2Jh-Pm0ypbuw9LJlShyC8heN3G3H6GR1WYxM0CFs1hrflvUvf2sUdvCOtmvcG-egHmOwfFF-8JKKE6TER_EwP3vFohZYI1KUhxNUct2L9rga6m0BccbCvnWxHplqD6Hl6Z8aK2EChykGfWyLbT-yodgp8_YcH-2JzNaRIR_5CADpsM8ObfiyWqR6XddOV5nuO95aRVxoKgsYDp_Rr25DNVgm8e-44np581xm1w.0lffeLLal5yG7PW5QkdlY0MsSNiaQHyifBRTSAuJ2tw&dib_tag=se&keywords=magnets+3x2mm&qid=1760733256&sprefix=magnets+3x2mm%2Caps%2C120&sr=8-6) 7.99, I want to put these into the feet of every figure I own or make so there's on point in putting them in each custom!
 
 ![[Ultimate_Spider-Woman.jpg | 150]] ![[ML Warbird.png| 275]]
 Marvel Legends Ultimate Spider-Woman custom:
