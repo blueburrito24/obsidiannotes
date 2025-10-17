@@ -8,7 +8,6 @@ install Kanban board plugin
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 Set up bitwarden
 set up nomedia file on phone
-set up bases for custom list and books list
 
 Look into GI Joe Classified line
 Make a pal for GohanZ2
