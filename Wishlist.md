@@ -26,18 +26,18 @@ Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articu
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 ![[463785693_995269445691113_8671576013384109346_n.jpg | 300]] ![[Pasted image 20251018192938.png]]
 [Bagley custom headsculpt](https://www.etsy.com/uk/listing/1525301217/112-bespoke-sculpted-head-spider-ben?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+spider-man+headsculpt&ref=sr_gallery-1-21&frs=1&nob=1&local_signal_search=1&content_source=90f6f38a-1c2d-4053-bd96-c36c5c453d8c%253ALT9739897458cb96e7d02a4d6f6f7edbad4cee7f5f&organic_search_click=1&logging_key=90f6f38a-1c2d-4053-bd96-c36c5c453d8c%3ALT9739897458cb96e7d02a4d6f6f7edbad4cee7f5f&variation0=3776613009) 10, either [fit the head using hot glue](https://www.youtube.com/watch?v=jJLwEsiA2Qk)
-[Vallejo 296 Red](https://www.amazon.co.uk/Vallejo-Model-Color-Arylic-Paint/dp/B000PHCNQ2?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 2.95
+[Pro Acryl Bold Pyrrole Red](https://www.ebay.co.uk/itm/389029778927?_skw=pro+acryl+bold+pyrrole+red&itmmeta=01K7WKNWTHFARTC4CJ0D2VQMEW&hash=item5a93fb55ef:g:35AAAeSwlXdo2n4b&itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1cfboWXwDOPOkeViBHvXfly4Q26o1UuuystlHiCfCPvH0D1X2AK2FvEpjTRwKj6HIXX6uMaBkATBKGACy1ftoAy%2BxsI9b%2FtU6DWY6j3%2BmFzQtNdQf4A8C9ARvFQg0UuTT5Bm6KDGhoTcGlCOQoppiAUFqZ1X3T5hFOuyiAbKgxzFjDUTEbhCx8Djj%2BkETBmg9Hjjk8CArz2JEZZN%2FuleSxgaHYhvrN12n45dJMUybTCwHg9C7bGBAzKggLwv6r9huE%3D%7Ctkp%3ABk9SR8LO15O_Zg) 8.98
+[Vallejo white primer](https://www.amazon.co.uk/Vallejo-Model-Color-Polyurethane-Primer/dp/B004BMZVBQ?dib=eyJ2IjoiMSJ9.qZVrFgyu7dg93VxW-zljWeeWLIigysycQMkmise3-_uHWgjBnP1MSz1I6NQFtTMoDNPhaomTg4K85gS-biNEVUL22UIIgA6OGNuKwol7PceHWx7EYfaZSLrNbUYnMvmpGpy_U4Rwov4vy3piaqST0YHVUgK3O9ck7VgvuItg8ZKRJMINPWRufVwTrLs5Ee0Qn2MNAfh1lvw5bSNQnjN7_kj2hzj-8giSmLVyK7uhbIvsqacGFohcbvCw1RcY0RFXZ82HVvbrFlP-lu2vJxQ9vTMGMY_VZUfAbpQcUOjQHak._848hIPp9Gc0qaPSGjSogHqoS3dObJzcjx1MyIdBuWo&dib_tag=se&keywords=vallejo%2Bwhite%2Bprimer&qid=1756763343&sr=8-8&th=1) 8.96
 [Vallejo black](https://www.amazon.co.uk/dp/B000PH7OXE?ref=cm_sw_r_cso_cp_apan_dp_LIGHTSABER25RW1OIB8G&social_share=cm_sw_r_cso_cp_apan_dp_LIGHTSABER25RW1OIB8G) 4.94
 [4pcs Micron pens, need to dip in hot water to work for 10 mins](https://www.amazon.co.uk/dp/B07XYXBX62?ref=cm_sw_r_cp_ud_dp_XE6GR52N3SY5AM2VM8AY&social_share=cm_sw_r_cp_ud_dp_XE6GR52N3SY5AM2VM8AY) 9.86
 
 Second term might be like:
 ![[unnamed.jpg | 300]] ![[s-l1600 1.jpg | 165]]
--[DangITProductions custom Maximum Spidey headsculpt](https://www.ebay.co.uk/itm/187471260540?itmmeta=01K7009YGKVX734M19ETF88PMP&hash=item2ba6286b7c:g:zxEAAeSwGqJolWW2) + 
-[Bold Pyrrole Red](https://www.ebay.co.uk/itm/204769887945?) + [Vallejo Black](https://amzn.eu/d/bbalCsI) + [4pcs Micron Pens 0.25mm](https://amzn.eu/d/5hDV86i) 53.78
+-[DangITProductions custom Maximum Spidey headsculpt](https://www.ebay.co.uk/itm/187471260540?itmmeta=01K7009YGKVX734M19ETF88PMP&hash=item2ba6286b7c:g:zxEAAeSwGqJolWW2) 40
 -[Marvel Legends BAF SP//DR](https://www.ebay.com/itm/127349764428?_skw=marvel+legends+sp%2F%2Fdr+baf+complete&itmmeta=01K7KPXF1QZ66CQ5Y7X7B68STE&hash=item1da6a3314c:g:1bYAAeSw-hpouHjl&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dw%2FXJyPU8yVkGTfNPBYXvYtfEO4X7aHH33%2Fb%2Bq6o50tOFD7CA1%2ByOxzUvutyXJsVechJFohtEPgN385C2qZgU9Vr9V%2FKuL8XKQVTrCRvC45H6W%2BRHBWjOqs1vHzs6smGAeIPjRWLBaH3j0LP1EGjNbCP8qd80c02F%2BCsyFbAwqm8b4hRpDWbyy70SuJ9G7jRbN7x6epwG%2BZFIhcy59WmJSywXiK%2FTXGVxzjeWoeahWvu5SB4cfWSj2y4ixTc03Qgc2QcTdUHIvxFHmkDzJXJFB0rs0Lf%2FD1peRgGtug3KnPqiZWCyFhSLF5TVv516xsro%3D%7Ctkp%3ABk9SR_7w9fa8Zg) 98.81
 -Marvel Legends Ultimate Spider-Woman custom (see [[Custom figure ideas]]) 40.94
 -Marvel Legends Court-Of-Owls Batman custom (see [[Custom figure ideas]]) 71.31
-That's 264.84
+That's 251.06
 
 then Third term could be:
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]

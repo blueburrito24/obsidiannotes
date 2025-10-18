@@ -2,7 +2,6 @@
 [SH Figuarts Toei Spider-Man](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m35711783435) 84.73
 [Marvel Legends 12-inch Black Suit Spider-Man](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m32096359382) 64.62
 ![[12in Black Suit Spidey.jpg| 200]]
-[Marvel Legends Agent Anti-Venom](https://forbiddenplanet.com/471133-marvel-legendsmagic-the-gathering-action-figure-agent-anti-venom/) and [E 10mm joints](https://www.aliexpress.com/item/1005005324042088.html) 48.30 (Needs [ankle](https://www.youtube.com/shorts/_iQMTq_AkMg) and [neck](https://www.youtube.com/shorts/UTXk53sCx18) mods)
 [Marvel Legends Gamerverse Venom 2 Pack](https://www.amazon.co.uk/Marvel-Legends-Gamerverse-Captain-Collectibles/dp/B0DK7NKM6J?crid=1CWKMVFACXFQL&dib=eyJ2IjoiMSJ9.dtRx0fC7dbeaK7uwUsWtKsF3vXS3o8l6tqfrAudQM0Yn6ffUFIdXf2YznuEib3adKDDhBbeotq81I_x02rGqSgJsV_B7WAPNbNtSU1t-XRRbci0nzwJ9p7Ap1yQ92Rz1zGRyuXk33B1dOAU12UFqpPX3lFdDRPFpE49tNoYksh7VqdLv-qa98MQrVhSLI0UxMfjCU4i1aOnO0q_C3Utc2FQnxwDtUlETObUiTCaNgMMFHxRNS6NKZCBh_HOTl6E0ady6muq6MkVCaOQVXl705JRimf26MPusGHMpJrxH3mw.MYDvliO4ypAdcoZMtyym6BHp_XpkkBechhPkwr-LHRo&dib_tag=se&keywords=marvel+legends+venom&qid=1756139159&sprefix=marvel+legends+ven%2Caps%2C180&sr=8-3) 39.99
 [Marvel Select Disney Store Exclusive Venom for accessories](https://www.ebay.co.uk/itm/406028646415) 24.86
 [x2 F 6mm joints for adding articulation to Select hands](https://www.aliexpress.com/item/1005005324042088.html) 9.22
