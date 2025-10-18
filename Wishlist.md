@@ -28,6 +28,7 @@ Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articu
 [Revoltech Bagley custom headsculpt](https://www.mercari.com/us/item/m20869439235/) 18usd, needs checking by zenmarket if i can buy
 [Vallejo 296 Red](https://www.amazon.co.uk/Vallejo-Model-Color-Arylic-Paint/dp/B000PHCNQ2?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 2.95gbp
 [Vallejo black](https://www.amazon.co.uk/dp/B000PH7OXE?ref=cm_sw_r_cso_cp_apan_dp_LIGHTSABER25RW1OIB8G&social_share=cm_sw_r_cso_cp_apan_dp_LIGHTSABER25RW1OIB8G) 4.94gbps
+[4pcs Micron pens, need to dip in hot water to work for 10 mins](https://www.amazon.co.uk/dp/B07XYXBX62?ref=cm_sw_r_cp_ud_dp_XE6GR52N3SY5AM2VM8AY&social_share=cm_sw_r_cp_ud_dp_XE6GR52N3SY5AM2VM8AY) 9.86
 
 Second term might be like:
 ![[unnamed.jpg | 300]] ![[s-l1600 1.jpg | 165]]
