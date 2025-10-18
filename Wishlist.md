@@ -24,6 +24,10 @@ Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articu
 ![[Pasted image 20251015170141.png | 300]])
 [wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
+![[463785693_995269445691113_8671576013384109346_n.jpg | 400]]
+[Revoltech Bagley custom headsculpt](https://www.mercari.com/us/item/m20869439235/) 18usd, needs checking by zenmarket if i can buy
+[Vallejo 296 Red](https://www.amazon.co.uk/Vallejo-Model-Color-Arylic-Paint/dp/B000PHCNQ2?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 2.95gbp
+[Vallejo black](https://www.amazon.co.uk/dp/B000PH7OXE?ref=cm_sw_r_cso_cp_apan_dp_LIGHTSABER25RW1OIB8G&social_share=cm_sw_r_cso_cp_apan_dp_LIGHTSABER25RW1OIB8G) 4.94gbps
 
 Second term might be like:
 ![[unnamed.jpg | 300]] ![[s-l1600 1.jpg | 165]]
