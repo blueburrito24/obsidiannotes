@@ -29,7 +29,7 @@ Watch this video for more git knowledge. https://youtu.be/hrTQipWp6co
 
 ==Start studying arabic and driving theory on weekends.==
 
-Apply to jobs at Sainsbury's, Tesco and Aldi (Need to remake CV, I have a WIP one for Placements but I need a generic one thats quality for regular apps)
+==Apply to jobs at Sainsbury's, Tesco and Aldi (Need to remake CV, I have a WIP one for Placements but I need a generic one thats quality for regular apps)==
 
 Contact Amazon Support to delete account connected to kamihame7@gmail.com
 

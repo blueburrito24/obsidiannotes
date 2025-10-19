@@ -4,6 +4,8 @@ Important tutorials:
 [How to add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8)
 [How to add swivel](https://www.youtube.com/watch?v=bZ4SuznssNU)
 [How to add ball-jointed waist to ML](https://youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV?si=81ftPbYu7jJLTqlz)
+[How to dye action figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
+[How to increase butterfly range on Vulcan bodies](https://www.youtube.com/watch?v=GoviqGwjY5s)
 [3x2mm Magnets](https://www.amazon.co.uk/MAGABALLNET-Magnets-Neodymium-Cupboard-Whiteboard/dp/B0FCMGQVV8?crid=1F72Q28205OMQ&dib=eyJ2IjoiMSJ9.UhUNYlN2tgrvvdSRksOG6GlZq8r7htEVEXl6cP2xoxNWaThiKkG-SZ4tYOGrFiimDpvYN2Jh-Pm0ypbuw9LJlShyC8heN3G3H6GR1WYxM0CFs1hrflvUvf2sUdvCOtmvcG-egHmOwfFF-8JKKE6TER_EwP3vFohZYI1KUhxNUct2L9rga6m0BccbCvnWxHplqD6Hl6Z8aK2EChykGfWyLbT-yodgp8_YcH-2JzNaRIR_5CADpsM8ObfiyWqR6XddOV5nuO95aRVxoKgsYDp_Rr25DNVgm8e-44np581xm1w.0lffeLLal5yG7PW5QkdlY0MsSNiaQHyifBRTSAuJ2tw&dib_tag=se&keywords=magnets+3x2mm&qid=1760733256&sprefix=magnets+3x2mm%2Caps%2C120&sr=8-6) (acquired) - I want to put magnets in Maximum Spider-Man, Ultimate Spider-Woman, Gamerverse Venom, Batman, Dark-Avengers Spider-Man, 2099, MESS TOYS Scarlet Spider, MESS TOYS Black Suit Neighbour.
 
 ![[Ultimate_Spider-Woman.jpg | 150]] ![[ML Warbird.png| 275]]
@@ -20,7 +22,7 @@ TOTAL PRICE 34.50
 Marvel Legends GAMERVERSE Venom upgrade:
 [M2 2.5x4mm screws](https://www.amazon.co.uk/Phillips-Machine-Screws-DIN-7985/dp/B0FBMCVY5F?crid=EX1HU8429LMM&dib=eyJ2IjoiMSJ9.QbDIN6p-9vKBZk0Kl4rR6CiPuP1n1Lqk-k4zaa9TBN2Wt4SPgsf__6HCDx99mrv533oTOvjin2BIiauBSp0keld2IqLM7GQS5fSxZ40JjAsHItoMxnnjcNpNdOovDRb633eTLST-tU_P-avymzJmhv61AYf9WDQ6nWY_AJbn5SWSY4a0exzONbWXF0kmpHMAHVqSdZN6n9d9sFkhJGpum3gupCN1Wx-fyX6AY8ge78pqXwDUvLwRyR5bva1J0gBVUaJ1NmHYXGeV0yF3MFuZXIlj8A_QVx6l4HjkvXwz8a0.rFqA8aALxhiUOa8u9S0eHVslK9c3xreHD6bkumetZMg&dib_tag=se&keywords=screw+2.5+x+4mm&qid=1760648538&sprefix=screw+2.5+x+4mm%2Caps%2C111&sr=8-6) (acquired)
 - ==Do the [[ML Ab-Crunch mod]] on this figure.==
-- ==I want to increase the forward-shoulder range,== so I'm going to attempt to adapt this mod. https://www.youtube.com/watch?v=GoviqGwjY5s
+- ==I want to increase the forward-shoulder range,== so I'm going to attempt to adapt the butterfly mod.
 - If the inner structure of the shoulders is similar to the Vulcan body I will ==carve out the front gap of the shoulders for more forward-range, alongside the actual inner-tract of the shoulder joints.==
 - I'm also gonna ==repaint these Marvel Select heads + the Marvel Select's "backpack" accessory with all its tendrils + dremel out the joints on the Select hands and mod it with some odd joints from AliExpress.== 
 - I'm also gonna ==paint out the legs of the spider-symbol and round out the body, then add new legs based on the 12in design.==
@@ -65,20 +67,18 @@ I have already black and white (ordered with ML Spidey custom head).
 - Also I want to ==install some magnets into the feet.==
 Should document the process of this one too!
 
-![[Batgirl_III_Uniform_1.webp | 200]] ![[719cOPjRCFL._AC_SL1500_.jpg | 250]] ![[Pasted image 20251019044229.png | 250]] ![[Pasted image 20251019045210.png | 250]]
-Marvel Legends Batgirl (Cassandra Cain):
-[Marvel Legends Comic Book Black Widow](https://amzn.eu/d/hxUKAXN) 24.99
-[CT Toys Batman, for accessories](https://www.aliexpress.com/item/1005009427833461.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.678a633cJdXz8v&pdp_npi=4%40dis%21GBP%21%EF%BF%A149.98%21%EF%BF%A121.49%21%21%21469.30%21201.79%21%40211b441e17561396189038137ea271%2112000049852277570%21sh%21UK%212834634728%21X) 24.89
-[Cloak AB](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 12.66
-TOTAL PRICE 62.54
-I already have black paint, black dye, yellow paint, sandpaper and ball joints from the Batman custom.
-- I would ==shave off the collar and carve out the neck at the base, then install a ball-joint (following the DangITProducitons tutorial) for neck articulation. Make sure to smooth out the edges on the body and neck, alongside smoothing off the zipper where the collar was and on the chest in general.== I want to keep the general zipper details as Batgirl's outfit has some lining around the body.
-- I would ==shave off the hair on the headsculpt and use epoxy putty to sculpt it into a bald head, alongside sculpting out the mouth and shaving off the eyes. Then sculpt on some ears and sand them down to smooth their transition from the head.==
-- I can remove the bracelets from the arms and keep them for later use (could maybe take the effects off the extra bracelets for Spider-Shot?).
-- The hands are quite thin so I ==would replace them with hands from the CT Batman, using heat shrink to fit the hands in.==
-- At this point I've done all the important sculpted details so I can ==dye the figure black.==
-- I'll ==paint on the symbol on the chest with yellow and then black, after this all the main details are done so I can semi-gloss finish the whole figure.==
-- I'll ==repaint the CT Batman's utility belt with the yellow I already have and possibly install it into the back of the hip-piece the same way it's installed on CT Batman. Matte finish the utility belt!==
-- I will also ==glue on the cape onto the rim of the neck== the same way I did on Batman.
-- Need to also ==add toe joints and feet magnets!==
-- I can use the batarangs for both Batgirl and Batman.
+![[Pasted image 20251019192915.png | 300]] ![[Pasted image 20251019192938.png | 250]] ![[Pasted image 20251019193111.png | 225]]
+![[DA0269A9-FBE6-4600-8338-880DE66B8B3D.png | 250]] ![[IMG_20251019_181007_604.jpg | 150]] ![[IMG_20251019_180953_532.jpg | 150]] ![[how-big-do-you-think-venom-should-be-v0-0b6vbutze2sa1.jpg | 300]]
+Marvel Legends Monster Venom custom:
+[Marvel Legends Gamerverse Juggernaut](https://www.amazon.co.uk/Marvel-Legends-Gamerverse-Juggernaut-Collectible/dp/B0DK7PL9KH?dib=eyJ2IjoiMSJ9.1olwgq_Tqo7JIeQvzbV8IYr3bWCBnNH-922LMX78RS_jcreTAzlkIj5TzxpJ1nXCUnAzXRuJPMrcbVOMe4d0L-Y36sAFgPUoAo9sxA39Lac7hBTlw0ZfoikywGll7eMeXZq9Z1U75a3SwS0MWCRYlRdy0Md07QtX9hLYZcWHBJtfdQHCLuuAbNDF5_HssPjRrUYS-vnJM8qlYyPEdmDNk97t_pv9KuOc6xu09_ylyQlNSebx3COoZLnwJk5vj0p4ruYKz9jk9WuBGJhgukuvGNLlZ06zwm1RFkDhVOrzRCs.wzAy8a6ULUMsaAfrpNjVd7rncgtCU7aQsX2oZviaRyg&dib_tag=se&keywords=marvel+legends+juggernaut&qid=1756930976&sr=8-3) 49.99
+[Marvel Select Venom, for headsculpts](https://www.aliexpress.com/item/1005003738080161.html?spm=a2g0o.productlist.main.1.106bXAFxXAFxv5&algo_pvid=02b28397-bc9e-4957-ba00-6bcb873e61ce&algo_exp_id=02b28397-bc9e-4957-ba00-6bcb873e61ce-0&pdp_ext_f=%7B%22order%22%3A%2225%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2116.09%2116.09%21%21%2121.00%2121.00%21%40211b65de17608913665018272e51c3%2112000026988824834%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=HDmgXqOQXMK8&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003738080161%7C_p_origin_prod%3A) 16.09
+[5mmx2mm magnets](https://www.amazon.co.uk/100PCS-Magnets-Neodymium-Whiteboards-Picture/dp/B09H2W3TQZ?crid=2SF8IYABFBSG&dib=eyJ2IjoiMSJ9.LAO5h7AEh0QsntHmiz6-sXV6zNxmwSXJVcyHLyHLkDQAWeEfbBvj1W7sOsbDpBOWLuctTQklWO2n1zXU91DKJxLQPvH19lEVh68_7DR5dUxWxTxgFbYkyhcHvrgjqmxc_p7Phu4zcELJhsiQprSzet5C35JqoOaeT5WNNWaHfS9JIKIrT8LbmY7z6yRnjn2uVNUuHqALy_C6t1sY1MTlXJgBz4MXMs17mySrLylvd18ZIYiQ4jMDYg8X19JcgIgMnfdGLRHyP0-5mr3iB32v5cAJ0-gJ70VHeAZ2H3YKuhQ.zA62q2KomH9k1AX__yhB_1b8HcswupY9J1TnhAmjSxA&dib_tag=se&keywords=5mm%2Bmagnets&qid=1760893711&sprefix=5mm%2Bmagnet%2Caps%2C131&sr=8-6&th=1) 7.99
+[Exacto knife](https://amzn.eu/d/dX2F4Tk) 5.99
+TOTAL PRICE 80.06
+I like my Monster Venom Deluxe but I want a more poseable, bigger Venom! I already have black paint, black dye, white paint, red paint and various other tools from various other purchases/customs.
+- First I would ==sand down all the harsh details on the body, the boot rims, the sole of the boots, the grainy texture on the abdomen, the bicep cuffs and the bracelets on the arms.==
+- I also would want to ==get rid of the cuffs on the multiple hands in the same way.==
+- I want to ==do a similar butterfly mod that I'm doing to Gamerverse Venom (reference above) as the shoulders have no forward range.==
+- The knees and arms are single-jointed, but can definitely reach more range so I ==need to take them out and carve out some plastic with an exacto knife.==
+- I want to give the body a more V-taper like Monster Venom, but narrowing the waist is not the way to go. Normally bigger Venom appearances bulk up towards the top, the lower body is fine but we need bigger upper body. The trap muscles are very lacking (and for good reason), so I will ==use epoxy putty to re-sculpt the trap muscles to look like those on the ML Monster Venom Deluxe (images seen above). The traps need to eclipse the original head, peaking around the same height. The shoulders already don't have great outwards-upper range so thickening the traps outwards is no problem, but I should still follow the model led by the original Monster Venom.== Of course, there is a neck peg way lower than what I plan, so I will ==remove the original neck peg and sculpt over it, using the ball joint set to replace it (and adding the adjacent joint receivers in the multiple Select headsculpts) when I finish my modified torso sculpt.== You can see in the last image I saved how Venom often has huge upper body with a small head, so this can work well. ==I also want to add some peg holes in the back for tendrils from the Marvel Select Venom.==
+- The feet are still a bit big even if I remove the soles, and the width would affect the articulation if I modify it, so I'll ==just sand down the toes towards the front so that it has a better look (Look at Marvel Select Venom's feet for example).==
