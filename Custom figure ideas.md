@@ -10,23 +10,22 @@ Important tutorials:
 Marvel Legends Ultimate Spider-Woman custom:
 [Marvel Legends Warbird](https://www.amazon.co.uk/Marvel-MVL-Legends-Yellow-2/dp/B0D95233ZD?crid=2VQ7D711JGFS8&dib=eyJ2IjoiMSJ9.EAutf6ifqk1OvjXHlBeEyKMP1HCvOhFIAfYswDLHRPHloDwFvBqiv9EN-GskCnwLYGGg6ht9Tcxaf3aixvUKGqQZgRW_cV1UdWmAyzcN40qGKPakBRL9iCaVOgCuI_FByxRLbTBLmaTSoAZ0bDUPmlJlPoyqTUWVr74vtw-S5d002mhraEmsUz5x_llhhVr6ana5C4VXERapAsPjq4aeApsTqcGV0XP4qkrnVFjZ8AiEBbH6MA99-EBHorzwnnZbO5-1YRz_ChJEP66fBIb3fy1fvtE-lE3EyGT-4PwE8Tg.VbhHhHSGGEd-nETjMK5rO4wuvxJMgBlyo8Dm-bpUT2g&dib_tag=se&keywords=marvel+legends+warbird&qid=1760273431&sprefix=marvel+legends+warbird%2Caps%2C118&sr=8-4) 24.99, -> has the headsculpts and updated body I need
 [Vallejo Mahogany Brown](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH7P24?crid=13O6BFQ6DK79T&dib=eyJ2IjoiMSJ9._NdZkcWPNydc-uULg8JqsYc8zr8t9IiSKA3f-hqtA3Catd4dqeLfAHfQCznOXMgiv_eg0qccxlM5wcx3RzSbN0ECrStWm7ZyN_CWRWGsvc5OwkaQP-FBpnZaVVM9kb6h5tz_gkD6Qe8C6r5R0gJCTZ9WDy7SaGRCAmWh0GraVtuTg1Ex2-kvjmHAulQpt48rkY9xPaWbM0Wm3AVD69YbygTFGPURylHfojMH3JHiTN781KB3WsYYQSFzmQG42NiVjg7OBmMXyfPjMwqqKTF8IEwiKRfdxnF_y5SPq0ef64o.slCI2hy73WUy61Y_ZW70Qyua2yjRU6JqBHZslJQ8Vn8&dib_tag=se&keywords=vallejo%2Bbrown&qid=1760272850&sprefix=vallejo%2Bbrow%2Caps%2C113&sr=8-4&th=1) 2.95 and [Vallejo Blackwash](https://www.amazon.co.uk/Vallejo-Model-Color-Wash-Paints/dp/B00AOL8G8S?crid=FXUI0CRJ203W&dib=eyJ2IjoiMSJ9.BYxeG6_U7ob3g2Rxqi9xz_zeZwVId0z1rg8_wOidxRScYkkFNtXTkJtDL-STznxqQTeZcnsQ5sCWXqkmakl9q6VKDO3atcHsoO7TdFsm5n-0_OwSfoWeArMP1aeSr2RNeVryXVR8iKvwtm-STkZloLOxWCiKslj3B5H2UVJ8s8qIBA8mB2I9sR9a1dXqYwD3KeNURg1cFytfDxxTG5nMlwH8oUqJej7e-S2PNBWFaHjUUjK11nI-4HTP9rUjkmdIeP7sEom3f4gt1er79EEZDEM9JVQhpGt9lHsyqrtfzFc.9aL33NqLE5tubKNB_cVhniXmPk_PBZwwgZnRzrJE__Y&dib_tag=se&keywords=vallejo+black+wash&qid=1757174907&sprefix=vallejo+black+was%2Caps%2C108&sr=8-4) 6.56 for repainting the hair
-[Vallejo Inky Red](https://www.amazon.co.uk/Vallejo-Game-Ink-Acrylic-Paint/dp/B000PH9IPG?crid=2MANEM1VFRKTF&dib=eyJ2IjoiMSJ9.drGpQ0vzHSwWl_rFP9YA_s-1v4E982RX-9yuYcDgmMqX4FVY2IHOKf0FQsv4wMJyKHroLCj7v1KP9NzMvz77uVW4FdNEjStobZVE5KabQnMjAr5RxFJ-9hNtU5yyH0Zy_MGvW6p4b5O9Xk26C57q4iCvx3vtCcSdBSXiYj7vzdkgbnPOdG_E0uB7zvyarm6TYxkcaAK9SWhYKejK-2FC8kfWP_fj-FLcGRx1ziEb5pQJMpMHhyTveN0-pPjj3zvumkpf7jM6UkmVTkk2NzE38MDjyN3Bfk2DjJN_GnwM2Ts.mrOpUNMEnnOrO9Qqq7tEpL4vujGojBS3xXlYfUUM4IA&dib_tag=se&keywords=vallejo%2Bcrimson%2Bred&qid=1760278394&s=officeproduct&sprefix=vallejo%2Bcrimson%2Bred%2Coffice-products%2C129&sr=1-3&th=1) 2.95
-TOTAL PRICE 37.45
-- I already have Vallejo white so that's sorted. I would just need to get rid of the scarf and resculpt the head a bit to have a masked look with no mouth detail, alongside shaving off the mask and eyes.
-- From there I just have to repaint the whole thing in metallic red, paint the fingers, spider symbol and lenses on with white and then repaint the hair.
-- Also need to add toe articulation and do the [[ML Ab-Crunch mod]].
+TOTAL PRICE 34.50
+- I already have Vallejo white so that's sorted. I would just need to ==get rid of the scarf and resculpt the head a bit to have a masked look with no mouth detail, alongside shaving off the mask and eyes.==
+- From there I just have to ==repaint the whole thing in bold pyrrole red, paint the fingers, spider symbol and lenses on with white and then repaint the hair.==
+- Also need to ==add toe articulation and do the [[ML Ab-Crunch mod]].==
 
 ![[{AC14740B-12B0-4487-AA89-88E813E16239}.png | 300]] ![[G3RCrsIbIAAD4b-.jpeg | 375]]
 ![[{6CA842F7-822E-4B15-BA5D-9DDF1E2DD61F}.png | 100]] ![[{950E7515-E67E-4AF3-ADD7-F0DEBBA5CB1E}.png | 140]] ![[{306FFC7E-FC4F-463A-B9B3-7BBA7D2A8C8A}.png | 100]] ![[Pasted image 20251015083304.png | 125]]
 Marvel Legends GAMERVERSE Venom upgrade:
 [M2 2.5x4mm screws](https://www.amazon.co.uk/Phillips-Machine-Screws-DIN-7985/dp/B0FBMCVY5F?crid=EX1HU8429LMM&dib=eyJ2IjoiMSJ9.QbDIN6p-9vKBZk0Kl4rR6CiPuP1n1Lqk-k4zaa9TBN2Wt4SPgsf__6HCDx99mrv533oTOvjin2BIiauBSp0keld2IqLM7GQS5fSxZ40JjAsHItoMxnnjcNpNdOovDRb633eTLST-tU_P-avymzJmhv61AYf9WDQ6nWY_AJbn5SWSY4a0exzONbWXF0kmpHMAHVqSdZN6n9d9sFkhJGpum3gupCN1Wx-fyX6AY8ge78pqXwDUvLwRyR5bva1J0gBVUaJ1NmHYXGeV0yF3MFuZXIlj8A_QVx6l4HjkvXwz8a0.rFqA8aALxhiUOa8u9S0eHVslK9c3xreHD6bkumetZMg&dib_tag=se&keywords=screw+2.5+x+4mm&qid=1760648538&sprefix=screw+2.5+x+4mm%2Caps%2C111&sr=8-6) 3.99
-- Do the [[ML Ab-Crunch mod]] on this figure.
-- I want to increase the forward-shoulder range, so I'm going to attempt to adapt this mod. https://www.youtube.com/watch?v=GoviqGwjY5s
-- If the inner structure of the shoulders is similar to the Vulcan body I will carve out the front gap of the shoulders for more forward-range, alongside the actual inner-tract of the shoulder joints.
-- I'm also gonna repaint these Marvel Select heads + the Marvel Select's "backpack" accessory with all its tendrils + dremel out the joints on the Select hands and mod it with some odd joints from AliExpress. 
-- I'm also gonna paint out the legs of the spider-symbol and round out the body, then add new legs based on the 12in design.
-- Also add boot swivel using screws!
-- *Heat up the fig with a hairdryer, pop the pins, 1-2 layer of super glue on both sides of joint (ex: knee joint) let it dry, then air heat the legs, attach knee and pin it back.*
+- ==Do the [[ML Ab-Crunch mod]] on this figure.==
+- ==I want to increase the forward-shoulder range,== so I'm going to attempt to adapt this mod. https://www.youtube.com/watch?v=GoviqGwjY5s
+- If the inner structure of the shoulders is similar to the Vulcan body I will ==carve out the front gap of the shoulders for more forward-range, alongside the actual inner-tract of the shoulder joints.==
+- I'm also gonna ==repaint these Marvel Select heads + the Marvel Select's "backpack" accessory with all its tendrils + dremel out the joints on the Select hands and mod it with some odd joints from AliExpress.== 
+- I'm also gonna ==paint out the legs of the spider-symbol and round out the body, then add new legs based on the 12in design.==
+- Also ==add boot swivel using screws!==
+- ==*Heat up the fig with a hairdryer, pop the pins, 1-2 layer of super glue on both sides of joint (ex: knee joint) let it dry, then air heat the legs, attach knee and pin it back.*==
 
 When I mod Venom I want to document it as a tutorial for future reference. I'll take photos and clips (need to buy tripod in [[Wishlist]]) at different stages e.g., comparing Venom to Maximum Spider-Man and showing from various angles how their different approach to butterfly joints affects their range of motion, showing how I plan and then modify the body, showing images of what my ideas for the figure are.
 Then I can include images of the figure before and after doing various poses, to show the effect of the articulation mods. Should credit any images used that aren't mine and credit any tutorials that inspired me such as the Cyclops butterfly mod above.
@@ -34,9 +33,9 @@ Also note that at the start of the tutorial I'm gonna act like I'm throwing away
 
 ![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]] ![[G3Tbq0qacAA4ZRa.jpeg | 140]]
 Marvel Legends Maximum-er Spider-Man:
-- I already have the right red, blue and black paints I need to repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. 
-- The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. I want to do shorter legs than WOS or Toybiz though.
-- Also note that I should do this repaint after I do the [[ML Ab-Crunch mod]].
+- I already have the right red, blue and black paints I need to ==repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. ==
+- The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just ==spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. I want to do shorter legs than WOS or Toybiz though.==
+- Also note that I should ==do this repaint after I do the [[ML Ab-Crunch mod]].==
 - This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
 I'll probably do these mods in January considering I won't get the custom headsculpt until then.
 
@@ -63,15 +62,14 @@ Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 [Paperclips](https://www.amazon.co.uk/Q-Connect-Paperclips-Plain-Pack-1000/dp/B000NM4OES?crid=1MM02P4OTUCIX&dib=eyJ2IjoiMSJ9.hJMDRotfMLqkIuCpXfnzDg2CrML-Ox59D9VKF3oBwK6239IkmaHNqY3ng1V820y_QRcaMeK9NHIiYlB-d6uc41zU58bAi4iyO2d4P1Not7ROcJaw44l4NFPYGsbwg3sbaTl4u5TGDyE-CULKct1VlI-gClp9zLyuqnaAcWpCYuvcdS9oz6SkOjVzLa7rUS-olC7L7JyF3VhVxXfgg6tSOvFybi3ln5y-9sBvT-3vKxnpjJx7tTWIE-Avm6aj_80_bmyL8273XuuIx1VwRC_cfIS_JRF3WFE_ioIDv7BFbEs.3vBpQlonB1rHCZr5Fvntkg-gMOT31litUJUFHxC5oHc&dib_tag=se&keywords=paper+clips&qid=1760832466&sprefix=paper+clips%2Caps%2C180&sr=8-6) 6.07
 TOTAL PRICE 91.72
 I have already black and white (ordered with ML Spidey custom head), black dye from the Captain America custom.
-- Magneto has the arms and hands perfect for Batman. So I will saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel. I will also do the same for the legs, sawing off 
-- X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail. Also note that I need to remove the kneepads on the X-Cutioner calves and smooth that area after removing it.
-- I'm going to use the ball-joint set to add a ball-joint waist to the Magneto body. Following DangITProductions' Wolverine mod video, I'll install the connector piece into the abdomen section and install the joint into the hip-piece.
-- I need to get rid of the lettering on X-Cutioner's belt and then the big one - shave off the details of his head and sculpt on ears and a "nose". (Reference the last image above.)
-- I also need to add toe-articulation (following the tutorial) and cover up the metal rod with putty to maintain the sculpt.
-- Make sure that you sand from harsher to softer grits of sandpaper when sanding out the details on the head and smoothing the sculpted ears onto his head. 
-- I need to also recreate the neck structure on the X-Cutioner body onto the Magneto body. My best bet is to saw off the area with the neck joint and imitate its cavity on the Magneto figure - then I can super glue the neck joint itself onto the Magneto body's neck cavity.
-- After all this, I can dye the figure with Rit Synthetic Dye, at that point I can paint the majority of the body grey with the yellow utility belt and black gauntlets and boots plus his white eyes.
+- Magneto has arms and hands perfect for Batman. So I will ==saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel.== I will also do the same for the legs, ==sawing off the X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail.== Also note that I need to ==remove the kneepads on the X-Cutioner calves== and smooth that area after removing it.
+- I'm going to use the ball-joint set to ==add a ball-joint waist to the Magneto body.== Following DangITProductions' Wolverine mod video, I'll install the connector piece into the abdomen section and install the joint into the hip-piece using a paperclip.
+- I need to ==get rid of the lettering on X-Cutioner's belt== and then the big one - ==shave off the details of his head and sculpt on ears and a "nose". (Reference the last image above.)==
+- I also need to ==add toe-articulation (following the tutorial) and cover up the metal rod with putty to maintain the sculpt.==
+- Make sure that you ==sand from harsher to softer grits of sandpaper when sanding out the details on the head and smoothing the sculpted ears onto his head.==
+- I need to also recreate the neck structure on the X-Cutioner body onto the Magneto body. I can use the same method as I do for adding a ball-joint waist, ==installing a joint connector in the head/neck piece and install a joint via paperclip in the torso (after dremeling it a bit to mimic the torso structure of the X-Cutioner body).==
+- After all this, I can ==dye the figure with Rit Synthetic Dye,== at that point I can ==paint the majority of the body grey with the yellow utility belt and black gauntlets and boots plus his white eyes.==
 - I can follow the Spider-logo tutorial to make the Bat logo painting easier also.
-- At this point the sculpt and painting is done on all fronts, I can now use my Loctite super glue to adhere the cape to the ridge of the neck cavity for a clean transition. Make sure to check how the cape fits around the neck before gluing!!
-- Also I want to sculpt some batarangs and install some magnets into the feet.
+- At this point the sculpt and painting is done on all fronts, I can now ==use my Loctite super glue to adhere the cape to the ridge of the neck cavity for a clean transition. Make sure to check how the cape fits around the neck before gluing!!==
+- Also I want to ==sculpt some batarangs and install some magnets into the feet.==
 Should document the process of this one too!
