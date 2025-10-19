@@ -38,18 +38,8 @@ Marvel Legends Maximum-er Spider-Man:
 - Also note that I should ==do this repaint after I do the [[ML Ab-Crunch mod]].==
 - This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
 I'll probably do these mods in January considering I won't get the custom headsculpt until then.
-
-![[venomized-captain-america-v0-gla0wbazggzd1.webp | 200]] ![[87550963_203356550736534_2742559501857551729_n.jpg | 200]] ![[ok8sqlvtv6pf1.gif | 200]] ![[71epu3YhCML._AC_SL1500_.jpg | 200]]
-Marvel Legends Venomized Captain America:
-[Rit Synthetic Dye](https://amzn.eu/d/7xY5K0Q) 8.49
-when I buy the Gamerverse Venom two pack,I could Venomize the Captain America included instead of throwing it away. There is already a figure of this but it uses a darker colour scheme and uses the scaled design for the Captain's suit.
-Here I would sculpt over some areas, e.g., the right foot or the left hands with their extra long nails, the head. Specifically, I would sand down or sculpt over the shield and repaint it to look like the symbiote shield that Venom has in MvC, with tendrils floating off the sides too!
-I'd want to mimic the art by Patrick Brown with how one of the legs one of the arms are mid-transformation, so I would sculpt tendrils around those areas (maybe make them pluggable as to reduce breakage and make articulation smoother? Include multiple points of entry).
-Note that the red on the abdomen and gloves/boots needs to be painted over (aside from the aforementioned mid-transformed areas) so I may need to sand down some areas to avoid paint rub.
-I could also shave down the cuffs on the arms and boots to add symbiote texturing like in Patrick Brown's art.
-Also note, if I want to add a jaw with teeth and a big tongue I should saw off the head from the nose down and then resculpt the lower half of the head into a Venomized jaw with teeth and tongue alongside sculpting the top half of the head to have teeth and a lip (alongside the rest of the design on the head) before attaching with super glue and painting.
-I want to dye the figure black, so I'll do that after finishing all the re-sculpting so that all the details are coloured already. After I just need to repaint the glove, boot and white areas.
-I have all the paints needed already.
+ ![[ok8sqlvtv6pf1.gif | 200]]
+ When I get Gamerverse Venom/Captain America two pack, I will throw away the Captain America figure but keep the hands and shield. I want to repaint/sculpt the shield to look like the above Venom shield.
 ![[Pasted image 20251016214954.png | 200]] ![[Pasted image 20251016215107.png | 210]] ![[71uL0YYgibL._AC_SL1500_.jpg | 250]] ![[61pGKboEisL._AC_SL1500_.jpg | 200]] ![[{7E81E52D-AC2F-46E5-BC55-6EA41D2829CA}.png | 100]]
 Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 [Marvel Legends X-Men's The X-Cutioner](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 19.37
