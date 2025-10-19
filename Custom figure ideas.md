@@ -3,6 +3,7 @@ Important tutorials:
 [How to paint regular spider symbols](https://youtu.be/xDrXjyuO5bc?si=V7qNdi77Jdu1jBp0)
 [How to add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8)
 [How to add swivel](https://www.youtube.com/watch?v=bZ4SuznssNU)
+[How to add ball-jointed waist to ML](https://youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV?si=81ftPbYu7jJLTqlz)
 [3x2mm Magnets](https://www.amazon.co.uk/MAGABALLNET-Magnets-Neodymium-Cupboard-Whiteboard/dp/B0FCMGQVV8?crid=1F72Q28205OMQ&dib=eyJ2IjoiMSJ9.UhUNYlN2tgrvvdSRksOG6GlZq8r7htEVEXl6cP2xoxNWaThiKkG-SZ4tYOGrFiimDpvYN2Jh-Pm0ypbuw9LJlShyC8heN3G3H6GR1WYxM0CFs1hrflvUvf2sUdvCOtmvcG-egHmOwfFF-8JKKE6TER_EwP3vFohZYI1KUhxNUct2L9rga6m0BccbCvnWxHplqD6Hl6Z8aK2EChykGfWyLbT-yodgp8_YcH-2JzNaRIR_5CADpsM8ObfiyWqR6XddOV5nuO95aRVxoKgsYDp_Rr25DNVgm8e-44np581xm1w.0lffeLLal5yG7PW5QkdlY0MsSNiaQHyifBRTSAuJ2tw&dib_tag=se&keywords=magnets+3x2mm&qid=1760733256&sprefix=magnets+3x2mm%2Caps%2C120&sr=8-6) 7.99 - I want to put magnets in Maximum Spider-Man, Ultimate Spider-Woman, Gamerverse Venom, Batman, Dark-Avengers Spider-Man, 2099, MESS TOYS Scarlet Spider, MESS TOYS Black Suit Neighbour.
 
 ![[Ultimate_Spider-Woman.jpg | 150]] ![[ML Warbird.png| 275]]
@@ -58,11 +59,13 @@ Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 [Vallejo Yellow](https://www.amazon.co.uk/Vallejo-Model-Air-Acrylic-Paint/dp/B002U38ZQ6?crid=1FWABQI3LKNFJ&dib=eyJ2IjoiMSJ9.CNhd3yMo4YipjS_Ei3ag234GY7sfy8eI5tdqarhHx0tPzXi9UPoVCbPr3oLgm7V5hZvynh3XPZgXGSdya8NCJFvNeX-OUUoCm5m61miiVWJxNP8WC0jZYSqiySo1BOcY6uv5uJGwRjKDSyHUBDI-4mwCqw2H9pg9v6BtTKry9PLUW-MJGKbbVRX1oO0Tojrjgvm9H0UfUIBhr0vbPSV2yumb4X75P6LuAn4D031ElkoLvXI9wj0VynIGPYgwn4FAU7yn9KzFxIouUowkQHSLzlE3BOwYMWxK5-_M4oZK7mQ.Y4Y_mIOSfChET56WXiNpaqmhh4ynXR-_G1pYelzEDX0&dib_tag=se&keywords=vallejo+yellow&qid=1760647436&sprefix=vallejo+yellow%2Caps%2C114&sr=8-6) 5.12
 [Vallejo Grey Blue](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH7ONE?crid=27B60LZX5KSLT&dib=eyJ2IjoiMSJ9.sP_mvEs56uvQx7OyHoWYgRLt_SiXE7IDyWtGfUgDY82QUBHk6-tSDTlEn0leCaqLRHpYoGlB_Fwa6KorSD0yd10VfPWbuKrE76_lEacAiIgcGRWyKaAVwjbC-7s4ZQYYIfIgHcBHzds3-2sdZCPh7kOW8SyuTt1jIt15Z6aVQmnMqPaPtoGkVT2CGjcbAy1k4KUcyBn9VIiQHTeLyaXXdZ3sYdgCM2hIJG8O4Ll6nGqCo-ghK1At62wILF8uKHbTp8XT6hccK1rqMOrWtIZAUk_0oR1NxnEV8rNACUlUV1M.pNlQ2OvWzEuCJqw150VqnMzZ1jE3BxiMW_u1ZUZ7F2s&dib_tag=se&keywords=vallejo+gray&qid=1760647421&sprefix=vallejo+gray%2Caps%2C117&sr=8-9) 5.12
 [Assorted Sandpaper Sheets](https://www.amazon.co.uk/dp/B0B5LJFF1T?tag=b357-21&linkCode=osi&th=1&psc=1) 3.95
-TOTAL PRICE 71.31
+[Ball joint set](https://www.ebay.co.uk/itm/306544300981?chn=ps&_ul=GB&google_free_listing_action=view_item) 14.34
+[Paperclips](https://www.amazon.co.uk/Q-Connect-Paperclips-Plain-Pack-1000/dp/B000NM4OES?crid=1MM02P4OTUCIX&dib=eyJ2IjoiMSJ9.hJMDRotfMLqkIuCpXfnzDg2CrML-Ox59D9VKF3oBwK6239IkmaHNqY3ng1V820y_QRcaMeK9NHIiYlB-d6uc41zU58bAi4iyO2d4P1Not7ROcJaw44l4NFPYGsbwg3sbaTl4u5TGDyE-CULKct1VlI-gClp9zLyuqnaAcWpCYuvcdS9oz6SkOjVzLa7rUS-olC7L7JyF3VhVxXfgg6tSOvFybi3ln5y-9sBvT-3vKxnpjJx7tTWIE-Avm6aj_80_bmyL8273XuuIx1VwRC_cfIS_JRF3WFE_ioIDv7BFbEs.3vBpQlonB1rHCZr5Fvntkg-gMOT31litUJUFHxC5oHc&dib_tag=se&keywords=paper+clips&qid=1760832466&sprefix=paper+clips%2Caps%2C180&sr=8-6) 6.07
+TOTAL PRICE 91.72
 I have already black and white (ordered with ML Spidey custom head), black dye from the Captain America custom.
 - Magneto has the arms and hands perfect for Batman. So I will saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel. I will also do the same for the legs, sawing off 
 - X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail. Also note that I need to remove the kneepads on the X-Cutioner calves and smooth that area after removing it.
-- I also want to retain the X-Cutioner's crotch-piece for its ball-joint waist. So I need to round the lower rim of Magneto's body, but also form a crater from the bottom with a female connector for the waist joint seated inside. This will allow for smooth movement in the same way MAFEX bodies approach waist movement.
+- I'm going to use the ball-joint set to add a ball-joint waist to the Magneto body. Following DangITProductions' Wolverine mod video, I'll install the connector piece into the abdomen section and install the joint into the hip-piece.
 - I need to get rid of the lettering on X-Cutioner's belt and then the big one - shave off the details of his head and sculpt on ears and a "nose". (Reference the last image above.)
 - I also need to add toe-articulation (following the tutorial) and cover up the metal rod with putty to maintain the sculpt.
 - Make sure that you sand from harsher to softer grits of sandpaper when sanding out the details on the head and smoothing the sculpted ears onto his head. 
@@ -70,5 +73,5 @@ I have already black and white (ordered with ML Spidey custom head), black dye f
 - After all this, I can dye the figure with Rit Synthetic Dye, at that point I can paint the majority of the body grey with the yellow utility belt and black gauntlets and boots plus his white eyes.
 - I can follow the Spider-logo tutorial to make the Bat logo painting easier also.
 - At this point the sculpt and painting is done on all fronts, I can now use my Loctite super glue to adhere the cape to the ridge of the neck cavity for a clean transition. Make sure to check how the cape fits around the neck before gluing!!
-- Also I can sculpt some batarangs.
+- Also I want to sculpt some batarangs and install some magnets into the feet.
 Should document the process of this one too!
