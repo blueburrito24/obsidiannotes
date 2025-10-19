@@ -72,13 +72,13 @@ Marvel Legends Batgirl (Cassandra Cain):
 [Cloak AB](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 12.66
 TOTAL PRICE 62.54
 I already have black paint, black dye, yellow paint, sandpaper and ball joints from the Batman custom.
-- I would shave off the collar and carve out the neck at the base, then install a ball-joint (following the DangITProducitons tutorial) for neck articulation. Make sure to smooth out the edges on the body and neck, alongside smoothing off the zipper where the collar was and on the chest in general. I want to keep the general zipper details as Batgirl's outfit has some lining around the body.
-- I would shave off the hair on the headsculpt and use epoxy putty to sculpt it into a bald head, alongside sculpting out the mouth and shaving off the eyes. Then sculpt on some ears and sand them down to smooth their transition from the head.
+- I would ==shave off the collar and carve out the neck at the base, then install a ball-joint (following the DangITProducitons tutorial) for neck articulation. Make sure to smooth out the edges on the body and neck, alongside smoothing off the zipper where the collar was and on the chest in general.== I want to keep the general zipper details as Batgirl's outfit has some lining around the body.
+- I would ==shave off the hair on the headsculpt and use epoxy putty to sculpt it into a bald head, alongside sculpting out the mouth and shaving off the eyes. Then sculpt on some ears and sand them down to smooth their transition from the head.==
 - I can remove the bracelets from the arms and keep them for later use (could maybe take the effects off the extra bracelets for Spider-Shot?).
-- The hands are quite thin so I would replace them with hands from the CT Batman, using heat shrink to fit the hands in.
-- At this point I've done all the important sculpted details so I can dye the figure black.
-- I'll paint on the symbol on the chest with yellow and then black, after this all the main details are done so I can semi-gloss finish the whole figure.
-- I'll repaint the CT Batman's utility belt with the yellow I already have and possibly install it into the back of the hip-piece the same way it's installed on CT Batman. Matte finish the utility belt!
-- I will also glue on the cape onto the rim of the neck the same way I did on Batman.
-- Need to also add toe joints and feet magnets!
+- The hands are quite thin so I ==would replace them with hands from the CT Batman, using heat shrink to fit the hands in.==
+- At this point I've done all the important sculpted details so I can ==dye the figure black.==
+- I'll ==paint on the symbol on the chest with yellow and then black, after this all the main details are done so I can semi-gloss finish the whole figure.==
+- I'll ==repaint the CT Batman's utility belt with the yellow I already have and possibly install it into the back of the hip-piece the same way it's installed on CT Batman. Matte finish the utility belt!==
+- I will also ==glue on the cape onto the rim of the neck== the same way I did on Batman.
+- Need to also ==add toe joints and feet magnets!==
 - I can use the batarangs for both Batgirl and Batman.
