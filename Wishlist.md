@@ -15,6 +15,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 [Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 [Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
+[Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
 #### ***FIGURES I WANT***
 DARK AVENGERS SPIDER-MAN 24.99 Releases December 3.
 ![[DA Spidey Render.png| 300]]
@@ -36,10 +37,9 @@ That's 273.52
 then Third term could be:
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
 -[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
--[Amazing Yamaguchi Revoltech Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.83
+-Marvel Legends Monster Venom custom (see [[Custom figure ideas]]) 71.97
 -6inch+ Grey Hulk 50
--[Marvel Legends Maximum Series Deadpool](https://www.amazon.co.uk/Marvel-Legends-Maximum-Deadpool-Action/dp/B0DMRD3K4G?crid=2XS44Z9P20TAV&dib=eyJ2IjoiMSJ9.iNJkSCrO1riF8rBG2AbRw56cSABwEpo6SRwCAvtNzXTqnrMLCSnXng3DC0tKpbePziKbK9f7HbOvG8UEO1zJcYLVlWjKGCeCp9Da3ucVTLe_-8oGZmUfnyQnJSo2HYR4LPV69DS3Qh9VSvotC0YljPjqfLoilYwvgPduVwFn6axkLMyM7MJngV_HL8pCf6YK3RpRmRhc95rW_BKXrs8md6VBiKsqfo8oF0EKH3KRZOd1K_SCWvWaqDMlpuWyvdeKA3cbKbuvwMp8qW8PGPIG3Awb0I39VuNH33CJ2broocA.U1CfSDYbzldiik9Q9ra5pBec9rG19Dr1tuZ3ufQQ9fk&dib_tag=se&keywords=maximum+deadpool&qid=1759855126&sprefix=maximum+deadpool%2Caps%2C176&sr=8-4) 44.99
 -MESS TOYS Scarlet Spider 30
 -[Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
 -Marvel Legends Spider-Man 2099 24.99
-That's 289.46
+That's 256.61
