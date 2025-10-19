@@ -12,7 +12,7 @@ Marvel Legends Ultimate Spider-Woman custom:
 [Vallejo Mahogany Brown](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH7P24?crid=13O6BFQ6DK79T&dib=eyJ2IjoiMSJ9._NdZkcWPNydc-uULg8JqsYc8zr8t9IiSKA3f-hqtA3Catd4dqeLfAHfQCznOXMgiv_eg0qccxlM5wcx3RzSbN0ECrStWm7ZyN_CWRWGsvc5OwkaQP-FBpnZaVVM9kb6h5tz_gkD6Qe8C6r5R0gJCTZ9WDy7SaGRCAmWh0GraVtuTg1Ex2-kvjmHAulQpt48rkY9xPaWbM0Wm3AVD69YbygTFGPURylHfojMH3JHiTN781KB3WsYYQSFzmQG42NiVjg7OBmMXyfPjMwqqKTF8IEwiKRfdxnF_y5SPq0ef64o.slCI2hy73WUy61Y_ZW70Qyua2yjRU6JqBHZslJQ8Vn8&dib_tag=se&keywords=vallejo%2Bbrown&qid=1760272850&sprefix=vallejo%2Bbrow%2Caps%2C113&sr=8-4&th=1) 2.95 and [Vallejo Blackwash](https://www.amazon.co.uk/Vallejo-Model-Color-Wash-Paints/dp/B00AOL8G8S?crid=FXUI0CRJ203W&dib=eyJ2IjoiMSJ9.BYxeG6_U7ob3g2Rxqi9xz_zeZwVId0z1rg8_wOidxRScYkkFNtXTkJtDL-STznxqQTeZcnsQ5sCWXqkmakl9q6VKDO3atcHsoO7TdFsm5n-0_OwSfoWeArMP1aeSr2RNeVryXVR8iKvwtm-STkZloLOxWCiKslj3B5H2UVJ8s8qIBA8mB2I9sR9a1dXqYwD3KeNURg1cFytfDxxTG5nMlwH8oUqJej7e-S2PNBWFaHjUUjK11nI-4HTP9rUjkmdIeP7sEom3f4gt1er79EEZDEM9JVQhpGt9lHsyqrtfzFc.9aL33NqLE5tubKNB_cVhniXmPk_PBZwwgZnRzrJE__Y&dib_tag=se&keywords=vallejo+black+wash&qid=1757174907&sprefix=vallejo+black+was%2Caps%2C108&sr=8-4) 6.56 for repainting the hair
 TOTAL PRICE 34.50
 - I already have Vallejo white so that's sorted. I would just need to ==get rid of the scarf and resculpt the head a bit to have a masked look with no mouth detail, alongside shaving off the mask and eyes.==
-- From there I just have to ==repaint the whole thing in bold pyrrole red, paint the fingers, spider symbol and lenses on with white and then repaint the hair.==
+- From there I just have to ==dye the figure black, then shade with bold pyrrole red, paint the fingers, spider symbol and lenses on with white and then repaint the hair.==
 - Also need to ==add toe articulation and do the [[ML Ab-Crunch mod]].==
 
 ![[{AC14740B-12B0-4487-AA89-88E813E16239}.png | 300]] ![[G3RCrsIbIAAD4b-.jpeg | 375]]
@@ -50,8 +50,9 @@ Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 [Assorted Sandpaper Sheets](https://www.amazon.co.uk/dp/B0B5LJFF1T?tag=b357-21&linkCode=osi&th=1&psc=1) 3.95
 [Ball joint set](https://www.ebay.co.uk/itm/306544300981?chn=ps&_ul=GB&google_free_listing_action=view_item) 14.34
 [Paperclips](https://www.amazon.co.uk/Q-Connect-Paperclips-Plain-Pack-1000/dp/B000NM4OES?crid=1MM02P4OTUCIX&dib=eyJ2IjoiMSJ9.hJMDRotfMLqkIuCpXfnzDg2CrML-Ox59D9VKF3oBwK6239IkmaHNqY3ng1V820y_QRcaMeK9NHIiYlB-d6uc41zU58bAi4iyO2d4P1Not7ROcJaw44l4NFPYGsbwg3sbaTl4u5TGDyE-CULKct1VlI-gClp9zLyuqnaAcWpCYuvcdS9oz6SkOjVzLa7rUS-olC7L7JyF3VhVxXfgg6tSOvFybi3ln5y-9sBvT-3vKxnpjJx7tTWIE-Avm6aj_80_bmyL8273XuuIx1VwRC_cfIS_JRF3WFE_ioIDv7BFbEs.3vBpQlonB1rHCZr5Fvntkg-gMOT31litUJUFHxC5oHc&dib_tag=se&keywords=paper+clips&qid=1760832466&sprefix=paper+clips%2Caps%2C180&sr=8-6) 6.07
-TOTAL PRICE 91.72
-I have already black and white (ordered with ML Spidey custom head), black dye from the Captain America custom.
+[Rit Synthetic Dye](https://amzn.eu/d/1Yno7lD) 8.49
+TOTAL PRICE 100.21
+I have already black and white (ordered with ML Spidey custom head).
 - Magneto has arms and hands perfect for Batman. So I will ==saw off X-Cutioner's forearms (at the highest strap) and saw off Magneto's forearms to stick them on with M2 screws for swivel.== I will also do the same for the legs, ==sawing off the X-Cutioner's calves at the highest strap and screwing them onto Magneto's legs for swivel and added musculature and detail.== Also note that I need to ==remove the kneepads on the X-Cutioner calves== and smooth that area after removing it.
 - I'm going to use the ball-joint set to ==add a ball-joint waist to the Magneto body.== Following DangITProductions' Wolverine mod video, I'll install carve out the waist-piece and round out the rim of the abdomen piece, then install the connector piece into the abdomen piece and install the joint into the hip-piece using a paperclip.
 - I need to ==get rid of the lettering on X-Cutioner's belt== and then the big one - ==shave off the details of his head and sculpt on ears and a "nose". (Reference the last image above.)==
@@ -61,5 +62,23 @@ I have already black and white (ordered with ML Spidey custom head), black dye f
 - After all this, I can ==dye the figure with Rit Synthetic Dye,== at that point I can ==paint the majority of the body grey with the yellow utility belt and black gauntlets and boots plus his white eyes.==
 - I can follow the Spider-logo tutorial to make the Bat logo painting easier also.
 - At this point the sculpt and painting is done on all fronts, I can now ==use my Loctite super glue to adhere the cape to the ridge of the neck cavity for a clean transition. Make sure to check how the cape fits around the neck before gluing!!==
-- Also I want to ==sculpt some batarangs and install some magnets into the feet.==
+- Also I want to ==install some magnets into the feet.==
 Should document the process of this one too!
+
+![[Batgirl_III_Uniform_1.webp | 200]] ![[719cOPjRCFL._AC_SL1500_.jpg | 250]] ![[Pasted image 20251019044229.png | 250]] ![[Pasted image 20251019045210.png | 250]]
+Marvel Legends Batgirl (Cassandra Cain):
+[Marvel Legends Comic Book Black Widow](https://amzn.eu/d/hxUKAXN) 24.99
+[CT Toys Batman, for accessories](https://www.aliexpress.com/item/1005009427833461.html?spm=a2g0o.store_pc_allItems_or_groupList.0.0.678a633cJdXz8v&pdp_npi=4%40dis%21GBP%21%EF%BF%A149.98%21%EF%BF%A121.49%21%21%21469.30%21201.79%21%40211b441e17561396189038137ea271%2112000049852277570%21sh%21UK%212834634728%21X) 24.89
+[Cloak AB](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 12.66
+TOTAL PRICE 62.54
+I already have black paint, black dye, yellow paint, sandpaper and ball joints from the Batman custom.
+- I would shave off the collar and carve out the neck at the base, then install a ball-joint (following the DangITProducitons tutorial) for neck articulation. Make sure to smooth out the edges on the body and neck, alongside smoothing off the zipper where the collar was and on the chest in general. I want to keep the general zipper details as Batgirl's outfit has some lining around the body.
+- I would shave off the hair on the headsculpt and use epoxy putty to sculpt it into a bald head, alongside sculpting out the mouth and shaving off the eyes. Then sculpt on some ears and sand them down to smooth their transition from the head.
+- I can remove the bracelets from the arms and keep them for later use (could maybe take the effects off the extra bracelets for Spider-Shot?).
+- The hands are quite thin so I would replace them with hands from the CT Batman, using heat shrink to fit the hands in.
+- At this point I've done all the important sculpted details so I can dye the figure black.
+- I'll paint on the symbol on the chest with yellow and then black, after this all the main details are done so I can semi-gloss finish the whole figure.
+- I'll repaint the CT Batman's utility belt with the yellow I already have and possibly install it into the back of the hip-piece the same way it's installed on CT Batman. Matte finish the utility belt!
+- I will also glue on the cape onto the rim of the neck the same way I did on Batman.
+- Need to also add toe joints and feet magnets!
+- I can use the batarangs for both Batgirl and Batman.
