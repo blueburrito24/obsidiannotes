@@ -42,7 +42,7 @@ Marvel Legends Maximum-er Spider-Man:
 I'll probably do these mods in January considering I won't get the custom headsculpt until then.
  ![[ok8sqlvtv6pf1.gif | 200]]
  When I get Gamerverse Venom/Captain America two pack, I will throw away the Captain America figure but keep the thumbs-up hands for Batman, and the shield. I want to repaint/sculpt the shield to look like the above Venom shield.
-![[Pasted image 20251016214954.png | 200]] ![[Pasted image 20251016215107.png | 210]] ![[71uL0YYgibL._AC_SL1500_.jpg | 250]] ![[61pGKboEisL._AC_SL1500_.jpg | 200]] ![[{7E81E52D-AC2F-46E5-BC55-6EA41D2829CA}.png | 100]]
+![[Pasted image 20251016214954.png | 200]] ![[Pasted image 20251016215107.png | 210]] ![[71uL0YYgibL._AC_SL1500_.jpg | 250]] ![[61pGKboEisL._AC_SL1500_.jpg | 170]] ![[{7E81E52D-AC2F-46E5-BC55-6EA41D2829CA}.png | 100]]
 Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 [Marvel Legends X-Men's The X-Cutioner](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 19.37
 [Marvel Legends X-Men's Magneto](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 24.99
