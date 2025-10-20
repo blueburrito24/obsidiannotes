@@ -67,20 +67,19 @@ I have already black and white (ordered with ML Spidey custom head).
 - Also I want to ==install some magnets into the feet.==
 Should document the process of this one too!
 
-![[Pasted image 20251019192915.png | 300]] ![[Pasted image 20251020005407.png | 240]] ![[Pasted image 20251019193111.png | 225]]
+![[Pasted image 20251019192915.png | 300]]  ![[Pasted image 20251019193111.png | 225]]
 ![[DA0269A9-FBE6-4600-8338-880DE66B8B3D.png | 220]] ![[IMG_20251019_181007_604.jpg | 130]] ![[IMG_20251019_180953_532.jpg | 130]] ![[how-big-do-you-think-venom-should-be-v0-0b6vbutze2sa1.jpg | 250]] ![[Pasted image 20251015083304.png | 125]]
 Marvel Legends Monster Venom custom:
 [Marvel Legends Gamerverse Juggernaut](https://www.amazon.co.uk/Marvel-Legends-Gamerverse-Juggernaut-Collectible/dp/B0DK7PL9KH?dib=eyJ2IjoiMSJ9.1olwgq_Tqo7JIeQvzbV8IYr3bWCBnNH-922LMX78RS_jcreTAzlkIj5TzxpJ1nXCUnAzXRuJPMrcbVOMe4d0L-Y36sAFgPUoAo9sxA39Lac7hBTlw0ZfoikywGll7eMeXZq9Z1U75a3SwS0MWCRYlRdy0Md07QtX9hLYZcWHBJtfdQHCLuuAbNDF5_HssPjRrUYS-vnJM8qlYyPEdmDNk97t_pv9KuOc6xu09_ylyQlNSebx3COoZLnwJk5vj0p4ruYKz9jk9WuBGJhgukuvGNLlZ06zwm1RFkDhVOrzRCs.wzAy8a6ULUMsaAfrpNjVd7rncgtCU7aQsX2oZviaRyg&dib_tag=se&keywords=marvel+legends+juggernaut&qid=1756930976&sr=8-3) 49.99
-[Marvel Legends Monster Venom BAF Bootleg](https://www.aliexpress.com/item/1005006898341621.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000038653735790%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 12.29
 [Exacto knife](https://amzn.eu/d/dX2F4Tk) 5.99
-TOTAL PRICE 68.27
+TOTAL PRICE 55.98
 I like my Monster Venom Deluxe but I want a more poseable, bigger Venom! I already have black paint, black dye, white paint, red paint and various other tools from various other purchases/customs.
 - First I would ==sand down all the harsh details on the body, the boot rims, the sole of the boots, the grainy texture on the abdomen + sanding down the rim of the abdomen to avoid paint rub later, the bicep cuffs and the bracelets on the arms.==
 - I also would want to ==get rid of the cuffs on the multiple hands in the same way (The cuffs on the fists are removable so I should smooth out the hands with them removed).==
 - I want to ==do a similar butterfly mod that I'm doing to Gamerverse Venom (reference above) as the shoulders have no forward range.==
 - The knees and arms are single-jointed, but can definitely reach more range so I ==need to take them out and carve out some plastic with an exacto knife.==
 - I want to give the body a more V-taper like Monster Venom, but narrowing the waist is not the way to go. Normally bigger Venom appearances bulk up towards the top, the lower body is fine but we need bigger upper body. The trap muscles are very lacking (and for good reason), so I will ==use epoxy putty to re-sculpt the trap muscles to look like those on the ML Monster Venom Deluxe (images seen above).== The traps need to eclipse the original head, peaking lightly below it. My idea is that, after removing the facial details (because the head inside the helmet is a separate piece) for good measure, I will ==glue the head tight so it cannot move and sculpt around it to create those big traps.== While sculpting I can move around and re-sculpt parts to achieve that musculature that the Deluxe Monster Venom has, alongside that I need to ==sculpt the traps to point forward and sculpt a neck that transitions into the chest== the same way the Deluxe Monster Venom is sculpted. I will then ==use the ball joint set to replace the original neck articulation== when I finish my modified torso sculpt.
-- I will take the long-tongued head from the bootleg Monster Venom BAF and the regular head from my Deluxe Monster Venom to modify for this custom. I'm gonna keep the bootleg with its regular head. I'll ==heat up the long-tongued head and take it apart, ditching the rubber tongue 
+- I'm going to use the head from my Deluxe Monster Venom for this custom, I just need to repaint it after I dye everything.
 - The feet are still a bit big even if I remove the soles, and the width would affect the articulation if I modify it, so I'll ==just sand down the toes to a pointy shape so that it has a more classic design.==
 - I also want to ==drill some holes into the fists== for fitting webs, alongside this I need to ==use epoxy putty to add longer claw-like fingers to the hands.==
 - I also want to add a ball-joint waist, following DangITProductions' example, I'll slightly ==hollow out the crotchpiece and round out the abdomen piece, creating a recess to install the ball joint.==

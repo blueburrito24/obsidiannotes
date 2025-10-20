@@ -37,9 +37,9 @@ That's 273.52
 then Third term could be:
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
 -[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
--Marvel Legends Monster Venom custom (see [[Custom figure ideas]]) 71.97
+-Marvel Legends Monster Venom custom (see [[Custom figure ideas]]) 55.98
 -6inch+ Grey Hulk 50
 -MESS TOYS Scarlet Spider 30
 -[Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
 -Marvel Legends Spider-Man 2099 24.99
-That's 256.61
+That's 240.62
