@@ -42,5 +42,4 @@ then Third term could be:
 -MESS TOYS Scarlet Spider 30
 -[Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
 -Marvel Legends Spider-Man 2099 24.99
--[MAFEX Miles Morales Renewal Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.79
-That's 302.40
+That's 256.61
