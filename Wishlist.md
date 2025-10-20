@@ -21,8 +21,6 @@ See [[Wishlist Archive]] for stuff I've already bought.
 ![[DA Spidey Render.png| 300]]
 [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers Spider-Man.
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
-[Marvel Legends Pizza Spidey boot, comes with extra clothing](https://www.aliexpress.com/item/1005003312494959.html?pdp_npi=4%40dis%21GBP%21%EF%BF%A122.11%21%EF%BF%A118.79%21%21%21204.16%21173.50%21%40211b61a417605406552856722ed1f9%2112000028475807967%21sh%21UK%212834634728%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007593937303.1005003312494959) 24.19 (will give the figure to Eesa)
-![[Pasted image 20251015170141.png | 300]])
 [wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 ![[{4F0EE916-79D4-483A-A7A3-FAB606E9EFC6}.png | 200]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]]
