@@ -1,4 +1,3 @@
-[Megabonk](https://store.steampowered.com/app/3405340/Megabonk?snr=1_25_4__318) 8.50
 [Replicube](https://store.steampowered.com/app/3401490/Replicube?snr=1_25_4__318) 8.50
 [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn?snr=1_25_4__318) 10.29
 [SHINOBI: Art of Vengeance](https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance?snr=1_25_4__318) 24.99
