@@ -17,9 +17,9 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 [Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
 #### ***FIGURES I WANT***
-DARK AVENGERS SPIDER-MAN 24.99 Releases December 3.
+[Marvel Legends Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3.
 ![[DA Spidey Render.png| 300]]
-Needs [articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers.
+[Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers Spider-Man.
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
 [Marvel Legends Pizza Spidey boot, comes with extra clothing](https://www.aliexpress.com/item/1005003312494959.html?pdp_npi=4%40dis%21GBP%21%EF%BF%A122.11%21%EF%BF%A118.79%21%21%21204.16%21173.50%21%40211b61a417605406552856722ed1f9%2112000028475807967%21sh%21UK%212834634728%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007593937303.1005003312494959) 24.19 (will give the figure to Eesa)
 ![[Pasted image 20251015170141.png | 300]])
@@ -42,4 +42,5 @@ then Third term could be:
 -MESS TOYS Scarlet Spider 30
 -[Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
 -Marvel Legends Spider-Man 2099 24.99
-That's 256.61
+-[MAFEX Miles Morales Renewal Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.79
+That's 302.40
