@@ -33,10 +33,10 @@ When I mod Venom I want to document it as a tutorial for future reference. I'll 
 Then I can include images of the figure before and after doing various poses, to show the effect of the articulation mods. Should credit any images used that aren't mine and credit any tutorials that inspired me such as the Cyclops butterfly mod above.
 Also note that at the start of the tutorial I'm gonna act like I'm throwing away Captain America, then at the end I'll show my Venomized Captain America next to my custom Venom and other figures.
 
-![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]] ![[G3Tbq0qacAA4ZRa.jpeg | 140]]
+![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]] ![[G3uMBf0XcAEplgg.jpeg | 140]]
 Marvel Legends Maximum-er Spider-Man:
 - I already have the right red, blue and black paints I need to ==repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. ==
-- The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just ==spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. I want to do shorter legs than WOS or Toybiz though.==
+- The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just ==spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. The BND edit is based on Paolo Rivera's logos, I will put it more towards the centre of the back so I can spread it equally across the abdomen and torso pieces.==
 - Also note that I should ==do this repaint after I do the [[ML Ab-Crunch mod]].==
 - This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
 I'll probably do these mods in January considering I won't get the custom headsculpt until then.
