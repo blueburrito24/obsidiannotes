@@ -16,6 +16,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 [Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 [Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
+[Jet duster](https://amzn.eu/d/jiffMLM) 62.99
 #### ***FIGURES I WANT***
 [Marvel Legends Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3.
 ![[DA Spidey Render.png| 300]]
