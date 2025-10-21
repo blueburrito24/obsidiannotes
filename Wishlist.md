@@ -31,7 +31,6 @@ Second term might be like:
 -[DangITProductions custom Maximum Spidey headsculpt](https://www.ebay.co.uk/itm/187471260540?itmmeta=01K7009YGKVX734M19ETF88PMP&hash=item2ba6286b7c:g:zxEAAeSwGqJolWW2) 40
 -[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed)
 -[MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.78
--Marvel Legends Court-Of-Owls Batman custom (see [[Custom figure ideas]]) 100.21
 -Revoltech Cyborg Spider-Man custom (see [[Custom figure ideas]]) 73.06
 -[Fahrulstore35 V69](https://fahrulstore35.bigcartel.com/product/v69) and [Fahrulstore35 V64](https://fahrulstore35.bigcartel.com/product/v64) 52.30 with expedited shipping
 That's 347.79
@@ -39,9 +38,9 @@ That's 347.79
 then Third term could be:
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
 -[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
+-Marvel Legends Court-Of-Owls Batman custom (see [[Custom figure ideas]]) 100.21
 -Marvel Legends Monster Venom custom (see [[Custom figure ideas]]) 55.98
 -6inch+ Grey Hulk 50
 -MESS TOYS Scarlet Spider 30
--[Marvel Legends Iron Man Mk1 Gold](https://amzn.eu/d/4ukZTDC) \+ [Vallejo gold](https://amzn.eu/d/cuMOGxP) \+ [Micron pens](https://amzn.eu/d/fEsM1hz) 32.83 (Repaint \+ remove the antenna \+ [this mod](https://www.youtube.com/shorts/wHRrpfzn6g0))  
 -Marvel Legends Spider-Man 2099 24.99
-That's 240.62
+That's 308
