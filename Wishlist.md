@@ -38,7 +38,6 @@ That's 247.58
 then Third term could be:
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
 -[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
--Marvel Legends Court-Of-Owls Batman custom (see [[Custom figure ideas]]) 100.21
 -6inch+ Grey Hulk 50
 -MESS TOYS Scarlet Spider 30
 -Marvel Legends Spider-Man 2099 24.99
