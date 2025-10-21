@@ -3,13 +3,10 @@
 [Marvel Masterworks: Iron Man](https://ebay.us/m/nGJAoU) 33.10
 [TMNT: Mirage Years](https://www.amazon.co.uk/Teenage-Mutant-Ninja-Turtles-1993-1995/dp/B0D72JW6R4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 33.65  
 [Transformers Vol 1](https://forbiddenplanet.com/416587-transformers-volume-1-robots-in-disguise/?utm_medium=promotion&utm_source=439616-edge-of-spider-verse-spider-society&utm_campaign=product-detail-order-related-products) 10.34
-[Superman: Birthright](https://forbiddenplanet.com/437368-superman-birthright-dc-compact-comics-edition/) 6.20
-[Spider-Man Black Suit & Blood](https://forbiddenplanet.com/451066-spider-man-black-suit-blood/) 11.72  
 [Venom: Black, White & Blood](https://forbiddenplanet.com/subscriptions/series/marvel-comics/venom-black-white-blood/) 3.75 per issue   
 [Venomverse](https://www.amazon.co.uk/Venomverse-Cullen-Bunn/dp/184653884X) 11.48
 [Batman: The Dark Knight Returns 30th Anni. Paperback](https://forbiddenplanet.com/151611-batman-the-dark-knight-returns-30th-anniversary-edition/) 10.99
-[Amazing Spider-Man current run](https://forbiddenplanet.com/subscriptions/series/marvel-comics/amazing-spider-man-ii/) 3.75 per issue  
-[Spider-Man Noir Omnibus](https://forbiddenplanet.com/465746-spider-man-noir-omnibus/) 13.79
+[Amazing Spider-Man current run](https://forbiddenplanet.com/subscriptions/series/marvel-comics/amazing-spider-man-ii/) 3.75 per issue
 [All Star Superman](https://forbiddenplanet.com/408469-all-star-superman-dc-compact-comics-edition/) 6.20
 [Spider-Man: Blue TPB](https://www.amazon.co.uk/Spider-Man-Graphic-Novels-Marvel-Paperback/dp/0785110712) 34.99
 [The Amazing Spider-Man Epic Collection: Venom](https://www.ebay.co.uk/itm/356737865710?_skw=Amazing+Spider-Man%3A+Epic+Collection%3A+Venom+%28New+Printing%29&itmmeta=01K65GTZ3NQJMEGPB0VCMJ7FB6&hash=item530f3bd7ee:g:jEIAAeSwmENo14yU&itmprp=enc%3AAQAKAAABIFkggFvd1GGDu0w3yXCmi1d71T%2B80yFfAPDX3wn3sJ%2Fk2HSJLkSBVzkagrIYGV4H18mOZuhKD%2FqOBSJxeA%2B42AMIXG%2B8P7zBri2r55DO4MhP0GeeXBwD7PsCEu7mwPD2eQ1TnowMrMalQpjtpt11FTEV%2BwV0jxuy1y18EdxEnuFBnAvTGaRV%2BHfPqeh3n0CN1fM6szfQLY5QXg0f9hoyLHv89XMPlE%2FN6SAe3i2uEFVks79B47gns5O0YCCZ0a1vW9MUaaNma5cgc9GNIn6MU%2B4ecKnzs9Qx0ga0hNbyn7EE4nZjnNuadYiapYOz%2BVoEtMWJiXcUEZFTF%2Fb8p0VbdfQKWoAkxoR9CsVtH93EfJGjEeKbttvhjvgwV7HLt5k8SA%3D%3D%7Ctkp%3ABk9SR_bx67CxZg) 28.95
@@ -26,7 +23,6 @@
 [Spider-Man: Reign Omnibus](https://forbiddenplanet.com/451064-spider-man-reign-omnibus/) 17.24
 [DC: Watchmen Compact Comic](https://forbiddenplanet.com/408477-watchmen-dc-compact-comics-edition/) 6.20
 [Marvel: Bullet Points TPB](https://www.amazon.co.uk/Bullet-Points-TPB-Michael-Straczynski/dp/0785120106) 19.61
-[Spider-Man: Kraven's Last Hunt](https://www.amazon.co.uk/Spider-Man-Kravens-Printing-Graphic-Paperback/dp/0785134506) 10.40
 [Batman: Last Knight on Earth](https://www.amazon.co.uk/Batman-Knight-Earth-Scott-Snyder/dp/1401294960) 17.86
 [Batgirl: Nobody Dies Tonight](https://forbiddenplanet.com/443445-dc-finest-batgirl-nobody-dies-tonight/) 24.83
 [Flash: The Human Thunderbolt](https://forbiddenplanet.com/431253-dc-finest-the-flash-the-human-thunderbolt/) 24.14
