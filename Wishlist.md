@@ -33,7 +33,7 @@ Second term might be like:
 -[MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.78
 -Revoltech Cyborg Spider-Man custom (see [[Custom figure ideas]]) 73.06
 -[Fahrulstore35 V69](https://fahrulstore35.bigcartel.com/product/v69) and [Fahrulstore35 V64](https://fahrulstore35.bigcartel.com/product/v64) 52.30 with expedited shipping
-That's 347.79
+That's 247.58
 
 then Third term could be:
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
