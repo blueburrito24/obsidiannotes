@@ -41,4 +41,4 @@ then Third term could be:
 -6inch+ Grey Hulk 50
 -MESS TOYS Scarlet Spider 30
 -Marvel Legends Spider-Man 2099 24.99
-That's 252.02
+That's 151.81
