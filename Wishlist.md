@@ -42,4 +42,5 @@ then Third term could be:
 -Kaiyodo Amazing Yamaguchi Symbiote Spider-Man 11,000jpy (50gbp) will pre-order on Nin Nin Game
 -6inch+ Grey Hulk 50
 -MESS TOYS Scarlet Spider 30
-That's 130
+-Marvel Legends Spider-Man 2099 (Releases March) 24.99
+That's 154.99
