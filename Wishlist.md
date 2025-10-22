@@ -1,6 +1,6 @@
 #### **ACADEMIC YEAR CALCULATIONS**  
 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
-697.31 \- 300 \= 397.31gbp (Second Term)
+647.31 \- 300 \= 347.31gbp (Second Term)
 726.28 \- 300 \= 426.28gbp (Third Term)
 *These two are general spending budgets. They can be for anything from [[Wishlist]] or [[Game wishlist]] or [[Book wishlist]]*
 See [[Wishlist Archive]] for stuff I've already bought.
@@ -24,21 +24,22 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
 [wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
+[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
 
 Second term might be like:
-![[s-l1600.jpg | 165]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 190]] ![[Pasted image 20251021152552.png | 300]] ![[Pasted image 20251020223631.png | 175]]
+![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 190]] ![[Pasted image 20251021152552.png | 300]] ![[Pasted image 20251020223631.png | 175]]
 ![[{4F0EE916-79D4-483A-A7A3-FAB606E9EFC6}.png | 200]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]]
--[DangITProductions custom Maximum Spidey headsculpt](https://www.ebay.co.uk/itm/187471260540?itmmeta=01K7009YGKVX734M19ETF88PMP&hash=item2ba6286b7c:g:zxEAAeSwGqJolWW2) 40
 -[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed)
 -[MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.78
--Revoltech Cyborg Spider-Man custom (see [[Custom figure ideas]]) 73.06
+-Revoltech Cyborg Spider-Man custom (see [[Custom figure ideas]]) 58.57
 -[Fahrulstore35 V69](https://fahrulstore35.bigcartel.com/product/v69) and [Fahrulstore35 V64](https://fahrulstore35.bigcartel.com/product/v64) 52.30 with expedited shipping
-That's 247.58
+-[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54
+That's 252.39
 
 then Third term could be:
+![[000000001352-01-xl.jpg | 250]] ![[000000001352-09-xl.jpg | 200]] ![[000000001352-14-xl.jpg | 300]]
 ![[MESS TOYS Scarlet Spider.png| 180]] ![[6in Hulk.png| 180]] ![[2099 Render.png| 180]]
--[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
+-Kaiyodo Amazing Yamaguchi Symbiote Spider-Man 11,000jpy (50gbp) will pre-order on Nin Nin Game
 -6inch+ Grey Hulk 50
 -MESS TOYS Scarlet Spider 30
--Marvel Legends Spider-Man 2099 24.99
-That's 151.81
+That's 130

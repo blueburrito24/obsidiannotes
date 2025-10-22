@@ -6,6 +6,7 @@ Important tutorials:
 [How to add ball-jointed waist to ML](https://youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV?si=81ftPbYu7jJLTqlz)
 [How to dye action figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
 [How to increase butterfly range on Vulcan bodies](https://www.youtube.com/watch?v=GoviqGwjY5s)
+[How to attach custom heads to figures](https://youtu.be/jJLwEsiA2Qk)
 [3x2mm Magnets](https://www.amazon.co.uk/MAGABALLNET-Magnets-Neodymium-Cupboard-Whiteboard/dp/B0FCMGQVV8?crid=1F72Q28205OMQ&dib=eyJ2IjoiMSJ9.UhUNYlN2tgrvvdSRksOG6GlZq8r7htEVEXl6cP2xoxNWaThiKkG-SZ4tYOGrFiimDpvYN2Jh-Pm0ypbuw9LJlShyC8heN3G3H6GR1WYxM0CFs1hrflvUvf2sUdvCOtmvcG-egHmOwfFF-8JKKE6TER_EwP3vFohZYI1KUhxNUct2L9rga6m0BccbCvnWxHplqD6Hl6Z8aK2EChykGfWyLbT-yodgp8_YcH-2JzNaRIR_5CADpsM8ObfiyWqR6XddOV5nuO95aRVxoKgsYDp_Rr25DNVgm8e-44np581xm1w.0lffeLLal5yG7PW5QkdlY0MsSNiaQHyifBRTSAuJ2tw&dib_tag=se&keywords=magnets+3x2mm&qid=1760733256&sprefix=magnets+3x2mm%2Caps%2C120&sr=8-6) (acquired) - I want to put magnets in Maximum Spider-Man, Ultimate Spider-Woman, Gamerverse Venom, Batman, Dark-Avengers Spider-Man, 2099, MESS TOYS Scarlet Spider, MESS TOYS Black Suit Neighbour.
 
 ![[Ultimate_Spider-Woman.jpg | 150]] ![[ML Warbird.png| 275]]
@@ -32,14 +33,6 @@ Marvel Legends GAMERVERSE Venom upgrade:
 When I mod Venom I want to document it as a tutorial for future reference. I'll take photos and clips (need to buy tripod in [[Wishlist]]) at different stages e.g., comparing Venom to Maximum Spider-Man and showing from various angles how their different approach to butterfly joints affects their range of motion, showing how I plan and then modify the body, showing images of what my ideas for the figure are.
 Then I can include images of the figure before and after doing various poses, to show the effect of the articulation mods. Should credit any images used that aren't mine and credit any tutorials that inspired me such as the Cyclops butterfly mod above.
 Also note that at the start of the tutorial I'm gonna act like I'm throwing away Captain America, then at the end I'll show my Venomized Captain America next to my custom Venom and other figures.
-
-![[dfpkedx-6e336adf-5a49-4635-8fb7-758a5ec584a3.png| 275]] ![[G3Q9zZnWkAAVDio.jpeg | 190]] ![[{1A331834-D523-4AC3-AFEB-FC6D58430197}.png | 135]] ![[G3uMBf0XcAEplgg.jpeg | 140]]
-Marvel Legends Maximum-er Spider-Man:
-- I already have the right red, blue and black paints I need to ==repaint the logos on Maximum Spider-Man. Would just need to paint the legs over then reshape the body of the spider, then add the new legs and repaint the webs after drying. ==
-- The regular spider-logo is up top and smaller so it spreads across the shoulder-blades, whereas this logo is bigger and more central to the back so when I repaint it I can just ==spread it across the upper and lower body, which means I'd probably need to sand the abdomen down a bit to prevent paint rub. The BND edit is based on Paolo Rivera's logos, I will put it more towards the centre of the back so I can spread it equally across the abdomen and torso pieces.==
-- Also note that I should ==do this repaint after I do the [[ML Ab-Crunch mod]].==
-- This would be similar to how the spider-logo is done on the Toybiz Spider-Man body.
-I'll probably do these mods in January considering I won't get the custom headsculpt until then.
  
 ![[Pasted image 20251016214954.png | 200]] ![[Pasted image 20251016215107.png | 210]] ![[71uL0YYgibL._AC_SL1500_.jpg | 250]] ![[61pGKboEisL._AC_SL1500_.jpg | 170]] ![[{7E81E52D-AC2F-46E5-BC55-6EA41D2829CA}.png | 100]]
 Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
@@ -90,8 +83,8 @@ Revoltech Cyborg Spider-Man custom:
 [CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 23.39
 [Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968) 23.99
 [AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 10.19 (Black ver.)
-[Random weapons set 1/12](https://www.aliexpress.com/item/1005008135684209.html?spm=a2g0o.productlist.main.9.2f39131c9BctC2&algo_pvid=2e8b6ae7-14e9-463c-a413-e5e4e40afd25&algo_exp_id=2e8b6ae7-14e9-463c-a413-e5e4e40afd25-8&pdp_ext_f=%7B%22order%22%3A%2212%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2114.09%2114.09%21%21%21130.46%21130.46%21%40211b80c217610534570232181ecf46%2112000043936999794%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=aq6VJLeqHfed&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008135684209%7C_p_origin_prod%3A) 15.49
-TOTAL PRICE 73.06
+[Random weapons set 1/12](https://www.aliexpress.com/item/1005008135684209.html?spm=a2g0o.productlist.main.9.2f39131c9BctC2&algo_pvid=2e8b6ae7-14e9-463c-a413-e5e4e40afd25&algo_exp_id=2e8b6ae7-14e9-463c-a413-e5e4e40afd25-8&pdp_ext_f=%7B%22order%22%3A%2212%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2114.09%2114.09%21%21%21130.46%21130.46%21%40211b80c217610534570232181ecf46%2112000043936999794%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=aq6VJLeqHfed&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008135684209%7C_p_origin_prod%3A) 15.49 (optional)
+TOTAL PRICE 58.57
 Pretty simple kitbash. Just need to do the following:
 - ==Remove the belt, leg strap and head from the ML.== I need to put some glue inside the ML head so that I can make it fit on the Revoltech neck joint.
 - ==Remove the right viewer's side arm on the CT and replace it with the AC Factory arm.== I also want to remove the shoulder-guard from the ML cyborg arm and glue it onto the Revoltech arm. The difference in finish is fine as the arm appeared with different materials in the comic to begin with.
