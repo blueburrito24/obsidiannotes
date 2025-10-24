@@ -29,6 +29,8 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
 ![[Pasted image 20251023234400.png | 300]]
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050508736521%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 33.79
+![[mafex-iron-man-comic-stealth-color-ver-medicom-toy-.png | 300]]
+[MAFEX Iron Man Stealth Colour Ver.](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) 42.87
 
 Second term might be like:
 ![[Pasted image 20251020223631.png | 175]] ![[{4F0EE916-79D4-483A-A7A3-FAB606E9EFC6}.png | 200]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]]
