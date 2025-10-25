@@ -14,6 +14,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 [Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 [Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
+[Display stand for 1/12 figures](https://www.aliexpress.com/item/1005008564504383.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.49e0t3QNt3QNY9&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=5f05b2c3-013d-447d-bdf3-2bf0f6c05957&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:5f05b2c3-013d-447d-bdf3-2bf0f6c05957,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22977%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21GBP%212.69%212.42%21%21%213.48%213.13%21%4021039a5b17614240681107134e2f48%2112000045737340511%21rec%21UK%212834634728%21XZ%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895%3BpisId%3A5000000191192759&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008564504383%7C_p_origin_prod%3A) 2.69
 [Jet duster](https://amzn.eu/d/jiffMLM) 62.99
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] 
