@@ -18,17 +18,17 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
 [Jet duster](https://amzn.eu/d/jiffMLM) 62.99
 #### ***FIGURES I WANT***
+![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251023234400.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]] 
+![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[Pasted image 20251025183656.png | 200]]
 [Marvel Legends Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3.
-![[DA Spidey Render.png| 300]]
 [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers Spider-Man.
-![[2099 Render.png| 300]]
--Marvel Legends Spider-Man 2099 (Releases March) 24.99
+Marvel Legends Spider-Man 2099 (Releases March) 24.99
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
 [wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 [SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
-![[Pasted image 20251023234400.png | 300]]
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050508736521%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 33.79
+[MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
 
 Second term might be like:
 ![[Pasted image 20251020223631.png | 197]] ![[{4F0EE916-79D4-483A-A7A3-FAB606E9EFC6}.png | 200]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]]
