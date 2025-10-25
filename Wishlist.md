@@ -19,29 +19,33 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Jet duster](https://amzn.eu/d/jiffMLM) 62.99
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251023234400.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]] 
-![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[Pasted image 20251025183656.png | 200]]
-[Marvel Legends Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3.
+![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[Pasted image 20251025183656.png | 200]] ![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025202722.png | 200]]
+![[Pasted image 20251025203422.png | 200]] ![[Pasted image 20251025203442.png | 200]]
+[MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3.
 [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8, for Dark Avengers Spider-Man.
-Marvel Legends Spider-Man 2099 (Releases March) 24.99
+MARVEL LEGENDS Spider-Man 2099 (Releases March) 24.99
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
 [wired spider-man webs](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=r&ref=landingpage_similar_listing_bot-4&pro=1&content_source=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&logging_key=8348892c4d07a7135ba76e88d1f0c537%3A488bc60bd5e0a5cc6fe8d1070c784e954de19dd1&listing_id=4351330612&listing_slug=wired-spider-man-webs) off etsy 13.71
 [Toybiz Daredevil Mosaic Window wall-mount](https://www.ebay.co.uk/itm/374701000927) 26.69 
 [SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050508736521%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 33.79
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
+[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.25
+[SH FIGUARTS "Warrior's Fury" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.12
+[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.25
+[SH FIGUARTS Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 27.05
 
 Second term might be like:
-![[Pasted image 20251020223631.png | 197]] ![[{4F0EE916-79D4-483A-A7A3-FAB606E9EFC6}.png | 200]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]]
-![[s-l1600 1.jpg | 200]] ![[Pasted image 20251025172916.png | 300]]
+![[Pasted image 20251020223631.png | 197]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]] ![[s-l1600 1.jpg | 200]] ![[Pasted image 20251025172916.png | 280]]
 -[MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.78
+-[Fahrulstore35 V64 headsculpt](https://fahrulstore35.bigcartel.com/product/v64) 41.33 with expedited shipping
 -[MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005008455372278.html?spm=a2g0o.productlist.main.16.3131371dRa59b9&aem_p4p_detail=20251023153121639178736197720001270066&algo_pvid=7116a286-2963-4c6c-8d2d-3a0d39100d26&algo_exp_id=7116a286-2963-4c6c-8d2d-3a0d39100d26-15&pdp_ext_f=%7B%22order%22%3A%223385%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2165.76%2129.59%21%21%21606.64%21272.97%21%40210384cc17612586809564616e96bc%2112000050857874619%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=EmZ3lUOIqSrC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008455372278%7C_p_origin_prod%3A&search_p4p_id=20251023153121639178736197720001270066_4) 29.59
 -Revoltech Cyborg Spider-Man custom 58.57:
 - [CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
 - [Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968)
 - [AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
--[Fahrulstore35 V69](https://fahrulstore35.bigcartel.com/product/v69) and [Fahrulstore35 V64](https://fahrulstore35.bigcartel.com/product/v64) 52.30 with expedited shipping
 -[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54
-That's 237.78
+That's 225.81
 
 then Third term could be:
 ![[000000001352-01-xl.jpg | 250]] ![[000000001352-09-xl.jpg | 200]] ![[000000001352-14-xl.jpg | 300]]
