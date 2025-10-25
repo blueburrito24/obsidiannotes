@@ -31,10 +31,13 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050508736521%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 33.79
 
 Second term might be like:
-![[Pasted image 20251020223631.png | 175]] ![[{4F0EE916-79D4-483A-A7A3-FAB606E9EFC6}.png | 200]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]]
+![[Pasted image 20251020223631.png | 197]] ![[{4F0EE916-79D4-483A-A7A3-FAB606E9EFC6}.png | 200]] ![[{94FD1CC2-1B61-4F47-AB59-77A054C99C98}.png | 200]] ![[s-l1600 1.jpg | 200]]
 -[MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.78
 -[MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005008455372278.html?spm=a2g0o.productlist.main.16.3131371dRa59b9&aem_p4p_detail=20251023153121639178736197720001270066&algo_pvid=7116a286-2963-4c6c-8d2d-3a0d39100d26&algo_exp_id=7116a286-2963-4c6c-8d2d-3a0d39100d26-15&pdp_ext_f=%7B%22order%22%3A%223385%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2165.76%2129.59%21%21%21606.64%21272.97%21%40210384cc17612586809564616e96bc%2112000050857874619%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=EmZ3lUOIqSrC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008455372278%7C_p_origin_prod%3A&search_p4p_id=20251023153121639178736197720001270066_4) 29.59
--Revoltech Cyborg Spider-Man custom (see [[Custom figure ideas]]) 58.57
+-Revoltech Cyborg Spider-Man custom 58.57
+- [CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
+- [Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968)
+- [AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
 -[Fahrulstore35 V69](https://fahrulstore35.bigcartel.com/product/v69) and [Fahrulstore35 V64](https://fahrulstore35.bigcartel.com/product/v64) 52.30 with expedited shipping
 -[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54
 That's 237.78

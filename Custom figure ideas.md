@@ -2,8 +2,7 @@
 Revoltech Cyborg Spider-Man custom:
 [CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 23.39
 [Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968) 23.99
-[AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 10.19 (Black ver.)
-[Random weapons set 1/12](https://www.aliexpress.com/item/1005008135684209.html?spm=a2g0o.productlist.main.9.2f39131c9BctC2&algo_pvid=2e8b6ae7-14e9-463c-a413-e5e4e40afd25&algo_exp_id=2e8b6ae7-14e9-463c-a413-e5e4e40afd25-8&pdp_ext_f=%7B%22order%22%3A%2212%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2114.09%2114.09%21%21%21130.46%21130.46%21%40211b80c217610534570232181ecf46%2112000043936999794%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=aq6VJLeqHfed&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008135684209%7C_p_origin_prod%3A) 15.49 (optional)
+[AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 10.19
 TOTAL PRICE 58.57
 Pretty simple kitbash. Just need to do the following:
 - ==Remove the belt, leg strap and head from the ML.== I need to put some glue inside the ML head so that I can make it fit on the Revoltech neck joint.
