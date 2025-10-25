@@ -28,7 +28,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3 + [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
-[SH Figuarts Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
+[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 [SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.25, releases April 2025
 [SH FIGUARTS "Warrior's Fury" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.12, releases July 2025
 [SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.25, releases May 2025
