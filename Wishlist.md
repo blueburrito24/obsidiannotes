@@ -24,6 +24,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025202722.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]]
+![[G3p7zfzXIAAm7HM.jpeg | 300]] ![[Pasted image 20251026191502.png | 225]] ![[Pasted image 20251026191916.png | 225]]
 ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]]
 ![[000000001352-01-xl.jpg | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]]
 ![[Pasted image 20251026013810.png | 200]] ![[Pasted image 20251026014448.png | 200]] ![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251021152552.png | 400]]
@@ -51,3 +52,6 @@ MESS TOYS Scarlet Spider 30
 [MAFEX Miles Morales Giruhiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.20
 [MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.29
 [Fahrulstore35 V40 for Miles Morales](https://fahrulstore35.bigcartel.com/product/v40) + [V64 for Sensational](https://fahrulstore35.bigcartel.com/product/v64) 52.60
+[Tonsenarttoys Kamione Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 62.19
+[SH FIGUARTS Turles](https://zenmarket.jp/s/ashi-toys/4876831?id=60b93e81-fc01-4c7c-be56-c77adb7acc49) 90.11
+[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 48.52
