@@ -19,12 +19,14 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Tamashi Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
 [Tamashi Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
 [Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
+[Batman/Moon print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/moon-batman-dc/) 15usd, 8x10in
+[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025202722.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]]
 ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]]
 ![[000000001352-01-xl.jpg | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]]
-![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251021152552.png | 400]]
+![[Pasted image 20251026013810.png | 200]] ![[Pasted image 20251026014448.png | 200]] ![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251021152552.png | 400]]
 [MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3 + [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
@@ -46,3 +48,6 @@ Revoltech Cyborg Spider-Man custom 58.57:
 MESS TOYS Scarlet Spider 30
 [Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
+[MAFEX Miles Morales Giruhiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.20
+[MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.29
+[Fahrulstore35 V40 for Miles Morales](https://fahrulstore35.bigcartel.com/product/v40) + [V64 for Sensational](https://fahrulstore35.bigcartel.com/product/v64) 52.60

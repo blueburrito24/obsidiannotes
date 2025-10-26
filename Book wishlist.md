@@ -2,6 +2,11 @@
 [Marvel Masterworks: The Amazing Spider-Man](https://www.amazon.co.uk/Mighty-Marvel-Masterworks-Amazing-Spider-Man/dp/1302929771?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1FZOOUA8MZG8K) 10.70
 [Marvel Masterworks: Iron Man](https://ebay.us/m/nGJAoU) 33.10
 [TMNT: Mirage Years](https://www.amazon.co.uk/Teenage-Mutant-Ninja-Turtles-1993-1995/dp/B0D72JW6R4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 33.65  
+[Spider-Man & Wolverine](https://forbiddenplanet.com/452827-spider-man-wolverine-1/) 4.90
+[Batman: Ten Nights of the Beast](https://www.ebay.co.uk/itm/177462846429?) 15.86
+[Batman: Gotham by Gaslight](https://www.ebay.co.uk/itm/316115692894?) 11.85
+[The Jurassic League](https://www.amazon.co.uk/Jurassic-League-Daniel-Johnson/dp/1779518447) 9.99
+[Spider-Man: The Hunted Omnibus](https://www.amazon.co.uk/Amazing-Spider-Man-Hunted-Omnibus/dp/1804911429) 22.65
 [Transformers Vol 1](https://forbiddenplanet.com/416587-transformers-volume-1-robots-in-disguise/?utm_medium=promotion&utm_source=439616-edge-of-spider-verse-spider-society&utm_campaign=product-detail-order-related-products) 10.34
 [Venom: Black, White & Blood](https://forbiddenplanet.com/subscriptions/series/marvel-comics/venom-black-white-blood/) 3.75 per issue   
 [Venomverse](https://www.amazon.co.uk/Venomverse-Cullen-Bunn/dp/184653884X) 11.48
