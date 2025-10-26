@@ -24,7 +24,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
-![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]]
+![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]] ![[G4Lru73XoAApNQq.jpeg | 280]]
 ![[Pasted image 20251026191502.png | 200]] ![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg | 200]] ![[G3p7zfzXIAAm7HM.jpeg | 265]]
 ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]]
 ![[000000001352-01-xl.jpg | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]]
@@ -36,6 +36,8 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [SH FIGUARTS Turles](https://zenmarket.jp/s/ashi-toys/4876831?id=60b93e81-fc01-4c7c-be56-c77adb7acc49) 90.11
 [SH FIGUARTS Cooler](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 76.64
 ###### ALL MY DB FIGURES NEED THEIR EYES AND MOUTHS REMOVED USING WIPES ######
+
+[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 
 [MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3 + [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
