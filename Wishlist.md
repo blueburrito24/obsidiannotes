@@ -24,20 +24,17 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
-![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025202722.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]]
-![[G3p7zfzXIAAm7HM.jpeg | 265]] ![[Pasted image 20251026191502.png | 200]] ![[Pasted image 20251026191916.png | 200]] ![[Pasted image 20251026213723.png | 200]]
+![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]]
+![[Pasted image 20251026191502.png | 200]] ![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg | 200]] ![[G3p7zfzXIAAm7HM.jpeg | 265]]
 ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]]
 ![[000000001352-01-xl.jpg | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]]
 ![[Pasted image 20251026013810.png | 200]] ![[Pasted image 20251026014448.png | 200]] ![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251021152552.png | 400]]
-[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 [SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.25, releases April 2025
-[SH FIGUARTS "Warrior's Fury" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.12, releases July 2025
 [SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.25, releases May 2025
 [SH FIGUARTS Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 27.05
 [Tonsenarttoys Kamione Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 62.19
 [SH FIGUARTS Turles](https://zenmarket.jp/s/ashi-toys/4876831?id=60b93e81-fc01-4c7c-be56-c77adb7acc49) 90.11
-[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 48.52
-[BLACK HOLE TOYS Majin Vegeta, Battle-Damaged Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 46.49
+[SH FIGUARTS Cooler](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 76.64
 
 [MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3 + [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
@@ -53,6 +50,7 @@ Revoltech Cyborg Spider-Man custom 58.57
 [Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.nin-nin-game.com/en/preorders/203583-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-limited-bonus-kaiyodo-.html) 65.93
 6inch+ Grey Hulk 50
 MESS TOYS Scarlet Spider 30
+[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 [Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
 [MAFEX Miles Morales Giruhiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.20
