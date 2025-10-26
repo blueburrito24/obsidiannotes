@@ -21,10 +21,11 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 [Batman/Moon print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/moon-batman-dc/) 15usd, 8x10in
 [Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
+[Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025202722.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]]
-![[G3p7zfzXIAAm7HM.jpeg | 300]] ![[Pasted image 20251026191502.png | 225]] ![[Pasted image 20251026191916.png | 225]]
+![[G3p7zfzXIAAm7HM.jpeg | 265]] ![[Pasted image 20251026191502.png | 200]] ![[Pasted image 20251026191916.png | 200]] ![[Pasted image 20251026213723.png | 200]]
 ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]]
 ![[000000001352-01-xl.jpg | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]]
 ![[Pasted image 20251026013810.png | 200]] ![[Pasted image 20251026014448.png | 200]] ![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251021152552.png | 400]]
@@ -36,6 +37,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Tonsenarttoys Kamione Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 62.19
 [SH FIGUARTS Turles](https://zenmarket.jp/s/ashi-toys/4876831?id=60b93e81-fc01-4c7c-be56-c77adb7acc49) 90.11
 [SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 48.52
+[BLACK HOLE TOYS Majin Vegeta, Battle-Damaged Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 46.49
 
 [MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3 + [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
