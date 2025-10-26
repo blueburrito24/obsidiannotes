@@ -35,6 +35,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Tonsenarttoys Kamione Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 62.19
 [SH FIGUARTS Turles](https://zenmarket.jp/s/ashi-toys/4876831?id=60b93e81-fc01-4c7c-be56-c77adb7acc49) 90.11
 [SH FIGUARTS Cooler](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 76.64
+###### ALL MY DB FIGURES NEED THEIR EYES AND MOUTHS REMOVED USING WIPES ######
 
 [MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3 + [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
