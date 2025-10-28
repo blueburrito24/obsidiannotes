@@ -8,6 +8,8 @@
 [Batman: Creature of the Night](https://www.amazon.co.uk/Batman-Creature-Night-Kurt-Busiek/dp/1779506287) 16.31
 [Batman: Ten Nights of the Beast](https://www.ebay.co.uk/itm/177462846429?) 15.86
 [Batman: Gotham by Gaslight](https://www.ebay.co.uk/itm/316115692894?) 11.85
+[Batman: Manga Vol 1](https://www.amazon.co.uk/Batman-Manga-TP-Kuwata-Batmanga/dp/140125277X) 17.39
+[Wolverine](https://www.amazon.co.uk/Wolverine-Claremont-Miller-Marvel-Quality/dp/0785137246) 13 with shipping
 [The Jurassic League](https://www.amazon.co.uk/Jurassic-League-Daniel-Johnson/dp/1779518447) 9.99
 [Spider-Man: The Hunted Omnibus](https://www.amazon.co.uk/Amazing-Spider-Man-Hunted-Omnibus/dp/1804911429) 22.65
 [Transformers Vol 1](https://forbiddenplanet.com/416587-transformers-volume-1-robots-in-disguise/?utm_medium=promotion&utm_source=439616-edge-of-spider-verse-spider-society&utm_campaign=product-detail-order-related-products) 10.34
