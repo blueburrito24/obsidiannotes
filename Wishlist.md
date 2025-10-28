@@ -48,7 +48,7 @@ Revoltech Cyborg Spider-Man custom 58.57
 -[CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%221200-0045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
 -[Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968)
 -[AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
-[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54
+[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 6inch+ Grey Hulk 50
 MESS TOYS Scarlet Spider 30
