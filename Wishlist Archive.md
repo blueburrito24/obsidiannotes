@@ -15,3 +15,5 @@ Also note, I want to repaint Venom's spider-logo to be like the one on the 12in 
 
 **Using my PSP sale money, I bought Revoltech Iron Spider alongside Revoltech 1.0 Spider-Man for 140**
 ![[Pasted image 20251017144512.png | 300]] ![[Pasted image 20251017144526.png | 280]]
+![[000000001352-01-xl.jpg | 400]]
+[Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.hlj.com/revoltech-amazing-yamaguchi-symbiote-spider-man-kyd22107) 65.93
