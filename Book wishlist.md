@@ -5,6 +5,7 @@
 [Marvel Masterworks: Iron Man](https://ebay.us/m/nGJAoU) 33.10
 [TMNT: Mirage Years](https://www.amazon.co.uk/Teenage-Mutant-Ninja-Turtles-1993-1995/dp/B0D72JW6R4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 33.65  
 [Spider-Man & Wolverine](https://forbiddenplanet.com/452827-spider-man-wolverine-1/) 4.90
+[Batman: Creature of the Night](https://www.amazon.co.uk/Batman-Creature-Night-Kurt-Busiek/dp/1779506287) 16.31
 [Batman: Ten Nights of the Beast](https://www.ebay.co.uk/itm/177462846429?) 15.86
 [Batman: Gotham by Gaslight](https://www.ebay.co.uk/itm/316115692894?) 11.85
 [The Jurassic League](https://www.amazon.co.uk/Jurassic-League-Daniel-Johnson/dp/1779518447) 9.99
