@@ -22,6 +22,7 @@ entirely silhouetted. blue venom chasing red spider-man through the sky and spid
 Read Obsidian documentation.
 
 ==Catch up on DSA for Weeks 3 and 4, AI for Weeks 3 and 4, Team Project and Software Engineering for Weeks 2-4.==
+###### Up to week 6 right now.
 
 ==Start personal programming, look in [[app and project ideas]], work on wishlist app in python.==
 
