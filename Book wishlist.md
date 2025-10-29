@@ -1,37 +1,40 @@
+### Priority Reads
 [Just Imagine... If the DC Universe was written by Stan Lee](https://www.ebay.co.uk/itm/155739021528?) 17.26
 [Immortal Hulk Omnibus](https://www.amazon.co.uk/Immortal-Hulk-Omnibus-Al-Ewing/dp/1846533600) 22.65
-[Spider-Man: Family Business](https://www.amazon.co.uk/Amazing-Spider-Man-Family-Business-Hardcover/dp/0785184406) 12.99
+[Deadpool Classic Volume 1 TPB](https://www.amazon.co.uk/Deadpool-Classic-TPB-Classics/dp/0785131248) 24.50
 [Marvel Masterworks: The Amazing Spider-Man](https://www.amazon.co.uk/Mighty-Marvel-Masterworks-Amazing-Spider-Man/dp/1302929771?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A1FZOOUA8MZG8K) 10.70
 [Marvel Masterworks: Iron Man](https://ebay.us/m/nGJAoU) 33.10
 [TMNT: Mirage Years](https://www.amazon.co.uk/Teenage-Mutant-Ninja-Turtles-1993-1995/dp/B0D72JW6R4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 33.65  
 [Spider-Man & Wolverine](https://forbiddenplanet.com/452827-spider-man-wolverine-1/) 4.90
+[Wolverine](https://www.amazon.co.uk/Wolverine-Claremont-Miller-Marvel-Quality/dp/0785137246) 13 with shipping
+[Transformers Vol 1](https://forbiddenplanet.com/416587-transformers-volume-1-robots-in-disguise/?utm_medium=promotion&utm_source=439616-edge-of-spider-verse-spider-society&utm_campaign=product-detail-order-related-products) 10.34
+[All Star Superman](https://forbiddenplanet.com/408469-all-star-superman-dc-compact-comics-edition/) 6.20
+[Batman: The Dark Knight Returns 30th Anni. Paperback](https://forbiddenplanet.com/151611-batman-the-dark-knight-returns-30th-anniversary-edition/) 10.99
+[Spider-Man: The Real Clone Saga Paperback](https://www.ebay.co.uk/itm/326763567616?_skw=Spider-Man%3A+The+Real+Clone+Saga+-+Paperback&itmmeta=01K4M6MJS78QDK997YX2HZZTY9&hash=item4c14a05a00:g:JD8AAeSw5spove3j&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1fuBD%2FQAm7uWv%2FVi9wHtBZdWb5he3AdVBjmwDeCBvHzV%2BxGeugc4O8g%2FlscLlLKvcr4WmiwOTIBYEqLWovryYQmKFovaOPl0LDhYeSlpI4Yx6DCLO8JpYPMcc7wbMwuOUDRJpHh4qgQO1MZ88ztb5l0Dle62V13VHbN9O%2BEgYPiJYDwHDztCQa2nlKXqZMzgjb3w97S456SAhOGtQlkG2e2o%2FqyYxkssAJdCuRrGS0qiF%2Bwg27%2FcCvqNg%2BwIo9U7vVvnPsMkTj7on9%2BwJUWYRne6w022J%2BlBQjlT2d70DvTmg%3D%3D%7Ctkp%3ABk9SR_as0oalZg) 25.22
+[Batman: Year One & Two](https://forbiddenplanet.com/428020-dc-finest-batman-year-one-two/?utm_medium=promotion&utm_source=408469-all-star-superman-dc-compact-comics-edition&utm_campaign=product-detail-search-related-products) 24.14
+[Batman: The Long Halloween](https://forbiddenplanet.com/460709-batman-the-long-halloween-dc-compact-comics-edition/) 6.20
+[Batman: Hush](https://forbiddenplanet.com/408471-batman-hush-dc-compact-comics-edition/) 6.20
+[DC: Watchmen Compact Comic](https://forbiddenplanet.com/408477-watchmen-dc-compact-comics-edition/) 6.20
+[Marvel: Secret Wars](https://www.ebay.co.uk/itm/365726228614?_skw=marvel+secret+wars+deluxe+edition&itmmeta=01K430VT1VHHYMJ1G4GM0K8QMR&hash=item5526fb6086:g:fhQAAeSwPKpocnG1&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1eYarUValdHU4KCXdxskaDTm8GGIM3v7qsEaqC22Sp6hQ5a2SI7G%2BqNQ2yZhIdkCYNFswEI9ViZsUitIPTCv9axC8BF8jZpeKDp86GOOD0TnWpK0XmoZLhJl7f5cKDk65Hc8C3CqOQMxbMkGx79fxtksMYujjbrdcRBFiA7SHy63qEKYVyqTQYWQZ92u7w88CiJLyyQREyb3qPaASrBtK3agWlza1NXDdKBLTU6PlNq7AlmkXZo3pzXErBW%2FtQGEn%2B1SoFhyKTwNa0p0ck1fcnm1SbtyjOdndwdV0sWxLR0lqvspFkVSscNzxztWMKjgoU%3D%7Ctkp%3ABk9SR4yh7-CgZg) 22.95
+[Marvel: Civil War TPB](https://www.ebay.co.uk/itm/356909541372) 7.86
+[The Jurassic League](https://www.amazon.co.uk/Jurassic-League-Daniel-Johnson/dp/1779518447) 9.99
+[Hulk: Gray TPB](https://www.ebay.co.uk/itm/297619664774?_skw=hulk%3A+gray+tpb&itmmeta=01K61C2AYA45RQG7EG8KFQ3G3X&hash=item454b83af86:g:9bcAAeSwwV9oy-Sx&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cbA7C4gU9u0jmFImUT6kmouv4Z3Tvi9%2B8UWd3HXiltmCTyDU%2FMnr2Cf87JSLl1tIB3KzBw6D0lUXROJKTYnO5lft1QkSxdqjaGc%2F8F%2BWs6IGRDJj%2BLSboe7bxLsK3BPHXAZHVUyt4SWseC6JqR5VcMpB2%2FovgOb%2BgLJsqE1Mm%2B%2BaVUkUgq0r8%2BzWJhWv2BPn8E7m6Us5jBLgYz27JTMn58A8mar5rYHOmAjhMz4Utt9ONwxil%2FOztnfPhypRHUtc8AxJIwGCOjBy7IAF%2F9xd7QVc%2FZkolklOhOpxfWdn3XQQ%3D%3D%7Ctkp%3ABk9SR6yviaywZg) 29.62gbp  
+[Daredevil: Yellow TPB](https://www.ebay.co.uk/itm/226880479894?_skw=daredevil%3A+yellow+tpb&itmmeta=01K61C1X72RHX6AYDQ4MCQ5BR3&hash=item34d3216296:g:nt8AAeSwqqhof1dm&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cyvYpldrmrzfgDKERCLc4d78Cir1%2Fc%2FNrKJCTcsXxkmH56Z9mTMife81Egu6GCe%2BSoJuaXjUdOdpAfyDGKiLbUsdki5GZx01xZ9Yv%2FWK%2BemQjroeue0W2vESik%2BQKlnZvICzIGQr7ZQ3AdCmYquvDk63T94AUdkANgYq2Ejx0hj67Gx0PisGvSHy5a%2FL5znKlscQvSxF12AcKZpPXuSOPdaQ4rQH0J6Z9GewduL37XpWYQ2s6O2dSe2f2QeCVclwAuzkhjRhlf%2BTHycTr7C2%2Ffpm4m3yY8826xcKzNnL7RZw%3D%3D%7Ctkp%3ABk9SR97Th6ywZg) 24
+
+### Other Books To Read
+[Spider-Man: Family Business](https://www.amazon.co.uk/Amazing-Spider-Man-Family-Business-Hardcover/dp/0785184406) 12.99
 [Batman: Creature of the Night](https://www.amazon.co.uk/Batman-Creature-Night-Kurt-Busiek/dp/1779506287) 16.31
 [Batman: Ten Nights of the Beast](https://www.ebay.co.uk/itm/177462846429?) 15.86
 [Batman: Gotham by Gaslight](https://www.ebay.co.uk/itm/316115692894?) 11.85
 [Batman: Manga Vol 1](https://www.amazon.co.uk/Batman-Manga-TP-Kuwata-Batmanga/dp/140125277X) 17.39
-[Wolverine](https://www.amazon.co.uk/Wolverine-Claremont-Miller-Marvel-Quality/dp/0785137246) 13 with shipping
-[The Jurassic League](https://www.amazon.co.uk/Jurassic-League-Daniel-Johnson/dp/1779518447) 9.99
-[Spider-Man: The Hunted Omnibus](https://www.amazon.co.uk/Amazing-Spider-Man-Hunted-Omnibus/dp/1804911429) 22.65
-[Transformers Vol 1](https://forbiddenplanet.com/416587-transformers-volume-1-robots-in-disguise/?utm_medium=promotion&utm_source=439616-edge-of-spider-verse-spider-society&utm_campaign=product-detail-order-related-products) 10.34
 [Venom: Black, White & Blood](https://forbiddenplanet.com/subscriptions/series/marvel-comics/venom-black-white-blood/) 3.75 per issue   
 [Venomverse](https://www.amazon.co.uk/Venomverse-Cullen-Bunn/dp/184653884X) 11.48
-[Batman: The Dark Knight Returns 30th Anni. Paperback](https://forbiddenplanet.com/151611-batman-the-dark-knight-returns-30th-anniversary-edition/) 10.99
 [Amazing Spider-Man current run](https://forbiddenplanet.com/subscriptions/series/marvel-comics/amazing-spider-man-ii/) 3.75 per issue
-[All Star Superman](https://forbiddenplanet.com/408469-all-star-superman-dc-compact-comics-edition/) 6.20
 [Spider-Man: Blue TPB](https://www.amazon.co.uk/Spider-Man-Graphic-Novels-Marvel-Paperback/dp/0785110712) 34.99
 [The Amazing Spider-Man Epic Collection: Venom](https://www.ebay.co.uk/itm/356737865710?_skw=Amazing+Spider-Man%3A+Epic+Collection%3A+Venom+%28New+Printing%29&itmmeta=01K65GTZ3NQJMEGPB0VCMJ7FB6&hash=item530f3bd7ee:g:jEIAAeSwmENo14yU&itmprp=enc%3AAQAKAAABIFkggFvd1GGDu0w3yXCmi1d71T%2B80yFfAPDX3wn3sJ%2Fk2HSJLkSBVzkagrIYGV4H18mOZuhKD%2FqOBSJxeA%2B42AMIXG%2B8P7zBri2r55DO4MhP0GeeXBwD7PsCEu7mwPD2eQ1TnowMrMalQpjtpt11FTEV%2BwV0jxuy1y18EdxEnuFBnAvTGaRV%2BHfPqeh3n0CN1fM6szfQLY5QXg0f9hoyLHv89XMPlE%2FN6SAe3i2uEFVks79B47gns5O0YCCZ0a1vW9MUaaNma5cgc9GNIn6MU%2B4ecKnzs9Qx0ga0hNbyn7EE4nZjnNuadYiapYOz%2BVoEtMWJiXcUEZFTF%2Fb8p0VbdfQKWoAkxoR9CsVtH93EfJGjEeKbttvhjvgwV7HLt5k8SA%3D%3D%7Ctkp%3ABk9SR_bx67CxZg) 28.95
 [Marvel Zombies Omnibus](https://forbiddenplanet.com/334560-marvel-zombies-omnibus/) 11.79  
-[Hulk: Gray TPB](https://www.ebay.co.uk/itm/297619664774?_skw=hulk%3A+gray+tpb&itmmeta=01K61C2AYA45RQG7EG8KFQ3G3X&hash=item454b83af86:g:9bcAAeSwwV9oy-Sx&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cbA7C4gU9u0jmFImUT6kmouv4Z3Tvi9%2B8UWd3HXiltmCTyDU%2FMnr2Cf87JSLl1tIB3KzBw6D0lUXROJKTYnO5lft1QkSxdqjaGc%2F8F%2BWs6IGRDJj%2BLSboe7bxLsK3BPHXAZHVUyt4SWseC6JqR5VcMpB2%2FovgOb%2BgLJsqE1Mm%2B%2BaVUkUgq0r8%2BzWJhWv2BPn8E7m6Us5jBLgYz27JTMn58A8mar5rYHOmAjhMz4Utt9ONwxil%2FOztnfPhypRHUtc8AxJIwGCOjBy7IAF%2F9xd7QVc%2FZkolklOhOpxfWdn3XQQ%3D%3D%7Ctkp%3ABk9SR6yviaywZg) 29.62gbp  
-[Daredevil: Yellow TPB](https://www.ebay.co.uk/itm/226880479894?_skw=daredevil%3A+yellow+tpb&itmmeta=01K61C1X72RHX6AYDQ4MCQ5BR3&hash=item34d3216296:g:nt8AAeSwqqhof1dm&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cyvYpldrmrzfgDKERCLc4d78Cir1%2Fc%2FNrKJCTcsXxkmH56Z9mTMife81Egu6GCe%2BSoJuaXjUdOdpAfyDGKiLbUsdki5GZx01xZ9Yv%2FWK%2BemQjroeue0W2vESik%2BQKlnZvICzIGQr7ZQ3AdCmYquvDk63T94AUdkANgYq2Ejx0hj67Gx0PisGvSHy5a%2FL5znKlscQvSxF12AcKZpPXuSOPdaQ4rQH0J6Z9GewduL37XpWYQ2s6O2dSe2f2QeCVclwAuzkhjRhlf%2BTHycTr7C2%2Ffpm4m3yY8826xcKzNnL7RZw%3D%3D%7Ctkp%3ABk9SR97Th6ywZg) 24
 [Batman: Ego and Other Trails](https://www.amazon.co.uk/Batman-Ego-Other-Tails-TP/dp/1401213596?crid=3ET7JBBV3YQIL&dib=eyJ2IjoiMSJ9.V6ccuEJMjwDkywp7V9G-9bs1_0lgJHpjbeC2PUKL8PqYTz0YL3ivPqbDGjCSXfBDwe3_IuFINn0z8evoRI_rPe_o_8AyQFi1IdIq2mGg5QDfqDV8z3or3Cs9YbscrhvkaIT-lPwg8vHwn4bGJjRdiWvYK-DisUP8sbxi7FBNBTFC3X-TFURETHbeRRjVbS-TxXAcIUeaNGaI44JKcwBzgUK4E57WPYFyrauKnUpce_s.quQMh0Sp7HwlWFzX7-OFbR3RDDvw7kzaQ09p3S4DGk8&dib_tag=se&keywords=batman%3A+ego&qid=1756426997&s=books&sprefix=batman+ego%2Cstripbooks%2C94&sr=1-1) 15.17
-[Batman: Year One & Two](https://forbiddenplanet.com/428020-dc-finest-batman-year-one-two/?utm_medium=promotion&utm_source=408469-all-star-superman-dc-compact-comics-edition&utm_campaign=product-detail-search-related-products) 24.14
-[Batman: The Long Halloween](https://forbiddenplanet.com/460709-batman-the-long-halloween-dc-compact-comics-edition/) 6.20
-[Batman: Hush](https://forbiddenplanet.com/408471-batman-hush-dc-compact-comics-edition/) 6.20g
-[Spider-Man: The Real Clone Saga Paperback](https://www.ebay.co.uk/itm/326763567616?_skw=Spider-Man%3A+The+Real+Clone+Saga+-+Paperback&itmmeta=01K4M6MJS78QDK997YX2HZZTY9&hash=item4c14a05a00:g:JD8AAeSw5spove3j&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1fuBD%2FQAm7uWv%2FVi9wHtBZdWb5he3AdVBjmwDeCBvHzV%2BxGeugc4O8g%2FlscLlLKvcr4WmiwOTIBYEqLWovryYQmKFovaOPl0LDhYeSlpI4Yx6DCLO8JpYPMcc7wbMwuOUDRJpHh4qgQO1MZ88ztb5l0Dle62V13VHbN9O%2BEgYPiJYDwHDztCQa2nlKXqZMzgjb3w97S456SAhOGtQlkG2e2o%2FqyYxkssAJdCuRrGS0qiF%2Bwg27%2FcCvqNg%2BwIo9U7vVvnPsMkTj7on9%2BwJUWYRne6w022J%2BlBQjlT2d70DvTmg%3D%3D%7Ctkp%3ABk9SR_as0oalZg) 25.22
-[Marvel: Secret Wars](https://www.ebay.co.uk/itm/365726228614?_skw=marvel+secret+wars+deluxe+edition&itmmeta=01K430VT1VHHYMJ1G4GM0K8QMR&hash=item5526fb6086:g:fhQAAeSwPKpocnG1&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1eYarUValdHU4KCXdxskaDTm8GGIM3v7qsEaqC22Sp6hQ5a2SI7G%2BqNQ2yZhIdkCYNFswEI9ViZsUitIPTCv9axC8BF8jZpeKDp86GOOD0TnWpK0XmoZLhJl7f5cKDk65Hc8C3CqOQMxbMkGx79fxtksMYujjbrdcRBFiA7SHy63qEKYVyqTQYWQZ92u7w88CiJLyyQREyb3qPaASrBtK3agWlza1NXDdKBLTU6PlNq7AlmkXZo3pzXErBW%2FtQGEn%2B1SoFhyKTwNa0p0ck1fcnm1SbtyjOdndwdV0sWxLR0lqvspFkVSscNzxztWMKjgoU%3D%7Ctkp%3ABk9SR4yh7-CgZg) 22.95
-[Marvel: Civil War TPB](https://www.ebay.co.uk/itm/356909541372) 7.86
 [Spider-Man: Reign Omnibus](https://forbiddenplanet.com/451064-spider-man-reign-omnibus/) 17.24
-[DC: Watchmen Compact Comic](https://forbiddenplanet.com/408477-watchmen-dc-compact-comics-edition/) 6.20
 [Marvel: Bullet Points TPB](https://www.amazon.co.uk/Bullet-Points-TPB-Michael-Straczynski/dp/0785120106) 19.61
 [Batman: Last Knight on Earth](https://www.amazon.co.uk/Batman-Knight-Earth-Scott-Snyder/dp/1401294960) 17.86
 [Batgirl: Nobody Dies Tonight](https://forbiddenplanet.com/443445-dc-finest-batgirl-nobody-dies-tonight/) 24.83
