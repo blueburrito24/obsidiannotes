@@ -28,7 +28,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]] ![[G4Lru73XoAApNQq.jpeg | 280]]
 ![[Pasted image 20251026191502.png | 200]] ![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg | 200]] ![[G3p7zfzXIAAm7HM.jpeg | 265]]
-![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]]
+![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]] ![[gsc66650_2.webp | 200]]
 ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[s-l1600 1.jpg | 150]]
 ![[Pasted image 20251026014448.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
 ![[Pasted image 20251021152552.png | 400]]
@@ -60,19 +60,19 @@ MESS TOYS Scarlet Spider 30**
 [MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.29
 6inch+ Grey Hulk 50
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99**
+[Nendoroid's Sonic the Hedgehog](https://www.hlj.com/nendoroid-sonic-the-hedgehog-rerelease-gsc66650) 33.91
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 tonsenarttoys kamione gogeta 62.19
 revoltech cyborg spider-man custom 58.57
 ct toys agent venom 24.19
 mafex spider-man 2099 54.42
-mess toys scarlet neighbour
-228.96 total
+shf khs goku 20.25
+219.62 total
 
 revoltech Deadpool 44.44
 6inch+ hulk 50
 mess toys scarlet spider 30
-sv action noir 63.99
-shf khs goku 20.25
+nendoroid sonic 33.91
 revoltech symbiote spider-man 56.30
-264.98 total
+214.65 total
