@@ -23,6 +23,7 @@
 
 ### Other Books To Read
 [Spider-Man: Family Business](https://www.amazon.co.uk/Amazing-Spider-Man-Family-Business-Hardcover/dp/0785184406) 12.99
+[ROM the Space Knight Epic Collection: The Original Marvel Years Vol. 1](https://www.amazon.co.uk/Rom-Epic-Collection-Original-Marvel/dp/130296108X) 32.83
 [Batman: Creature of the Night](https://www.amazon.co.uk/Batman-Creature-Night-Kurt-Busiek/dp/1779506287) 16.31
 [Batman: Ten Nights of the Beast](https://www.ebay.co.uk/itm/177462846429?) 15.86
 [Batman: Gotham by Gaslight](https://www.ebay.co.uk/itm/316115692894?) 11.85
