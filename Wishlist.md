@@ -64,8 +64,7 @@ tonsenarttoys kamione gogeta 62.19
 revoltech cyborg spider-man custom 58.57
 ct toys agent venom 24.19
 mafex spider-man 2099 54.42
-mafex sensational spider-man 37.29
-236.66 total
+199.37 total
 
 revoltech Deadpool 44.44
 6inch+ hulk 50
