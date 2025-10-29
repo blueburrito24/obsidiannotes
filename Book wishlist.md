@@ -20,6 +20,7 @@
 [The Jurassic League](https://www.amazon.co.uk/Jurassic-League-Daniel-Johnson/dp/1779518447) 9.99
 [Hulk: Gray TPB](https://www.ebay.co.uk/itm/297619664774?_skw=hulk%3A+gray+tpb&itmmeta=01K61C2AYA45RQG7EG8KFQ3G3X&hash=item454b83af86:g:9bcAAeSwwV9oy-Sx&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cbA7C4gU9u0jmFImUT6kmouv4Z3Tvi9%2B8UWd3HXiltmCTyDU%2FMnr2Cf87JSLl1tIB3KzBw6D0lUXROJKTYnO5lft1QkSxdqjaGc%2F8F%2BWs6IGRDJj%2BLSboe7bxLsK3BPHXAZHVUyt4SWseC6JqR5VcMpB2%2FovgOb%2BgLJsqE1Mm%2B%2BaVUkUgq0r8%2BzWJhWv2BPn8E7m6Us5jBLgYz27JTMn58A8mar5rYHOmAjhMz4Utt9ONwxil%2FOztnfPhypRHUtc8AxJIwGCOjBy7IAF%2F9xd7QVc%2FZkolklOhOpxfWdn3XQQ%3D%3D%7Ctkp%3ABk9SR6yviaywZg) 29.62gbp  
 [Daredevil: Yellow TPB](https://www.ebay.co.uk/itm/226880479894?_skw=daredevil%3A+yellow+tpb&itmmeta=01K61C1X72RHX6AYDQ4MCQ5BR3&hash=item34d3216296:g:nt8AAeSwqqhof1dm&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1cyvYpldrmrzfgDKERCLc4d78Cir1%2Fc%2FNrKJCTcsXxkmH56Z9mTMife81Egu6GCe%2BSoJuaXjUdOdpAfyDGKiLbUsdki5GZx01xZ9Yv%2FWK%2BemQjroeue0W2vESik%2BQKlnZvICzIGQr7ZQ3AdCmYquvDk63T94AUdkANgYq2Ejx0hj67Gx0PisGvSHy5a%2FL5znKlscQvSxF12AcKZpPXuSOPdaQ4rQH0J6Z9GewduL37XpWYQ2s6O2dSe2f2QeCVclwAuzkhjRhlf%2BTHycTr7C2%2Ffpm4m3yY8826xcKzNnL7RZw%3D%3D%7Ctkp%3ABk9SR97Th6ywZg) 24
+[Amazing Spider-Man by Nick Spencer Vol 1](https://www.amazon.co.uk/Amazing-Spider-man-Vol-Back-Basics/dp/1846539412) 11.75
 
 ### Other Books To Read
 [Spider-Man: Family Business](https://www.amazon.co.uk/Amazing-Spider-Man-Family-Business-Hardcover/dp/0785184406) 12.99
