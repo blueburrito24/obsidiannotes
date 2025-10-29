@@ -62,8 +62,8 @@ Revoltech Cyborg Spider-Man custom 58.57
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 tonsenarttoys kamione gogeta 62.19
 revoltech cyborg spider-man custom 58.57
-mafex spider-man 2099 54.42
 ct toys agent venom 24.19
+mafex spider-man 2099 54.42
 mafex sensational spider-man 37.29
 236.66 total
 
