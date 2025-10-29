@@ -58,3 +58,20 @@ Revoltech Cyborg Spider-Man custom 58.57
 [MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.29
 6inch+ Grey Hulk 50
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
+
+ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
+tonsenarttoys kamione gogeta 62.19
+sh figuarts piccolo 27.05
+revoltech cyborg spider-man custom 58.57
+mafex spider-man 2099 54.42
+ct toys agent venom 24.19
+mafex sensational spider-man 37.29
+263.71 total
+
+revoltech Deadpool 44.44
+6inch+ hulk 50
+mess toys scarlet spider 30
+sv action noir 63.99
+shf khs goku 20.25
+revoltech symbiote spider-man 56.30
+264.98 total
