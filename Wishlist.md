@@ -49,6 +49,8 @@ MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
 MARVEL LEGENDS Custom Black Gamerverse Venom 56.76**
 -[MARVEL LEGENDS Gamerverse MVC Venom](https://www.ebay.co.uk/itm/267439033315?) 32.94
 -Tools for cracking, reference in [[ML Ab-Crunch mod]] 15.33
+-[Add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8) alongside magnets in the feet. (Use exacto knife)
+-[Add calf swivel](https://www.youtube.com/watch?v=bZ4SuznssNU) using exacto knife and screws.
 -Need to crack and improve abdomen + repaint/dye Select head for this figure
 -Try to increase forward shoulder range by taking out arms. [Reference here](https://www.youtube.com/watch?v=GoviqGwjY5s)
 -Repaint logos to copy the logo on the 12in Black Suit Spider-Man
