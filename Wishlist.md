@@ -24,21 +24,13 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Batman/Moon print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/moon-batman-dc/) 15usd, 8x10in
 [Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
 [Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
+[Anbernic RG406H](https://www.aliexpress.com/item/1005008094973051.html?) 157.59
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
-![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025203422.png | 200]] ![[G4Lru73XoAApNQq.jpeg | 280]]
-![[Pasted image 20251026191502.png | 200]] ![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg | 200]] ![[G3p7zfzXIAAm7HM.jpeg | 265]] ![[i-had-ordered-a-second-gamerverse-cap-vs-venom-to-try-this-v0-6tkwqqo734tf1.webp | 150]]
-![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]] ![[gsc66650_2.webp | 200]]
-![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[s-l1600 1.jpg | 150]]
+
+![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]] ![[gsc66650_2.webp | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[s-l1600 1.jpg | 150]]
 ![[Pasted image 20251026014448.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
 ![[Pasted image 20251021152552.png | 400]]
-[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.25, releases April 2025
-[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.25, releases May 2025
-[Tonsenarttoys Kamione Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 62.19
-[SH FIGUARTS Turles](https://zenmarket.jp/s/ashi-toys/4876831?id=60b93e81-fc01-4c7c-be56-c77adb7acc49) 90.11
-[SH FIGUARTS Cooler](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 76.64
-###### ALL MY DB FIGURES NEED THEIR EYES AND MOUTHS REMOVED USING WIPES ######
-
 [Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 
 **[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
@@ -46,7 +38,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
 [MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
-**[MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005008455372278.html?spm=a2g0o.productlist.main.16.3131371dRa59b9&aem_p4p_detail=20251023153121639178736197720001270066&algo_pvid=7116a286-2963-4c6c-8d2d-3a0d39100d26&algo_exp_id=7116a286-2963-4c6c-8d2d-3a0d39100d26-15&pdp_ext_f=%7B%22order%22%3A%223385%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2165.76%2129.59%21%21%21606.64%21272.97%21%40210384cc17612586809564616e96bc%2112000050857874619%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=EmZ3lUOIqSrC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008455372278%7C_p_origin_prod%3A&search_p4p_id=20251023153121639178736197720001270066_4) 29.59
+[MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005008455372278.html?spm=a2g0o.productlist.main.16.3131371dRa59b9&aem_p4p_detail=20251023153121639178736197720001270066&algo_pvid=7116a286-2963-4c6c-8d2d-3a0d39100d26&algo_exp_id=7116a286-2963-4c6c-8d2d-3a0d39100d26-15&pdp_ext_f=%7B%22order%22%3A%223385%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2165.76%2129.59%21%21%21606.64%21272.97%21%40210384cc17612586809564616e96bc%2112000050857874619%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=EmZ3lUOIqSrC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008455372278%7C_p_origin_prod%3A&search_p4p_id=20251023153121639178736197720001270066_4) 29.59
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050508736521%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 33.79
 MESS TOYS Scarlet Spider 30**
 **Revoltech Cyborg Spider-Man custom 58.57**
@@ -64,11 +56,19 @@ MESS TOYS Scarlet Spider 30**
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 revoltech cyborg spider-man custom 58.57 
 ct toys agent venom 24.19
-shf gamerverse spider-man, march, 46.82
--
-
-revoltech Deadpool 44.44
 mafex spider-man 2099 54.42
-nendoroid sonic 33.91
-revoltech symbiote spider-man 56.30
-189.07 total
+mess toys scarlet neighbour 29.59
+166.77 total
+(extra stuff that isn't so expensive)
+-ml beyond ben reilly 19.99
+-ml dark avengers spider-man 24.99 + articulated feet 8
+-tamashii effect series impact set 12.73
+-tamashii effect series concrete crash set 15.75
+
+mess toys scarlet spider 30 (not out yet)
+revoltech Deadpool 44.44
+nendoroid sonic 33.91 (preorder)
+revoltech symbiote spider-man 56.30 (preorder)
+164.65 total
+(extra stuff that isn't so expensive)
+-ml spider-man 2099 24.99
