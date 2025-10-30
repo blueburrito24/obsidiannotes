@@ -51,6 +51,7 @@ MARVEL LEGENDS Custom Black Gamerverse Venom 56.76**
 -Tools for cracking, reference in [[ML Ab-Crunch mod]] 15.33
 -[Add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8) alongside magnets in the feet. (Use exacto knife)
 -[Add calf swivel](https://www.youtube.com/watch?v=bZ4SuznssNU) using exacto knife and screws.
+-Heat up legs using hair dryer or microwaved water and take the knee-joints out -> glue the joint in on both ends then fill in pin holes using epoxy putty and sand down with rotary tool.
 -Need to crack and improve abdomen + repaint/dye Select head for this figure
 -Try to increase forward shoulder range by taking out arms. [Reference here](https://www.youtube.com/watch?v=GoviqGwjY5s)
 -Repaint logos to copy the logo on the 12in Black Suit Spider-Man
