@@ -26,7 +26,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
-![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025203442.png | 200]] ![[Pasted image 20251025203422.png | 200]] ![[G4Lru73XoAApNQq.jpeg | 280]]
+![[Pasted image 20251025202644.png | 200]] ![[Pasted image 20251025203422.png | 200]] ![[G4Lru73XoAApNQq.jpeg | 280]]
 ![[Pasted image 20251026191502.png | 200]] ![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg | 200]] ![[G3p7zfzXIAAm7HM.jpeg | 265]] ![[i-had-ordered-a-second-gamerverse-cap-vs-venom-to-try-this-v0-6tkwqqo734tf1.webp | 150]]
 ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]] ![[gsc66650_2.webp | 200]]
 ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[s-l1600 1.jpg | 150]]
@@ -34,7 +34,6 @@ See [[Wishlist Archive]] for stuff I've already bought.
 ![[Pasted image 20251021152552.png | 400]]
 [SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.25, releases April 2025
 [SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.25, releases May 2025
-[SH FIGUARTS Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 27.05
 [Tonsenarttoys Kamione Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 62.19
 [SH FIGUARTS Turles](https://zenmarket.jp/s/ashi-toys/4876831?id=60b93e81-fc01-4c7c-be56-c77adb7acc49) 90.11
 [SH FIGUARTS Cooler](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 76.64
@@ -71,11 +70,10 @@ MESS TOYS Scarlet Spider 30**
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 tonsenarttoys kamione gogeta 62.19
-revoltech cyborg spider-man custom 58.57
+revoltech cyborg spider-man custom 58.57 
 ct toys agent venom 24.19
-shf khs goku 20.25
 ml custom black gamerverse venom 56.76
-221.96 total
+201.71 total
 
 revoltech Deadpool 44.44
 6inch+ hulk 50
