@@ -46,16 +46,6 @@ See [[Wishlist Archive]] for stuff I've already bought.
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
 [MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
-MARVEL LEGENDS Custom Black Gamerverse Venom 56.76**
--[MARVEL LEGENDS Gamerverse MVC Venom](https://www.ebay.co.uk/itm/267439033315?) 32.94
-==-Tools for cracking, reference in [[ML Ab-Crunch mod]] 15.33
--[Add toe articulation](https://www.youtube.com/shorts/4kY5DhkBpb8) alongside magnets in the feet. (Use exacto knife)
--[Add calf swivel](https://www.youtube.com/watch?v=bZ4SuznssNU) using exacto knife and screws.
--Heat up legs using hair dryer or microwaved water and take the knee-joints out -> glue the joint in on both ends then fill in pin holes using epoxy putty and sand down with rotary tool.
--Need to crack and improve abdomen + repaint/dye Select head for this figure
--Try to increase forward shoulder range by taking out arms. [Reference here](https://www.youtube.com/watch?v=GoviqGwjY5s)
--Repaint logos to copy the logo on the 12in Black Suit Spider-Man
--[Rit Synthetic Black Dye](https://amzn.eu/d/bWMSvOV) 8.49==
 **[MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005008455372278.html?spm=a2g0o.productlist.main.16.3131371dRa59b9&aem_p4p_detail=20251023153121639178736197720001270066&algo_pvid=7116a286-2963-4c6c-8d2d-3a0d39100d26&algo_exp_id=7116a286-2963-4c6c-8d2d-3a0d39100d26-15&pdp_ext_f=%7B%22order%22%3A%223385%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%2165.76%2129.59%21%21%21606.64%21272.97%21%40210384cc17612586809564616e96bc%2112000050857874619%21sea%21UK%212834634728%21X%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895&curPageLogUid=EmZ3lUOIqSrC&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008455372278%7C_p_origin_prod%3A&search_p4p_id=20251023153121639178736197720001270066_4) 29.59
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000050508736521%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 33.79
 MESS TOYS Scarlet Spider 30**
@@ -75,9 +65,8 @@ ideas of how I might go about buying these figures during term 2 and 3 (some i m
 tonsenarttoys kamione gogeta 62.19
 revoltech cyborg spider-man custom 58.57 
 ct toys agent venom 24.19
-ml custom black gamerverse venom 56.76
 shf gamerverse spider-man, march, 46.82
-248.53 total
+-
 
 revoltech Deadpool 44.44
 mafex spider-man 2099 54.42

@@ -4,7 +4,7 @@ Look into Manim for python animation \-\> helps learn maths and make cool animat
 
 "smartness of sukuna" "aura of gohan" edit where its umamusume traits and a chud in the middle
 need to buy proper microsd reader usb
-hop on fn
+write down cosmic Spider-Man custom using mess toys
 
 make list of games i want to play on the anbernic rg ds (mainly wii, gamecube, ps1, ps2, ds, 3ds, also think about any android-based games i could play)
 
