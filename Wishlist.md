@@ -73,13 +73,14 @@ ideas of how I might go about buying these figures during term 2 and 3 (some i m
 tonsenarttoys kamione gogeta 62.19
 revoltech cyborg spider-man custom 58.57
 ct toys agent venom 24.19
-mafex spider-man 2099 54.42
 shf khs goku 20.25
-219.62 total
+ml custom black gamerverse venom 56.76
+221.96 total
 
 revoltech Deadpool 44.44
 6inch+ hulk 50
 mess toys scarlet spider 30
+mafex spider-man 2099 54.42
 nendoroid sonic 33.91
 revoltech symbiote spider-man 56.30
-214.65 total
+269.07 total
