@@ -65,8 +65,8 @@ MESS TOYS Scarlet Spider 30**
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 [MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.29
 6inch+ Grey Hulk 50
-[SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99**
-[Nendoroid's Sonic the Hedgehog](https://www.hlj.com/nendoroid-sonic-the-hedgehog-rerelease-gsc66650) 33.91
+[SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
+[Nendoroid's Sonic the Hedgehog](https://www.hlj.com/nendoroid-sonic-the-hedgehog-rerelease-gsc66650) 33.91**
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 tonsenarttoys kamione gogeta 62.19
