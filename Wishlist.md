@@ -66,9 +66,10 @@ mess toys scarlet neighbour 29.59
 -tamashii effect series concrete crash set 15.75
 
 mess toys scarlet spider 30 (not out yet)
+6inch+ grey hulk 50 (not out yet)
 revoltech Deadpool 44.44
 nendoroid sonic 33.91 (preorder)
 revoltech symbiote spider-man 56.30 (preorder)
-164.65 total
+214.65 total
 (extra stuff that isn't so expensive)
 -ml spider-man 2099 24.99
