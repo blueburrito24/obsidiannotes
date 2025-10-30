@@ -35,7 +35,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 
 **[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
-[MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99, Releases December 3 + [Articulated feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-marvel?show_sold_out_detail=1&ref=nla_listing_details) 8
+[MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99
 MARVEL LEGENDS Spider-Man 2099 24.99, releases March 2025
 [MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
@@ -63,7 +63,7 @@ mess toys scarlet neighbour 29.59
 212.17 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
--ml dark avengers spider-man 24.99 + articulated feet 8
+-ml dark avengers spider-man 24.99
 -tamashii effect series impact set 12.73
 -tamashii effect series concrete crash set 15.75
 
