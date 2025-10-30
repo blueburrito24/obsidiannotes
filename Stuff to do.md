@@ -17,6 +17,7 @@ buy batman tdkr paperback, spider-man/deadpool omnibus and spider-man noir omnib
 Look into GI Joe Classified line
 Make a pal for GohanZ2
 learn Ginyu on fz
+write down black gamerverse venom custom
 
 Idea for YT intro:
 entirely silhouetted. blue venom chasing red spider-man through the sky and spider-man flips around to attack, as does venom. then it freeze frames and they both morph into two flipped Bs for blueburrito, then an overlay of a web effect zooming in and out plays to transition to the actual video with some ps1 spider-man effects.

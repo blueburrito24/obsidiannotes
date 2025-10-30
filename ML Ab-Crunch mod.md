@@ -10,3 +10,18 @@ I will fill in the holes after with epoxy putty, then sand the area down and rep
 # swivel mod
 *Yeah it's up to u. U can always shave parts of the 2 parts and super glue it back and should look like oem. Look at all those edges. You can sand em or super glue to make it round.*
 ![[{8E06EAA2-6423-4C5E-9D45-A5538B740298}.png | 400]]
+*These are the tools I use to crack open figs.*
+![[Pasted image 20251030132548.png | 500]]
+- *[Semi dull xacto to carve curves](https://amzn.eu/d/e02yejd) 5.99
+- *Sharp xacto to cut shape angles.,
+- *[Mini drill handle to drill into figure for cracking](https://amzn.eu/d/5hGex9n) 4.79
+- *[Nail punch](https://amzn.eu/d/cWqHvxF) 4.64, you put into the hole after you drill so it separates the 2 part figures*
+*Don't apply too much pressure if you see stress marks, always quit there and put back in hot water.
+So the super glue will melt and so you can crack it once it's cool down.*
+
+## FOR GAMERVERSE VENOM SPECIFICALLY
+![[Pasted image 20251030135214.png | 200]] ![[Pasted image 20251030135221.png | 200]] ![[Pasted image 20251030135232.png | 200]] ![[Pasted image 20251030135239.png | 200]]
+Example images for how to improve articulation on Venom ^
+*So when you shave off from under belly and above butt crack, make sure you don't go too low or else your fig will look like it got cut in half. Test on and off to desired range.
+Deeper = more range (but more visible holes)
+Last picture: shave up to the red circle. The yellow you can shave too BUT the be careful... The aqua line is where you shouldn't shave too much or at all. If you shave too much of the inner hole (yellow hole) the torso ball peg will just fall out because there's not tension holding it to the lower torso. If that makes sense?*
