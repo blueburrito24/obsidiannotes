@@ -17,3 +17,5 @@ Also note, I want to repaint Venom's spider-logo to be like the one on the 12in 
 ![[Pasted image 20251017144512.png | 300]] ![[Pasted image 20251017144526.png | 280]]
 ![[000000001352-01-xl.jpg | 400]]
 [Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.hlj.com/revoltech-amazing-yamaguchi-symbiote-spider-man-kyd22107) 56.30
+![[gsc66650_2.webp | 400]]
+[Nendoroid's Sonic the Hedgehog](https://www.hlj.com/nendoroid-sonic-the-hedgehog-rerelease-gsc66650) 33.91

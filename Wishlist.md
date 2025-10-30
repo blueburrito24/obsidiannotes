@@ -28,7 +28,8 @@ See [[Wishlist Archive]] for stuff I've already bought.
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[2099 Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 
-![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]] ![[gsc66650_2.webp | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[s-l1600 1.jpg | 150]]
+![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251023234400.png | 200]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251025172916.png | 270]] 
+![[MESS TOYS Scarlet Spider.png| 200]] ![[6in Hulk.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[s-l1600 1.jpg | 150]]
 ![[Pasted image 20251026014448.png | 200]] ![[Pasted image 20251025232245.png | 200]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
 ![[Pasted image 20251021152552.png | 400]]
 [Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -50,8 +51,7 @@ MESS TOYS Scarlet Spider 30**
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 [MAFEX Sensational Spider-Man](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) 37.29
 6inch+ Grey Hulk 50
-[SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99
-[Nendoroid's Sonic the Hedgehog](https://www.hlj.com/nendoroid-sonic-the-hedgehog-rerelease-gsc66650) 33.91**
+[SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99**
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 revoltech cyborg spider-man custom 58.57 
