@@ -80,9 +80,7 @@ shf gamerverse spider-man, march, 46.82
 248.53 total
 
 revoltech Deadpool 44.44
-6inch+ hulk 50
-mess toys scarlet spider 30
 mafex spider-man 2099 54.42
 nendoroid sonic 33.91
 revoltech symbiote spider-man 56.30
-269.07 total
+189.07 total
