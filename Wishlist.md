@@ -76,7 +76,8 @@ tonsenarttoys kamione gogeta 62.19
 revoltech cyborg spider-man custom 58.57 
 ct toys agent venom 24.19
 ml custom black gamerverse venom 56.76
-201.71 total
+shf gamerverse spider-man, march, 46.82
+248.53 total
 
 revoltech Deadpool 44.44
 6inch+ hulk 50
