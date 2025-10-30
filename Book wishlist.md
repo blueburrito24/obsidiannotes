@@ -12,6 +12,7 @@
 [Batman: The Dark Knight Returns 30th Anni. Paperback](https://forbiddenplanet.com/151611-batman-the-dark-knight-returns-30th-anniversary-edition/) 10.99
 [Spider-Man: The Real Clone Saga Paperback](https://www.ebay.co.uk/itm/326763567616?_skw=Spider-Man%3A+The+Real+Clone+Saga+-+Paperback&itmmeta=01K4M6MJS78QDK997YX2HZZTY9&hash=item4c14a05a00:g:JD8AAeSw5spove3j&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1fuBD%2FQAm7uWv%2FVi9wHtBZdWb5he3AdVBjmwDeCBvHzV%2BxGeugc4O8g%2FlscLlLKvcr4WmiwOTIBYEqLWovryYQmKFovaOPl0LDhYeSlpI4Yx6DCLO8JpYPMcc7wbMwuOUDRJpHh4qgQO1MZ88ztb5l0Dle62V13VHbN9O%2BEgYPiJYDwHDztCQa2nlKXqZMzgjb3w97S456SAhOGtQlkG2e2o%2FqyYxkssAJdCuRrGS0qiF%2Bwg27%2FcCvqNg%2BwIo9U7vVvnPsMkTj7on9%2BwJUWYRne6w022J%2BlBQjlT2d70DvTmg%3D%3D%7Ctkp%3ABk9SR_as0oalZg) 25.22
 [Batman: Year One & Two](https://forbiddenplanet.com/428020-dc-finest-batman-year-one-two/?utm_medium=promotion&utm_source=408469-all-star-superman-dc-compact-comics-edition&utm_campaign=product-detail-search-related-products) 24.14
+[Batman: Year One](https://www.amazon.co.uk/Batman-Year-One-Deluxe-SC/dp/1401207529) 11,09 (prequel to long halloween)
 [Batman: The Long Halloween](https://forbiddenplanet.com/460709-batman-the-long-halloween-dc-compact-comics-edition/) 6.20
 [Batman: Hush](https://forbiddenplanet.com/408471-batman-hush-dc-compact-comics-edition/) 6.20
 [DC: Watchmen Compact Comic](https://forbiddenplanet.com/408477-watchmen-dc-compact-comics-edition/) 6.20

@@ -62,7 +62,6 @@ MESS TOYS Scarlet Spider 30**
 [Nendoroid's Sonic the Hedgehog](https://www.hlj.com/nendoroid-sonic-the-hedgehog-rerelease-gsc66650) 33.91**
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
-tonsenarttoys kamione gogeta 62.19
 revoltech cyborg spider-man custom 58.57 
 ct toys agent venom 24.19
 shf gamerverse spider-man, march, 46.82
