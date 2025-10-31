@@ -5,14 +5,13 @@ Look into Manim for python animation \-\> helps learn maths and make cool animat
 "smartness of sukuna" "aura of gohan" edit where its umamusume traits and a chud in the middle
 need to buy proper microsd reader usb
 write down cosmic Spider-Man custom using mess toys
+add mafex 108 reissue to wishlist + try and sort out custom head into the budget
 
 make list of games i want to play on the anbernic rg ds (mainly wii, gamecube, ps1, ps2, ds, 3ds, also think about any android-based games i could play)
 
 install Kanban board plugin
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 Set up bitwarden
-set up nomedia file on phone
-buy batman tdkr paperback, spider-man/deadpool omnibus and spider-man noir omnibus on monday from forbidden planet
 
 Look into GI Joe Classified line
 Make a pal for GohanZ2
