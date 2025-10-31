@@ -59,8 +59,8 @@ ideas of how I might go about buying these figures during term 2 and 3 (some i m
 revoltech cyborg spider-man custom 58.57 
 ct toys agent venom 24.19
 mafex spider-man 2099 54.42
-sv-action spider-man noir 63.99
-201.17 total
+mafex spider-man comic paint ver 36.13
+173.31 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
