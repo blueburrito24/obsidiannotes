@@ -66,6 +66,7 @@ sv-action spider-man noir 63.99
 -ml dark avengers spider-man 24.99
 -tamashii effect series impact set 12.73
 -tamashii effect series concrete crash set 15.75
+-web effect pack 17.85
 
 mess toys scarlet spider 30 (not out yet)
 6inch+ grey hulk 50 (not out yet)
