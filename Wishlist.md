@@ -59,8 +59,7 @@ revoltech cyborg spider-man custom 58.57
 ct toys agent venom 24.19
 mafex spider-man 2099 54.42
 mafex miles morales gurihiru ver 45.40
-mess toys scarlet neighbour 29.59
-212.17 total
+182.58 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
