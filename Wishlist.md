@@ -29,8 +29,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 ![[DA Spidey Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]] ![[Pasted image 20251025232245.png | 200]]
 ![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251031235547.png | 200]] ![[Pasted image 20251031235629.png | 200]]
-![[MESS TOYS Scarlet Spider.png| 200]] ![[sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.jpg | 200]] ![[s-l1600 1.jpg | 150]] 
-![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
+![[MESS TOYS Scarlet Spider.png| 200]] ![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
 ![[Pasted image 20251021152552.png | 400]] ![[{F66089E5-0974-4D86-AAF1-5D50B401C971}.png | 300]]
 [Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 
@@ -51,17 +50,15 @@ MESS TOYS Scarlet Spider 30**
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 [MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
 [MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
-[Fahrulstore35 V64 Romita Jr head for MAFEX 108](https://fahrulstore35.bigcartel.com/product/v64) and [V45 Rivals head for Revoltech 2.0](https://fahrulstore35.bigcartel.com/product/v45) 33.45 with shipping
-[SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99**
+[Fahrulstore35 V64 Romita Jr head for MAFEX 108](https://fahrulstore35.bigcartel.com/product/v64) and [V45 Rivals head for Revoltech 2.0](https://fahrulstore35.bigcartel.com/product/v45) 33.45 with shipping**
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 revoltech cyborg spider-man custom 67.07
 ct toys agent venom 24.19
-sv-action spider-man noir 63.99
 mafex spider-man comic paint ver 36.13
 fahrul heads for mafex 108 and revoltech 2.0 33.45
 exacto knife 5.99
-230.82 total
+166.83 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
