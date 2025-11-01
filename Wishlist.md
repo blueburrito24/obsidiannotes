@@ -39,12 +39,13 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
 MESS TOYS Scarlet Spider 30**
-**Revoltech Cyborg Spider-Man custom 58.57**
+**Revoltech Cyborg Spider-Man custom 67.07**
 ==-[CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%221200-0045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
 -[Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968)
 -[AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
--Note that I should take the head-connector joint from the original head and put it inside the ML headsculpt==
-==-if I get the Fahrul heads, just cut off the bandana and eye thing from the ML head and glue them onto the Fahrul head==
+-[Vallejo Gunmetal Grey](https://www.amazon.co.uk/dp/B012A947IO?) for repainting the gun from Agent Venom
+-Note that I should take the head-connector joint from the original head and put it inside the ML headsculpt
+-if I get the Fahrul heads, just cut off the bandana and eye thing from the ML head and glue them onto the Fahrul head==
 **[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 [Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
@@ -54,13 +55,13 @@ MESS TOYS Scarlet Spider 30**
 [SV-Action Spider-Man Noir](https://www.nin-nin-game.com/en/spider-man/98019-sv-action-spider-man-into-the-spider-verse-spider-man-noir-sentinel-.html) 63.99**
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
-revoltech cyborg spider-man custom 58.57 
+revoltech cyborg spider-man custom 67.07
 ct toys agent venom 24.19
 sv-action spider-man noir 63.99
 mafex spider-man comic paint ver 36.13
 fahrul heads for mafex 108 and revoltech 2.0 33.45
 exacto knife 5.99
-222.32 total
+230.82 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
