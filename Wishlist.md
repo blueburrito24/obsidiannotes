@@ -58,7 +58,9 @@ ct toys agent venom 24.19
 mafex spider-man comic paint ver 36.13
 fahrul heads for mafex 108 and revoltech 2.0 33.45
 exacto knife 5.99
-166.83 total
+mafex spider-man 2099 54.42
+221
+.25 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
