@@ -26,7 +26,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 [Anbernic RG35XX](https://a.aliexpress.com/_EGAlN9e) 30.33
 #### ***FIGURES I WANT***
-![[DA Spidey Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
+![[DA Spidey Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]] ![[Pasted image 20251101200128.png | 200]]
 ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]] ![[Pasted image 20251025232245.png | 200]]
 ![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251031235547.png | 200]] ![[Pasted image 20251031235629.png | 200]]
 ![[MESS TOYS Scarlet Spider.png| 200]] ![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
@@ -37,8 +37,9 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99
 [MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
-MESS TOYS Scarlet Spider 30**
-**Revoltech Cyborg Spider-Man custom 67.07**
+MESS TOYS Scarlet Spider 30
+[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
+Revoltech Cyborg Spider-Man custom 67.07**
 ==-[CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%221200-0045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
 -[Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968)
 -[AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
@@ -59,7 +60,8 @@ mafex spider-man comic paint ver 36.13
 fahrul heads for mafex 108 and revoltech 2.0 33.45
 exacto knife 5.99
 mafex spider-man 2099 54.42
-221.25 total
+mess toys superior neighbour
+255.54 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
