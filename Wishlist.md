@@ -28,7 +28,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]] ![[Pasted image 20251025232245.png | 200]]
-![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251031235629.png | 200]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
+![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251031235629.png | 200]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
 ![[Pasted image 20251102040713.png | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[Pasted image 20251101200128.png | 200]]
 ![[Pasted image 20251021152552.png | 400]]
 [Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -45,13 +45,18 @@ MESS TOYS Venom 40
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 [MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
 [MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
-[Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping **
+[Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping
+Wind Toys Goku Custom 84.74:**
+- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
+- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
+- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 mafex spider-man comic paint ver 36.13
-fahrul heads for mafex 108, 276 33.45
 mafex miles morales gurihiru 45.40
-114.98 total
+fahrul heads for mafex 108, 276 33.45
+wind toys goku custom 84.74
+203.02 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
