@@ -56,8 +56,8 @@ ideas of how I might go about buying these figures during term 2 and 3 (some i m
 mafex spider-man comic paint ver 36.13
 mafex miles morales gurihiru 45.40
 fahrul heads for mafex 108 and 276 33.45
-mess toys superior neighbour 34.29
-154.57 total
+wind toys goku custom 84.74
+203.02 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
@@ -67,10 +67,9 @@ mess toys superior neighbour 34.29
 
 mess toys scarlet spider 30 (not out yet)
 mess toys venom 40 (not out yet)
-wind toys goku custom 84.74
 revoltech Deadpool 44.44
 nendoroid sonic 33.91 (preorder for june)
 revoltech symbiote spider-man 56.30 (preorder for june)
-290.39 total
+205.65 total
 (extra stuff that isn't so expensive)
 -
