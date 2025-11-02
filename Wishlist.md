@@ -28,10 +28,9 @@ See [[Wishlist Archive]] for stuff I've already bought.
 #### ***FIGURES I WANT***
 ![[DA Spidey Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]] ![[Pasted image 20251025232245.png | 200]]
-![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251031235547.png | 200]] ![[Pasted image 20251031235629.png | 200]]
-![[s-l1600 1.jpg | 150]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
+![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251031235547.png | 200]] ![[Pasted image 20251031235629.png | 200]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
 ![[Pasted image 20251102040713.png | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] ![[Pasted image 20251102040545.png | 200]] ![[Pasted image 20251101200128.png | 200]]
-![[Pasted image 20251021152552.png | 400]] ![[{F66089E5-0974-4D86-AAF1-5D50B401C971}.png | 300]]
+![[Pasted image 20251021152552.png | 400]]
 [Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 
 **[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
@@ -41,14 +40,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 MESS TOYS Scarlet Spider 30
 MESS TOYS Venom 40
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
-Revoltech Cyborg Spider-Man custom 67.07**
-==-[CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%221200-0045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
--[Marvel Legends Cyborg Spider-Man, for most accessories](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Vintage-Cyborg-Spider-Man-p777540968)
--[AC Factory Metallic Revoltech Arms 2pcs](https://www.aliexpress.com/item/1005009914479336.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000051171781541%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
--[Vallejo Gunmetal Grey](https://www.amazon.co.uk/dp/B012A947IO?) for repainting the gun from Agent Venom
--Note that I should take the head-connector joint from the original head and put it inside the ML headsculpt
--if I get the Fahrul heads, just cut off the bandana and eye thing from the ML head and glue them onto the Fahrul head==
-**[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
+[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 [Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 [MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
@@ -58,13 +50,12 @@ Lingjihun TMNT
 **
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
-revoltech cyborg spider-man custom 67.07
 ct toys agent venom 24.19
 mafex spider-man comic paint ver 36.13
 fahrul heads for mafex 108, 276 and revoltech 2.0 44.85
 exacto knife 5.99
 mafex miles morales gurihiru 45.40
-223.63 total
+156.56 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
