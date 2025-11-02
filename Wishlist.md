@@ -56,7 +56,8 @@ ideas of how I might go about buying these figures during term 2 and 3 (some i m
 mafex spider-man comic paint ver 36.13
 mafex miles morales gurihiru 45.40
 fahrul heads for mafex 108 and 276 33.45
-118.28 total
+mess toys superior neighbour 34.29
+154.57 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
