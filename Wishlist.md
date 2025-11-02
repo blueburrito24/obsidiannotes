@@ -1,6 +1,6 @@
 #### **ACADEMIC YEAR CALCULATIONS**  
 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
-647.31 \- 300 \= 347.31gbp (Second Term)
+647.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 213.31gbp (Second Term)
 726.28 \- 300 \= 426.28gbp (Third Term)
 *These two are general spending budgets. They can be for anything from [[Wishlist]] or [[Game wishlist]] or [[Book wishlist]]*
 See [[Wishlist Archive]] for stuff I've already bought.
