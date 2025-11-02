@@ -55,7 +55,7 @@ Wind Toys Goku Custom 84.74:**
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 mafex spider-man comic paint ver 36.13
 mafex miles morales gurihiru 45.40
-fahrul heads for mafex 108, 276 33.45
+fahrul heads for mafex 108 and 276 33.45
 wind toys goku custom 84.74
 203.02 total
 (extra stuff that isn't so expensive)
@@ -66,9 +66,10 @@ wind toys goku custom 84.74
 -web effect pack 17.85
 
 mess toys scarlet spider 30 (not out yet)
+mess toys venom 40 (not out yet)
 revoltech Deadpool 44.44
 nendoroid sonic 33.91 (preorder for june)
 revoltech symbiote spider-man 56.30 (preorder for june)
-165.65 total
+205.65 total
 (extra stuff that isn't so expensive)
 -
