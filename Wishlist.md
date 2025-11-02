@@ -48,11 +48,10 @@ MESS TOYS Venom 40
 [Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping **
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
-ct toys agent venom 24.19
 mafex spider-man comic paint ver 36.13
 fahrul heads for mafex 108, 276 33.45
 mafex miles morales gurihiru 45.40
-139.17 total
+114.98 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
