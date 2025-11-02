@@ -39,6 +39,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 [MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
 MESS TOYS Scarlet Spider 30
+MESS TOYS Venom 40
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 Revoltech Cyborg Spider-Man custom 67.07**
 ==-[CT Toys Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005008114088633.html?pdp_ext_f=%7B%22sku_id%22%3A%221200-0045917576622%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0)
