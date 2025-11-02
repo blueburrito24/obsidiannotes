@@ -52,7 +52,7 @@ Revoltech Cyborg Spider-Man custom 67.07**
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 [MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
 [MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
-[Fahrulstore35 V64 Romita Jr head for MAFEX 108](https://fahrulstore35.bigcartel.com/product/v64) and [2x V45 Rivals head for Revoltech 2.0](https://fahrulstore35.bigcartel.com/product/v45) 44.85 with shipping
+[Fahrulstore35 V64 Romita Jr head for MAFEX 108](https://fahrulstore35.bigcartel.com/product/v64) and [V45 Rivals head for Revoltech 2.0](https://fahrulstore35.bigcartel.com/product/v45) 33.45 with shipping
 Lingjihun TMNT Figures
 **
 
@@ -60,10 +60,10 @@ ideas of how I might go about buying these figures during term 2 and 3 (some i m
 revoltech cyborg spider-man custom 67.07
 ct toys agent venom 24.19
 mafex spider-man comic paint ver 36.13
-fahrul heads for mafex 108 and revoltech 2.0 44.85
+fahrul heads for mafex 108 and revoltech 2.0 33.45
 exacto knife 5.99
 mafex spider-man 2099 54.42
-232.75 total
+221.25 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
