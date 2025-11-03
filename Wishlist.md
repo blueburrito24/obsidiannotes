@@ -1,7 +1,7 @@
 #### **ACADEMIC YEAR CALCULATIONS**  
 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
-647.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 213.31gbp (Second Term)
-726.28 \- 300 \= 426.28gbp (Third Term)
+747.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 313.31gbp (Second Term)
+676.28 \- 300 \= 376.28gbp (Third Term)
 *These two are general spending budgets. They can be for anything from [[Wishlist]] or [[Game wishlist]] or [[Book wishlist]]*
 See [[Wishlist Archive]] for stuff I've already bought.
 
@@ -31,6 +31,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 ![[G4Lru73XoAApNQq.jpeg | 280]] ![[Pasted image 20251025205107.png | 200]] ![[Pasted image 20251031235629.png | 200]]
 ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]] ![[Pasted image 20251102040713.png | 200]] ![[MESS TOYS Scarlet Spider.png| 200]] 
 ![[Pasted image 20251101200128.png | 200]] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]] ![[Pasted image 20251029162138.png | 200]]
+![[Pasted image 20251103113930.png | 400]]
 ![[Pasted image 20251021152552.png | 400]]
 [Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 
@@ -51,6 +52,7 @@ Wind Toys Goku Custom 84.74:**
 - [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 - [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 - [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
+**Lingjihun TMNT figures**
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 mafex spider-man comic paint ver 36.13
@@ -67,9 +69,8 @@ wind toys goku custom 84.74
 
 mess toys scarlet spider 30 (not out yet)
 mess toys venom 40 (not out yet)
-mess toys superior neighbour 34.29
 revoltech Deadpool 44.44
 nendoroid sonic 33.91 (preorder for june)
 revoltech symbiote spider-man 56.30 (preorder for june)
-239.94 total
+205.65 total
 (extra stuff that isn't so expensive)

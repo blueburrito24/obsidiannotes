@@ -6,9 +6,11 @@
 [Marvel Masterworks: Iron Man](https://ebay.us/m/nGJAoU) 33.10
 [TMNT: Mirage Years](https://www.amazon.co.uk/Teenage-Mutant-Ninja-Turtles-1993-1995/dp/B0D72JW6R4?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A3P5ROKL5A1OLE) 33.65  
 [Spider-Man & Wolverine](https://forbiddenplanet.com/452827-spider-man-wolverine-1/) 4.90
+[Spider-Man: Spirits of the Earth](https://www.ebay.co.uk/itm/397223048693?) 20
 [Wolverine](https://www.amazon.co.uk/Wolverine-Claremont-Miller-Marvel-Quality/dp/0785137246) 13 with shipping
 [Transformers Vol 1](https://forbiddenplanet.com/416587-transformers-volume-1-robots-in-disguise/?utm_medium=promotion&utm_source=439616-edge-of-spider-verse-spider-society&utm_campaign=product-detail-order-related-products) 10.34
 [All Star Superman](https://forbiddenplanet.com/408469-all-star-superman-dc-compact-comics-edition/) 6.20
+[The New 52's Action Comics Superman Vol 1](https://www.amazon.co.uk/Superman-Action-Comics-Men-Steel/dp/1401235476) 13.98
 [Batman: The Dark Knight Returns 30th Anni. Paperback](https://forbiddenplanet.com/151611-batman-the-dark-knight-returns-30th-anniversary-edition/) 10.99
 [Spider-Man: The Real Clone Saga Paperback](https://www.ebay.co.uk/itm/326763567616?_skw=Spider-Man%3A+The+Real+Clone+Saga+-+Paperback&itmmeta=01K4M6MJS78QDK997YX2HZZTY9&hash=item4c14a05a00:g:JD8AAeSw5spove3j&itmprp=enc%3AAQAKAAAA8FkggFvd1GGDu0w3yXCmi1fuBD%2FQAm7uWv%2FVi9wHtBZdWb5he3AdVBjmwDeCBvHzV%2BxGeugc4O8g%2FlscLlLKvcr4WmiwOTIBYEqLWovryYQmKFovaOPl0LDhYeSlpI4Yx6DCLO8JpYPMcc7wbMwuOUDRJpHh4qgQO1MZ88ztb5l0Dle62V13VHbN9O%2BEgYPiJYDwHDztCQa2nlKXqZMzgjb3w97S456SAhOGtQlkG2e2o%2FqyYxkssAJdCuRrGS0qiF%2Bwg27%2FcCvqNg%2BwIo9U7vVvnPsMkTj7on9%2BwJUWYRne6w022J%2BlBQjlT2d70DvTmg%3D%3D%7Ctkp%3ABk9SR_as0oalZg) 25.22
 [Batman: Year One & Two](https://forbiddenplanet.com/428020-dc-finest-batman-year-one-two/?utm_medium=promotion&utm_source=408469-all-star-superman-dc-compact-comics-edition&utm_campaign=product-detail-search-related-products) 24.14
