@@ -67,9 +67,9 @@ wind toys goku custom 84.74
 
 mess toys scarlet spider 30 (not out yet)
 mess toys venom 40 (not out yet)
+mess toys superior neighbour 34.29
 revoltech Deadpool 44.44
 nendoroid sonic 33.91 (preorder for june)
 revoltech symbiote spider-man 56.30 (preorder for june)
-205.65 total
+239.94 total
 (extra stuff that isn't so expensive)
--
