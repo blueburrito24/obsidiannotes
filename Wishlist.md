@@ -45,6 +45,7 @@ MESS TOYS Venom 40
 [MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 [Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 [Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
+[Kaiyodo Amazing Yamaguchi Gwenom](https://www.nin-nin-game.com/en/revoltech/155802-amazing-yamaguchi-revoltech-spider-gwen-gwenom-kaiyodo-.html) 64.35
 [MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 [MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
 [MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
