@@ -26,6 +26,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
 [Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 [Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 29.42
+[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 
 ![[DA Spidey Render.png| 200]] ![[Pasted image 20251025183656.png | 200]] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
 ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]] ![[Pasted image 20251025232245.png | 200]]
