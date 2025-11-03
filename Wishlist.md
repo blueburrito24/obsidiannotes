@@ -60,7 +60,8 @@ mafex miles morales gurihiru 45.40
 fahrul heads for mafex 108 and 276 33.45
 wind toys goku custom 84.74
 ct toys agent venom 24.19
-227.21 total
+mess toys superior neighbour 34.29
+261.50 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
