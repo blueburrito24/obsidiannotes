@@ -1,7 +1,7 @@
 #### **ACADEMIC YEAR CALCULATIONS**  
 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
-747.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 313.31gbp (Second Term)
-676.28 \- 300 \= 376.28gbp (Third Term)
+887.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 453.31gbp (Second Term)
+926.28 \- 300 \= 626.28gbp (Third Term)
 *These two are general spending budgets. They can be for anything from [[Wishlist]] or [[Game wishlist]] or [[Book wishlist]]*
 See [[Wishlist Archive]] for stuff I've already bought.
 
@@ -56,6 +56,8 @@ Wind Toys Goku Custom 84.74:**
 - [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 - [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
 **Lingjihun TMNT figures**
+
+add other db figures (game begin, daima piccolo, df ssj4 xeno, custom ssj)
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 mafex spider-man comic paint ver 36.13
