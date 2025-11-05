@@ -6,9 +6,7 @@ views:
         - file.folder == "Remote-Folder/Books"
     order:
       - title
-      - authors
+      - author
       - link
     image: note.coverUrl
-    imageAspectRatio: 1.5
-    imageFit: ""
-    cardSize: 180
+    imageAspectRatio: 1.7

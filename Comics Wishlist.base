@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Remote-Folder/Comics"
+    order:
+      - title
+      - link
+    sort:
+      - property: title
+        direction: ASC
+    image: note.coverUrl
+    imageAspectRatio: 1.5
+    imageFit: ""
+    cardSize: 180
