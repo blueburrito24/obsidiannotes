@@ -52,11 +52,7 @@ MESS TOYS Venom 40
 [MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
 [MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
 [Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping
-Wind Toys Goku Custom 84.74:**
-- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
-- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
-- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-**Lingjihun TMNT figures
+Lingjihun TMNT figures
 [SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 [SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.hlj.com/s-h-figuarts-super-saiyan-son-goku-legendary-super-saiyan-reissue-banc650436-2) 38.71
 [SH FIGUARTS KAIOKEN Goku](https://www.aliexpress.com/item/1005009279732944.html?) 33.59
@@ -66,18 +62,26 @@ Wind Toys Goku Custom 84.74:**
 [BLACK HOLE TOYS Majin Vegeta Battle Damaged Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 48.69
 [SH FIGUARTS Daima Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 29.07
 [HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080272441.html?) 38.59
-**
+[DEMONIACAL FIT LEGENDARY BERSERKER Broly](https://www.aliexpress.com/item/1005008385490552.html?) 57.59
+Wind Toys Goku Custom 91.75:**
+- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
+- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
+- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
+- [Gesture Hands](https://www.aliexpress.com/item/1005009466332683.html?) 7.01
 
-add other db figures (game begin, daima piccolo, df ssj4 xeno, custom ssj, kaioken 2.0, namek ssj, exclusive intro ssj goku)
+**Custom Trunks 105.67:**
+- [SSS Studio SSJ3 Trunks, Colour B, for base figure](https://www.aliexpress.com/item/1005008826610942.html?) 47.19
+- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
+- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 mafex spider-man comic paint ver 36.13
 mafex miles morales gurihiru 45.40
 fahrul heads for mafex 108 and 276 33.45
-wind toys goku custom 84.74
+wind toys goku custom 91.75
 ct toys agent venom 24.19
 mess toys superior neighbour 34.29
-261.50 total
+268.51 total
 (extra stuff that isn't so expensive)
 -ml beyond ben reilly 19.99
 -ml dark avengers spider-man 24.99
