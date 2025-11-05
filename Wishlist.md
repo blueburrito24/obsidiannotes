@@ -63,7 +63,7 @@ Lingjihun TMNT figures
 [BLACK HOLE TOYS Majin Vegeta Battle Damaged Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 48.69
 [SH FIGUARTS Daima Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 29.07
 [HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080272441.html?) 38.59
-[DEMONIACAL FIT LEGENDARY BERSERKER Broly](https://www.aliexpress.com/item/1005008385490552.html?) 57.59
+ZT Toys Broly
 Wind Toys Goku Custom 91.75:**
 - [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 - [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
