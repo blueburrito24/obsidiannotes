@@ -4,10 +4,8 @@ views:
     filters:
       and:
         - file.folder == "Remote-Folder/Books"
-    order:
-      - title
-      - author
+    order: []
     image: note.coverUrl
-    imageAspectRatio: 1.55
-    imageFit: contain
-    cardSize: 200
+    imageAspectRatio: 1.5
+    imageFit: ""
+    cardSize: 150
