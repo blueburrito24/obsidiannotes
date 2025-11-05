@@ -22,6 +22,7 @@ See [[Wishlist Archive]] for stuff I've already bought.
 [Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 [Transparent Wind Effects](https://www.aliexpress.com/item/1005009683342232.html?) 6.30
 [DBZ Effects, 2F and 1G](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+[1/12 YAMAHA Bike](https://www.aliexpress.com/item/1005005914972175.html?) 8.29
 [MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
 [Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
 [Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
@@ -55,9 +56,19 @@ Wind Toys Goku Custom 84.74:**
 - [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 - [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 - [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-**Lingjihun TMNT figures**
+**Lingjihun TMNT figures
+[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
+[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.hlj.com/s-h-figuarts-super-saiyan-son-goku-legendary-super-saiyan-reissue-banc650436-2) 38.71
+[SH FIGUARTS KAIOKEN Goku](https://www.aliexpress.com/item/1005009279732944.html?) 33.59
+[DEMONIACAL FIT UNTAMED POWER Xeno SSJ4 Goku](https://www.aliexpress.com/item/1005008255123027.html?) 35.29
+[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009386308164.html?) 64.99
+[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
+[BLACK HOLE TOYS Majin Vegeta Battle Damaged Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 48.69
+[SH FIGUARTS Daima Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 29.07
+[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080272441.html?) 38.59
+**
 
-add other db figures (game begin, daima piccolo, df ssj4 xeno, custom ssj)
+add other db figures (game begin, daima piccolo, df ssj4 xeno, custom ssj, kaioken 2.0, namek ssj, exclusive intro ssj goku)
 
 ideas of how I might go about buying these figures during term 2 and 3 (some i might just get later on in life):
 mafex spider-man comic paint ver 36.13

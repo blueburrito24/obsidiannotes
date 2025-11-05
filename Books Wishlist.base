@@ -1,0 +1,13 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.folder == "Remote-Folder/Books"
+    order:
+      - title
+      - author
+    image: note.coverUrl
+    imageAspectRatio: 1.55
+    imageFit: contain
+    cardSize: 200
