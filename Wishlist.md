@@ -41,8 +41,7 @@ kanban-plugin: board
 	[Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
 	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009683342232.html?) 6.30
 	[Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
-	[DBZ Effects, 2F and 1G](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
-	[1/12 YAMAHA Bike](https://www.aliexpress.com/item/1005005914972175.html?) 8.29
+	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
 	![[Pasted image 20251106212235.png]]
 	[MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
 
@@ -172,21 +171,17 @@ kanban-plugin: board
 	tonsenarttoys rider goku 64.99
 	shf games begin goku 27.99
 	tonsenarttoys majin vegeta 48.69
-	256.65 total**
-	(extra stuff that isn't so expensive)
-	-ml beyond ben reilly 19.99
-	-ml dark avengers spider-man 24.99
-	-tamashii effect series impact set 12.73
-	-tamashii effect series concrete crash set 15.75
-	-web effect pack 17.85
+	tamashii shock impact yellow 12.73
+	tamashii wind effects 6.30
+	275.68 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly 80 (not out yet)
+	tamashii concrete crash set 15.75
 	custom shf trunks 100.77
 	tonsenarttoys gogeta 70.39
 	shf lssj goku 34.99
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	372.45 total**
-	(extra stuff that isn't so expensive)
+	386.20 total**
 
 
 ## Wishlist Archives
@@ -203,6 +198,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,false,true],"show-checkboxes":true}
 ```
 %%
