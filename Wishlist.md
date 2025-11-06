@@ -13,7 +13,7 @@ kanban-plugin: board
 	926.28 \- 300 \= 626.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Remote-Folder/Wishlist]] or [[Game wishlist]] or [[Comics Wishlist.base]]*
-	See [[Wishlist Archive]] for stuff I've already bought.
+	See Wishlist Archives for stuff I've already bought.
 - [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man + making my custom UI Goku using money from selling SHF Toei Spider-Man
 
 
@@ -39,10 +39,11 @@ kanban-plugin: board
 	[Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
 	[Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
 	[Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
-	[Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009683342232.html?) 6.30
+	[Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 	[DBZ Effects, 2F and 1G](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
 	[1/12 YAMAHA Bike](https://www.aliexpress.com/item/1005005914972175.html?) 8.29
+	![[Pasted image 20251106212235.png]]
 	[MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
 
 
@@ -188,10 +189,20 @@ kanban-plugin: board
 	(extra stuff that isn't so expensive)
 
 
+## Wishlist Archives
+
+- [x] ![[000000001352-01-xl.jpg]]
+	[Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.hlj.com/revoltech-amazing-yamaguchi-symbiote-spider-man-kyd22107) 56.30
+- [x] ![[Pasted image 20251017144512.png]] 
+	Kaiyodo Amazing Yamaguchi Iron Spider
+- [x] ![[12in Black Suit Spidey.jpg]]
+	[Marvel Legends 12-inch Black Suit Spider-Man](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m32096359382) 64.62
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
