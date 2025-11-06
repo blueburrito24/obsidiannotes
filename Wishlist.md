@@ -7,10 +7,14 @@ kanban-plugin: board
 ## Budgeting Stuff
 
 - [ ] 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
+	
 	887.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 453.31gbp (Second Term)
+	
 	926.28 \- 300 \= 626.28gbp (Third Term)
+	
 	*These two are general spending budgets. They can be for anything from [[Remote-Folder/Wishlist]] or [[Game wishlist]] or [[Comics Wishlist.base]]*
 	See [[Wishlist Archive]] for stuff I've already bought.
+- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man + making my custom UI Goku using money from selling SHF Toei Spider-Man
 
 
 ## General Wishlist
@@ -83,13 +87,13 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[Pasted image 20251025232245.png | 200]]
 	[MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
-- [ ] ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]]
+- [x] ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]]
 	[MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
-- [ ] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]]
+- [x] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]]
 	[MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
-- [ ] ![[Pasted image 20251031235629.png | 200]]
+- [x] ![[Pasted image 20251031235629.png | 200]]
 	[Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping
-- [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
+- [x] ![[MESS TOYS Scarlet Spider.png| 200]]
 	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	MESS TOYS Venom 40
@@ -104,44 +108,56 @@ kanban-plugin: board
 	[Kaiyodo Amazing Yamaguchi Gwenom](https://www.nin-nin-game.com/en/revoltech/155802-amazing-yamaguchi-revoltech-spider-gwen-gwenom-kaiyodo-.html) 64.35
 - [ ] ![[Pasted image 20251103113930.png | 300]]
 	Lingjihun TMNT figures
+- [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
+	[Marvel Legends X-Men's The X-Cutioner](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 19.37
+	[Marvel Legends X-Men's Magneto](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 24.99
+	[Cloak E1](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 12.76
+	[Vallejo Yellow](https://www.amazon.co.uk/Vallejo-Model-Air-Acrylic-Paint/dp/B002U38ZQ6?crid=1FWABQI3LKNFJ&dib=eyJ2IjoiMSJ9.CNhd3yMo4YipjS_Ei3ag234GY7sfy8eI5tdqarhHx0tPzXi9UPoVCbPr3oLgm7V5hZvynh3XPZgXGSdya8NCJFvNeX-OUUoCm5m61miiVWJxNP8WC0jZYSqiySo1BOcY6uv5uJGwRjKDSyHUBDI-4mwCqw2H9pg9v6BtTKry9PLUW-MJGKbbVRX1oO0Tojrjgvm9H0UfUIBhr0vbPSV2yumb4X75P6LuAn4D031ElkoLvXI9wj0VynIGPYgwn4FAU7yn9KzFxIouUowkQHSLzlE3BOwYMWxK5-_M4oZK7mQ.Y4Y_mIOSfChET56WXiNpaqmhh4ynXR-_G1pYelzEDX0&dib_tag=se&keywords=vallejo+yellow&qid=1760647436&sprefix=vallejo+yellow%2Caps%2C114&sr=8-6) 5.12
+	[Vallejo Grey Blue](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH7ONE?crid=27B60LZX5KSLT&dib=eyJ2IjoiMSJ9.sP_mvEs56uvQx7OyHoWYgRLt_SiXE7IDyWtGfUgDY82QUBHk6-tSDTlEn0leCaqLRHpYoGlB_Fwa6KorSD0yd10VfPWbuKrE76_lEacAiIgcGRWyKaAVwjbC-7s4ZQYYIfIgHcBHzds3-2sdZCPh7kOW8SyuTt1jIt15Z6aVQmnMqPaPtoGkVT2CGjcbAy1k4KUcyBn9VIiQHTeLyaXXdZ3sYdgCM2hIJG8O4Ll6nGqCo-ghK1At62wILF8uKHbTp8XT6hccK1rqMOrWtIZAUk_0oR1NxnEV8rNACUlUV1M.pNlQ2OvWzEuCJqw150VqnMzZ1jE3BxiMW_u1ZUZ7F2s&dib_tag=se&keywords=vallejo+gray&qid=1760647421&sprefix=vallejo+gray%2Caps%2C117&sr=8-9) 5.12
+	[Assorted Sandpaper Sheets](https://www.amazon.co.uk/dp/B0B5LJFF1T?tag=b357-21&linkCode=osi&th=1&psc=1) 3.95
+	[Ball joint set](https://www.ebay.co.uk/itm/306544300981?chn=ps&_ul=GB&google_free_listing_action=view_item) 14.34
+	[Paperclips](https://www.amazon.co.uk/Q-Connect-Paperclips-Plain-Pack-1000/dp/B000NM4OES?crid=1MM02P4OTUCIX&dib=eyJ2IjoiMSJ9.hJMDRotfMLqkIuCpXfnzDg2CrML-Ox59D9VKF3oBwK6239IkmaHNqY3ng1V820y_QRcaMeK9NHIiYlB-d6uc41zU58bAi4iyO2d4P1Not7ROcJaw44l4NFPYGsbwg3sbaTl4u5TGDyE-CULKct1VlI-gClp9zLyuqnaAcWpCYuvcdS9oz6SkOjVzLa7rUS-olC7L7JyF3VhVxXfgg6tSOvFybi3ln5y-9sBvT-3vKxnpjJx7tTWIE-Avm6aj_80_bmyL8273XuuIx1VwRC_cfIS_JRF3WFE_ioIDv7BFbEs.3vBpQlonB1rHCZr5Fvntkg-gMOT31litUJUFHxC5oHc&dib_tag=se&keywords=paper+clips&qid=1760832466&sprefix=paper+clips%2Caps%2C180&sr=8-6) 6.07
+	[Rit Synthetic Dye](https://amzn.eu/d/1Yno7lD) 8.49
+	TOTAL PRICE 100.21
+	See [[Custom ML Batman Instructions]]
 
 
 ## Dragon Ball Figure Wishlist
 
-- [ ] ![[Pasted image 20251106033622.png]]
-	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
-- [ ] ![[Pasted image 20251106033632.png]]
-	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.hlj.com/s-h-figuarts-super-saiyan-son-goku-legendary-super-saiyan-reissue-banc650436-2) 38.71
-- [ ] ![[item_0000013128_hASlivCt_08.jpg]]
-	[SH FIGUARTS KAIOKEN Goku](https://www.aliexpress.com/item/1005009279732944.html?) 33.59
+- [x] ![[Pasted image 20251106033622.png]]
+	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
+- [x] ![[Pasted image 20251106033632.png]]
+	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
+- [ ] ![[Pasted image 20251106034605.png]]
+	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080272441.html?) 38.59
 - [ ] ![[Pasted image 20251106033917.png]]
 	[DEMONIACAL FIT UNTAMED POWER Xeno SSJ4 Goku](https://www.aliexpress.com/item/1005008255123027.html?) 35.29
-- [ ] ![[G4Uhe_VbQAEIXdB.jpeg]]
-	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009386308164.html?) 64.99
-- [ ] ![[Pasted image 20251106034106.png]]
+- [x] ![[G4Uhe_VbQAEIXdB.jpeg]]
+	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
+- [x] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
-- [ ] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
+- [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Battle Damaged Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 48.69
 	Could also get undamaged version.
 	Also could repaint windy hair as black for base.
 - [ ] ![[Pasted image 20251106034412.png]]
 	[SH FIGUARTS Daima Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 29.07
-- [ ] ![[Pasted image 20251106034605.png]]
-	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080272441.html?) 38.59
-- [ ] ![[Pasted image 20251106034752.png]]
+- [x] ![[Pasted image 20251106034752.png]]
 	ZT Toys Broly 80~
 - [ ] ![[Pasted image 20251106035525.png]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005010239609922.html?) 36.29
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
-- [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
-	Wind Toys Goku Custom 91.75:**
+	56.88 total
+- [x] ![[Pasted image 20251106193013.png]]
+	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
+- [x] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
+	Wind Toys Goku Custom 84.74:
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 	- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 	- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-	- [Gesture Hands](https://www.aliexpress.com/item/1005009466332683.html?) 7.01
-- [ ] ![[{749CD899-69F4-4102-A9F4-B9BEE5673B15}.png]]
-	**Custom Trunks 105.67:**
-	- [SSS Studio SSJ3 Trunks, Colour B, for base figure](https://www.aliexpress.com/item/1005008826610942.html?) 47.19
+- [x] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
+	Custom Trunks 100.77:
+	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
 	- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
 
@@ -152,10 +168,10 @@ kanban-plugin: board
 - [ ] **mafex spider-man comic paint ver 36.13
 	mafex miles morales gurihiru 45.40
 	fahrul heads for mafex 108 and 276 33.45
-	wind toys goku custom 91.75
-	ct toys agent venom 24.19
-	mess toys superior neighbour 34.29
-	268.51 total**
+	tonsenarttoys rider goku 64.99
+	shf games begin goku 27.99
+	tonsenarttoys majin vegeta 48.69
+	256.65 total**
 	(extra stuff that isn't so expensive)
 	-ml beyond ben reilly 19.99
 	-ml dark avengers spider-man 24.99
@@ -163,11 +179,12 @@ kanban-plugin: board
 	-tamashii effect series concrete crash set 15.75
 	-web effect pack 17.85
 - [ ] **mess toys scarlet spider 30 (not out yet)
-	mess toys venom 40 (not out yet)
-	revoltech Deadpool 44.44
-	nendoroid sonic 33.91 (preorder for june)
+	zt broly 80 (not out yet)
+	custom shf trunks 100.77
+	tonsenarttoys gogeta 70.39
+	shf lssj goku 34.99
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	205.65 total**
+	372.45 total**
 	(extra stuff that isn't so expensive)
 
 
@@ -175,6 +192,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false],"show-checkboxes":true}
 ```
 %%
