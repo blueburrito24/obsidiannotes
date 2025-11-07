@@ -126,7 +126,7 @@ kanban-plugin: board
 
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
-- [x] ![[Pasted image 20251106033632.png]]
+- [ ] ![[Pasted image 20251106033632.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 - [ ] ![[Pasted image 20251106034605.png]]
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080272441.html?) 38.59
@@ -144,7 +144,8 @@ kanban-plugin: board
 	[SH FIGUARTS Daima Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 29.07
 - [x] ![[Pasted image 20251106034752.png]]
 	ZT Toys Broly 80~
-- [ ] ![[Pasted image 20251106035525.png]]
+	[Cloth skirt](https://www.aliexpress.com/item/1005009769310263.html?) 19.59
+- [x] ![[Pasted image 20251106035525.png]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005010239609922.html?) 36.29
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
 	56.88 total
@@ -168,20 +169,22 @@ kanban-plugin: board
 - [ ] **mafex spider-man comic paint ver 36.13
 	mafex miles morales gurihiru 45.40
 	fahrul heads for mafex 108 and 276 33.45
+	ct toys agent venom 24.19
 	tonsenarttoys rider goku 64.99
 	shf games begin goku 27.99
 	tonsenarttoys majin vegeta 48.69
 	tamashii shock impact yellow 12.73
 	tamashii wind effects 6.30
-	275.68 total**
+	299.87 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly 80 (not out yet)
+	3rd party broly skirt 19.59
 	tamashii concrete crash set 15.75
 	custom shf trunks 100.77
 	tonsenarttoys gogeta 70.39
-	shf lssj goku 34.99
+	hm/shf gohan 56.88
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	386.20 total**
+	429.68 total**
 
 
 ## Wishlist Archives
@@ -198,6 +201,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
