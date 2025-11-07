@@ -14,7 +14,7 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man. I'm also selling my SHF Toei Spider-Man for 80, I'll buy tonsenarttoys rider goku for 64.99 then save the little bit left.
+- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man. I'm also selling my SHF Toei Spider-Man for 80.
 
 
 ## General Wishlist
@@ -77,7 +77,7 @@ kanban-plugin: board
 
 ## Marvel/General Figure Wishlist
 
-- [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action 1.jpg | 200]]
+- [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
@@ -125,15 +125,14 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251107074516.png]]
 	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
 	or
-	![[Pasted image 20251106033632.png]]
+	![[Pasted image 20251106034605.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
-- [ ] ![[Pasted image 20251106034605.png]]
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 - [ ] ![[Pasted image 20251106033917.png]]
 	[DEMONIACAL FIT UNTAMED POWER Xeno SSJ4 Goku](https://www.aliexpress.com/item/1005008255123027.html?) 35.29
 - [x] ![[G4Uhe_VbQAEIXdB.jpeg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
-- [x] ![[Pasted image 20251106034106.png]]
+- [ ] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
