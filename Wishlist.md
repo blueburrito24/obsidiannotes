@@ -14,8 +14,7 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man. I'm also selling my SHF Toei Spider-Man for 80 but I want to wait to use it since Tamashii announced a manga colour SSJ Goku.
-	![[Pasted image 20251107074516.png]]
+- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man. I'm also selling my SHF Toei Spider-Man for 80, I'll buy tonsenarttoys rider goku for 64.99 then save the little bit left.
 
 
 ## General Wishlist
@@ -123,7 +122,10 @@ kanban-plugin: board
 
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
-- [ ] ![[Pasted image 20251106033632.png]]
+- [x] ![[Pasted image 20251107074516.png]]
+	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
+	or
+	![[Pasted image 20251106033632.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 - [ ] ![[Pasted image 20251106034605.png]]
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
@@ -136,7 +138,7 @@ kanban-plugin: board
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
 	Could also get undamaged version.
-	Also could repaint windy hair as black for base.
+	Also could repaint normal hair as black for base.
 - [ ] ![[Pasted image 20251106034412.png]]
 	[SH FIGUARTS Daima Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) 29.07
 - [x] ![[Pasted image 20251106034752.png]]
@@ -148,6 +150,8 @@ kanban-plugin: board
 	56.88 total
 - [x] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
+- [ ] ![[sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.jpg]]
+	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
 - [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
 	Wind Toys Goku Custom 84.74:
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
@@ -166,12 +170,12 @@ kanban-plugin: board
 - [ ] **mafex spider-man comic paint ver 36.13
 	mafex miles morales gurihiru 45.40
 	fahrul heads for mafex 108 and 276 33.45
-	tonsenarttoys rider goku 64.99
+	shf lssj goku genkidamatsuri 50~ (Will pay boiled to grab me a copy from nyc)
 	shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	tamashii shock impact yellow 12.73
 	tamashii wind effects 6.30
-	272.78 total**
+	257.79 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly 80 (not out yet)
 	3rd party broly skirt 19.59

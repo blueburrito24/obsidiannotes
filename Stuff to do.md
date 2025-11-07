@@ -13,6 +13,8 @@ install Kanban board plugin
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 Set up bitwarden
 make bases for my book wishlists
+make less-revealing design for miku w long hair
+![[G5AyOTAbIAYf2C2.jpeg]]
 
 Look into GI Joe Classified line
 Make a pal for GohanZ2
