@@ -14,8 +14,8 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man + namek ssj goku using money from selling SHF Toei Spider-Man
-	150 (60 from revo, 80 from toei) - 61.99 - 10 for shipping - 34.99 - 28.89 = 14.13 left
+- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man. I'm also selling my SHF Toei Spider-Man for 80 but I want to wait to use it since Tamashii announced a manga colour SSJ Goku.
+	![[Pasted image 20251107074516.png]]
 
 
 ## General Wishlist
@@ -123,9 +123,9 @@ kanban-plugin: board
 
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
-- [x] ![[Pasted image 20251106033632.png]]
+- [ ] ![[Pasted image 20251106033632.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
-- [x] ![[Pasted image 20251106034605.png]]
+- [ ] ![[Pasted image 20251106034605.png]]
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 - [ ] ![[Pasted image 20251106033917.png]]
 	[DEMONIACAL FIT UNTAMED POWER Xeno SSJ4 Goku](https://www.aliexpress.com/item/1005008255123027.html?) 35.29
