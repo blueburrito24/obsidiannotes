@@ -12,7 +12,7 @@ kanban-plugin: board
 	
 	926.28 \- 300 \= 626.28gbp (Third Term)
 	
-	*These two are general spending budgets. They can be for anything from [[Remote-Folder/Wishlist]] or [[Game wishlist]] or [[Comics Wishlist.base]]*
+	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
 - [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man + making my custom UI Goku using money from selling SHF Toei Spider-Man
 
