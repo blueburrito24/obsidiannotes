@@ -14,7 +14,8 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man + making my custom UI Goku using money from selling SHF Toei Spider-Man
+- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man + namek ssj goku using money from selling SHF Toei Spider-Man
+	150 (60 from revo, 80 from toei) - 61.99 - 10 for shipping - 34.99 - 28.89 = 14.13 left
 
 
 ## General Wishlist
@@ -42,6 +43,8 @@ kanban-plugin: board
 	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009683342232.html?) 6.30
 	[Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+	[Silicone Shock Oil for loosening up figures](https://www.amazon.co.uk/dp/B08N1MT4B5/?) 3.99
+	[Plastic containers for loose figure accessories](https://www.amazon.co.uk/dp/B09J2QWHC2?) 13.72
 	![[Pasted image 20251106212235.png]]
 	[MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
 
@@ -77,12 +80,8 @@ kanban-plugin: board
 
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action 1.jpg | 200]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
-- [ ] ![[DA Spidey Render.png| 200]]
-	[MARVEL LEGENDS Dark Avengers Spider-Man](https://forbiddenplanet.com/474468-dark-avengers-marvel-legends-action-figure-spider-man/) 24.99
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
-- [ ] ![[ben-reilly-spider-man-beyond-2023-ver-v0-ypm04fn7k43c1.webp | 200]]
-	[MARVEL LEGENDS Beyond Ben Reilly](https://amzn.eu/d/jlz3ONp) 19.99
 - [ ] ![[Pasted image 20251025183656.png | 200]]
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[Pasted image 20251025232245.png | 200]]
@@ -104,8 +103,6 @@ kanban-plugin: board
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
 	![[Pasted image 20251021152552.png | 215]]
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
-- [ ] ![[SnapInsta.to_573137441_18387106786177412_1546198763908281126_n.jpg | 220]]
-	[Kaiyodo Amazing Yamaguchi Gwenom](https://www.nin-nin-game.com/en/revoltech/155802-amazing-yamaguchi-revoltech-spider-gwen-gwenom-kaiyodo-.html) 64.35
 - [ ] ![[Pasted image 20251103113930.png | 300]]
 	Lingjihun TMNT figures
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
@@ -126,10 +123,10 @@ kanban-plugin: board
 
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
-- [ ] ![[Pasted image 20251106033632.png]]
+- [x] ![[Pasted image 20251106033632.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
-- [ ] ![[Pasted image 20251106034605.png]]
-	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080272441.html?) 38.59
+- [x] ![[Pasted image 20251106034605.png]]
+	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 - [ ] ![[Pasted image 20251106033917.png]]
 	[DEMONIACAL FIT UNTAMED POWER Xeno SSJ4 Goku](https://www.aliexpress.com/item/1005008255123027.html?) 35.29
 - [x] ![[G4Uhe_VbQAEIXdB.jpeg]]
@@ -151,7 +148,7 @@ kanban-plugin: board
 	56.88 total
 - [x] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
-- [x] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
+- [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
 	Wind Toys Goku Custom 84.74:
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 	- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
@@ -169,13 +166,12 @@ kanban-plugin: board
 - [ ] **mafex spider-man comic paint ver 36.13
 	mafex miles morales gurihiru 45.40
 	fahrul heads for mafex 108 and 276 33.45
-	ct toys agent venom 24.19
 	tonsenarttoys rider goku 64.99
 	shf games begin goku 27.99
 	tonsenarttoys majin vegeta 48.69
 	tamashii shock impact yellow 12.73
 	tamashii wind effects 6.30
-	299.87 total**
+	275.68 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly 80 (not out yet)
 	3rd party broly skirt 19.59
