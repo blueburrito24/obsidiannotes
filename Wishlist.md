@@ -128,8 +128,6 @@ kanban-plugin: board
 	![[Pasted image 20251106034605.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
-- [ ] ![[Pasted image 20251106033917.png]]
-	[DEMONIACAL FIT UNTAMED POWER Xeno SSJ4 Goku](https://www.aliexpress.com/item/1005008255123027.html?) 35.29
 - [x] ![[G4Uhe_VbQAEIXdB.jpeg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
 - [ ] ![[Pasted image 20251106034106.png]]
