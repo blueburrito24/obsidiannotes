@@ -152,12 +152,14 @@ kanban-plugin: board
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [ ] ![[sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.jpg]]
 	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
+- [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
+	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
 - [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
 	Wind Toys Goku Custom 84.74:
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 	- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 	- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-- [x] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
+- [ ] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
 	Custom Trunks 100.77:
 	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
@@ -180,11 +182,10 @@ kanban-plugin: board
 	zt broly 80 (not out yet)
 	3rd party broly skirt 19.59
 	tamashii concrete crash set 15.75
-	custom shf trunks 100.77
 	tonsenarttoys gogeta 70.39
 	hm/shf gohan 56.88
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	429.68 total**
+	328.91 total**
 
 
 ## Wishlist Archives
