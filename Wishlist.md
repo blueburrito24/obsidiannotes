@@ -134,7 +134,7 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
-	[BLACK HOLE TOYS Majin Vegeta Battle Damaged Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 48.69
+	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
 	Could also get undamaged version.
 	Also could repaint windy hair as black for base.
 - [ ] ![[Pasted image 20251106034412.png]]
@@ -168,10 +168,10 @@ kanban-plugin: board
 	fahrul heads for mafex 108 and 276 33.45
 	tonsenarttoys rider goku 64.99
 	shf games begin goku 27.99
-	tonsenarttoys majin vegeta 48.69
+	tonsenarttoys majin vegeta 45.79
 	tamashii shock impact yellow 12.73
 	tamashii wind effects 6.30
-	275.68 total**
+	272.78 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly 80 (not out yet)
 	3rd party broly skirt 19.59
