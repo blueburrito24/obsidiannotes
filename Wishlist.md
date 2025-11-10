@@ -169,7 +169,7 @@ kanban-plugin: board
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 	- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 	- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-- [ ] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
+- [x] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
 	Custom Trunks 100.77:
 	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
@@ -191,8 +191,7 @@ kanban-plugin: board
 	tamashii wind effects 6.30
 	348.87 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
-	zt broly 80 (not out yet)
-	3rd party broly skirt 19.59
+	zt broly (not out yet) + cloth skirt 99.59
 	custom trunks 100.77
 	tamashii concrete crash set 15.75
 	tonsenarttoys gogeta 70.39
