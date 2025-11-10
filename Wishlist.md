@@ -160,7 +160,7 @@ kanban-plugin: board
 	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
 - [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
 	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
-- [ ] ![[287080.png]]
+- [x] ![[287080.png]]
 	Budokai 1 Vegeta costume 22.34 :
 	["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
 	[Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
@@ -193,11 +193,12 @@ kanban-plugin: board
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly 80 (not out yet)
 	3rd party broly skirt 19.59
+	custom trunks 100.77
 	tamashii concrete crash set 15.75
 	tonsenarttoys gogeta 70.39
 	hm/shf gohan 56.88
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	328.91 total**
+	429.68 total**
 
 
 ## Wishlist Archives
