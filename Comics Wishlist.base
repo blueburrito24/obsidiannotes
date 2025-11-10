@@ -3,7 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "Remote-Folder/Comics"
+        - file.folder.contains("comics")
     order:
       - title
       - link
@@ -11,6 +11,6 @@ views:
       - property: title
         direction: ASC
     image: note.coverUrl
-    imageAspectRatio: 1.5
+    imageAspectRatio: 0.85
     imageFit: ""
-    cardSize: 180
+    cardSize: 390

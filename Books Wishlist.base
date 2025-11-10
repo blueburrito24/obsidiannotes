@@ -3,7 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "Remote-Folder/Books"
+        - file.folder.contains("Books")
     order:
       - title
       - author
