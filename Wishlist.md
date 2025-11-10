@@ -44,6 +44,7 @@ kanban-plugin: board
 	[Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
 	[Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+	[KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
 	[Silicone Shock Oil for loosening up figures](https://www.amazon.co.uk/dp/B08N1MT4B5/?) 3.99
 	[Plastic containers for loose figure accessories](https://www.amazon.co.uk/dp/B09J2QWHC2?) 13.72
 	![[Pasted image 20251106212235.png]]
@@ -136,7 +137,9 @@ kanban-plugin: board
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 	Need to do [this mod](https://www.youtube.com/watch?v=j8VSCvsUyLY) on the abs and neck for better height and articulation
 - [x] ![[Pasted image 20251108191749.png]]
+	![[s-l1600.jpg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
+	[Cloth jacket](https://www.ebay.co.uk/itm/127455301525?) 30.04
 - [x] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
@@ -161,9 +164,9 @@ kanban-plugin: board
 - [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
 	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
 - [x] ![[287080.png]]
-	Budokai 1 Vegeta costume 22.34 :
-	["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
-	[Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
+	Budokai 1 Vegeta costume 22.34:
+	- ["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
+	- [Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
 - [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
 	Wind Toys Goku Custom 84.74:
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
@@ -174,6 +177,11 @@ kanban-plugin: board
 	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
 	- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
+- [ ] ![[s-l1600 1.jpg]]
+	![[s-l1600-1.jpg]]
+	Buff Martialist 78.47:
+	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
+	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 29.15
 
 
 ## Budget Projections
