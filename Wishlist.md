@@ -41,7 +41,7 @@ kanban-plugin: board
 	[Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
 	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009683342232.html?) 6.30
 	[Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
-	[Electricity Effect set](https://www.aliexpress.com/item/32694794022.html?) 20.59
+	[Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
 	[Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
 	[Silicone Shock Oil for loosening up figures](https://www.amazon.co.uk/dp/B08N1MT4B5/?) 3.99
@@ -93,6 +93,8 @@ kanban-plugin: board
 	[MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
 - [x] ![[Pasted image 20251031235629.png | 200]]
 	[Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping
+- [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
+	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
 - [x] ![[MESS TOYS Scarlet Spider.png| 200]]
 	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
@@ -106,6 +108,8 @@ kanban-plugin: board
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 - [ ] ![[Pasted image 20251103113930.png | 300]]
 	Lingjihun TMNT figures
+- [x] ![[Pasted image 20251110014902.png]]
+	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 	[Marvel Legends X-Men's The X-Cutioner](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 19.37
 	[Marvel Legends X-Men's Magneto](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 24.99
@@ -130,15 +134,16 @@ kanban-plugin: board
 	![[Pasted image 20251106034605.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
+	Need to do [this mod](https://www.youtube.com/watch?v=j8VSCvsUyLY) on the abs and neck for better height and articulation
 - [x] ![[Pasted image 20251108191749.png]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
-- [ ] ![[Pasted image 20251106034106.png]]
+- [x] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
-	Could also get undamaged version.
-	Also could repaint normal hair as black for base.
+	Might buy an undamaged version before term 2, then during term 2 buy a damaged version and repaint it as base for the Budokai 1 look.
 - [x] ![[Pasted image 20251106034752.png]]
+	![[Pasted image 20251110014516.png]]
 	ZT Toys Broly 80~
 	[Cloth skirt](https://www.aliexpress.com/item/1005009769310263.html?) 19.59
 - [x] ![[Pasted image 20251106035525.png]]
@@ -148,10 +153,17 @@ kanban-plugin: board
 	56.88 total
 - [x] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
+- [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
+	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
+	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
 - [ ] ![[sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.jpg]]
 	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
 - [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
 	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
+- [ ] ![[287080.png]]
+	Budokai 1 Vegeta costume 22.34 :
+	["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
+	[Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
 - [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
 	Wind Toys Goku Custom 84.74:
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
@@ -169,13 +181,15 @@ kanban-plugin: board
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **mafex spider-man comic paint ver 36.13
 	mafex miles morales gurihiru 45.40
-	fahrul heads for mafex 108 and 276 33.45
-	shf lssj goku genkidamatsuri 50~ (Will pay boiled to grab me a copy from nyc)
-	shf games begin goku 27.99
+	fahrul heads for mafex 108 and 276 + web set 37.27
+	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
+	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
+	budokai 1 vegeta costume 22.34
+	tonsenarttoys rider goku 64.99
 	tamashii shock impact yellow 12.73
 	tamashii wind effects 6.30
-	257.79 total**
+	348.87 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly 80 (not out yet)
 	3rd party broly skirt 19.59
