@@ -144,7 +144,7 @@ kanban-plugin: board
 	Might buy an undamaged version before term 2, then during term 2 buy a damaged version and repaint it as base for the Budokai 1 look.
 - [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
-	ZT Toys Broly 80~
+	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
 	[Cloth skirt](https://www.aliexpress.com/item/1005009769310263.html?) 19.59
 - [x] ![[Pasted image 20251106035525.png]]
 	![[{5C7BA5E7-F17D-4B34-BED7-44CAB50E8769}.png]]
@@ -191,13 +191,13 @@ kanban-plugin: board
 	tamashii wind effects 6.30
 	348.87 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
-	zt broly (not out yet) + cloth skirt 99.59
+	zt broly + cloth skirt 123,78
 	custom trunks 100.77
 	tamashii concrete crash set 15.75
 	tonsenarttoys gogeta 70.39
 	hm/shf gohan 56.88
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	429.68 total**
+	453.87 total**
 
 
 ## Wishlist Archives
