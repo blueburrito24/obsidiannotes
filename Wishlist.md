@@ -48,6 +48,15 @@ kanban-plugin: board
 	[Plastic containers for loose figure accessories](https://www.amazon.co.uk/dp/B09J2QWHC2?) 13.72
 	![[Pasted image 20251106212235.png]]
 	[MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
+- [ ] [Cotton buds](https://www.amazon.co.uk/dp/B07BMP84J5?) 3.99
+	[99% Isopropyl Alcohol](https://www.amazon.co.uk/dp/B0B6D3GJH7?th=1) 2.99
+	Mix 1 part isopropyl alcohol and 2 parts water for 30% strength, then dip the cotton swab lightly and roll it on the eye decal of the figure. 
+	Immediately after, wipe the faceplate with a damp tissue.
+- [ ] ## [Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
+	[Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
+	[Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
+	[Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
+	[Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
 
 
 ## Game Wishlist
@@ -137,30 +146,41 @@ kanban-plugin: board
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 	Need to do [this mod](https://www.youtube.com/watch?v=j8VSCvsUyLY) on the abs and neck for better height and articulation
+- [x] ![[Pasted image 20251106034106.png]]
+	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
+- [x] ![[Pasted image 20251106035525.png]]
+	![[{5C7BA5E7-F17D-4B34-BED7-44CAB50E8769}.png]]
+	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005010239609922.html?) 36.29
+	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
+	56.88 total
+- [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
+	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
+- [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
+	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
+	Might buy an undamaged version before term 2, then during term 2 buy a damaged version and repaint it as base for the Budokai 1 look.
+- [x] ![[287080.png]]
+	Budokai 1 Vegeta costume 22.34:
+	- ["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
+	- [Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
+- [ ] ![[shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.jpg]]
+	[SH FIGUARTS Vegeta 24000 Power Level Ver.](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 77.16
+- [ ] ![[Pasted image 20251111211154.png]]
+	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
+	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
 - [x] ![[Pasted image 20251108191749.png]]
 	![[s-l1600.jpg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
 	[Cloth jacket](https://www.ebay.co.uk/itm/127455301525?) 30.04
 - [ ] ![[Pasted image 20251111012821.png]]
 	MP Studio Vegito (No info yet)
-- [x] ![[Pasted image 20251106034106.png]]
-	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
-- [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
-	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
-	Might buy an undamaged version before term 2, then during term 2 buy a damaged version and repaint it as base for the Budokai 1 look.
 - [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
 	[Cloth skirt](https://www.aliexpress.com/item/1005009769310263.html?) 19.59
-- [x] ![[Pasted image 20251106035525.png]]
-	![[{5C7BA5E7-F17D-4B34-BED7-44CAB50E8769}.png]]
-	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005010239609922.html?) 36.29
-	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
-	56.88 total
-- [ ] ![[Pasted image 20251106193013.png]]
-	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [x] ![[Pasted image 20251111064023.png]]
 	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
+- [ ] ![[Pasted image 20251106193013.png]]
+	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
 	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
 	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
@@ -168,10 +188,6 @@ kanban-plugin: board
 	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
 - [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
 	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
-- [x] ![[287080.png]]
-	Budokai 1 Vegeta costume 22.34:
-	- ["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
-	- [Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
 - [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
 	Wind Toys Goku Custom 84.74:
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
@@ -224,6 +240,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
