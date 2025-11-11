@@ -101,11 +101,11 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[Pasted image 20251025232245.png | 200]]
 	[MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
-- [x] ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]]
+- [ ] ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]]
 	[MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
-- [x] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]]
+- [ ] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]]
 	[MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
-- [x] ![[Pasted image 20251031235629.png | 200]]
+- [ ] ![[Pasted image 20251031235629.png | 200]]
 	[Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
@@ -113,7 +113,7 @@ kanban-plugin: board
 	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	MESS TOYS Venom 40
-- [ ] ![[Pasted image 20251101200128.png | 200]]
+- [x] ![[Pasted image 20251101200128.png | 200]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 - [ ] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
@@ -122,12 +122,12 @@ kanban-plugin: board
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 - [ ] ![[Pasted image 20251103113930.png | 300]]
 	Lingjihun TMNT figures
-- [ ] ![[s-l1600 1.jpg]]
+- [x] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 78.47:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 29.15
-- [x] ![[Pasted image 20251110014902.png]]
+- [ ] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 	[Marvel Legends X-Men's The X-Cutioner](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 19.37
@@ -220,15 +220,14 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
-- [ ] **mafex spider-man comic paint ver 36.13
-	mafex miles morales gurihiru 45.40
-	fahrul heads for mafex 108 and 276 + web set 37.27
+- [ ] **mess toys superior neighbour 34.29
+	buff martialist 78.47
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	eoz vegeta costume 35.13
 	tonsenarttoys rider goku 64.99
-	322.7 total**
+	336.66 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
@@ -254,6 +253,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,true,false,true],"show-checkboxes":true}
 ```
 %%
