@@ -48,11 +48,13 @@ kanban-plugin: board
 	[Plastic containers for loose figure accessories](https://www.amazon.co.uk/dp/B09J2QWHC2?) 13.72
 	![[Pasted image 20251106212235.png]]
 	[MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
-- [ ] [Cotton buds](https://www.amazon.co.uk/dp/B07BMP84J5?) 3.99
+- [ ] ## Removing eyes from DBZ figures
+	[Cotton buds](https://www.amazon.co.uk/dp/B07BMP84J5?) 3.99
 	[99% Isopropyl Alcohol](https://www.amazon.co.uk/dp/B0B6D3GJH7?th=1) 2.99
 	Mix 1 part isopropyl alcohol and 2 parts water for 30% strength, then dip the cotton swab lightly and roll it on the eye decal of the figure. 
 	Immediately after, wipe the faceplate with a damp tissue.
-- [ ] ## [Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
+- [ ] ## Recasting figure parts
+	[Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
 	[Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
 	[Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
 	[Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
@@ -119,6 +121,11 @@ kanban-plugin: board
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 - [ ] ![[Pasted image 20251103113930.png | 300]]
 	Lingjihun TMNT figures
+- [ ] ![[s-l1600 1.jpg]]
+	![[s-l1600-1.jpg]]
+	Buff Martialist 78.47:
+	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
+	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 29.15
 - [x] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
@@ -198,11 +205,6 @@ kanban-plugin: board
 	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
 	- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
-- [ ] ![[s-l1600 1.jpg]]
-	![[s-l1600-1.jpg]]
-	Buff Martialist 78.47:
-	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
-	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 29.15
 
 
 ## Budget Projections
