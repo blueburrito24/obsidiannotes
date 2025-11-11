@@ -213,7 +213,7 @@ kanban-plugin: board
 	[ZD Studio SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484485804.html?) 28.79 (Gogeta Ver.)
 	[SH FIGUARTS Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005006826990115.html?) 14.69
 	[Cloth EoZ Gi](https://www.aliexpress.com/item/1005009782721805.html?) 18.79
-	Need to repaint shoes on figure to be black with white soles.
+	Need to repaint shoes on figure to be black with white soles, alongside removing the whis gi symbol on the EoZ gi (it has it in some images)
 	Also need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the neck and torso for accurate height.
 
 
