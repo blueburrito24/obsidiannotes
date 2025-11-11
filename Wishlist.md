@@ -152,7 +152,7 @@ kanban-plugin: board
 	![[Pasted image 20251106034605.png]]
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
-	Need to do [this mod](https://www.youtube.com/watch?v=j8VSCvsUyLY) on the abs and neck for better height and articulation
+	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
 - [x] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[Pasted image 20251106035525.png]]
@@ -164,7 +164,6 @@ kanban-plugin: board
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
-	Might buy an undamaged version before term 2, then during term 2 buy a damaged version and repaint it as base for the Budokai 1 look.
 - [x] ![[287080.png]]
 	Budokai 1 Vegeta costume 22.34:
 	- ["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
@@ -205,6 +204,14 @@ kanban-plugin: board
 	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
 	- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
+- [ ] ![[Pasted image 20251111215024.png]]
+	![[S252d8c9ebd25487d8b8adc7d2b1a01e62.avif]]
+	Custom End Of Z SSJ3 Goku 77.06:
+	[ZD Studio SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484485804.html?) 28.79 (Gogeta Ver.)
+	[SH FIGUARTS Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005006826990115.html?) 14.69
+	[Cloth EoZ Gi](https://www.aliexpress.com/item/1005009782721805.html?) 18.79
+	Need to repaint shoes on figure to be black with white soles.
+	Also need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the neck and torso for accurate height.
 
 
 ## Budget Projections
@@ -242,6 +249,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
