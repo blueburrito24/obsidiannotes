@@ -14,7 +14,7 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I'm going to buy SHF Turles using money from selling both SHF Toei Spider-Man and Revoltech 1.0 Spider-Man.
+- [ ] I will use money from selling my SHF Toei Spidey and Revo 1.0 Spidey to buy SHF 24K Vegeta + the stuff I need to recast his hairsculpt to use on BHT Buu Saga Vegeta
 
 
 ## General Wishlist
@@ -59,6 +59,7 @@ kanban-plugin: board
 	[Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
 	[Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
 	[Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
+	17.89 total bc I already have the epoxy putty
 
 
 ## Game Wishlist
@@ -163,14 +164,16 @@ kanban-plugin: board
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
-	[BLACK HOLE TOYS Majin Vegeta Black Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
-- [x] ![[287080.png]]
-	Budokai 1 Vegeta costume 22.34:
-	- ["Leather" Jacket + black pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
+	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
+- [x] ![[202672595-1729932717.webp]]
+	Budokai 1/EoZ Vegeta costume 22.34:
+	- ["Leather" Jacket + beige pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
 	- [Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
-- [ ] ![[shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.jpg]]
+	- [Vallejo Skin Tone Paint Set](https://amzn.eu/d/5343HnO) 12.79
+	I need to paint-match hands to the face and also repaint shoes as black.
+- [x] ![[shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.jpg]]
 	[SH FIGUARTS Vegeta 24000 Power Level Ver.](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 77.16
-- [ ] ![[Pasted image 20251111211154.png]]
+- [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
 - [x] ![[Pasted image 20251108191749.png]]
@@ -183,7 +186,7 @@ kanban-plugin: board
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
 	[Cloth skirt](https://www.aliexpress.com/item/1005009769310263.html?) 19.59
-- [x] ![[Pasted image 20251111064023.png]]
+- [ ] ![[Pasted image 20251111064023.png]]
 	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
@@ -199,12 +202,12 @@ kanban-plugin: board
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 	- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 	- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-- [x] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
+- [ ] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
 	Custom Trunks 100.77:
 	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
 	- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
-- [ ] ![[Pasted image 20251111215024.png]]
+- [x] ![[Pasted image 20251111215024.png]]
 	![[S252d8c9ebd25487d8b8adc7d2b1a01e62.avif]]
 	Custom End Of Z SSJ3 Goku 77.06:
 	[ZD Studio SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484485804.html?) 28.79 (Gogeta Ver.)
@@ -223,16 +226,18 @@ kanban-plugin: board
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
-	budokai 1 vegeta costume 22.34
+	eoz vegeta costume 22.34
 	tonsenarttoys rider goku 64.99
 	329.84 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
-	zt broly + cloth skirt 123,78
-	custom trunks 100.77
+	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
+	eoz ssj3 goku custom 77.06
 	hm/shf gohan 56.88
-	revoltech symbiote spider-man 56.30 (preorder for june)
-	438.12 total**
+	revoltech symbiote
+	shf pn piccolo 40.61
+	spider-man 56.30 (preorder for june)
+	455.02 total**
 
 
 ## Wishlist Archives
@@ -249,6 +254,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
