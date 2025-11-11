@@ -52,7 +52,9 @@ kanban-plugin: board
 
 ## Game Wishlist
 
-- [ ] [Replicube](https://store.steampowered.com/app/3401490/Replicube?snr=1_25_4__318) 8.50
+- [ ] [Dragon Ball Z: KAKAROT](https://www.loaded.com/dragon-ball-z-kakarot-steam-pc) 9.79
+	[DBZ KAKAROT's Season Pass](https://www.loaded.com/dragon-ball-z-kakarot-season-pass-pc-dlc-steam) 7.99
+	[Replicube](https://store.steampowered.com/app/3401490/Replicube?snr=1_25_4__318) 8.50
 	[while True: learn()](https://store.steampowered.com/app/619150/while_True_learn?snr=1_25_4__318) 10.29
 	[SHINOBI: Art of Vengeance](https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance?snr=1_25_4__318) 24.99
 	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
@@ -157,7 +159,7 @@ kanban-plugin: board
 	56.88 total
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
-- [ ] ![[Pasted image 20251111064023.png]]
+- [x] ![[Pasted image 20251111064023.png]]
 	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
 	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
@@ -222,6 +224,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,true],"show-checkboxes":true}
 ```
 %%
