@@ -14,7 +14,7 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I also want to get SHF Cooler using my money from selling Revoltech 1.0 Spider-Man. I'm also selling my SHF Toei Spider-Man for 80.
+- [ ] I'm going to buy SHF Turles using money from selling both SHF Toei Spider-Man and Revoltech 1.0 Spider-Man.
 
 
 ## General Wishlist
@@ -42,7 +42,6 @@ kanban-plugin: board
 	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009683342232.html?) 6.30
 	[Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
 	[Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
-	[Web Effect Pack](https://www.etsy.com/uk/listing/4296664472/spider-web-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=spider-man+wired+webs&ref=sr_gallery-1-2&nob=1&content_source=a8dc5400-85fb-45b7-8269-16e85af04f93%253ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&organic_search_click=1&logging_key=a8dc5400-85fb-45b7-8269-16e85af04f93%3ALT2cd38a931d447b697c36b8eb4fca0cea4d68dbaa&variation0=5370699452&variation1=5351334725) 17.88
 	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
 	[KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
 	[Silicone Shock Oil for loosening up figures](https://www.amazon.co.uk/dp/B08N1MT4B5/?) 3.99
@@ -140,6 +139,8 @@ kanban-plugin: board
 	![[s-l1600.jpg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
 	[Cloth jacket](https://www.ebay.co.uk/itm/127455301525?) 30.04
+- [ ] ![[Pasted image 20251111012821.png]]
+	MP Studio Vegito (No info yet)
 - [x] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
@@ -154,8 +155,10 @@ kanban-plugin: board
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005010239609922.html?) 36.29
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
 	56.88 total
-- [x] ![[Pasted image 20251106193013.png]]
+- [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
+- [ ] ![[Pasted image 20251111064023.png]]
+	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
 	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
 	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
@@ -195,17 +198,14 @@ kanban-plugin: board
 	tonsenarttoys majin vegeta 45.79
 	budokai 1 vegeta costume 22.34
 	tonsenarttoys rider goku 64.99
-	tamashii shock impact yellow 12.73
-	tamashii wind effects 6.30
-	348.87 total**
+	329.84 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly + cloth skirt 123,78
 	custom trunks 100.77
-	tamashii concrete crash set 15.75
 	tonsenarttoys gogeta 70.39
 	hm/shf gohan 56.88
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	453.87 total**
+	438.12 total**
 
 
 ## Wishlist Archives
