@@ -165,14 +165,14 @@ kanban-plugin: board
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
+- [x] ![[shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.jpg]]
+	[SH FIGUARTS Vegeta 24000 Power Level Ver.](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 77.16
 - [x] ![[202672595-1729932717.webp]]
-	Budokai 1/EoZ Vegeta costume 22.34:
+	Budokai 1/EoZ Vegeta costume 35.13:
 	- ["Leather" Jacket + beige pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
 	- [Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
 	- [Vallejo Skin Tone Paint Set](https://amzn.eu/d/5343HnO) 12.79
 	I need to paint-match hands to the face and also repaint shoes as black.
-- [x] ![[shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.jpg]]
-	[SH FIGUARTS Vegeta 24000 Power Level Ver.](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 77.16
 - [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
@@ -226,9 +226,9 @@ kanban-plugin: board
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
-	eoz vegeta costume 22.34
+	eoz vegeta costume 35.13
 	tonsenarttoys rider goku 64.99
-	329.84 total**
+	322.7 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
