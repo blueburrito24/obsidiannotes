@@ -119,7 +119,7 @@ kanban-plugin: board
 	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	MESS TOYS Venom 40
-- [ ] ![[Pasted image 20251101200128.png | 200]]
+- [x] ![[Pasted image 20251101200128.png | 200]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
 - [ ] ![[Pasted image 20251112233400.png]]
@@ -137,7 +137,7 @@ kanban-plugin: board
 	Buff Martialist 66.27:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 16.95
-- [ ] ![[Pasted image 20251110014902.png]]
+- [x] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
 	[Marvel Legends X-Men's The X-Cutioner](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 19.37
