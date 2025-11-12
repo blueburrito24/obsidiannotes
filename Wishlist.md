@@ -231,13 +231,14 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
-- [ ] **buff martialist 66.27
+- [ ] **mess toys superior spider-man + custom head and webs 60.19
+	buff martialist 66.27
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	eoz vegeta costume 35.13
 	tonsenarttoys rider goku 64.99
-	290.17 total**
+	350.36 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
