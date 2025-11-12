@@ -130,9 +130,9 @@ kanban-plugin: board
 	Lingjihun TMNT figures
 - [x] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
-	Buff Martialist 78.47:
+	Buff Martialist 66.27:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
-	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 29.15
+	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 16.95
 - [ ] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
@@ -228,13 +228,13 @@ kanban-plugin: board
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **mess toys superior neighbour 34.29
-	buff martialist 78.47
+	buff martialist 66.27
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	eoz vegeta costume 35.13
 	tonsenarttoys rider goku 64.99
-	336.66 total**
+	324.46 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
@@ -259,6 +259,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
