@@ -14,7 +14,9 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I will use money from selling my SHF Toei Spidey and Revo 1.0 Spidey to buy SHF 24K Vegeta + the stuff I need to recast his hairsculpt to use on BHT Buu Saga Vegeta
+- [ ] I will use money from selling my SHF Toei Spidey and Revo 1.0 Spidey to buy SHF 24K Vegeta + the stuff I need to recast his hairsculpt to use on BHT Buu Saga Vegeta + tools to remove eyes from faces.
+	
+	I also listed my ML 12 Inch Spider-Man and Monster Venom, if they sell I should have about 100 which I can use to make the custom EoZ SSJ3 Goku.
 
 
 ## General Wishlist
