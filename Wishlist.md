@@ -16,7 +16,7 @@ kanban-plugin: board
 	See Wishlist Archives for stuff I've already bought.
 - [ ] I will use money from selling my SHF Toei Spidey and Revo 1.0 Spidey to buy SHF 24K Vegeta + the stuff I need to recast his hairsculpt to use on BHT Buu Saga Vegeta + tools to remove eyes from faces.
 	
-	I also listed my ML 12 Inch Spider-Man and Monster Venom, if they sell I should have about 100 which I can use to make the custom EoZ SSJ3 Goku.
+	I also listed my ML 12 Inch Spider-Man and Monster Venom, if they sell I should have about 100 which I can use to buy cooler and eoz goku (but without ssj3 heads) for a total of 105.47.
 
 
 ## General Wishlist
@@ -194,7 +194,7 @@ kanban-plugin: board
 	[Cloth skirt](https://www.aliexpress.com/item/1005009769310263.html?) 19.59
 - [ ] ![[Pasted image 20251111064023.png]]
 	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
-- [ ] ![[Pasted image 20251106193013.png]]
+- [x] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
 	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
@@ -219,7 +219,8 @@ kanban-plugin: board
 	[ZD Studio SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484485804.html?) 28.79 (Gogeta Ver.)
 	[SH FIGUARTS Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005006826990115.html?) 14.69
 	[Cloth EoZ Gi](https://www.aliexpress.com/item/1005009782721805.html?) 18.79
-	Need to repaint shoes on figure to be black with white soles, alongside removing the whis gi symbol on the EoZ gi (it has it in some images)
+	Need to repaint shoes on figure to be black with white soles, alongside removing the whis gi symbol on the EoZ gi (it has it in some images).
+	Need to cut off the major damage detail on the legs so that the gif folds naturally.
 	Also need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the neck and torso for accurate height.
 
 
