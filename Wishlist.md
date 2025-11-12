@@ -162,9 +162,9 @@ kanban-plugin: board
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[Pasted image 20251106035525.png]]
 	![[{5C7BA5E7-F17D-4B34-BED7-44CAB50E8769}.png]]
-	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005010239609922.html?) 36.29
+	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008438404916.html?) 42.84
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
-	56.88 total
+	63.43 total
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
@@ -235,12 +235,11 @@ kanban-plugin: board
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
-	eoz ssj3 goku custom 77.06
-	hm/shf gohan 56.88
+	hm/shf gohan 63.43
 	revoltech symbiote
 	shf pn piccolo 40.61
 	spider-man 56.30 (preorder for june)
-	455.02 total**
+	384.51 total**
 
 
 ## Wishlist Archives
