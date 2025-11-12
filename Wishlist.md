@@ -58,6 +58,7 @@ kanban-plugin: board
 	[Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
 	[Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
 	[Also can get epoxy putty in black](https://amzn.eu/d/b2Epf4w) 6.18
+	[Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.89
 	[Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
 	[Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
 	17.89 total bc I already have the epoxy putty
