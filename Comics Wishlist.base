@@ -13,4 +13,4 @@ views:
     image: note.coverUrl
     imageAspectRatio: 0.85
     imageFit: ""
-    cardSize: 390
+    cardSize: 250
