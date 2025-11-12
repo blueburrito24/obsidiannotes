@@ -51,19 +51,21 @@ kanban-plugin: board
 	![[Pasted image 20251106212235.png]]
 	[MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
 - [ ] ## Removing eyes from DBZ figures
-	[Cotton buds](https://www.amazon.co.uk/dp/B07BMP84J5?) 3.99
-	[99% Isopropyl Alcohol](https://www.amazon.co.uk/dp/B0B6D3GJH7?th=1) 2.99
+	- [Cotton buds](https://www.amazon.co.uk/dp/B07BMP84J5?) 3.99
+	- [99% Isopropyl Alcohol](https://www.amazon.co.uk/dp/B0B6D3GJH7?th=1) 2.99
+	
 	Mix 1 part isopropyl alcohol and 2 parts water for 30% strength, then dip the cotton swab lightly and roll it on the eye decal of the figure. 
 	Immediately after, wipe the faceplate with a damp tissue.
 - [ ] ## Recasting figure parts
-	[Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
-	[Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
-	[Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
-	[Also can get epoxy putty in black](https://amzn.eu/d/b2Epf4w) 6.18
-	[Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
-	[Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
-	[Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
-	17.89 total bc I already have the epoxy putty
+	- [Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
+	- [Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
+	- [Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
+	- [Also can get epoxy putty in black](https://amzn.eu/d/b2Epf4w) 6.18
+	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
+	- [Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
+	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
+	
+	total 17.89 bc I already have the epoxy putty
 
 
 ## Game Wishlist
