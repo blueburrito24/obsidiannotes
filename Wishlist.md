@@ -119,8 +119,12 @@ kanban-plugin: board
 	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	MESS TOYS Venom 40
-- [x] ![[Pasted image 20251101200128.png | 200]]
+- [ ] ![[Pasted image 20251101200128.png | 200]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
+	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
+- [ ] ![[Pasted image 20251112233400.png]]
+	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
+	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
 - [ ] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
@@ -227,14 +231,13 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
-- [ ] **mess toys superior neighbour 34.29
-	buff martialist 66.27
+- [ ] **buff martialist 66.27
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	eoz vegeta costume 35.13
 	tonsenarttoys rider goku 64.99
-	324.46 total**
+	290.17 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
