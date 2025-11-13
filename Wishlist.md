@@ -140,9 +140,9 @@ kanban-plugin: board
 	Lingjihun TMNT figures
 - [x] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
-	Buff Martialist 66.27:
+	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
-	- [White Gi](https://www.ebay.co.uk/itm/127462360098?) 16.95
+	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [x] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
@@ -241,12 +241,12 @@ kanban-plugin: board
 - [ ] **mess toys superior spider-man 34.29
 	ct toys revoltech 2.0 spidey 22.69
 	custom heads for mess toys and ct toys spideys 37.24
-	buff martialist 66.27
+	buff martialist 63.75
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	tonsenarttoys rider goku 64.99
-	349.26 total**
+	346.74 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
