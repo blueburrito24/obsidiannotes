@@ -25,8 +25,6 @@ kanban-plugin: board
 	total 86.04
 	
 	after selling revo 1.0 I have 70, then after selling toei I have 70. so I have 140. enough for spideys.
-	
-	if my monster venom sells I want to use the money for ct agent venom
 
 
 ## General Wishlist
@@ -176,7 +174,7 @@ kanban-plugin: board
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
-- [x] ![[Pasted image 20251106034106.png]]
+- [ ] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[Pasted image 20251106035525.png]]
 	![[{5C7BA5E7-F17D-4B34-BED7-44CAB50E8769}.png]]
@@ -190,7 +188,7 @@ kanban-plugin: board
 - [x] ![[{63106499-F202-4DB4-A80B-6E0FD67D3C95}.png]]
 	[SH FIGUARTS Vegeta (Old Battle Armour Ver.)](https://www.ebay.co.uk/itm/306339099280?_trksid=p4375194.c102727.m162921) 54.99
 	Need to cut the torso plate with an exacto knife to retain the ab articulation!
-- [x] ![[202672595-1729932717.webp]]
+- [ ] ![[202672595-1729932717.webp]]
 	Budokai 1/EoZ Vegeta costume 35.13:
 	- ["Leather" Jacket + beige pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
 	- [Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
@@ -245,15 +243,13 @@ kanban-plugin: board
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **shf vegeta obav 54.99
-	eoz vegeta costume 35.13
 	eye removal kit 6.98
 	recasting kit 24.07
 	buff martialist 63.75
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
-	tonsenarttoys rider goku 64.99
-	373.69 total**
+	273.57 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
