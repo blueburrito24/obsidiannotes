@@ -14,11 +14,17 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I will use money from selling my SHF Toei Spidey and Revo 1.0 Spidey to buy SHF old battle armour Vegeta + the stuff I need to recast his hairsculpt to use on BHT Buu Saga Vegeta + tools to remove eyes from faces. (Total 86.04)
-	I can also buy the EoZ clothes off aliexpress and still have 25.83 left over.
+- [ ] mess toys superior spider-man 34.29
+	ct toys revoltech 2.0 spidey 22.69
+	custom heads for mess toys and ct toys spideys 56.84
+	total 113.82
 	
-	I also listed my ML 12 Inch Spider-Man and Monster Venom, if they sell I should have about 100 which I can use to buy cooler and eoz goku (but without ssj3 heads) for a total of 105.47.
-- [ ] If my SHF Toei Spidey sells on eBay, I can buy the Vegeta stuff AND Cooler with about 15 quid left over. Then if my MLs sell I can use that money for a CT Agent Venom and EOZ Goku
+	shf vegeta old battle armour ver 54.99
+	eye removal kit 6.98
+	recasting kit 24.07
+	total 86.04
+	
+	after selling revo 1.0 I have 70, then after selling toei I have 70. so I have 140. enough for spideys.
 
 
 ## General Wishlist
@@ -236,15 +242,16 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
-- [ ] **mess toys superior spider-man 34.29
-	ct toys revoltech 2.0 spidey 22.69
-	custom heads for mess toys and ct toys spideys 37.24
+- [ ] **shf vegeta obav 54.99
+	eoz vegeta costume 35.13
+	eye removal kit 6.98
+	recasting kit 24.07
 	buff martialist 63.75
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	tonsenarttoys rider goku 64.99
-	346.74 total**
+	373.69 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
@@ -269,6 +276,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
