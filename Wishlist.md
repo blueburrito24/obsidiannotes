@@ -25,6 +25,8 @@ kanban-plugin: board
 	total 86.04
 	
 	after selling revo 1.0 I have 70, then after selling toei I have 70. so I have 140. enough for spideys.
+	
+	if my monster venom sells I want to use the money for ct agent venom
 
 
 ## General Wishlist
@@ -137,7 +139,7 @@ kanban-plugin: board
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
-- [x] ![[Pasted image 20251025205107.png | 200]]
+- [ ] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
 	![[Pasted image 20251021152552.png | 215]]
