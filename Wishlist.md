@@ -237,14 +237,15 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
-- [ ] **mess toys superior spider-man + custom head and webs 60.19
+- [ ] **mess toys superior spider-man 34.29
+	ct toys revoltech 2.0 spidey 22.69
+	custom heads for mess toys and ct toys spideys 37.24
 	buff martialist 66.27
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	tonsenarttoys rider goku 64.99
-	zd studio ssj3 heads 28.79
-	344.02 total**
+	349.26 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
