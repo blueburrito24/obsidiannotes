@@ -14,7 +14,8 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] I will use money from selling my SHF Toei Spidey and Revo 1.0 Spidey to buy SHF 24K Vegeta + the stuff I need to recast his hairsculpt to use on BHT Buu Saga Vegeta + tools to remove eyes from faces.
+- [ ] I will use money from selling my SHF Toei Spidey and Revo 1.0 Spidey to buy SHF old battle armour Vegeta + the stuff I need to recast his hairsculpt to use on BHT Buu Saga Vegeta + tools to remove eyes from faces. (Total 86.04)
+	I can also buy the EoZ clothes off aliexpress and still have 25.83 left over.
 	
 	I also listed my ML 12 Inch Spider-Man and Monster Venom, if they sell I should have about 100 which I can use to buy cooler and eoz goku (but without ssj3 heads) for a total of 105.47.
 
@@ -175,8 +176,9 @@ kanban-plugin: board
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
-- [x] ![[shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.jpg]]
-	[SH FIGUARTS Vegeta 24000 Power Level Ver.](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 77.16
+- [x] ![[{63106499-F202-4DB4-A80B-6E0FD67D3C95}.png]]
+	[SH FIGUARTS Vegeta (Old Battle Armour Ver.)](https://www.ebay.co.uk/itm/306339099280?_trksid=p4375194.c102727.m162921) 54.99
+	Need to cut the torso plate with an exacto knife to retain the ab articulation!
 - [x] ![[202672595-1729932717.webp]]
 	Budokai 1/EoZ Vegeta costume 35.13:
 	- ["Leather" Jacket + beige pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
@@ -236,9 +238,8 @@ kanban-plugin: board
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
-	eoz vegeta costume 35.13
 	tonsenarttoys rider goku 64.99
-	350.36 total**
+	315.23 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
