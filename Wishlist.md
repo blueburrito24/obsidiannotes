@@ -18,6 +18,7 @@ kanban-plugin: board
 	I can also buy the EoZ clothes off aliexpress and still have 25.83 left over.
 	
 	I also listed my ML 12 Inch Spider-Man and Monster Venom, if they sell I should have about 100 which I can use to buy cooler and eoz goku (but without ssj3 heads) for a total of 105.47.
+- [ ] If my SHF Toei Spidey sells on eBay, I can buy the Vegeta stuff AND Cooler with about 15 quid left over. Then if my MLs sell I can use that money for a CT Agent Venom and EOZ Goku
 
 
 ## General Wishlist
