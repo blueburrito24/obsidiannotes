@@ -42,7 +42,7 @@ kanban-plugin: board
 	[Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
 	[Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
 	[Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
-	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79
+	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
 	[Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
 	[Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
 	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
@@ -239,7 +239,8 @@ kanban-plugin: board
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	tonsenarttoys rider goku 64.99
-	315.23 total**
+	zd studio ssj3 heads 28.79
+	344.02 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
@@ -264,6 +265,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
