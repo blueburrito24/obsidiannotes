@@ -126,7 +126,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251112233400.png]]
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
 	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
-- [ ] ![[{BDFB212A-77C4-4FE2-B05D-B1877DAA3B4F}.png]]
+- [x] ![[{BDFB212A-77C4-4FE2-B05D-B1877DAA3B4F}.png]]
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
