@@ -115,12 +115,6 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[Pasted image 20251025232245.png | 200]]
 	[MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
-- [ ] ![[mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.jpg | 200]]
-	[MAFEX Spider-Man (Comic Paint Ver.)](https://www.nin-nin-game.com/en/mafex/205136-mafex-no287-x-men-gambit-comic-variant-ver-medicom-toy-.html) 36.13
-- [ ] ![[mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.jpg | 200]]
-	[MAFEX Miles Morales Gurihiru Ver.](https://www.nin-nin-game.com/en/mafex/184928-mafex-no276-spider-man-miles-morales-comic-renewal-ver-medicom-toy-.html) 45.40
-- [ ] ![[Pasted image 20251031235629.png | 200]]
-	[Fahrulstore35 V64 Romita Jr head for MAFEX 108 and MAFEX 276](https://fahrulstore35.bigcartel.com/product/v64) 33.45 with shipping
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
 - [x] ![[MESS TOYS Scarlet Spider.png| 200]]
