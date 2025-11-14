@@ -19,11 +19,6 @@ kanban-plugin: board
 	custom heads for mess toys and ct toys spideys 68.46
 	total 125.44
 	
-	shf vegeta old battle armour ver 54.99
-	eye removal kit 6.98
-	recasting kit 24.07
-	total 86.04
-	
 	after selling revo 1.0 I have 70, then after selling toei I have 70. so I have 140. enough for spideys.
 
 
@@ -173,17 +168,6 @@ kanban-plugin: board
 	63.43 total
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
-- [ ] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
-	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
-- [ ] ![[{63106499-F202-4DB4-A80B-6E0FD67D3C95}.png]]
-	[SH FIGUARTS Vegeta (Old Battle Armour Ver.)](https://www.ebay.co.uk/itm/306339099280?_trksid=p4375194.c102727.m162921) 54.99
-	Need to cut the torso plate with an exacto knife to retain the ab articulation!
-- [ ] ![[202672595-1729932717.webp]]
-	Budokai 1/EoZ Vegeta costume 35.13:
-	- ["Leather" Jacket + beige pants](https://www.aliexpress.com/item/1005008184898853.html?) 15.41
-	- [Orange shirt](https://www.aliexpress.com/item/1005008242194130.html?) 6.93
-	- [Vallejo Skin Tone Paint Set](https://amzn.eu/d/5343HnO) 12.79
-	I need to paint-match hands to the face and also repaint shoes as black.
 - [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
@@ -261,7 +245,9 @@ kanban-plugin: board
 	[Marvel Legends 12-inch Black Suit Spider-Man](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m32096359382) 64.62
 
 
+***
 
+## Archive
 
 %% kanban:settings
 ```
