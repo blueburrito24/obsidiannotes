@@ -137,7 +137,7 @@ kanban-plugin: board
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
-- [ ] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
+- [x] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
 	![[cyborg-spider-man-marvel-comics-v0-1pzuolxi3vdd1.jpg]]
 	[[Cyborg Spider-Man Custom details]] 72.23
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
@@ -238,15 +238,14 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
-- [ ] **shf vegeta obav 54.99
-	eye removal kit 6.98
+- [ ] **eye removal kit 6.98
 	recasting kit 24.07
 	buff martialist 63.75
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	tonsenarttoys majin vegeta 45.79
 	cyborg spider-man upgrade kit 72.23
-	345.80 total**
+	290.71 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
