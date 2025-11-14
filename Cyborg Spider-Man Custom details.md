@@ -10,6 +10,7 @@
 [AC Factory Ryu Hayabusa for recasting the scarf for the bandana](https://www.aliexpress.com/item/1005009251981152.html?) 26.29
 [Vallejo metallic silver for painting goggle and other details](https://amzn.eu/d/fcnCcKZ) 4.94
 TOTAL 72.23
+[how to blackwash figures tutorial](https://www.youtube.com/watch?v=S0oP06owt3c)
 - I will recast the V64 McFarlane headsculpt and sculpt the base of the bandana and the goggle-strap on the left lense.
 - I also need to recast the articulated scarf piece from Ryu Hayabusa, after recasting in white putty I can blackwash it and use it as the bandana piece.
 - Then I will paint the head (mixing my reds to match the body) and painting the goggle silver, mixing my black and red to paint the strap brown. I will then paint the bandana white and blackwash it.
