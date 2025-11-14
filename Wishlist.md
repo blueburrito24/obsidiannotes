@@ -117,6 +117,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	MESS TOYS Venom 40
 - [x] ![[Pasted image 20251101200128.png | 200]]
+	![[v71.webp]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
 - [x] ![[Pasted image 20251112233400.png]]
