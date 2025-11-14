@@ -246,7 +246,7 @@ kanban-plugin: board
 	cyborg spider-man upgrade kit 72.23
 	mess toys scarlet spider 31.29
 	ct agent venom 24.19
-	300.40 total**
+	300.50 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
