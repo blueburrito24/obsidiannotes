@@ -16,8 +16,8 @@ kanban-plugin: board
 	See Wishlist Archives for stuff I've already bought.
 - [ ] mess toys superior spider-man 34.29
 	ct toys revoltech 2.0 spidey 22.69
-	custom heads for mess toys and ct toys spideys 56.84
-	total 113.82
+	custom heads for mess toys and ct toys spideys 68.46
+	total 125.44
 	
 	shf vegeta old battle armour ver 54.99
 	eye removal kit 6.98
@@ -130,7 +130,7 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251101200128.png | 200]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
-- [ ] ![[Pasted image 20251112233400.png]]
+- [x] ![[Pasted image 20251112233400.png]]
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
 	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
 - [x] ![[{BDFB212A-77C4-4FE2-B05D-B1877DAA3B4F}.png]]
@@ -142,7 +142,7 @@ kanban-plugin: board
 	[[Cyborg Spider-Man Custom details]] 72.23
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
-- [ ] ![[Pasted image 20251025205107.png | 200]]
+- [x] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
 	![[Pasted image 20251021152552.png | 215]]
@@ -179,7 +179,7 @@ kanban-plugin: board
 	63.43 total
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
-- [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
+- [ ] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
 - [ ] ![[{63106499-F202-4DB4-A80B-6E0FD67D3C95}.png]]
 	[SH FIGUARTS Vegeta (Old Battle Armour Ver.)](https://www.ebay.co.uk/itm/306339099280?_trksid=p4375194.c102727.m162921) 54.99
@@ -243,9 +243,10 @@ kanban-plugin: board
 	buff martialist 63.75
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
-	tonsenarttoys majin vegeta 45.79
 	cyborg spider-man upgrade kit 72.23
-	290.71 total**
+	mess toys scarlet spider 31.29
+	ct agent venom 24.19
+	300.40 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
