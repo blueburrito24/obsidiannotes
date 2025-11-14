@@ -181,7 +181,7 @@ kanban-plugin: board
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 - [x] ![[{F9068F3F-F925-4B11-9679-92FFD8F09F34}.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009366031411.html?) 45.79
-- [x] ![[{63106499-F202-4DB4-A80B-6E0FD67D3C95}.png]]
+- [ ] ![[{63106499-F202-4DB4-A80B-6E0FD67D3C95}.png]]
 	[SH FIGUARTS Vegeta (Old Battle Armour Ver.)](https://www.ebay.co.uk/itm/306339099280?_trksid=p4375194.c102727.m162921) 54.99
 	Need to cut the torso plate with an exacto knife to retain the ab articulation!
 - [ ] ![[202672595-1729932717.webp]]
