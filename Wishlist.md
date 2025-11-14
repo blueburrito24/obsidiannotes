@@ -137,6 +137,11 @@ kanban-plugin: board
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
+- [ ] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
+	![[cyborg-spider-man-marvel-comics-v0-1pzuolxi3vdd1.jpg]]
+	[[Cyborg Spider-Man Custom details]] 72.23
+	Note that after the custom is done, I can still revert Spider-Man back to his classic look
+	I could also repaint a gun or two metallic silver.
 - [ ] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
@@ -149,18 +154,9 @@ kanban-plugin: board
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [x] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
-- [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga:
-	[Marvel Legends X-Men's The X-Cutioner](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 19.37
-	[Marvel Legends X-Men's Magneto](https://www.amazon.co.uk/Marvel-Legends-X-Cutioner-Action-Figure/dp/B0CFZ9SV65?source=ps-sl-shoppingads-lpcontext&th=1) 24.99
-	[Cloak E1](https://www.aliexpress.com/item/1005007705821913.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000045358476915%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 12.76
-	[Vallejo Yellow](https://www.amazon.co.uk/Vallejo-Model-Air-Acrylic-Paint/dp/B002U38ZQ6?crid=1FWABQI3LKNFJ&dib=eyJ2IjoiMSJ9.CNhd3yMo4YipjS_Ei3ag234GY7sfy8eI5tdqarhHx0tPzXi9UPoVCbPr3oLgm7V5hZvynh3XPZgXGSdya8NCJFvNeX-OUUoCm5m61miiVWJxNP8WC0jZYSqiySo1BOcY6uv5uJGwRjKDSyHUBDI-4mwCqw2H9pg9v6BtTKry9PLUW-MJGKbbVRX1oO0Tojrjgvm9H0UfUIBhr0vbPSV2yumb4X75P6LuAn4D031ElkoLvXI9wj0VynIGPYgwn4FAU7yn9KzFxIouUowkQHSLzlE3BOwYMWxK5-_M4oZK7mQ.Y4Y_mIOSfChET56WXiNpaqmhh4ynXR-_G1pYelzEDX0&dib_tag=se&keywords=vallejo+yellow&qid=1760647436&sprefix=vallejo+yellow%2Caps%2C114&sr=8-6) 5.12
-	[Vallejo Grey Blue](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PH7ONE?crid=27B60LZX5KSLT&dib=eyJ2IjoiMSJ9.sP_mvEs56uvQx7OyHoWYgRLt_SiXE7IDyWtGfUgDY82QUBHk6-tSDTlEn0leCaqLRHpYoGlB_Fwa6KorSD0yd10VfPWbuKrE76_lEacAiIgcGRWyKaAVwjbC-7s4ZQYYIfIgHcBHzds3-2sdZCPh7kOW8SyuTt1jIt15Z6aVQmnMqPaPtoGkVT2CGjcbAy1k4KUcyBn9VIiQHTeLyaXXdZ3sYdgCM2hIJG8O4Ll6nGqCo-ghK1At62wILF8uKHbTp8XT6hccK1rqMOrWtIZAUk_0oR1NxnEV8rNACUlUV1M.pNlQ2OvWzEuCJqw150VqnMzZ1jE3BxiMW_u1ZUZ7F2s&dib_tag=se&keywords=vallejo+gray&qid=1760647421&sprefix=vallejo+gray%2Caps%2C117&sr=8-9) 5.12
-	[Assorted Sandpaper Sheets](https://www.amazon.co.uk/dp/B0B5LJFF1T?tag=b357-21&linkCode=osi&th=1&psc=1) 3.95
-	[Ball joint set](https://www.ebay.co.uk/itm/306544300981?chn=ps&_ul=GB&google_free_listing_action=view_item) 14.34
-	[Paperclips](https://www.amazon.co.uk/Q-Connect-Paperclips-Plain-Pack-1000/dp/B000NM4OES?crid=1MM02P4OTUCIX&dib=eyJ2IjoiMSJ9.hJMDRotfMLqkIuCpXfnzDg2CrML-Ox59D9VKF3oBwK6239IkmaHNqY3ng1V820y_QRcaMeK9NHIiYlB-d6uc41zU58bAi4iyO2d4P1Not7ROcJaw44l4NFPYGsbwg3sbaTl4u5TGDyE-CULKct1VlI-gClp9zLyuqnaAcWpCYuvcdS9oz6SkOjVzLa7rUS-olC7L7JyF3VhVxXfgg6tSOvFybi3ln5y-9sBvT-3vKxnpjJx7tTWIE-Avm6aj_80_bmyL8273XuuIx1VwRC_cfIS_JRF3WFE_ioIDv7BFbEs.3vBpQlonB1rHCZr5Fvntkg-gMOT31litUJUFHxC5oHc&dib_tag=se&keywords=paper+clips&qid=1760832466&sprefix=paper+clips%2Caps%2C180&sr=8-6) 6.07
-	[Rit Synthetic Dye](https://amzn.eu/d/1Yno7lD) 8.49
-	TOTAL PRICE 100.21
+- [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga
 	See [[Custom ML Batman Instructions]]
+	100.21
 
 
 ## Dragon Ball Figure Wishlist
@@ -274,6 +270,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
