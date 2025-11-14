@@ -20,6 +20,8 @@ kanban-plugin: board
 	total 136.79
 	
 	after selling revo 1.0 I have 70, then after selling toei I have 70. so I have 140. enough for spideys.
+	
+	if my toei sells on eBay for 140, I will get 126 and have 196 total. I can then buy mess toys scarlet spider on top of the above and still have 28.71.
 
 
 ## General Wishlist
