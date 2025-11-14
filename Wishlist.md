@@ -219,7 +219,7 @@ kanban-plugin: board
 	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
 	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
 	- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
-- [x] ![[Pasted image 20251111215024.png]]
+- [ ] ![[Pasted image 20251111215024.png]]
 	![[S252d8c9ebd25487d8b8adc7d2b1a01e62.avif]]
 	Custom End Of Z SSJ3 Goku 77.06:
 	[ZD Studio SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484485804.html?) 28.79 (Gogeta Ver.)
