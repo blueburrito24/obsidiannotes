@@ -227,9 +227,8 @@ kanban-plugin: board
 	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**shf games begin goku 27.99
 	cyborg spider-man upgrade kit 72.23
-	mess toys scarlet spider 31.29
 	ct agent venom 24.19
-	300.50 total**
+	269.21 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
