@@ -20,3 +20,4 @@ TOTAL 72.23
 - Then I need to sculpt wraps around the right leg using putty and blackwash after drying.
 - The logo needs to be painted fully black, so it looks more classic like Alex Ross, instead of having the white glow it has.
 - I also want to add the stitches, so I will draw lines onto the body using my micron pens then sculpt little putty pellets and stick them across the lines, then painting them with metallic silver to stand out. The pellets should cover most of the lines.
+- After all the main details above, I want to form some plates out of putty and paint them metallic silver, then stick them onto the cyborg arm's shoulder like how the actual design looks.
