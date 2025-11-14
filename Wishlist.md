@@ -16,8 +16,8 @@ kanban-plugin: board
 	See Wishlist Archives for stuff I've already bought.
 - [ ] mess toys superior spider-man 34.29
 	ct toys revoltech 2.0 spidey 22.69
-	custom heads for mess toys and ct toys spideys 68.46
-	total 125.44
+	custom heads for mess toys and ct toys spideys 79.81
+	total 136.79
 	
 	after selling revo 1.0 I have 70, then after selling toei I have 70. so I have 140. enough for spideys.
 
@@ -121,6 +121,8 @@ kanban-plugin: board
 	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
 - [x] ![[Pasted image 20251112233400.png]]
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
+	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
+	![[{488E2007-1BF2-49DF-92E4-424E88BF2334}.png]]
 	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
 - [x] ![[{BDFB212A-77C4-4FE2-B05D-B1877DAA3B4F}.png]]
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
@@ -245,9 +247,11 @@ kanban-plugin: board
 	[Marvel Legends 12-inch Black Suit Spider-Man](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m32096359382) 64.62
 
 
-***
-
 ## Archive
+
+
+
+
 
 %% kanban:settings
 ```
