@@ -1,5 +1,6 @@
 ![[Pasted image 20251114021103.png | 300]] ![[Pasted image 20251114021039.png | 300]]
 ![[il_1588xN.6794734398_g102.avif | 300]] ![[Pasted image 20251114021134.png | 300]]
+![[Pasted image 20251114154143.png | 400]]
 [AC Factory Cable Cyborg Arms](https://www.aliexpress.com/item/1005009914479336.html?) 10.19
 [Weapons set](https://www.aliexpress.com/item/1005008135684209.html?) 12.09
 [Utility belt](https://www.etsy.com/uk/listing/1889552798/tactical-belts-for-action-figures?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+batman+belt&ref=sr_gallery-1-20&cns=1&sts=1&nob=1&content_source=527dd67f-a7f6-423b-9b50-a4d92c4fb19a%253ALT94df5cb95a0910f7867ce53f241cbafa55f044de&organic_search_click=1&logging_key=527dd67f-a7f6-423b-9b50-a4d92c4fb19a%3ALT94df5cb95a0910f7867ce53f241cbafa55f044de&variation0=5280534275&variation1=5301262714) 5.73
@@ -16,4 +17,5 @@ TOTAL 72.23
 - I will install a hole for a peg to connect the bandana piece at the right side of the headsculpt. 
 - I also need to paint yellow and blackwash the utility belt.
 - Then I need to sculpt wraps around the right leg using putty and blackwash after drying.
+- The logo needs to be painted fully black, so it looks more classic like Alex Ross, instead of having the white glow it has.
 - I also want to add the stitches, so I will draw lines onto the body using my micron pens then sculpt little putty pellets and stick them across the lines, then painting them with metallic silver to stand out. The pellets should cover most of the lines.
