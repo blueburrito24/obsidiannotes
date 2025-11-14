@@ -16,4 +16,4 @@ TOTAL 72.23
 - I will install a hole for a peg to connect the bandana piece at the right side of the headsculpt. 
 - I also need to paint yellow and blackwash the utility belt.
 - Then I need to sculpt wraps around the right leg using putty and blackwash after drying.
-- I also want to add the stitches, so I will draw lines onto the body using my micron pens then sculpt little putty pellets and stick them across the lines, then painting them with metallic silver to stand out.
+- I also want to add the stitches, so I will draw lines onto the body using my micron pens then sculpt little putty pellets and stick them across the lines, then painting them with metallic silver to stand out. The pellets should cover most of the lines.
