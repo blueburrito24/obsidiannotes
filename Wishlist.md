@@ -136,6 +136,18 @@ kanban-plugin: board
 	[[Cyborg Spider-Man Custom details]] 72.23
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
+- [ ] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
+	Custom Revoltech Spider-Man Noir 103.90:
+	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
+	[MAX Factory Revoltech Red Hood](https://www.aliexpress.com/item/1005007044560002.html?) 16.53
+	[1/12 Soldier Fedora](https://www.aliexpress.com/item/1005008956833612.html?) 6.44
+	[1/12 Soldier Goggles](https://www.aliexpress.com/item/1005008157115587.html?) 8.42
+	[1/12 Utility Belt](https://www.aliexpress.com/item/1005004828928044.html?) 12.89
+	[1/12 Romankey baggy black pants](https://www.aliexpress.com/item/1005008024449601.html?) 8.38
+	[1/12 Trenchcoat](https://www.aliexpress.com/item/1005005533248876.html?) 14.09
+	[1/12 Turtleneck](https://www.aliexpress.com/item/1005007940339404.html?) 6.19
+	[Rit Black synthetic dye](https://amzn.eu/d/7CSOsUR) 8.27
+	Just need to dye the figure black then put on all the clothes. Glue the goggles onto the head and paint the lenses white. Use guns from gun set bought for Cyborg Spider-Man.
 - [x] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
