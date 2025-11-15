@@ -244,8 +244,7 @@ kanban-plugin: board
 	buff martialist 63.75
 	shf games begin goku 27.99
 	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
-	**shf games begin goku 53.84
-	cyborg spider-man upgrade kit 72.23
+	**cyborg spider-man upgrade kit 72.23
 	ct agent venom 24.19
 	custom revoltech spider-man noir 86.97
 	356.18 total**
@@ -254,9 +253,8 @@ kanban-plugin: board
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
 	hm/shf gohan 63.43
-	revoltech symbiote
+	revoltech symbiote spider-man 56.30 (preorder for june)
 	shf pn piccolo 40.61
-	spider-man 56.30 (preorder for june)
 	428.87 total**
 
 
@@ -274,6 +272,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
