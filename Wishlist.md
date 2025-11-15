@@ -148,6 +148,9 @@ kanban-plugin: board
 	Just need to dye the figure black then put on all the clothes. 
 	Glue the goggles onto the head and paint the lenses white. 
 	Use guns from gun set bought for Cyborg Spider-Man and the gun pouches from CT Agent Venom.
+- [ ] ![[2099_Spider-Man_(SD_-_EoT).webp]]
+	[[Revoltech Spider-Man 2099 Details]] 52.93
+	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
 - [x] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
