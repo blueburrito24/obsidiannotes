@@ -171,6 +171,8 @@ kanban-plugin: board
 
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
+- [x] ![[Pasted image 20251115045809.png]]
+	[SH FIGUARTS Warrior's Fury Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
 - [x] ![[Pasted image 20251107074516.png]]
 	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
 	or
@@ -238,12 +240,14 @@ kanban-plugin: board
 - [ ] **eye removal kit 6.98
 	recasting kit 24.07
 	buff martialist 63.75
-	shf lssj goku genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
-	**shf games begin goku 27.99
+	shf games begin goku 27.99
+	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
+	**shf games begin goku 53.84
 	cyborg spider-man upgrade kit 72.23
 	ct agent venom 24.19
 	custom revoltech spider-man noir 86.97
-	356.18 total**
+	shf warrior's fury goku 53.84
+	410.02 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
