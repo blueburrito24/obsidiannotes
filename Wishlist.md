@@ -112,8 +112,6 @@ kanban-plugin: board
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 - [ ] ![[Pasted image 20251025183656.png | 200]]
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
-- [ ] ![[Pasted image 20251025232245.png | 200]]
-	[MAFEX Spider-Man 2099](https://www.nin-nin-game.com/en/mafex/121085-mafex-no-239-spider-man-spider-man-2099-comic-ver-medicom-toy-.html) 54.42
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
 - [x] ![[MESS TOYS Scarlet Spider.png| 200]]
@@ -192,6 +190,10 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
+- [ ] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
+	[SH FIGUARTS Dangerous Pride Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
+- [ ] ![[Dragon-Ball-Z-S-H-Figuarts-Action-Figure-Vegeta-Ol-1_1800x1800.webp]]
+	[SH FIGUARTS Vegeta Old Battle Armour Ver.](https://hobbyfigures.co.uk/products/dragon-ball-s-h-figuarts-action-figure-vegeta-old-battle-clothes-14cm) 49.95
 - [x] ![[Pasted image 20251108191749.png]]
 	![[s-l1600.jpg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
@@ -246,16 +248,16 @@ kanban-plugin: board
 	cyborg spider-man upgrade kit 72.23
 	ct agent venom 24.19
 	custom revoltech spider-man noir 86.97
-	shf warrior's fury goku 53.84
-	410.02 total**
+	356.18 total**
 - [ ] **mess toys scarlet spider 30 (not out yet)
+	shf warrior's fury goku 53.84
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
 	hm/shf gohan 63.43
 	revoltech symbiote
 	shf pn piccolo 40.61
 	spider-man 56.30 (preorder for june)
-	384.51 total**
+	438.35 total**
 
 
 ## Wishlist Archives
