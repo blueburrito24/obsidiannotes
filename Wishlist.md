@@ -114,7 +114,7 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
-- [x] ![[MESS TOYS Scarlet Spider.png| 200]]
+- [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
 	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	MESS TOYS Venom 40
@@ -190,7 +190,7 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
-- [ ] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
+- [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS Dangerous Pride Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
 - [ ] ![[Dragon-Ball-Z-S-H-Figuarts-Action-Figure-Vegeta-Ol-1_1800x1800.webp]]
 	[SH FIGUARTS Vegeta Old Battle Armour Ver.](https://hobbyfigures.co.uk/products/dragon-ball-s-h-figuarts-action-figure-vegeta-old-battle-clothes-14cm) 49.95
@@ -249,7 +249,7 @@ kanban-plugin: board
 	ct agent venom 24.19
 	custom revoltech spider-man noir 86.97
 	356.18 total**
-- [ ] **mess toys scarlet spider 30 (not out yet)
+- [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
@@ -257,7 +257,7 @@ kanban-plugin: board
 	revoltech symbiote
 	shf pn piccolo 40.61
 	spider-man 56.30 (preorder for june)
-	438.35 total**
+	428.87 total**
 
 
 ## Wishlist Archives
