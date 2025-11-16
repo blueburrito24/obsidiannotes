@@ -126,7 +126,7 @@ kanban-plugin: board
 	[[Cyborg Spider-Man Custom details]] 72.23
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
-- [x] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
+- [ ] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
 	Custom Revoltech Spider-Man Noir 86.97:
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[KO Revoltech Winter Soldier for bottom half](https://www.aliexpress.com/item/1005008861309613.html?) 20.87
