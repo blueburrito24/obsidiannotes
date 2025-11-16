@@ -14,16 +14,6 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] mess toys superior spider-man 34.29
-	ct toys revoltech 2.0 spidey 22.69
-	custom heads for mess toys and ct toys spideys 79.81
-	total 136.79
-	
-	after selling revo 1.0 I have 70, then after selling toei I have 70. so I have 140. enough for spideys.
-	
-	if my toei sells on eBay for 140, I will get 126 and have 196 total. I can then buy mess toys scarlet spider on top of the above and still have 28.71.
-	
-	If my other stuff sells, I want to get SHF Cooler and MAFEX Carnage
 
 
 ## General Wishlist
@@ -148,7 +138,7 @@ kanban-plugin: board
 	Just need to dye the figure black then put on all the clothes. 
 	Glue the goggles onto the head and paint the lenses white. 
 	Use guns from gun set bought for Cyborg Spider-Man and the gun pouches from CT Agent Venom.
-- [ ] ![[2099_Spider-Man_(SD_-_EoT).webp]]
+- [x] ![[2099_Spider-Man_(SD_-_EoT).webp]]
 	[[Revoltech Spider-Man 2099 Details]] 52.93
 	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
 - [x] ![[Pasted image 20251025205107.png | 200]]
@@ -156,7 +146,7 @@ kanban-plugin: board
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
 	![[Pasted image 20251021152552.png | 215]]
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
-- [x] ![[s-l1600 1.jpg]]
+- [ ] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -242,23 +232,25 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
-- [ ] **eye removal kit 6.98
-	recasting kit 24.07
-	buff martialist 63.75
+- [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
-	**cyborg spider-man upgrade kit 72.23
-	ct agent venom 24.19
-	custom revoltech spider-man noir 86.97
-	356.18 total**
+	**mess toys superior spider-man 34.29
+	mess toys scarlet spider 31.29
+	ct toys revoltech spider-man 22.69
+	fahrul headsculpts**
+	(v71, v55 x2, also webs) with expedited shipping **79.84
+	cyborg revoltech spider-man upgrade kit 72.23
+	342.40 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	zt broly with cloth skirt 123,78
 	tonsenarttoys gogeta 70.39
 	hm/shf gohan 63.43
 	revoltech symbiote spider-man 56.30 (preorder for june)
-	shf pn piccolo 40.61
-	428.87 total**
+	revoltech spider-man 2099 custom 21.64** (I don't need to buy a base body, I can use my MESS TOYS Black Suit bc I will have the official)
+	**shf pn piccolo 40.61
+	450.51 total**
 
 
 ## Wishlist Archives
