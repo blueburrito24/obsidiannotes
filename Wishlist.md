@@ -143,6 +143,8 @@ kanban-plugin: board
 	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
 - [x] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
+- [x] ![[000000001352-01-xl.jpg]]
+	[Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/203583-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-limited-bonus-kaiyodo-.html) 66.28
 - [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
 	![[Pasted image 20251021152552.png | 215]]
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
@@ -161,9 +163,9 @@ kanban-plugin: board
 ## Dragon Ball Figure Wishlist
 
 - [x] ![[Pasted image 20251106033622.png]]
-	[SH FIGUARTS GAMES BEGIN Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
+	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
 - [x] ![[Pasted image 20251115045809.png]]
-	[SH FIGUARTS Warrior's Fury Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
+	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
 - [x] ![[Pasted image 20251107074516.png]]
 	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
 	or
@@ -173,21 +175,26 @@ kanban-plugin: board
 	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
 - [ ] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
-- [x] ![[Pasted image 20251106035525.png]]
+- [ ] ![[Pasted image 20251106035525.png]]
 	![[{5C7BA5E7-F17D-4B34-BED7-44CAB50E8769}.png]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008438404916.html?) 42.84
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
 	63.43 total
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
-- [x] ![[Pasted image 20251111211154.png]]
+- [ ] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
+- [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
+	![[Pasted image 20251116145505.png]]
+	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 40.61
+	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005008458818430.html?) 40.02
+	total 80.63
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
-	[SH FIGUARTS Dangerous Pride Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
 - [ ] ![[Dragon-Ball-Z-S-H-Figuarts-Action-Figure-Vegeta-Ol-1_1800x1800.webp]]
 	[SH FIGUARTS Vegeta Old Battle Armour Ver.](https://hobbyfigures.co.uk/products/dragon-ball-s-h-figuarts-action-figure-vegeta-old-battle-clothes-14cm) 49.95
-- [x] ![[Pasted image 20251108191749.png]]
+- [ ] ![[Pasted image 20251108191749.png]]
 	![[s-l1600.jpg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
 	[Cloth jacket](https://www.ebay.co.uk/itm/127455301525?) 30.04
@@ -213,11 +220,6 @@ kanban-plugin: board
 	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
 	- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
 	- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-- [ ] ![[{BE8F2679-E877-4BD8-A3A7-E528A2600D58}.png]]
-	Custom Trunks 100.77:
-	- [DEMONIACAL FIT Trunks, for base figure](https://www.aliexpress.com/item/1005008165826008.html?) 42.29
-	- [Air Studios Trunks long-hair custom heads](https://www.aliexpress.com/item/1005009668000364.html?) 39.79
-	- [Cloth Jacket](https://www.aliexpress.com/item/1005009782721805.html?) 18.69
 - [ ] ![[Pasted image 20251111215024.png]]
 	![[S252d8c9ebd25487d8b8adc7d2b1a01e62.avif]]
 	Custom End Of Z SSJ3 Goku 77.06:
@@ -244,19 +246,15 @@ kanban-plugin: board
 	342.40 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
+	shf tbftf trunks with custom heads 80.63
 	zt broly with cloth skirt 123,78
-	tonsenarttoys gogeta 70.39
-	hm/shf gohan 63.43
-	revoltech symbiote spider-man 56.30 (preorder for june)
+	revoltech symbiote spider-man 66.28
 	revoltech spider-man 2099 custom 21.64** (I don't need to buy a base body, I can use my MESS TOYS Black Suit bc I will have the official)
-	**shf pn piccolo 40.61
-	450.51 total**
+	**366.69 total**
 
 
 ## Wishlist Archives
 
-- [x] ![[000000001352-01-xl.jpg]]
-	[Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.hlj.com/revoltech-amazing-yamaguchi-symbiote-spider-man-kyd22107) 56.30
 - [x] ![[Pasted image 20251017144512.png]] 
 	Kaiyodo Amazing Yamaguchi Iron Spider
 - [x] ![[12in Black Suit Spidey.jpg]]
