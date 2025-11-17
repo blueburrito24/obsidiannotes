@@ -155,6 +155,7 @@ kanban-plugin: board
 	![[Pasted image 20251117115052.png]]
 	![[{661D80FC-E46B-4317-BBDF-F6D21999D406}.png]]
 	![[Pasted image 20251117122534.png]]
+	![[{220C089C-58D9-40D7-BE33-3AD940AF0AC1}.png]]
 	Custom Revoltech Negative Zone Spider-Man 52.11:
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
 	[Rit Synthetic Black Dye](https://amzn.eu/d/6a2NC0W) 8.27
@@ -162,7 +163,9 @@ kanban-plugin: board
 	[Sandpaper](https://amzn.eu/d/gEy2pxt) 3.95
 	Both front and back logos need to be sanded off. 
 	Front logo should be replaced with the classic spider symbol, back logo too.
+	Note that I need to spread the back logo across the butterfly slides.
 	Then I just need to dye the figure black, paint the symbols white, paint white around the lenses and then paint on the white areas of the suit + replace elbow joints to match.
+	Do Romita JR style lenses, since the symbols will be in that style too.
 	Match the way the red and blue is spread on the regular 2.0 Spider-Man.
 	Also paint the web accessories blue.
 - [x] ![[Pasted image 20251025205107.png | 200]]
