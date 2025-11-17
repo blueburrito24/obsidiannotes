@@ -8,5 +8,5 @@ TOTAL 52.93
 - I will use my Vallejo vermillion red mixed with metal medium for the red sections.
 - I then need to dremel in holes for the web-capes.
 - Then I need to dye all the joints black, using the dye I bought for Spider-Man Noir. Although the body is a reflective blue, it's dark so black joints will fit better than blue.
-- I can sand off the eyes on the original Scarlet head and use it to make a more exaggerated headsculpt inspired by KIISUCreations' head for 2099. The larger eyes will pair well with my other Revoltechs.
+- I can recast the fahrulstore35 V55 headsculpt and resculpt it to feature the large eyes seen on KIISUCreations' 2099 headsculpt. I would sand down the eyes from the inside and add the details, so that the eyes transition into the blue areas. The large head will fit well with my other Revoltechs.
 I can keep the unused parts for fodder, since I have other Revoltech figures and loose parts from various customs that I can kitbash with.

@@ -21,7 +21,7 @@ kanban-plugin: board
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpts**
 	(v71, v55 x2, v46, also webs) with normal shipping **59.95
-	6mm O wrist joint for my mtbsn 4.30**
+	4mm H wrist joint for my mtbsn 4.30**
 	This is **152.52** total.
 	I then have 43.47 left over, and I owe Habib 6.05, leaving 37.42.
 	I don't need to get expedited shipping on the custom heads, as US order traffic has gone down due to tariffs, so it will likely only take a month or two.
@@ -137,17 +137,16 @@ kanban-plugin: board
 	[[Cyborg Spider-Man Custom details]] 72.23
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
-- [ ] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
-	Custom Revoltech Spider-Man Noir 86.97:
+- [x] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
+	Custom Revoltech Spider-Man Noir 70.28:
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[KO Revoltech Winter Soldier for bottom half](https://www.aliexpress.com/item/1005008861309613.html?) 20.87
 	[1/12 Soldier Fedora](https://www.aliexpress.com/item/1005008956833612.html?) 6.44
-	[1/12 Soldier Goggles](https://www.aliexpress.com/item/1005008157115587.html?) 8.42
 	[1/12 Trenchcoat](https://www.aliexpress.com/item/1005005533248876.html?) 14.09
 	[1/12 Turtleneck](https://www.aliexpress.com/item/1005007940339404.html?) 6.19
-	[Rit Black synthetic dye](https://amzn.eu/d/7CSOsUR) 8.27
 	Just need to dye the figure black then put on all the clothes. 
-	Glue the goggles onto the head and paint the lenses white. 
+	Recast the fahrul head from my Superior Spider-Man and shave down the lenses, sculpt rounded, goggle-like lenses and stick them onto the face. 
+	Paint black and paint the lenses white.
 	Use guns from gun set bought for Cyborg Spider-Man and the gun pouches from CT Agent Venom.
 - [x] ![[2099_Spider-Man_(SD_-_EoT).webp]]
 	[[Revoltech Spider-Man 2099 Details]] 52.93
@@ -163,7 +162,7 @@ kanban-plugin: board
 	[8mmB J (White) Revoltech elbow joint x2 for arms](https://www.aliexpress.com/item/1005005324042088.html?) 8.60
 	[Sandpaper](https://amzn.eu/d/gEy2pxt) 3.95
 	I need to sand off the original spider logos, then sculpt my own based on the Romita JR spider symbols seen above.
-	Then I need to sculpt the lenses to match his style too, from there I just need to dye the figure black and replace the elbow joints with white ones while I paint the arms, legs and body areas white.
+	Then I want to recast my Superior Spider-Man's fahrul headsculpt - to smooth it off and remove the eyes so I can sculpt Romita JR style lenses, from there I just need to dye the figure black and replace the elbow joints with white ones while I paint the arms, legs and body areas white.
 	Match the way the red and blue is spread on the regular 2.0 Spider-Man.
 	Also paint the web accessories blue.
 - [x] ![[Pasted image 20251025205107.png | 200]]
@@ -191,7 +190,7 @@ kanban-plugin: board
 	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
 - [x] ![[Pasted image 20251115045809.png]]
 	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
-- [x] ![[Pasted image 20251107074516.png]]
+- [ ] ![[Pasted image 20251107074516.png]]
 	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
 	or
 	![[Pasted image 20251106034605.png]]
@@ -260,11 +259,11 @@ kanban-plugin: board
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
-	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
-	**cyborg revoltech spider-man upgrade kit 72.23
+	cyborg revoltech spider-man upgrade kit 72.23
 	revoltech negative zone spider-man custom 52.11
 	ct toys agent venom 24.19
-	250.59 total**
+	custom revoltech spider-man noir 70.28
+	270.87 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
