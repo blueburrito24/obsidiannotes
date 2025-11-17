@@ -20,7 +20,7 @@ kanban-plugin: board
 	mess toys scarlet spider 31.29
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpts**
-	(v71, v55 x2, also webs) with normal shipping **59.95
+	(v71, v55 x2, v46, also webs) with normal shipping **59.95
 	ct toys agent venom 24.19
 	6mm O wrist joint for my mtbsn 4.30**
 	This is **176.71** total.
