@@ -23,7 +23,7 @@ kanban-plugin: board
 	(v71, v55 x2, v46, also webs) with normal shipping **59.95
 	6mm O wrist joint for my mtbsn 4.30**
 	This is **152.52** total.
-	I then have 43.47 left over, and I owe Habib 6.05, leaving 13.24.
+	I then have 43.47 left over, and I owe Habib 6.05, leaving 37.42.
 	I don't need to get expedited shipping on the custom heads, as US order traffic has gone down due to tariffs, so it will likely only take a month or two.
 
 
@@ -263,7 +263,8 @@ kanban-plugin: board
 	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**cyborg revoltech spider-man upgrade kit 72.23
 	revoltech negative zone spider-man custom 52.11
-	226.40 total**
+	ct toys agent venom 24.19
+	250.59 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
