@@ -153,11 +153,16 @@ kanban-plugin: board
 	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
 - [x] ![[NegaZone.png]]
 	![[Pasted image 20251117115052.png]]
-	Custom Revoltech Negative Zone Spider-Man 48.16:
+	![[{661D80FC-E46B-4317-BBDF-F6D21999D406}.png]]
+	![[Pasted image 20251117122534.png]]
+	Custom Revoltech Negative Zone Spider-Man 52.11:
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
 	[Rit Synthetic Black Dye](https://amzn.eu/d/6a2NC0W) 8.27
 	[8mm B Revoltech elbow joint x2 for arms](https://www.aliexpress.com/item/1005005324042088.html?) 8.60
-	I just need to dye the figure black, paint the symbols white, paint white around the lenses and then paint on the white areas of the suit + replace elbow joints to match.
+	[Sandpaper](https://amzn.eu/d/gEy2pxt) 3.95
+	Both front and back logos need to be sanded off. 
+	Front logo should be replaced with the classic spider symbol, back logo too.
+	Then I just need to dye the figure black, paint the symbols white, paint white around the lenses and then paint on the white areas of the suit + replace elbow joints to match.
 	Match the way the red and blue is spread on the regular 2.0 Spider-Man.
 	Also paint the web accessories blue.
 - [x] ![[Pasted image 20251025205107.png | 200]]
