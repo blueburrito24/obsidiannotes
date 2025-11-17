@@ -21,10 +21,9 @@ kanban-plugin: board
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpts**
 	(v71, v55 x2, v46, also webs) with normal shipping **59.95
-	ct toys agent venom 24.19
 	6mm O wrist joint for my mtbsn 4.30**
-	This is **176.71** total.
-	I then have 19.29 left over, and I owe Habib 6.05, leaving 13.24.
+	This is **152.52** total.
+	I then have 43.47 left over, and I owe Habib 6.05, leaving 13.24.
 	I don't need to get expedited shipping on the custom heads, as US order traffic has gone down due to tariffs, so it will likely only take a month or two.
 
 
