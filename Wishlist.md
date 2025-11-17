@@ -151,7 +151,7 @@ kanban-plugin: board
 - [x] ![[2099_Spider-Man_(SD_-_EoT).webp]]
 	[[Revoltech Spider-Man 2099 Details]] 52.93
 	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
-- [ ] ![[NegaZone.png]]
+- [x] ![[NegaZone.png]]
 	![[Pasted image 20251117115052.png]]
 	Custom Revoltech Negative Zone Spider-Man 48.16:
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
