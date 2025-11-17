@@ -20,9 +20,10 @@ kanban-plugin: board
 	mess toys scarlet spider 31.29
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpts**
-	(v71, v55 x2, also webs) with expedited shipping **79.84
+	(v71, v55 x2, also webs) with normal shipping **59.95
 	ct toys agent venom 24.19**
-	This is **192.30** total.
+	This is **172.41** total.
+	I don't need to get expedited shipping on the custom heads, as US order traffic has gone down due to tariffs, so it will likely only take a month or two.
 
 
 ## General Wishlist
@@ -150,6 +151,15 @@ kanban-plugin: board
 - [x] ![[2099_Spider-Man_(SD_-_EoT).webp]]
 	[[Revoltech Spider-Man 2099 Details]] 52.93
 	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
+- [ ] ![[NegaZone.png]]
+	![[Pasted image 20251117115052.png]]
+	Custom Revoltech Negative Zone Spider-Man 48.16:
+	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
+	[Rit Synthetic Black Dye](https://amzn.eu/d/6a2NC0W) 8.27
+	[8mm B Revoltech elbow joint x2 for arms](https://www.aliexpress.com/item/1005005324042088.html?) 8.60
+	I just need to dye the figure black, paint the symbols white, paint white around the lenses and then paint on the white areas of the suit + replace elbow joints to match.
+	Match the way the red and blue is spread on the regular 2.0 Spider-Man.
+	Also paint the web accessories blue.
 - [x] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [x] ![[000000001352-01-xl.jpg]]
@@ -191,14 +201,13 @@ kanban-plugin: board
 	63.43 total
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
-- [ ] ![[Pasted image 20251111211154.png]]
+- [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
 	![[Pasted image 20251116145505.png]]
 	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 40.61
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005008458818430.html?) 40.02
-	total 80.63
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
 - [ ] ![[Dragon-Ball-Z-S-H-Figuarts-Action-Figure-Vegeta-Ol-1_1800x1800.webp]]
@@ -247,14 +256,17 @@ kanban-plugin: board
 	shf games begin goku 27.99
 	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**cyborg revoltech spider-man upgrade kit 72.23
-	174.29 total**
+	revoltech negative zone spider-man custom 48.16
+	222.45 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
-	shf tbftf trunks with custom heads 80.63
+	shf tbftf trunks 40.61
+	air studio trunks headsculpt 40.02
+	shf pn piccolo 40.61
 	zt broly with cloth skirt 123,78
 	revoltech symbiote spider-man 66.28
 	revoltech spider-man 2099 custom 21.64** (I don't need to buy a base body, I can use my MESS TOYS Black Suit bc I will have the official)
-	**366.69 total**
+	**407.30 total**
 
 
 ## Wishlist Archives
