@@ -261,8 +261,8 @@ kanban-plugin: board
 	shf games begin goku 27.99
 	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
 	**cyborg revoltech spider-man upgrade kit 72.23
-	revoltech negative zone spider-man custom 48.16
-	222.45 total**
+	revoltech negative zone spider-man custom 52.11
+	226.40 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
