@@ -14,6 +14,15 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
+- [ ] From selling my revo 1.0 for 70, then shf toei for 140, total 210
+	
+	**mess toys superior spider-man 34.29
+	mess toys scarlet spider 31.29
+	ct toys revoltech spider-man 22.69
+	fahrul headsculpts**
+	(v71, v55 x2, also webs) with expedited shipping **79.84
+	ct toys agent venom 24.19**
+	This is **192.30** total.
 
 
 ## General Wishlist
@@ -237,13 +246,8 @@ kanban-plugin: board
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	genkidamatsuri 50~** (Will pay boiled to grab me a copy from nyc)
-	**mess toys superior spider-man 34.29
-	mess toys scarlet spider 31.29
-	ct toys revoltech spider-man 22.69
-	fahrul headsculpts**
-	(v71, v55 x2, also webs) with expedited shipping **79.84
-	cyborg revoltech spider-man upgrade kit 72.23
-	342.40 total**
+	**cyborg revoltech spider-man upgrade kit 72.23
+	174.29 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks with custom heads 80.63
