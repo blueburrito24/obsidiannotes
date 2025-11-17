@@ -14,15 +14,17 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] From selling my revo 1.0 for 70, then shf toei for 140, total 210
+- [ ] From selling my revo 1.0 for 70, then shf toei for 126, total 196
 	
 	**mess toys superior spider-man 34.29
 	mess toys scarlet spider 31.29
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpts**
 	(v71, v55 x2, also webs) with normal shipping **59.95
-	ct toys agent venom 24.19**
-	This is **172.41** total.
+	ct toys agent venom 24.19
+	6mm O wrist joint for my mtbsn 4.30**
+	This is **176.71** total.
+	I then have 19.29 left over, and I owe Habib 6.05, leaving 13.24.
 	I don't need to get expedited shipping on the custom heads, as US order traffic has gone down due to tariffs, so it will likely only take a month or two.
 
 
@@ -159,13 +161,10 @@ kanban-plugin: board
 	Custom Revoltech Negative Zone Spider-Man 52.11:
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
 	[Rit Synthetic Black Dye](https://amzn.eu/d/6a2NC0W) 8.27
-	[8mm B Revoltech elbow joint x2 for arms](https://www.aliexpress.com/item/1005005324042088.html?) 8.60
+	[8mmB J (White) Revoltech elbow joint x2 for arms](https://www.aliexpress.com/item/1005005324042088.html?) 8.60
 	[Sandpaper](https://amzn.eu/d/gEy2pxt) 3.95
-	Both front and back logos need to be sanded off. 
-	Front logo should be replaced with the classic spider symbol, back logo too.
-	Note that I need to spread the back logo across the butterfly slides.
-	Then I just need to dye the figure black, paint the symbols white, paint white around the lenses and then paint on the white areas of the suit + replace elbow joints to match.
-	Do Romita JR style lenses, since the symbols will be in that style too.
+	I need to sand off the original spider logos, then sculpt my own based on the Romita JR spider symbols seen above.
+	Then I need to sculpt the lenses to match his style too, from there I just need to dye the figure black and replace the elbow joints with white ones while I paint the arms, legs and body areas white.
 	Match the way the red and blue is spread on the regular 2.0 Spider-Man.
 	Also paint the web accessories blue.
 - [x] ![[Pasted image 20251025205107.png | 200]]
