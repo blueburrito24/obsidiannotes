@@ -134,7 +134,7 @@ kanban-plugin: board
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
 - [x] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
 	![[cyborg-spider-man-marvel-comics-v0-1pzuolxi3vdd1.jpg]]
-	[[Cyborg Spider-Man Custom details]] 72.23
+	[[Cyborg Spider-Man Custom details]] 62.91
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
 - [x] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
@@ -259,11 +259,11 @@ kanban-plugin: board
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
-	cyborg revoltech spider-man upgrade kit 72.23
+	cyborg revoltech spider-man upgrade kit 62.91
 	revoltech negative zone spider-man custom 52.11
 	ct toys agent venom 24.19
 	custom revoltech spider-man noir 70.28
-	270.87 total**
+	261.55 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
