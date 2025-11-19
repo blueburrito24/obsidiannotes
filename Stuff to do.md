@@ -1,21 +1,20 @@
+call nhs about the braces waiting list
+01214344910
+
+i have an advanced gum disease, need to use toothbrush x2 a day with miswak on top
+Need to floss teeth
+Need to buy inter-dental brush
+Use both x2 a day
+
+11.15 Wednesday 18th February 2026 with Mubeen Petkar
+
 study the ai module’s python exercises in google colab, study head first java \+ ask claude for basic java exercises. Look into fib programs and factorial calculators.  
 Go over them alex lee videos again… practice stuff with scanners and while loops  
 Look into Manim for python animation \-\> helps learn maths and make cool animations, but this is for later when i’m deep into the coding shebang.
 
-"smartness of sukuna" "aura of gohan" edit where its umamusume traits and a chud in the middle
-need to buy proper microsd reader usb
-write down cosmic Spider-Man custom using mess toys
-add mafex 108 reissue to wishlist + try and sort out custom head into the budget
-
-make list of games i want to play on the anbernic rg ds (mainly wii, gamecube, ps1, ps2, ds, 3ds, also think about any android-based games i could play)
-make shimeji of my ocs
-
 start using Anki for CS flashcards (also would be good for Arabic and maybe driving theory)
 Set up bitwarden
 
-Look into GI Joe Classified line
-Make a pal for GohanZ2
-learn Ginyu on fz
 read ibn taymiyyah's laamiyah
 
 Idea for YT intro:
@@ -35,8 +34,6 @@ Watch this video for more git knowledge. https://youtu.be/hrTQipWp6co
 ==Apply to jobs at Sainsbury's, Tesco and Aldi (Need to remake CV, I have a WIP one for Placements but I need a generic one thats quality for regular apps)==
 
 Contact Amazon Support to delete account connected to kamihame7@gmail.com
-
-Map out my main tools for FighterZ characters (Blueku, SSJku, Blacku, Hit, UIKu, Jiren, S Broly, Beerus)
 
 current modules:  
 ***DATA STRUCTURES AND ALGORITHMS*** e.g., [[Data Structures concepts]] 
