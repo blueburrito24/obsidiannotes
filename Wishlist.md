@@ -170,7 +170,7 @@ kanban-plugin: board
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [x] ![[000000001352-01-xl.jpg]]
 	[Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/203583-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-limited-bonus-kaiyodo-.html) 66.28
-- [ ] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
+- [x] ![[{6BDA95BA-90B6-4172-A82F-48A2B2413C53}.png | 216]]
 	![[Pasted image 20251021152552.png | 215]]
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5 X-FORCE Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) 44.44 (Needs crotchpiece fixed, also throw out emotive faceplates)
 - [ ] ![[s-l1600 1.jpg]]
@@ -266,7 +266,8 @@ kanban-plugin: board
 	revoltech negative zone spider-man custom 52.11
 	ct toys agent venom 24.19
 	custom revoltech spider-man noir 70.28
-	261.55 total**
+	revoltech deadpool x-force ver 44.44
+	305.99 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
