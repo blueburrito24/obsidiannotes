@@ -12,7 +12,7 @@
 TOTAL 62.91
 [how to blackwash figures tutorial](https://www.youtube.com/watch?v=S0oP06owt3c)
 - I will recast the V64 McFarlane headsculpt and sculpt the base of the bandana and the goggle-strap on the left lense.
-- I also need to recast the articulated scarf piece from Ryu Hayabusa, after recasting in white putty I can blackwash it and use it as the bandana piece.
+- I've chosen to buy a cheap KO of Ryu Hayabusa, so I can just repaint the scarf piece as white and then blackwash it and use it as the bandana piece.
 - The bandana needs to be sculpted, alongside the goggle over the lense. I will sculpt the goggle and strap that goes around the whole head, then sculpt the bandana over it.
 - Then I will paint the head (mixing my reds to match the body) and painting the goggle silver, mixing my black and red to paint the strap brown. I will then paint the bandana white and blackwash it.
 - The inside of the goggle should be painted with a mix of red and metallic silver.
