@@ -118,6 +118,7 @@ kanban-plugin: board
 - [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
 	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
+	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
 - [x] ![[Pasted image 20251101200128.png | 200]]
 	![[v71.webp]]
