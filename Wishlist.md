@@ -47,13 +47,24 @@ kanban-plugin: board
 	[1/12 Figure stands (small)](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 	[Jet duster](https://amzn.eu/d/jiffMLM) 62.99
 	[Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
+	![[Pasted image 20251120172437.png]]
 	[Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
+	![[Pasted image 20251120172505.png]]
 	[Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
+	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
 	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
+	![[Pasted image 20251120172714.png]]
+	![[Pasted image 20251120172728.png]]
 	[Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
+	![[Aa1194ca9abec427db8372f6d701bf1dfI.jpg_960x960q75.jpg_.avif]]
 	[Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
+	![[Pasted image 20251120172809.png]]
+	![[Pasted image 20251120172818.png]]
 	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+	![[Pasted image 20251120172831.png]]
+	![[Pasted image 20251120172844.png]]
 	[KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
+	![[Pasted image 20251120172859.png]]
 	[Silicone Shock Oil for loosening up figures](https://www.amazon.co.uk/dp/B08N1MT4B5/?) 3.99
 	[Plastic containers for loose figure accessories](https://www.amazon.co.uk/dp/B09J2QWHC2?) 13.72
 	![[Pasted image 20251106212235.png]]
@@ -291,6 +302,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
