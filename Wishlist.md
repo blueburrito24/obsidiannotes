@@ -291,9 +291,9 @@ kanban-plugin: board
 	air studio trunks headsculpt 40.02
 	shf pn piccolo 40.61
 	zt broly with cloth skirt 123,78
+	shf ssj gohan 35.91
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	revoltech spider-man 2099 custom 21.64** (I don't need to buy a base body, I can use my MESS TOYS Black Suit bc I will have the official)
-	**407.30 total**
+	421.57 total**
 
 
 ## Wishlist Archives
@@ -308,6 +308,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
