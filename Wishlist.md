@@ -163,7 +163,7 @@ kanban-plugin: board
 - [x] ![[2099_Spider-Man_(SD_-_EoT).webp]]
 	[[Revoltech Spider-Man 2099 Details]] 52.93
 	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
-- [x] ![[NegaZone.png]]
+- [ ] ![[NegaZone.png]]
 	![[Pasted image 20251117115052.png]]
 	![[{661D80FC-E46B-4317-BBDF-F6D21999D406}.png]]
 	![[Pasted image 20251117122534.png]]
@@ -274,11 +274,10 @@ kanban-plugin: board
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	cyborg revoltech spider-man upgrade kit 62.91
-	revoltech negative zone spider-man custom 52.11
 	ct toys agent venom 24.19
 	custom revoltech spider-man noir 70.28
 	revoltech deadpool 44.46
-	306.01 total**
+	253.90 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
