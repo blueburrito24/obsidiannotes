@@ -41,11 +41,15 @@ kanban-plugin: board
 	[Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 	[Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 29.42
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
+	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
+	![[26480_LLIFE 1.avif]]
 - [ ] figure stuff that isn't explicitly figures
 	[Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
 	[Display stand for 1/12 figures](https://www.aliexpress.com/item/1005008564504383.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.49e0t3QNt3QNY9&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=5f05b2c3-013d-447d-bdf3-2bf0f6c05957&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:5f05b2c3-013d-447d-bdf3-2bf0f6c05957,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22977%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21GBP%212.69%212.42%21%21%213.48%213.13%21%4021039a5b17614240681107134e2f48%2112000045737340511%21rec%21UK%212834634728%21XZ%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895%3BpisId%3A5000000191192759&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008564504383%7C_p_origin_prod%3A) 2.69
 	[1/12 Figure stands (small)](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 	[Jet duster](https://amzn.eu/d/jiffMLM) 62.99
+	[3D Printer](https://www.aliexpress.com/item/1005008273141070.html?) 50~
+	[61.5x83x61.5cm cardboard box](https://www.bigyellow.co.uk/boxshop/products/extra-large-cardboard-box) 5.53
 	[30 Gauge Floral Wire](https://cdn.discordapp.com/attachments/1427163774359568455/1441381556647100466/caption.gif?ex=692196ae&is=6920452e&hm=04d46216ad4870826c5488735700365be4923afc92aec6480bf3cdb61767fdf6&) 2.69, use for adding detail to web construct accessories
 	[Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
 	![[Pasted image 20251120172437.png]]
@@ -304,6 +308,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%

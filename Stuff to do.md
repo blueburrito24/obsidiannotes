@@ -10,6 +10,8 @@ Use both x2 a day
 
 buy ts 20 quid bookbag https://amzn.eu/d/d55dyvi
 
+do labs for ai, dsa and make notes with the big t on em
+
 study the ai module’s python exercises in google colab, study head first java \+ ask claude for basic java exercises. Look into fib programs and factorial calculators.  
 Go over them alex lee videos again… practice stuff with scanners and while loops  
 Look into Manim for python animation \-\> helps learn maths and make cool animations, but this is for later when i’m deep into the coding shebang.
