@@ -277,7 +277,8 @@ kanban-plugin: board
 	ct toys agent venom 24.19
 	custom revoltech spider-man noir 70.28
 	revoltech deadpool 44.46
-	253.90 total**
+	mess toys venom 40
+	293.90 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
@@ -301,6 +302,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
