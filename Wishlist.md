@@ -14,17 +14,6 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
-- [ ] From selling my revo 1.0 for 70, then shf toei for 126, total 196
-	
-	**mess toys superior spider-man 34.29
-	mess toys scarlet spider 31.29
-	ct toys revoltech spider-man 22.69
-	fahrul headsculpts**
-	(v71, v55 x2, v46, also webs) with normal shipping **59.95
-	4mm H wrist joint for my mtbsn 4.30**
-	This is **152.52** total.
-	I then have 43.47 left over, and I owe Habib 6.05, leaving 37.42.
-	I don't need to get expedited shipping on the custom heads, as US order traffic has gone down due to tariffs, so it will likely only take a month or two.
 
 
 ## General Wishlist
@@ -154,7 +143,7 @@ kanban-plugin: board
 	[[Cyborg Spider-Man Custom details]] 62.91
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
-- [x] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
+- [ ] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
 	Custom Revoltech Spider-Man Noir 70.28:
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[KO Revoltech Winter Soldier for bottom half](https://www.aliexpress.com/item/1005008861309613.html?) 20.87
@@ -182,11 +171,11 @@ kanban-plugin: board
 	Then I want to recast my Superior Spider-Man's fahrul headsculpt - to smooth it off and remove the eyes so I can sculpt Romita JR style lenses, from there I just need to dye the figure black and replace the elbow joints with white ones while I paint the arms, legs and body areas white.
 	Match the way the red and blue is spread on the regular 2.0 Spider-Man.
 	Also paint the web accessories blue.
-- [x] ![[Pasted image 20251025205107.png | 200]]
+- [ ] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [x] ![[000000001352-01-xl.jpg]]
 	[Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/203583-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-limited-bonus-kaiyodo-.html) 66.28
-- [x] ![[Pasted image 20251120172100.png]]
+- [ ] ![[Pasted image 20251120172100.png]]
 	![[Pasted image 20251021152552.png | 215]]
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5](https://www.nin-nin-game.com/en/marvel-dc-comics/131792-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-kaiyodo-.html) 44.46 (Needs crotchpiece fixed, also throw out emotive faceplates)
 - [ ] ![[s-l1600 1.jpg]]
@@ -278,13 +267,18 @@ kanban-plugin: board
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
+	mess toys superior spider-man 34.29
+	mess toys scarlet spider 31.29
+	ct toys revoltech spider-man 22.69
+	fahrul headsculpts**
+	(v71, v55, v46, also webs) with normal shipping,
+	could recast superior head for cyborg custom
+	need to recast scarlet spider head for black suit **48.85
+	4mm H wrist joint for my mtbsn 4.30
 	cyborg revoltech spider-man upgrade kit 62.91
-	ct toys agent venom 24.19
-	custom revoltech spider-man noir 70.28
-	revoltech deadpool 44.46
 	mess toys venom 40
 	mess toys scarlet spider 30
-	323.90 total**
+	326.39 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
