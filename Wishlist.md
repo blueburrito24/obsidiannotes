@@ -165,7 +165,7 @@ kanban-plugin: board
 	Recast the fahrul head from my Superior Spider-Man and shave down the lenses, sculpt rounded, goggle-like lenses and stick them onto the face. 
 	Paint black and paint the lenses white.
 	Use guns from gun set bought for Cyborg Spider-Man and the gun pouches from CT Agent Venom.
-- [x] ![[2099_Spider-Man_(SD_-_EoT).webp]]
+- [ ] ![[2099_Spider-Man_(SD_-_EoT).webp]]
 	[[Revoltech Spider-Man 2099 Details]] 52.93
 	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
 - [ ] ![[NegaZone.png]]
