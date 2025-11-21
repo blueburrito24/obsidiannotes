@@ -46,6 +46,7 @@ kanban-plugin: board
 	[Display stand for 1/12 figures](https://www.aliexpress.com/item/1005008564504383.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.49e0t3QNt3QNY9&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=5f05b2c3-013d-447d-bdf3-2bf0f6c05957&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:5f05b2c3-013d-447d-bdf3-2bf0f6c05957,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22977%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21GBP%212.69%212.42%21%21%213.48%213.13%21%4021039a5b17614240681107134e2f48%2112000045737340511%21rec%21UK%212834634728%21XZ%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895%3BpisId%3A5000000191192759&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008564504383%7C_p_origin_prod%3A) 2.69
 	[1/12 Figure stands (small)](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 	[Jet duster](https://amzn.eu/d/jiffMLM) 62.99
+	[30 Gauge Floral Wire](https://cdn.discordapp.com/attachments/1427163774359568455/1441381556647100466/caption.gif?ex=692196ae&is=6920452e&hm=04d46216ad4870826c5488735700365be4923afc92aec6480bf3cdb61767fdf6&) 2.69, use for adding detail to web construct accessories
 	[Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
 	![[Pasted image 20251120172437.png]]
 	[Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
@@ -128,7 +129,7 @@ kanban-plugin: board
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
 - [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
 	MESS TOYS Scarlet Spider 30
-- [ ] ![[Pasted image 20251102040713.png | 200]]
+- [x] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
 - [x] ![[Pasted image 20251101200128.png | 200]]
@@ -302,6 +303,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
