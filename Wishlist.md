@@ -127,7 +127,7 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
-- [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
+- [x] ![[MESS TOYS Scarlet Spider.png| 200]]
 	MESS TOYS Scarlet Spider 30
 - [x] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
@@ -279,7 +279,8 @@ kanban-plugin: board
 	custom revoltech spider-man noir 70.28
 	revoltech deadpool 44.46
 	mess toys venom 40
-	293.90 total**
+	mess toys scarlet spider 30
+	323.90 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
