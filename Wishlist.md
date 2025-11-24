@@ -140,7 +140,7 @@ kanban-plugin: board
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
 - [x] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
 	![[cyborg-spider-man-marvel-comics-v0-1pzuolxi3vdd1.jpg]]
-	[[Cyborg Spider-Man Custom details]] 62.94
+	[[Cyborg Spider-Man Custom details]] 56.16
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
 - [ ] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
@@ -270,10 +270,10 @@ kanban-plugin: board
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpt**
 	(v71 x2, also webs) with normal shipping **37.38
-	cyborg revoltech spider-man upgrade kit 62.94
+	cyborg revoltech spider-man upgrade kit 56.16
 	mess toys venom 40
 	mess toys scarlet spider 30
-	343.24 total**
+	336.46 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
@@ -295,6 +295,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,true,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
 ```
 %%
