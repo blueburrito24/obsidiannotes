@@ -280,7 +280,7 @@ kanban-plugin: board
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	380.96 total**
+	325.46 total**
 
 
 ## Wishlist Archives
