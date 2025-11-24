@@ -210,7 +210,7 @@ kanban-plugin: board
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008438404916.html?) 42.84
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
 	63.43 total
-- [x] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
+- [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 	[Hot SSJ2 Headsculpts](https://www.aliexpress.com/item/1005008089006003.html?) 20.39
@@ -234,7 +234,6 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
-	[Cloth skirt](https://www.aliexpress.com/item/1005009769310263.html?) 19.59
 - [ ] ![[Pasted image 20251111064023.png]]
 	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
 - [ ] ![[Pasted image 20251106193013.png]]
@@ -269,18 +268,17 @@ kanban-plugin: board
 	shf games begin goku 27.99
 	mess toys superior spider-man 34.29
 	ct toys revoltech spider-man 22.69
-	fahrul headsculpts**
-	(v71, v46, also webs) with normal shipping **37.41
+	fahrul headsculpt**
+	(v71, also webs) with normal shipping **29.77
 	cyborg revoltech spider-man upgrade kit 62.91
 	mess toys venom 40
 	mess toys scarlet spider 30
-	279.36 total**
+	241.95 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 40.02
-	zt broly with cloth skirt 123,78
-	shf ssj gohan 35.91
+	zt broly 104.19
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
 	380.96 total**
 
