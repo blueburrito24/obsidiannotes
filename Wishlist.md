@@ -213,7 +213,7 @@ kanban-plugin: board
 	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 	[Hot SSJ2 Headsculpts](https://www.aliexpress.com/item/1005008089006003.html?) 20.39
-- [ ] ![[Pasted image 20251111211154.png]]
+- [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
@@ -276,11 +276,12 @@ kanban-plugin: board
 	336.46 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
+	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	325.46 total**
+	366.07 total**
 
 
 ## Wishlist Archives
