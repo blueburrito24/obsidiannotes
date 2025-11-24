@@ -140,7 +140,7 @@ kanban-plugin: board
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
 - [x] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
 	![[cyborg-spider-man-marvel-comics-v0-1pzuolxi3vdd1.jpg]]
-	[[Cyborg Spider-Man Custom details]] 62.91
+	[[Cyborg Spider-Man Custom details]] 62.94
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
 	I could also repaint a gun or two metallic silver.
 - [ ] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
@@ -205,11 +205,10 @@ kanban-plugin: board
 	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
 - [ ] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
-- [ ] ![[Pasted image 20251106035525.png]]
-	![[{5C7BA5E7-F17D-4B34-BED7-44CAB50E8769}.png]]
-	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008438404916.html?) 42.84
-	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
-	63.43 total
+- [x] ![[photo.jpg]]
+	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
+	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
+	63.88 total
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
@@ -266,14 +265,15 @@ kanban-plugin: board
 - [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
+	bht gohan kitbash 63.88
 	mess toys superior spider-man 34.29
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpt**
-	(v71, also webs) with normal shipping **29.77
-	cyborg revoltech spider-man upgrade kit 62.91
+	(v71 x2, also webs) with normal shipping **37.38
+	cyborg revoltech spider-man upgrade kit 62.94
 	mess toys venom 40
 	mess toys scarlet spider 30
-	241.95 total**
+	343.24 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
@@ -295,6 +295,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,true,false,true],"show-checkboxes":true}
 ```
 %%

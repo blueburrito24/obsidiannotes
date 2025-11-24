@@ -7,9 +7,9 @@
 [Vallejo yellow for painting belt](https://amzn.eu/d/gtJV8D4) 2.95
 [Vallejo blackwash for adding detail to belt](https://amzn.eu/d/bZnohxn) 5.25
 [4mm K Joint for bandana](https://www.aliexpress.com/item/1005005324042088.html?) 4.79
-[AC Factory Ryu Hayabusa for recasting the scarf for the bandana](https://www.aliexpress.com/item/1005009122052569.html?) 16.97
+[bootleg revo Ryu Hayabusa for recasting the scarf for the bandana](https://www.aliexpress.com/item/1005009122052569.html?) 17
 [Vallejo metallic silver for painting goggle and other details](https://amzn.eu/d/fcnCcKZ) 4.94
-TOTAL 62.91
+TOTAL 62.94
 [how to blackwash figures tutorial](https://www.youtube.com/watch?v=S0oP06owt3c)
 - I will recast the V64 McFarlane headsculpt and sculpt the base of the bandana and the goggle-strap on the left lense.
 - I've chosen to buy a cheap KO of Ryu Hayabusa, so I can just repaint the scarf piece as white and then blackwash it and use it as the bandana piece.
