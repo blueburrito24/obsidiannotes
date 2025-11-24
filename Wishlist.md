@@ -129,7 +129,7 @@ kanban-plugin: board
 	![[v71.webp]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
-- [x] ![[Pasted image 20251112233400.png]]
+- [ ] ![[Pasted image 20251112233400.png]]
 	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
 	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
 	![[{488E2007-1BF2-49DF-92E4-424E88BF2334}.png]]
@@ -210,11 +210,11 @@ kanban-plugin: board
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008438404916.html?) 42.84
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this.
 	63.43 total
-- [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
+- [x] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
 	[Hot SSJ2 Headsculpts](https://www.aliexpress.com/item/1005008089006003.html?) 20.39
-- [x] ![[Pasted image 20251111211154.png]]
+- [ ] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
@@ -268,26 +268,21 @@ kanban-plugin: board
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	mess toys superior spider-man 34.29
-	mess toys scarlet spider 31.29
 	ct toys revoltech spider-man 22.69
 	fahrul headsculpts**
-	(v71, v55, v46, also webs) with normal shipping,
-	could recast superior head for cyborg custom
-	need to recast scarlet spider head for black suit **48.85
-	4mm H wrist joint for my mtbsn 4.30
+	(v71, v46, also webs) with normal shipping **37.41
 	cyborg revoltech spider-man upgrade kit 62.91
 	mess toys venom 40
 	mess toys scarlet spider 30
-	326.39 total**
+	279.36 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 40.02
-	shf pn piccolo 40.61
 	zt broly with cloth skirt 123,78
 	shf ssj gohan 35.91
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	421.57 total**
+	380.96 total**
 
 
 ## Wishlist Archives
