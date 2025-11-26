@@ -178,7 +178,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251120172100.png]]
 	![[Pasted image 20251021152552.png | 215]]
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5](https://www.nin-nin-game.com/en/marvel-dc-comics/131792-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-kaiyodo-.html) 44.46 (Needs crotchpiece fixed, also throw out emotive faceplates)
-- [ ] ![[s-l1600 1.jpg]]
+- [x] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -281,7 +281,8 @@ kanban-plugin: board
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	366.07 total**
+	buff martialist 63.75
+	429.82 total**
 
 
 ## Wishlist Archives
