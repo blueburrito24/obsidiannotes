@@ -138,7 +138,7 @@ kanban-plugin: board
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
-- [x] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
+- [ ] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
 	![[cyborg-spider-man-marvel-comics-v0-1pzuolxi3vdd1.jpg]]
 	[[Cyborg Spider-Man Custom details]] 56.16
 	Note that after the custom is done, I can still revert Spider-Man back to his classic look
@@ -178,7 +178,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251120172100.png]]
 	![[Pasted image 20251021152552.png | 215]]
 	[Kaiyodo Amazing Yamaguchi Deadpool 2.5](https://www.nin-nin-game.com/en/marvel-dc-comics/131792-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-kaiyodo-.html) 44.46 (Needs crotchpiece fixed, also throw out emotive faceplates)
-- [x] ![[s-l1600 1.jpg]]
+- [ ] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -268,12 +268,12 @@ kanban-plugin: board
 	bht gohan kitbash 63.88
 	mess toys superior spider-man 34.29
 	ct toys revoltech spider-man 22.69
-	fahrul headsculpt**
-	(v71 x2, also webs) with normal shipping **37.38
-	cyborg revoltech spider-man upgrade kit 56.16
+	fahrul headsculpts**
+	(v71, v46, also webs) with normal shipping **37.38
 	mess toys venom 40
 	mess toys scarlet spider 30
-	336.46 total**
+	280.30 total**
+- [ ] if I really want the v71 Superior style head for my ct 2.0, i can just recast it
 - [ ] **shf dangerous pride vegeta 20.52
 	shf warrior's fury goku 53.84
 	shf pn piccolo 40.61
@@ -281,8 +281,7 @@ kanban-plugin: board
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	buff martialist 63.75
-	429.82 total**
+	366.08 total**
 
 
 ## Wishlist Archives
