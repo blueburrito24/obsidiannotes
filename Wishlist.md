@@ -228,8 +228,8 @@ kanban-plugin: board
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005008458818430.html?) 40.02
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
-- [ ] ![[Dragon-Ball-Z-S-H-Figuarts-Action-Figure-Vegeta-Ol-1_1800x1800.webp]]
-	[SH FIGUARTS Vegeta Old Battle Armour Ver.](https://hobbyfigures.co.uk/products/dragon-ball-s-h-figuarts-action-figure-vegeta-old-battle-clothes-14cm) 49.95
+- [ ] ![[photo 1.jpg]]
+	[SH FIGUARTS Daima Vegeta](https://www.aliexpress.com/item/1005008282488093.html?) 31.29
 - [ ] ![[Pasted image 20251108191749.png]]
 	![[s-l1600.jpg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 61.79
@@ -273,9 +273,10 @@ kanban-plugin: board
 	shf games begin goku 27.99
 	bht gohan kitbash 63.88
 	kong studio goku + converter pegs 83.98
+	vallejo yellow 2.95
 	mess toys venom 40
 	mess toys scarlet spider 30
-	269.92 total**
+	272.87 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
