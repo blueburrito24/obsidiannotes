@@ -54,6 +54,8 @@ kanban-plugin: board
 	[Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
 	![[Pasted image 20251120172809.png]]
 	![[Pasted image 20251120172818.png]]
+	[DBZ Auras](https://www.aliexpress.com/item/1005006503681477.html?) 6.31
+	![[Pasted image 20251128042338.png]]
 	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
 	![[Pasted image 20251120172831.png]]
 	![[Pasted image 20251120172844.png]]
@@ -281,7 +283,9 @@ kanban-plugin: board
 	mess toys venom 40
 	mess toys scarlet spider 30
 	white wind effects 10.79
-	319.58 total**
+	tripod 7.89
+	portable light 14.01
+	341.48 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
@@ -303,6 +307,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,true],"show-checkboxes":true}
 ```
 %%
