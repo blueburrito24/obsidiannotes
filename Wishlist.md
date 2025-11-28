@@ -228,6 +228,7 @@ kanban-plugin: board
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005008458818430.html?) 40.02
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
+	Should recast hair for base form
 - [x] ![[s-l1600.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 35.92
 - [ ] ![[photo 1.jpg]]
