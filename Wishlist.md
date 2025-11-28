@@ -228,6 +228,8 @@ kanban-plugin: board
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005008458818430.html?) 40.02
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
+- [x] ![[s-l1600.png]]
+	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 35.92
 - [ ] ![[photo 1.jpg]]
 	[SH FIGUARTS Daima Vegeta](https://www.aliexpress.com/item/1005008282488093.html?) 31.29
 - [ ] ![[Pasted image 20251108191749.png]]
@@ -274,9 +276,10 @@ kanban-plugin: board
 	bht gohan kitbash 63.88
 	kong studio goku + converter pegs 83.98
 	vallejo yellow 2.95
+	bht majin vegeta 35.92
 	mess toys venom 40
 	mess toys scarlet spider 30
-	272.87 total**
+	308.79 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
