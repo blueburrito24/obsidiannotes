@@ -10,7 +10,7 @@ kanban-plugin: board
 	
 	887.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 453.31gbp (Second Term)
 	
-	926.28 \- 300 \= 626.28gbp (Third Term)
+	926.28 \- 300 - 43 for Kalaam app \= 583.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
@@ -196,8 +196,9 @@ kanban-plugin: board
 
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
+	Need to do [this mod](https://youtube.com/shorts/3evpgYfvAps?si=sY3AQcDglNF91z8h) for a cleaner sleeve look
 - [x] ![[Pasted image 20251128031116.png]]
-	![[Pasted image 20251128031112.png]]
+	![[{F3BB59D8-1018-491C-A9AF-912E3C47E982}.png]]
 	[KONG STUDIOS B009 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
 	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) X2 with shipping, 14.66
 	83.98 total
@@ -307,6 +308,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
