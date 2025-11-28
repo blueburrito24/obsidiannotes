@@ -280,7 +280,8 @@ kanban-plugin: board
 	bht majin vegeta 35.92
 	mess toys venom 40
 	mess toys scarlet spider 30
-	308.79 total**
+	white wind effects 10.79
+	319.58 total**
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
