@@ -34,3 +34,13 @@ We need to implement a rational agent function concisely AKA design an agent pro
 "Agent program" takes the percept as input from the sensors and returns an action to the actuators.
 Agent programs take current percept as input whereas agent function takes the whole percept history.
 Agents need to remember the entire percept sequence.
+
+***Agent Program is like the brain. Agent function is the person***
+![[{DDD39890-3EC1-4A7B-8E6E-DCF198740B93}.png]]
+"Rational Agent" chooses actions that maximise performance given the current percept sequence.
+==Agent percepts -> Action Sequences -> Environmental changes==
+- If the sequence of states that change the environment are desirable, then the agent performed successfully.
+This can be measured using a performance measure, an objective criterion for its success.
+E.g., we can measure a roomba's success with how much dirt it cleaned, how clean the environment is and how much dirt was cleaned per unit of electricity used.
+==Performance measures should be based on what is desired in the environment and how the agent should act.==
+
