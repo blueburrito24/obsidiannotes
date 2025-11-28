@@ -125,7 +125,7 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
-- [x] ![[Pasted image 20251101200128.png | 200]]
+- [ ] ![[Pasted image 20251101200128.png | 200]]
 	![[v71.webp]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
 	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
@@ -134,7 +134,7 @@ kanban-plugin: board
 	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
 	![[{488E2007-1BF2-49DF-92E4-424E88BF2334}.png]]
 	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
-- [x] ![[{BDFB212A-77C4-4FE2-B05D-B1877DAA3B4F}.png]]
+- [ ] ![[{BDFB212A-77C4-4FE2-B05D-B1877DAA3B4F}.png]]
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
@@ -194,7 +194,13 @@ kanban-plugin: board
 
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
-- [x] ![[Pasted image 20251115045809.png]]
+- [x] ![[Pasted image 20251128031116.png]]
+	![[Pasted image 20251128031112.png]]
+	[KONG STUDIOS B009 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
+	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) X2 with shipping, 14.66
+	83.98 total
+	*Note I need to recast the hairs in putty and paint them because only the translucent version is available
+- [ ] ![[Pasted image 20251115045809.png]]
 	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
 - [ ] ![[Pasted image 20251107074516.png]]
 	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
@@ -226,7 +232,7 @@ kanban-plugin: board
 	[SH FIGUARTS Vegeta Old Battle Armour Ver.](https://hobbyfigures.co.uk/products/dragon-ball-s-h-figuarts-action-figure-vegeta-old-battle-clothes-14cm) 49.95
 - [ ] ![[Pasted image 20251108191749.png]]
 	![[s-l1600.jpg]]
-	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 70.39
+	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 61.79
 	[Cloth jacket](https://www.ebay.co.uk/itm/127455301525?) 30.04
 - [ ] ![[Pasted image 20251111012821.png]]
 	MP Studio Vegito (No info yet)
@@ -266,22 +272,17 @@ kanban-plugin: board
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	bht gohan kitbash 63.88
-	mess toys superior spider-man 34.29
-	ct toys revoltech spider-man 22.69
-	fahrul headsculpts**
-	(v71, v46, also webs) with normal shipping **37.38
+	kong studio goku + converter pegs 83.98
 	mess toys venom 40
 	mess toys scarlet spider 30
-	280.30 total**
-- [ ] if I really want the v71 Superior style head for my ct 2.0, i can just recast it
+	269.92 total**
 - [ ] **shf dangerous pride vegeta 20.52
-	shf warrior's fury goku 53.84
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	366.08 total**
+	312.24 total**
 
 
 ## Wishlist Archives
@@ -296,6 +297,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
