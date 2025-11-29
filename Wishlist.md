@@ -99,8 +99,10 @@ kanban-plugin: board
 	[Bloodstained: Ritual of the Night](https://www.loaded.com/bloodstained-ritual-of-the-night-steam-pc) 3.99
 	[Blade Chimera](https://store.steampowered.com/app/2671230/BLADECHIMERA/) 16.75
 	[Pseudoregalia](https://store.steampowered.com/app/2365810/Pseudoregalia?snr=1_25_4__318) 4.99
+	[Streets of Rage 4 Mobile](https://play.google.com/store/apps/details?id=com.playdigious.sor4&hl=en_GB&pli=1) 7.49
 	[Epic Mickey Rebrushed](https://www.loaded.com/disney-epic-mickey-rebrushed-pc-steam) 12.89
 	[Marvel's Spider-Man 2](https://www.loaded.com/marvel-s-spider-man-2-pc-steam-eu) 30.99
+	[ENDER LILIES Quietus of the Knights](https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/) 21.99
 	[Prototype](https://store.steampowered.com/app/10150/Prototype?snr=1_25_4__318) 14.99
 	[A Hat In Time](https://store.steampowered.com/app/253230/A_Hat_in_Time?snr=1_25_4__318) 24.99
 	[LEGO Batman: Legacy of the Dark Knight](https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/) should be 50
@@ -288,8 +290,9 @@ kanban-plugin: board
 	dbz kakarot 9.79
 	dbz kakarot season pass 7.99
 	shinobi art of vengeance 15.99
-	celeste
-	TOTAL 86.22
+	celeste 4.49
+	streets of rage 4 mobile 7.49
+	TOTAL 93.71
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
@@ -312,6 +315,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,false,true,true,false,true],"show-checkboxes":true}
 ```
 %%
