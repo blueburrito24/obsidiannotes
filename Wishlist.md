@@ -172,9 +172,9 @@ kanban-plugin: board
 	Need to do [this mod](https://youtube.com/shorts/3evpgYfvAps?si=sY3AQcDglNF91z8h) for a cleaner sleeve look
 - [x] ![[Pasted image 20251128031116.png]]
 	![[{F3BB59D8-1018-491C-A9AF-912E3C47E982}.png]]
-	[KONG STUDIOS B009 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
 	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) X2 with shipping, 14.66
-	83.98 total
+	[KONG B006 SSJ heads](https://www.ebay.co.uk/itm/365955590503?) 43.51
+	[KONG B006 Base heads](https://www.ebay.co.uk/itm/388485412679?) 40.79
 	*Note I need to recast the hairs in putty and paint them because only the translucent version is available
 - [ ] ![[Pasted image 20251115045809.png]]
 	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
@@ -239,13 +239,15 @@ kanban-plugin: board
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	bht gohan kitbash 63.88
-	kong studio goku + converter pegs 83.98
+	kong b006 ssj goku heads 43.51
+	kong b006 base heads 40.79
+	kong adapter peg x2 14.66
 	vallejo yellow 2.95
 	bht majin vegeta 35.92
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	271.48 total**
+	286.46 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -278,6 +280,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
