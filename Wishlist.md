@@ -28,7 +28,8 @@ kanban-plugin: board
 	[Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
 	[Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
-	[Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 29.42
+	[Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 39.89
+	[AYN Thor Max](https://www.ayntec.com/products/ayn-thor?variant=46692546805952) 340.34
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
 	![[26480_LLIFE 1.avif]]
@@ -212,12 +213,19 @@ kanban-plugin: board
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
+- [ ] ![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
+	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
+	![[Pasted image 20251129003804.png]]
+	[DKO SSJ2 Recast](https://www.aliexpress.com/item/1005010443186345.html?) 18.19 or 29.69 with faces
+	(uses 2.0 peg)
 - [ ] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
 	63.88 total
+- [ ] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
+	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
@@ -292,8 +300,9 @@ kanban-plugin: board
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
+	kong studios b008 goku 69.32
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	312.24 total**
+	381.56 total**
 
 
 ## Wishlist Archives
@@ -308,6 +317,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
