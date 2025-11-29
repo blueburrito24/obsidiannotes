@@ -94,6 +94,8 @@ kanban-plugin: board
 	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
 	[Resident Evil 4](https://store.steampowered.com/app/254700/Resident_Evil_4_2005?snr=1_25_4__318) 15.98
 	[Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity?snr=1_25_4__318) 10.99
+	[Bloodstained: Ritual of the Night](https://www.loaded.com/bloodstained-ritual-of-the-night-steam-pc) 3.99
+	[Blade Chimera](https://store.steampowered.com/app/2671230/BLADECHIMERA/) 16.75
 	[Pseudoregalia](https://store.steampowered.com/app/2365810/Pseudoregalia?snr=1_25_4__318) 4.99
 	[NINJA Gaiden](https://store.steampowered.com/app/2542120/NINJA_GAIDEN_Ragebound?snr=1_25_4__318) 20.99
 	[Epic Mickey Rebrushed](https://www.loaded.com/disney-epic-mickey-rebrushed-pc-steam) 12.89
@@ -317,6 +319,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,false,true,false,false,true],"show-checkboxes":true}
 ```
 %%
