@@ -98,7 +98,6 @@ kanban-plugin: board
 	[Bloodstained: Ritual of the Night](https://www.loaded.com/bloodstained-ritual-of-the-night-steam-pc) 3.99
 	[Blade Chimera](https://store.steampowered.com/app/2671230/BLADECHIMERA/) 16.75
 	[Pseudoregalia](https://store.steampowered.com/app/2365810/Pseudoregalia?snr=1_25_4__318) 4.99
-	[NINJA Gaiden](https://store.steampowered.com/app/2542120/NINJA_GAIDEN_Ragebound?snr=1_25_4__318) 20.99
 	[Epic Mickey Rebrushed](https://www.loaded.com/disney-epic-mickey-rebrushed-pc-steam) 12.89
 	[Marvel's Spider-Man 2](https://www.loaded.com/marvel-s-spider-man-2-pc-steam-eu) 30.99
 	[Prototype](https://store.steampowered.com/app/10150/Prototype?snr=1_25_4__318) 14.99
@@ -219,7 +218,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251129003804.png]]
 	[DKO SSJ2 Recast](https://www.aliexpress.com/item/1005010443186345.html?) 18.19 or 29.69 with faces
 	(uses 2.0 peg)
-	![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
+- [ ] ![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
 	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
 - [ ] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
@@ -267,20 +266,6 @@ kanban-plugin: board
 	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
 - [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
 	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
-- [ ] ![[SnapInsta.to_564505924_18060270200624362_4798065483620606745_n.jpg | 200]]
-	Wind Toys Goku Custom 84.74:
-	- [Wind Toys 1/12 body](https://www.aliexpress.com/item/1005008035797271.html?) 27.06
-	- [Whis Gi](https://www.aliexpress.com/item/1005009782721805.html?) 19.09
-	- [TK CUSTOM MUI Goku headsculpt, needs face removed with nail polish wipes](https://www.aliexpress.com/item/1005009973688914.html?) 38.59
-- [ ] ![[Pasted image 20251111215024.png]]
-	![[S252d8c9ebd25487d8b8adc7d2b1a01e62.avif]]
-	Custom End Of Z SSJ3 Goku 77.06:
-	[ZD Studio SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484485804.html?) 28.79 (Gogeta Ver.)
-	[SH FIGUARTS Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005006826990115.html?) 14.69
-	[Cloth EoZ Gi](https://www.aliexpress.com/item/1005009782721805.html?) 18.79
-	Need to repaint shoes on figure to be black with white soles, alongside removing the whis gi symbol on the EoZ gi (it has it in some images).
-	Need to cut off the major damage detail on the legs so that the gif folds naturally.
-	Also need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the neck and torso for accurate height.
 
 
 ## Budget Projections
@@ -298,12 +283,11 @@ kanban-plugin: board
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
-	ninja gaiden 20.99
 	prototype 14.99
 	dbz kakarot 9.79
 	dbz kakarot season pass 7.99
 	shinobi art of vengeance 15.99
-	TOTAL 102.72
+	TOTAL 81.73
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
