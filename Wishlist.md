@@ -124,7 +124,7 @@ kanban-plugin: board
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
-- [ ] ![[Pasted image 20251025183656.png | 200]]
+- [x] ![[Pasted image 20251025183656.png | 200]]
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
@@ -244,10 +244,11 @@ kanban-plugin: board
 	kong adapter peg x2 14.66
 	vallejo yellow 2.95
 	bht majin vegeta 35.92
+	shf gamerverse spider-man 46.82
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	286.46 total**
+	333.28 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -280,6 +281,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,true],"show-checkboxes":true}
 ```
 %%
