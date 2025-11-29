@@ -244,11 +244,10 @@ kanban-plugin: board
 	kong adapter peg x2 14.66
 	vallejo yellow 2.95
 	bht majin vegeta 35.92
-	shf gamerverse spider-man 46.82
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	333.28 total**
+	286.46 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
