@@ -10,7 +10,7 @@ kanban-plugin: board
 	
 	887.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 453.31gbp (Second Term)
 	
-	926.28 \- 300 - 43 for Kalaam app \= 583.28gbp (Third Term)
+	926.28 \- 300 - 43 for Kalaam app annual \= 583.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 	See Wishlist Archives for stuff I've already bought.
@@ -90,7 +90,8 @@ kanban-plugin: board
 	[DBZ KAKAROT's Season Pass](https://www.loaded.com/dragon-ball-z-kakarot-season-pass-pc-dlc-steam) 7.99
 	[Replicube](https://store.steampowered.com/app/3401490/Replicube?snr=1_25_4__318) 8.50
 	[while True: learn()](https://store.steampowered.com/app/619150/while_True_learn?snr=1_25_4__318) 10.29
-	[SHINOBI: Art of Vengeance](https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance?snr=1_25_4__318) 24.99
+	[SHINOBI: Art of Vengeance](https://www.loaded.com/shinobi-art-of-vengeance-pc-steam-eu) 15.99
+	[PAC-MAN WORLD Re-Pac](https://www.loaded.com/pac-man-world-re-pac-pc-steam) 3.99
 	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
 	[Resident Evil 4](https://store.steampowered.com/app/254700/Resident_Evil_4_2005?snr=1_25_4__318) 15.98
 	[Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity?snr=1_25_4__318) 10.99
@@ -215,11 +216,11 @@ kanban-plugin: board
 	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
 	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
 	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
-- [ ] ![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
-	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
-	![[Pasted image 20251129003804.png]]
+- [ ] ![[Pasted image 20251129003804.png]]
 	[DKO SSJ2 Recast](https://www.aliexpress.com/item/1005010443186345.html?) 18.19 or 29.69 with faces
 	(uses 2.0 peg)
+	![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
+	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
 - [ ] ![[Pasted image 20251106034106.png]]
 	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[photo.jpg]]
@@ -284,19 +285,25 @@ kanban-plugin: board
 
 ## Budget Projections
 
-- [ ] *ideas of how I might go about buying these figures during term 2 and 3:*
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	bht gohan kitbash 63.88
 	kong studio goku + converter pegs 83.98
 	vallejo yellow 2.95
 	bht majin vegeta 35.92
-	mess toys venom 40
-	mess toys scarlet spider 30
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	341.48 total**
+	271.48 total**
+- [ ] pac-man world re-pac 3.99
+	pac-man world 2 re-pac 24.99
+	bloodstained 3.99
+	ninja gaiden 20.99
+	prototype 14.99
+	dbz kakarot 9.79
+	dbz kakarot season pass 7.99
+	shinobi art of vengeance 15.99
+	TOTAL 102.72
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
