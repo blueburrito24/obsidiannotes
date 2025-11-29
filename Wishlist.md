@@ -175,7 +175,7 @@ kanban-plugin: board
 	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) X2 with shipping, 14.66
 	[KONG B006 SSJ heads](https://www.ebay.co.uk/itm/365955590503?) 43.51
 	[KONG B006 Base heads](https://www.ebay.co.uk/itm/388485412679?) 40.79
-	*Note I need to recast the hairs in putty and paint them because only the translucent version is available
+	*Note I need to recast the base hairsculpt because it's transparent
 - [ ] ![[Pasted image 20251115045809.png]]
 	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
 - [ ] ![[Pasted image 20251107074516.png]]
