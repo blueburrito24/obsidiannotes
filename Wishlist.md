@@ -146,39 +146,6 @@ kanban-plugin: board
 	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
 	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
-- [ ] ![[Sde0b9ec6b745438590cb97bc107780a0q.avif]]
-	![[cyborg-spider-man-marvel-comics-v0-1pzuolxi3vdd1.jpg]]
-	[[Cyborg Spider-Man Custom details]] 56.16
-	Note that after the custom is done, I can still revert Spider-Man back to his classic look
-	I could also repaint a gun or two metallic silver.
-- [ ] ![[91SbUzKzvTL._UF1000,1000_QL80_.jpg]]
-	Custom Revoltech Spider-Man Noir 70.28:
-	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
-	[KO Revoltech Winter Soldier for bottom half](https://www.aliexpress.com/item/1005008861309613.html?) 20.87
-	[1/12 Soldier Fedora](https://www.aliexpress.com/item/1005008956833612.html?) 6.44
-	[1/12 Trenchcoat](https://www.aliexpress.com/item/1005005533248876.html?) 14.09
-	[1/12 Turtleneck](https://www.aliexpress.com/item/1005007940339404.html?) 6.19
-	Just need to dye the figure black then put on all the clothes. 
-	Recast the fahrul head from my Superior Spider-Man and shave down the lenses, sculpt rounded, goggle-like lenses and stick them onto the face. 
-	Paint black and paint the lenses white.
-	Use guns from gun set bought for Cyborg Spider-Man and the gun pouches from CT Agent Venom.
-- [ ] ![[2099_Spider-Man_(SD_-_EoT).webp]]
-	[[Revoltech Spider-Man 2099 Details]] 52.93
-	Note that it's heavily inspired by his look in Shattered Dimensions/Edge of Time.
-- [ ] ![[NegaZone.png]]
-	![[Pasted image 20251117115052.png]]
-	![[{661D80FC-E46B-4317-BBDF-F6D21999D406}.png]]
-	![[Pasted image 20251117122534.png]]
-	![[{220C089C-58D9-40D7-BE33-3AD940AF0AC1}.png]]
-	Custom Revoltech Negative Zone Spider-Man 52.11:
-	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
-	[Rit Synthetic Black Dye](https://amzn.eu/d/6a2NC0W) 8.27
-	[8mmB J (White) Revoltech elbow joint x2 for arms](https://www.aliexpress.com/item/1005005324042088.html?) 8.60
-	[Sandpaper](https://amzn.eu/d/gEy2pxt) 3.95
-	I need to sand off the original spider logos, then sculpt my own based on the Romita JR spider symbols seen above.
-	Then I want to recast my Superior Spider-Man's fahrul headsculpt - to smooth it off and remove the eyes so I can sculpt Romita JR style lenses, from there I just need to dye the figure black and replace the elbow joints with white ones while I paint the arms, legs and body areas white.
-	Match the way the red and blue is spread on the regular 2.0 Spider-Man.
-	Also paint the web accessories blue.
 - [ ] ![[Pasted image 20251025205107.png | 200]]
 	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
 - [x] ![[000000001352-01-xl.jpg]]
@@ -247,12 +214,8 @@ kanban-plugin: board
 	Should recast hair for base form
 - [x] ![[s-l1600.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 35.92
-- [ ] ![[photo 1.jpg]]
-	[SH FIGUARTS Daima Vegeta](https://www.aliexpress.com/item/1005008282488093.html?) 31.29
 - [ ] ![[Pasted image 20251108191749.png]]
-	![[s-l1600.jpg]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 61.79
-	[Cloth jacket](https://www.ebay.co.uk/itm/127455301525?) 30.04
 - [ ] ![[Pasted image 20251111012821.png]]
 	MP Studio Vegito (No info yet)
 - [x] ![[Pasted image 20251106034752.png]]
@@ -315,6 +278,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,true,true,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,true],"show-checkboxes":true}
 ```
 %%
