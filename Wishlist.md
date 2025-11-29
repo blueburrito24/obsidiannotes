@@ -93,6 +93,7 @@ kanban-plugin: board
 	[SHINOBI: Art of Vengeance](https://www.loaded.com/shinobi-art-of-vengeance-pc-steam-eu) 15.99
 	[PAC-MAN WORLD Re-Pac](https://www.loaded.com/pac-man-world-re-pac-pc-steam) 3.99
 	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
+	[Celeste](https://www.loaded.com/celeste-pc-steam) 4.49
 	[Resident Evil 4](https://store.steampowered.com/app/254700/Resident_Evil_4_2005?snr=1_25_4__318) 15.98
 	[Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity?snr=1_25_4__318) 10.99
 	[Bloodstained: Ritual of the Night](https://www.loaded.com/bloodstained-ritual-of-the-night-steam-pc) 3.99
@@ -287,7 +288,8 @@ kanban-plugin: board
 	dbz kakarot 9.79
 	dbz kakarot season pass 7.99
 	shinobi art of vengeance 15.99
-	TOTAL 81.73
+	celeste
+	TOTAL 86.22
 - [ ] **shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
