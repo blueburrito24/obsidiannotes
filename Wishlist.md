@@ -30,6 +30,7 @@ kanban-plugin: board
 	[Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 	[Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 39.89
 	[AYN Thor Max](https://www.ayntec.com/products/ayn-thor?variant=46692546805952) 340.34
+	[Dock for AYN Thor](https://youtu.be/8lS7hnQ2I2A?si=pQMiq2THlFmpN08s&t=603) 37.99
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
 	![[26480_LLIFE 1.avif]]
@@ -258,28 +259,21 @@ kanban-plugin: board
 	celeste 4.49
 	streets of rage 4 mobile 7.49
 	TOTAL 93.71
-- [ ] **shf dangerous pride vegeta 20.52
+- [ ] **shf gamerverse spider-man 46.82
+	shf dangerous pride vegeta 20.52
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
 	kong studios b008 goku 69.32
 	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	381.56 total**
-
-
-## Wishlist Archives
-
-- [x] ![[Pasted image 20251017144512.png]] 
-	Kaiyodo Amazing Yamaguchi Iron Spider
-- [x] ![[12in Black Suit Spidey.jpg]]
-	[Marvel Legends 12-inch Black Suit Spider-Man](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m32096359382) 64.62
+	428.38 total**
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,true,false],"show-checkboxes":true}
 ```
 %%
