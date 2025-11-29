@@ -125,9 +125,9 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
-- [x] ![[MESS TOYS Scarlet Spider.png| 200]]
+- [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
 	MESS TOYS Scarlet Spider 30
-- [x] ![[Pasted image 20251102040713.png | 200]]
+- [ ] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
 - [ ] ![[Pasted image 20251101200128.png | 200]]
