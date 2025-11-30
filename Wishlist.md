@@ -29,8 +29,13 @@ kanban-plugin: board
 	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
 	[Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 	[Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 39.89
+	
 	[AYN Thor Max](https://www.ayntec.com/products/ayn-thor?variant=46692546805952) 340.34
-	[Dock for AYN Thor](https://youtu.be/8lS7hnQ2I2A?si=pQMiq2THlFmpN08s&t=603) 37.99
+	[Dock for AYN Thor](https://amzn.eu/d/2H5HfDl) 29.49
+	[AYN Thor Black Vinyl Protector](https://www.etsy.com/uk/listing/4405013719) 20.85
+	[AYN Thor PSX buttons](https://www.etsy.com/uk/listing/4401376432) 35.11
+	[Tutorial for installing AYN Thor parts](https://www.youtube.com/watch?v=fuoA3l9gH0Y)
+	![[Pasted image 20251129191715.png]]
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
 	![[26480_LLIFE 1.avif]]
@@ -134,26 +139,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
-- [ ] ![[Pasted image 20251101200128.png | 200]]
-	![[v71.webp]]
-	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005008114383112.html?) 34.29
-	[V71 Comic headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 15usd
-- [ ] ![[Pasted image 20251112233400.png]]
-	[MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151420341.html?) 31.29
-	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
-	![[{488E2007-1BF2-49DF-92E4-424E88BF2334}.png]]
-	[V55 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v55) 15usd
-- [ ] ![[{BDFB212A-77C4-4FE2-B05D-B1877DAA3B4F}.png]]
-	![[{E9434399-B5D1-4402-8776-17D20C17D3CA}.png]]
-	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 22.69
-	[V64 McFarlane headsculpt](https://fahrulstore35.bigcartel.com/product/v46) 15usd
-- [ ] ![[Pasted image 20251025205107.png | 200]]
-	[Kaiyodo Amazing Yamaguchi Agent Venom](https://www.nin-nin-game.com/en/revoltech/137765-amazing-yamaguchi-revoltech-spider-man-agent-venom-reissue-kaiyodo-.html) 59.54 OR [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005008599736758.html?) 24.19
-- [x] ![[000000001352-01-xl.jpg]]
-	[Kaiyodo Amazing Yamaguchi Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/203583-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-limited-bonus-kaiyodo-.html) 66.28
-- [ ] ![[Pasted image 20251120172100.png]]
-	![[Pasted image 20251021152552.png | 215]]
-	[Kaiyodo Amazing Yamaguchi Deadpool 2.5](https://www.nin-nin-game.com/en/marvel-dc-comics/131792-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-kaiyodo-.html) 44.46 (Needs crotchpiece fixed, also throw out emotive faceplates)
 - [ ] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
@@ -199,6 +184,9 @@ kanban-plugin: board
 	63.88 total
 - [x] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
 	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
+- [ ] ![[photo.webp]]
+	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
+	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
 	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
@@ -266,14 +254,13 @@ kanban-plugin: board
 	air studio trunks headsculpt 40.02
 	zt broly 104.19
 	kong studios b008 goku 69.32
-	revoltech symbiote spider-man 66.28 (preorder secured with bonus)
-	428.38 total**
+	362.10 total**
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,true,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false],"show-checkboxes":true}
 ```
 %%
