@@ -184,7 +184,8 @@ kanban-plugin: board
 	63.88 total
 - [x] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
 	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
-- [ ] ![[photo.webp]]
+- [ ] ![[s-l1600 1.png]]
+	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
@@ -206,7 +207,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251108191749.png]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 61.79
 - [ ] ![[Pasted image 20251111012821.png]]
-	MP Studio Vegito (No info yet)
+	MP Studio Vegito 50~
 - [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
