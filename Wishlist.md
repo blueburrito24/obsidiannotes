@@ -185,8 +185,10 @@ kanban-plugin: board
 - [x] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
 	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
 - [ ] ![[s-l1600 1.png]]
+	![[Pasted image 20251130194140.png]]
 	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
+	[WOW Studio! Kaioken Goku and Vegeta headsculpts](https://www.aliexpress.com/item/1005009225606623.html?) 26.80
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
 - [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
 	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
