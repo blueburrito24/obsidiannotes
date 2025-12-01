@@ -124,7 +124,7 @@ kanban-plugin: board
 	Metroid Prime PC Fork
 
 
-## Marvel/General Figure Wishlist
+## General Figure Wishlist
 
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -144,6 +144,10 @@ kanban-plugin: board
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
+- [ ] ![[Pasted image 20251201192442.png]]
+	[MAFEX TDKR Superman](https://www.nin-nin-game.com/en/mafex/178301-mafex-no161-superman-the-dark-knight-returns-ver-reissue-medicom-toy-.html) 43.93
+- [ ] ![[mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.jpg]]
+	[MAFEX TDKR Triumphant Batman](https://www.nin-nin-game.com/en/mafex/205134-mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.html) 35.47
 - [x] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 - [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga
@@ -214,7 +218,7 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
-	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100
+	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
 - [ ] ![[Pasted image 20251111064023.png]]
 	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
 - [ ] ![[Pasted image 20251106193013.png]]
@@ -266,6 +270,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,true,false],"show-checkboxes":true}
 ```
 %%
