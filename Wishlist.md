@@ -214,6 +214,7 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
+	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100
 - [ ] ![[Pasted image 20251111064023.png]]
 	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
 - [ ] ![[Pasted image 20251106193013.png]]
