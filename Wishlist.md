@@ -232,11 +232,11 @@ kanban-plugin: board
 - [ ] **recasting kit 24.07
 	shf games begin goku 27.99
 	bht gohan kitbash 63.88
+	bht majin vegeta 35.92
 	kong b006 ssj goku heads 43.51
 	kong b006 base heads 40.79
 	kong adapter peg x2 14.66
 	vallejo yellow 2.95
-	bht majin vegeta 35.92
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
@@ -253,10 +253,10 @@ kanban-plugin: board
 	TOTAL 93.71
 - [ ] **shf gamerverse spider-man 46.82
 	shf dangerous pride vegeta 20.52
+	zt broly 104.19
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 40.02
-	zt broly 104.19
 	kong studios b008 goku 69.32
 	362.10 total**
 
