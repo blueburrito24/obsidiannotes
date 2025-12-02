@@ -13,7 +13,6 @@ kanban-plugin: board
 	926.28 \- 300 - 43 for Kalaam app annual \= 583.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
-	See Wishlist Archives for stuff I've already bought.
 
 
 ## General Wishlist
@@ -163,7 +162,7 @@ kanban-plugin: board
 	[KONG B006 SSJ heads](https://www.ebay.co.uk/itm/365955590503?) 43.51
 	[KONG B006 Base heads](https://www.ebay.co.uk/itm/388485412679?) 40.79
 	[Alternate link that has both sets of heads](https://www.ebay.co.uk/itm/126975696224?) 97
-- [ ] ![[s-l1600 1.png]]
+- [x] ![[s-l1600 1.png]]
 	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
@@ -200,12 +199,13 @@ kanban-plugin: board
 	kong b006 ssj and base heads set 97
 	kong adapter peg 8.69
 	bht majin vegeta 35.92
+	wow studio goku and vegeta 100~
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	209.27 total**
+	309.27 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
