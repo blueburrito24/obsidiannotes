@@ -159,39 +159,20 @@ kanban-plugin: board
 	Need to do [this mod](https://youtube.com/shorts/3evpgYfvAps?si=sY3AQcDglNF91z8h) for a cleaner sleeve look
 - [x] ![[Pasted image 20251128031116.png]]
 	![[{F3BB59D8-1018-491C-A9AF-912E3C47E982}.png]]
-	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) X2 with shipping, 14.66
+	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) with shipping, 8.69
 	[KONG B006 SSJ heads](https://www.ebay.co.uk/itm/365955590503?) 43.51
 	[KONG B006 Base heads](https://www.ebay.co.uk/itm/388485412679?) 40.79
-	*Note I need to recast the base hairsculpt because it's transparent
-- [ ] ![[Pasted image 20251115045809.png]]
-	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
-- [ ] ![[Pasted image 20251107074516.png]]
-	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
-	or
-	![[Pasted image 20251106034605.png]]
-	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
-	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
-	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
-- [ ] ![[Pasted image 20251129003804.png]]
-	[DKO SSJ2 Recast](https://www.aliexpress.com/item/1005010443186345.html?) 18.19 or 29.69 with faces
-	(uses 2.0 peg)
-- [ ] ![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
-	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
-- [x] ![[photo.jpg]]
+	[Alternate link that has both sets of heads](https://www.ebay.co.uk/itm/126975696224?) 97
+- [ ] ![[s-l1600 1.png]]
+	![[photo.webp]]
+	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
+	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
+- [ ] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
 	63.88 total
 - [x] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
 	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
-- [ ] ![[s-l1600 1.png]]
-	![[Pasted image 20251130194140.png]]
-	![[photo.webp]]
-	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
-	[WOW Studio! Kaioken Goku and Vegeta headsculpts](https://www.aliexpress.com/item/1005009225606623.html?) 26.80
-	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
-- [x] ![[Pasted image 20251111211154.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
-	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
 	![[Pasted image 20251116145505.png]]
 	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 40.61
@@ -206,34 +187,25 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251111012821.png]]
 	![[{21EAC00B-3EAF-4B88-97FF-A5D2E0A30B36}.png]]
 	MP Studio Vegito 50~
-- [x] ![[Pasted image 20251106034752.png]]
-	![[Pasted image 20251110134110.png]]
-	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
-	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
 	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
 	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
-- [ ] ![[sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.jpg]]
-	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
-- [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
-	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
 
 
 ## Budget Projections
 
-- [ ] **recasting kit 24.07
-	shf games begin goku 27.99
-	bht gohan kitbash 63.88
+- [ ] **shf games begin goku 27.99
+	kong b006 ssj and base heads set 97
+	kong adapter peg 8.69
 	bht majin vegeta 35.92
-	kong b006 ssj goku heads 43.51
-	kong b006 base heads 40.79
-	kong adapter peg x2 14.66
+	cotton buds 3.99
+	99% isopropyl alcohol 2.99
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	283.51 total**
+	209.27 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -247,18 +219,44 @@ kanban-plugin: board
 - [ ] **shf gamerverse spider-man 46.82
 	mafex tdkr superman 43.93
 	shf dangerous pride vegeta 20.52
-	zt broly 104.19
-	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 32.79
 	kong studios b008 goku 69.32
-	398.73 total**
+	253.99 total**
 
 
+***
 
+## Archive
+
+- [x] ![[Pasted image 20251106034752.png]]
+	![[Pasted image 20251110134110.png]]
+	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
+	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
+- [ ] ![[Pasted image 20251111211154.png]]
+	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
+	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
+- [ ] ![[Pasted image 20251115045809.png]]
+	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
+- [ ] ![[Pasted image 20251107074516.png]]
+	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
+	or
+	![[Pasted image 20251106034605.png]]
+	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
+	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
+	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
+- [ ] ![[Pasted image 20251129003804.png]]
+	[DKO SSJ2 Recast](https://www.aliexpress.com/item/1005010443186345.html?) 18.19 or 29.69 with faces
+	(uses 2.0 peg)
+- [ ] ![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
+	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
+- [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
+	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
+- [ ] ![[sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.jpg]]
+	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
 ```
 %%
