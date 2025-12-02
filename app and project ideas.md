@@ -46,3 +46,9 @@ Tetris but you control the blocks with your mouse-
 you move around with the mouse, you right click to rotate, you left click to place 
 you can place the blocks at any point on the screen, you can draw with the blocks 
 blocks disappear when you connect to many, so you have to draw carefully, if you use too much space then the game ends like normal Tetris
+
+tetris in java, tetris in python
+tetris as an android app (jetpack compose)
+
+tetris x snake
+you place blocks to make a path to the apple. there is no ground so you go up and down endlessly til you make a decision. kotlin multiplatform

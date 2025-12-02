@@ -48,5 +48,7 @@ It's important to remember that even if we don't have answers to everything does
 4. Flee from temptation - 'Wastabaqa al-bab'
 5. Cling firmly to Allah
 6. Persist in du'a with ilhah (desperation)
-Yusuf AS was met with the minister's wife in isolation, in which temptation was high, and he resisted it. There is no friendship between the opposite genders.
+Yusuf AS was met with the minister's wife in isolation, in which temptation was high, and he resisted it. 
+There is no friendship between the opposite genders.
 ![[{C93DBB3A-0F99-43BB-BC15-62EE817B344F}.png]]
+This is just one example, but there are many trials in life where we need to recognise temptation and steer away from it.
