@@ -58,3 +58,6 @@ This is just one example, but there are many trials in life where we need to rec
 "Seven fat cows eaten by seven lean cows; seven green stalks followed by seven dry ones."
 Yusuf AS interpreted it as seven years of plenty followed by seven years of famine - teaching foresight and planning.
 Many times we focus on what is happening short-term, what are we "losing", but we do not consider what could be in store in the long-term. The minister focused on the dream, desperately searching for interpretation. When Yusuf AS gave it to him, the minister was given this lesson of foresight and planning which saved Egypt and its nations.
+
+A reminder.
+![[{B4B32708-9A5D-4A89-9E86-49F18CBD1F3C}.png]]
