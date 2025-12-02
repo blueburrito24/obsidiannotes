@@ -13,6 +13,22 @@ kanban-plugin: board
 	926.28 \- 300 - 43 for Kalaam app annual \= 583.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
+- [ ] ## Removing eyes from DBZ figures
+	- [Cotton buds](https://www.amazon.co.uk/dp/B07BMP84J5?) 3.99
+	- [99% Isopropyl Alcohol](https://www.amazon.co.uk/dp/B0B6D3GJH7?th=1) 2.99
+	
+	Mix 1 part isopropyl alcohol and 2 parts water for 30% strength, then dip the cotton swab lightly and roll it on the eye decal of the figure. 
+	Immediately after, wipe the faceplate with a damp tissue.
+- [ ] ## Recasting figure parts
+	- [Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
+	- [Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
+	- [Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
+	- [Also can get epoxy putty in black](https://amzn.eu/d/b2Epf4w) 6.18
+	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
+	- [Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
+	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
+	
+	total 17.89 bc I already have the epoxy putty
 
 
 ## General Wishlist
@@ -38,55 +54,6 @@ kanban-plugin: board
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
 	![[26480_LLIFE 1.avif]]
-- [ ] figure stuff that isn't explicitly figures
-	[Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
-	[Display stand for 1/12 figures](https://www.aliexpress.com/item/1005008564504383.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.49e0t3QNt3QNY9&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=5f05b2c3-013d-447d-bdf3-2bf0f6c05957&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:5f05b2c3-013d-447d-bdf3-2bf0f6c05957,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22977%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21GBP%212.69%212.42%21%21%213.48%213.13%21%4021039a5b17614240681107134e2f48%2112000045737340511%21rec%21UK%212834634728%21XZ%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895%3BpisId%3A5000000191192759&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008564504383%7C_p_origin_prod%3A) 2.69
-	[1/12 Figure stands (small)](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
-	[Jet duster](https://amzn.eu/d/jiffMLM) 62.99
-	[3D Printer](https://www.aliexpress.com/item/1005008273141070.html?) 50~
-	[61.5x83x61.5cm cardboard box](https://www.bigyellow.co.uk/boxshop/products/extra-large-cardboard-box) 5.53
-	[30 Gauge Floral Wire](https://cdn.discordapp.com/attachments/1427163774359568455/1441381556647100466/caption.gif?ex=692196ae&is=6920452e&hm=04d46216ad4870826c5488735700365be4923afc92aec6480bf3cdb61767fdf6&) 2.69, use for adding detail to web construct accessories
-	[Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
-	![[Pasted image 20251120172437.png]]
-	[Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
-	![[Pasted image 20251120172505.png]]
-	[Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
-	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
-	[Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
-	![[Pasted image 20251120172714.png]]
-	![[Pasted image 20251120172728.png]]
-	[Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
-	![[Aa1194ca9abec427db8372f6d701bf1dfI.jpg_960x960q75.jpg_.avif]]
-	[Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
-	![[Pasted image 20251120172809.png]]
-	![[Pasted image 20251120172818.png]]
-	[DBZ Auras](https://www.aliexpress.com/item/1005006503681477.html?) 6.31
-	![[Pasted image 20251128042338.png]]
-	[DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
-	![[Pasted image 20251120172831.png]]
-	![[Pasted image 20251120172844.png]]
-	[KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
-	![[Pasted image 20251120172859.png]]
-	[Silicone Shock Oil for loosening up figures](https://www.amazon.co.uk/dp/B08N1MT4B5/?) 3.99
-	[Plastic containers for loose figure accessories](https://www.amazon.co.uk/dp/B09J2QWHC2?) 13.72
-	![[Pasted image 20251106212235.png]]
-	[MARVEL LEGENDS Pizza Spidey bootleg, comes with Peter B clothes](https://www.aliexpress.com/item/1005003312494959.html?) 24.49
-- [ ] ## Removing eyes from DBZ figures
-	- [Cotton buds](https://www.amazon.co.uk/dp/B07BMP84J5?) 3.99
-	- [99% Isopropyl Alcohol](https://www.amazon.co.uk/dp/B0B6D3GJH7?th=1) 2.99
-	
-	Mix 1 part isopropyl alcohol and 2 parts water for 30% strength, then dip the cotton swab lightly and roll it on the eye decal of the figure. 
-	Immediately after, wipe the faceplate with a damp tissue.
-- [ ] ## Recasting figure parts
-	- [Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
-	- [Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
-	- [Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
-	- [Also can get epoxy putty in black](https://amzn.eu/d/b2Epf4w) 6.18
-	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
-	- [Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
-	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
-	
-	total 17.89 bc I already have the epoxy putty
 
 
 ## Game Wishlist
@@ -121,6 +88,41 @@ kanban-plugin: board
 	Sonic Boll
 	Marvel: SNAP! on mobile
 	Metroid Prime PC Fork
+
+
+## Accessory Wishlist
+
+- [ ] [Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
+	![[Pasted image 20251120172437.png]]
+- [ ] [Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
+	![[Pasted image 20251120172505.png]]
+- [ ] [Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
+	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
+- [ ] [Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
+	![[Pasted image 20251120172714.png]]
+	![[Pasted image 20251120172728.png]]
+- [ ] [Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
+	![[Aa1194ca9abec427db8372f6d701bf1dfI.jpg_960x960q75.jpg_.avif]]
+- [ ] [Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
+	![[Pasted image 20251120172809.png]]
+	![[Pasted image 20251120172818.png]]
+- [ ] [DBZ Auras](https://www.aliexpress.com/item/1005006503681477.html?) 6.31
+	![[Pasted image 20251128042338.png]]
+- [ ] [DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+	![[Pasted image 20251120172831.png]]
+	![[Pasted image 20251120172844.png]]
+- [ ] [KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
+	![[Pasted image 20251120172859.png]]
+- [ ] figure stuff that isn't explicitly figures
+	[Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
+	[Display stand for 1/12 figures](https://www.aliexpress.com/item/1005008564504383.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.49e0t3QNt3QNY9&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=5f05b2c3-013d-447d-bdf3-2bf0f6c05957&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:5f05b2c3-013d-447d-bdf3-2bf0f6c05957,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22977%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21GBP%212.69%212.42%21%21%213.48%213.13%21%4021039a5b17614240681107134e2f48%2112000045737340511%21rec%21UK%212834634728%21XZ%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895%3BpisId%3A5000000191192759&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008564504383%7C_p_origin_prod%3A) 2.69
+	[1/12 Figure stands (small)](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
+	[Jet duster](https://amzn.eu/d/jiffMLM) 62.99
+	[3D Printer](https://www.aliexpress.com/item/1005008273141070.html?) 50~
+	[61.5x83x61.5cm cardboard box](https://www.bigyellow.co.uk/boxshop/products/extra-large-cardboard-box) 5.53
+	[30 Gauge Floral Wire](https://cdn.discordapp.com/attachments/1427163774359568455/1441381556647100466/caption.gif?ex=692196ae&is=6920452e&hm=04d46216ad4870826c5488735700365be4923afc92aec6480bf3cdb61767fdf6&) 2.69, use for adding detail to web construct accessories
+	[Silicone Shock Oil for loosening up figures](https://www.amazon.co.uk/dp/B08N1MT4B5/?) 3.99
+	[Plastic containers for loose figure accessories](https://www.amazon.co.uk/dp/B09J2QWHC2?) 13.72
 
 
 ## General Figure Wishlist
@@ -178,7 +180,6 @@ kanban-plugin: board
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005009946066613.html?) 32.79
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
-	Should recast hair for base form
 - [x] ![[s-l1600.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 35.92
 - [ ] ![[Pasted image 20251108191749.png]]
@@ -188,9 +189,10 @@ kanban-plugin: board
 	MP Studio Vegito 50~
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
-- [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
-	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
-	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
+- [ ] ![[Pasted image 20251106034752.png]]
+	![[Pasted image 20251110134110.png]]
+	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
+	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
 
 
 ## Budget Projections
@@ -230,10 +232,6 @@ kanban-plugin: board
 
 ## Archive
 
-- [x] ![[Pasted image 20251106034752.png]]
-	![[Pasted image 20251110134110.png]]
-	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
-	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
 - [ ] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
@@ -255,9 +253,12 @@ kanban-plugin: board
 	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
 - [ ] ![[sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.jpg]]
 	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://www.nin-nin-game.com/en/dragon-ball/50582-sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.html) 52.08
+- [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
+	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
+	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,true],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,false,false],"show-checkboxes":true}
 ```
 %%
