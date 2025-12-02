@@ -144,15 +144,12 @@ kanban-plugin: board
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
-- [ ] ![[Pasted image 20251201192442.png]]
+- [x] ![[Pasted image 20251201192442.png]]
 	[MAFEX TDKR Superman](https://www.nin-nin-game.com/en/mafex/178301-mafex-no161-superman-the-dark-knight-returns-ver-reissue-medicom-toy-.html) 43.93
 - [ ] ![[mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.jpg]]
 	[MAFEX TDKR Triumphant Batman](https://www.nin-nin-game.com/en/mafex/205134-mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.html) 35.47
 - [x] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
-- [ ] Marvel Legends The Batman! Based on his suit in the Court of Owls Saga
-	See [[Custom ML Batman Instructions]]
-	100.21
 
 
 ## Dragon Ball Figure Wishlist
@@ -180,8 +177,6 @@ kanban-plugin: board
 	(uses 2.0 peg)
 - [ ] ![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
 	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
-- [ ] ![[Pasted image 20251106034106.png]]
-	[TONSENARTTOYS Rider Goku](https://www.aliexpress.com/item/1005009069476561.html?) 64.99
 - [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
@@ -194,17 +189,13 @@ kanban-plugin: board
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
 	[WOW Studio! Kaioken Goku and Vegeta headsculpts](https://www.aliexpress.com/item/1005009225606623.html?) 26.80
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
-- [ ] ![[shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.jpg]]
-	![[A58c0e576de414860b8b27b344b8bcf189.jpg_960x960q75.jpg_.avif]]
-	[SH FIGUARTS Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 35.91
-	[Hot SSJ2 Headsculpts](https://www.aliexpress.com/item/1005008089006003.html?) 20.39
 - [x] ![[Pasted image 20251111211154.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
 	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
 	![[Pasted image 20251116145505.png]]
 	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 40.61
-	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005008458818430.html?) 40.02
+	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005009946066613.html?) 32.79
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
 	Should recast hair for base form
@@ -219,8 +210,6 @@ kanban-plugin: board
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
 	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
-- [ ] ![[Pasted image 20251111064023.png]]
-	[SH FIGUARTS Turles](https://www.ebay.co.uk/itm/357774335679?) 101.97
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
@@ -257,19 +246,20 @@ kanban-plugin: board
 	streets of rage 4 mobile 7.49
 	TOTAL 93.71
 - [ ] **shf gamerverse spider-man 46.82
+	mafex tdkr superman 43.93
 	shf dangerous pride vegeta 20.52
 	zt broly 104.19
 	shf pn piccolo 40.61
 	shf tbftf trunks 40.61
-	air studio trunks headsculpt 40.02
+	air studio trunks headsculpt 32.79
 	kong studios b008 goku 69.32
-	362.10 total**
+	398.73 total**
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,true,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false],"show-checkboxes":true}
 ```
 %%
