@@ -41,4 +41,12 @@ These two names of Allah are crucial to our survival. Whether we can make sense 
 
 Many people look at Gaza currently, of course we see demise and destruction. Many ask why it is still going. But there is good in it also, many have witnessed this destruction and found Islam in it. People are identifying with Gaza and it is shocking the politics of America. Across Europe, since the 7th Oct, conversions to Islam have increased by 400% (according to Global Eye News).
 It's important to remember that even if we don't have answers to everything doesn't mean there is no answer or solution.
-## 2.
+## 2. Protection from Temptation
+1. Immediate refuge in Allah - 'Qala Ma'adh Allah'
+2. Recognizing sin's injustice
+3. Sincerity purifies the heart
+4. Flee from temptation - 'Wastabaqa al-bab'
+5. Cling firmly to Allah
+6. Persist in du'a with ilhah (desperation)
+Yusuf AS was met with the minister's wife in isolation, in which temptation was high, and he resisted it. There is no friendship between the opposite genders.
+![[{C93DBB3A-0F99-43BB-BC15-62EE817B344F}.png]]
