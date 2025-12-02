@@ -166,7 +166,7 @@ kanban-plugin: board
 	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
-- [ ] ![[photo.jpg]]
+- [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
 	63.88 total
@@ -197,7 +197,8 @@ kanban-plugin: board
 
 - [ ] **shf games begin goku 27.99
 	kong b006 ssj and base heads set 97
-	kong adapter peg 8.69
+	kong adapter pegs 14.66
+	bht/shf gohan kitbash 63.88
 	bht majin vegeta 35.92
 	wow studio goku and vegeta 100~
 	cotton buds 3.99
@@ -205,7 +206,7 @@ kanban-plugin: board
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	309.27 total**
+	379.12 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
