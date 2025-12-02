@@ -43,12 +43,18 @@ Many people look at Gaza currently, of course we see demise and destruction. Man
 It's important to remember that even if we don't have answers to everything doesn't mean there is no answer or solution.
 ## 2. Protection from Temptation
 1. Immediate refuge in Allah - 'Qala Ma'adh Allah'
-2. Recognizing sin's injustice
-3. Sincerity purifies the heart
+2. Recognizing sin's injustice. We have to remember how much blessing and fortune Allah gives us! Count every blessing! How can we do injustice when presented with such blessing?
+3. Sincerity purifies the heart. "You can't love something you don't know" -> said from Abu Taymiyyah during the lecture. The more you know about someone or something, the more you can appreciate and love it. In the same way, we can't truly love and fear Allah if we don't know Him. E.g., salah is often like a burden or routine for many, but we can find love and solace in it if we know it well. Consider, what do these attributes of Allah mean?
 4. Flee from temptation - 'Wastabaqa al-bab'
 5. Cling firmly to Allah
-6. Persist in du'a with ilhah (desperation)
+6. Persist in du'a with ilhah (desperation). Below is Yusuf AS' dua to Allah, that he made in this scenario. Sins can affect our ability to learn and our ability to strive financially. 
+![[{F22BC47C-B953-48E4-9ADF-94FD7077DE48}.png]]
 Yusuf AS was met with the minister's wife in isolation, in which temptation was high, and he resisted it. 
 There is no friendship between the opposite genders.
 ![[{C93DBB3A-0F99-43BB-BC15-62EE817B344F}.png]]
 This is just one example, but there are many trials in life where we need to recognise temptation and steer away from it.
+
+## 3. The King's Dream
+"Seven fat cows eaten by seven lean cows; seven green stalks followed by seven dry ones."
+Yusuf AS interpreted it as seven years of plenty followed by seven years of famine - teaching foresight and planning.
+Many times we focus on what is happening short-term, what are we "losing", but we do not consider what could be in store in the long-term. The minister focused on the dream, desperately searching for interpretation. When Yusuf AS gave it to him, the minister was given this lesson of foresight and planning which saved Egypt and its nations.
