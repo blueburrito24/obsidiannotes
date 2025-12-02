@@ -230,11 +230,10 @@ kanban-plugin: board
 	kong b006 ssj goku heads 43.51
 	kong b006 base heads 40.79
 	kong adapter peg x2 14.66
-	vallejo yellow 2.95
 	white wind effects 10.79
 	tripod 7.89
 	portable light 14.01
-	286.46 total**
+	283.51 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -260,6 +259,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false],"show-checkboxes":true}
 ```
 %%
