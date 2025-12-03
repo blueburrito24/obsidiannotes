@@ -149,7 +149,18 @@ kanban-plugin: board
 	[MAFEX TDKR Superman](https://www.nin-nin-game.com/en/mafex/178301-mafex-no161-superman-the-dark-knight-returns-ver-reissue-medicom-toy-.html) 43.93
 - [ ] ![[mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.jpg]]
 	[MAFEX TDKR Triumphant Batman](https://www.nin-nin-game.com/en/mafex/205134-mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.html) 35.47
-- [x] ![[Pasted image 20251110014902.png]]
+- [x] ![[Pasted image 20251203003507.png]]
+	![[s-l1200.jpg]]
+	[MAFEX Knight Crusader Batman](https://www.hlj.com/mafex-knight-crusader-batman-medmafex-215) 56.84
+	[Assorted sandpaper](https://www.amazon.co.uk/dp/B0B5LJFF1T?) 3.95
+	[Two-toned custom cape](https://www.ebay.co.uk/itm/156393560492) 35.41
+	TOTAL 96.20
+	I want to do this [cape mod](https://www.youtube.com/watch?v=E1ahFxwpsEo) and do a bit of cel-shading on the heads and crotchpiece like [so](https://www.youtube.com/watch?v=8HpBwjSWsyM)
+	I will sand off the mouths and paint the area black like the forehead.
+	Should paint the scuba head more black than blue like the above image.
+	The custom cape will just go on top of the torso with no cover-piece.
+	*I already have black paint
+- [ ] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 
 
@@ -221,11 +232,12 @@ kanban-plugin: board
 	TOTAL 93.71
 - [ ] **shf gamerverse spider-man 46.82
 	mafex tdkr superman 43.93
+	mafex knight crusader batman custom 96.20
 	shf dangerous pride vegeta 20.52
 	shf tbftf trunks 40.61
 	air studio trunks headsculpt 32.79
 	kong studios b008 goku 69.32
-	253.99 total**
+	350.19 total**
 
 
 ***
@@ -259,6 +271,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,true,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,true,false],"show-checkboxes":true}
 ```
 %%
