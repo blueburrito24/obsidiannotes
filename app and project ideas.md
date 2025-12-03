@@ -49,6 +49,7 @@ blocks disappear when you connect to many, so you have to draw carefully, if you
 
 tetris in java, tetris in python
 tetris as an android app (jetpack compose)
+tetris as a html/css/js website
 
 tetris x snake
 you place blocks to make a path to the apple. there is no ground so you go up and down endlessly til you make a decision. kotlin multiplatform

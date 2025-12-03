@@ -158,7 +158,7 @@ kanban-plugin: board
 	I want to do this [cape mod](https://www.youtube.com/watch?v=E1ahFxwpsEo) and do a bit of cel-shading on the heads and crotchpiece like [so](https://www.youtube.com/watch?v=8HpBwjSWsyM)
 	I will sand off the mouths and paint the area black like the forehead.
 	Should paint the scuba head more black than blue like the above image.
-	The custom cape will just go on top of the torso with no cover-piece.
+	The custom cape will just go on top of the torso with the capeless neck piece.
 	*I already have black paint
 - [ ] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd

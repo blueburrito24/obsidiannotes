@@ -1,12 +1,7 @@
 call nhs about the braces waiting list
 01214344910
 
-i have an advanced gum disease, need to use toothbrush x2 a day with miswak on top
-Need to floss teeth
-Need to buy inter-dental brush
-Use both x2 a day
-
-11.15 Wednesday 18th February 2026 with Mubeen Petkar
+work on dsa weeks 4-10 and take breaks to work on tetris java
 
 buy ts 20 quid bookbag https://amzn.eu/d/d55dyvi
 
