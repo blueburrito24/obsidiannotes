@@ -82,3 +82,19 @@ An environment is what surrounds the agent, but it can have various attributes:
 - Single agent = agent operating solo in an environment, like a maze-solving robot working on a puzzle alone.
 - Multiagent = multiple agents working together.
 ![[{B2782398-A440-4034-BCB3-89B03D09F6B3}.png]]
+
+Agent Types:
+- Reflex: agent whose action depends only on the current precept.
+  Holds no memory, functions on a set of rules AKA reflexes.
+  -Limited intelligence, too big to generate and store, not adaptive.
+- Model-based: agent whose action depends on its internal model of the current world state that is updated over time.
+  Uses both memory and perception to maintain an internal world model. Model is updated as it receives new information. Partial observability.
+  -Needs to store information on how the world evolves independently from the agent, and how the agent's actions affect the world.
+- Goal-based: agent that selects actions that it believes will achieve explicitly represented goals.
+  Holds an internal model + goal/s. This agent searches for action sequences that reach the goal and plans before acting on them. Behaviour can be easily changed.
+- Utility-based: agent that selects actions that it believes will maximize the expected utility of the outcome state. The agent aims for the best way to reach the goal. Agent "happiness" must be considered, AKA utility.
+- Learning: agent whose behaviour improves over time based on its experience.
+- Autonomous/Agent AI: agent that integrates learning, memory, reasoning, tool use and operates with significant independence and persistence over long-term tasks.
+![[{66978480-2C20-43E5-8F0D-BFE05CA2A069}.png]]
+
+![[{1997B78B-9A60-492A-8295-795A1C08260C}.png]]
