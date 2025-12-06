@@ -140,7 +140,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
-- [x] ![[s-l1600 1.jpg]]
+- [ ] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -198,7 +198,7 @@ kanban-plugin: board
 	[MP Studio Vegito](https://www.aliexpress.com/item/1005010463902926.html?) 67.59
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
-- [ ] ![[Pasted image 20251106034752.png]]
+- [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
 	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
@@ -210,14 +210,13 @@ kanban-plugin: board
 	kong b006 ssj and base heads set 97
 	kong adapter peg 8.69
 	kong studios b008 goku 69.32
-	buff martialist 63.75
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
 	white wind effects 10.79
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	317.21 total**
+	153.65 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -235,10 +234,9 @@ kanban-plugin: board
 	shf tbftf trunks 40.61
 	shf khs goku 20.59
 	bht gohan kit 35.89
-	ko lssj goku for torso mod 16.09
 	dbz effects** (1b kamehameha, 1g final flash, 2f long ki blast, 5b big bang attack) **31.96
 	blue electricity effect 9.49
-	362.10 total**
+	346.01 total**
 
 
 ***
