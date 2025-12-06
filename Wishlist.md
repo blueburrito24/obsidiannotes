@@ -178,8 +178,6 @@ kanban-plugin: board
 	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
-- [ ] ![[s-l1600.png]]
-	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 35.92
 - [ ] ![[Pasted image 20251108191749.png]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 61.79
 - [ ] ![[Pasted image 20251111012821.png]]
