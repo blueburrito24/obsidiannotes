@@ -237,9 +237,10 @@ kanban-plugin: board
 	shf tbftf trunks 40.61
 	shf khs goku 20.59
 	bht gohan kit 35.89
+	ko lssj goku for torso mod 16.09
 	dbz effects** (1b kamehameha, 1g final flash, 2f long ki blast, 5b big bang attack) **31.96
 	blue electricity effect 9.49
-	346.01 total**
+	362.10 total**
 
 
 ***
