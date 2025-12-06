@@ -167,7 +167,6 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
 	Need to do [this mod](https://youtube.com/shorts/3evpgYfvAps?si=sY3AQcDglNF91z8h) for a cleaner sleeve look
-	Also need to do [[SHF Games Begin Goku body mod]] using parts from [SHF Bootleg LSSJ Goku](https://www.aliexpress.com/item/1005006826990115.html?) 16.09
 - [x] ![[Pasted image 20251128031116.png]]
 	![[{F3BB59D8-1018-491C-A9AF-912E3C47E982}.png]]
 	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) with shipping, 8.69
@@ -208,7 +207,6 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] **shf games begin goku 27.99
-	ko shf lssj goku for torso mod 16.09
 	kong b006 ssj and base heads set 97
 	kong adapter peg 8.69
 	kong studios b008 goku 69.32
@@ -219,7 +217,7 @@ kanban-plugin: board
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	333.30 total**
+	317.21 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -274,6 +272,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,true,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,false],"show-checkboxes":true}
 ```
 %%
