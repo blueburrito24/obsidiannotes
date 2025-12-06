@@ -210,13 +210,14 @@ kanban-plugin: board
 	kong b006 ssj and base heads set 97
 	kong adapter peg 8.69
 	kong studios b008 goku 69.32
+	zt studio broly 100.19
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
 	white wind effects 10.79
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	153.65 total**
+	353.65 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
