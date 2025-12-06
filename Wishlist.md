@@ -96,9 +96,9 @@ kanban-plugin: board
 	![[Pasted image 20251120172437.png]]
 - [ ] [Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
 	![[Pasted image 20251120172505.png]]
-- [ ] [Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
+- [x] [Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
 	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
-- [ ] [Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
+- [x] [Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
 	![[Pasted image 20251120172714.png]]
 	![[Pasted image 20251120172728.png]]
 - [ ] [Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
@@ -147,8 +147,6 @@ kanban-plugin: board
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [x] ![[Pasted image 20251201192442.png]]
 	[MAFEX TDKR Superman](https://www.nin-nin-game.com/en/mafex/178301-mafex-no161-superman-the-dark-knight-returns-ver-reissue-medicom-toy-.html) 43.93
-- [ ] ![[mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.jpg]]
-	[MAFEX TDKR Triumphant Batman](https://www.nin-nin-game.com/en/mafex/205134-mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.html) 35.47
 - [x] ![[Pasted image 20251203003507.png]]
 	![[s-l1200.jpg]]
 	[MAFEX Knight Crusader Batman](https://www.hlj.com/mafex-knight-crusader-batman-medmafex-215) 56.84
@@ -169,17 +167,18 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251106033622.png]]
 	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
 	Need to do [this mod](https://youtube.com/shorts/3evpgYfvAps?si=sY3AQcDglNF91z8h) for a cleaner sleeve look
+	Also need to do [[SHF Games Begin Goku body mod]] using parts from [SHF Bootleg LSSJ Goku](https://www.aliexpress.com/item/1005006826990115.html?) 16.09
 - [x] ![[Pasted image 20251128031116.png]]
 	![[{F3BB59D8-1018-491C-A9AF-912E3C47E982}.png]]
 	[KONG-to-Games Begin adapter peg](https://www.ebay.co.uk/itm/317560501407?) with shipping, 8.69
 	[KONG B006 SSJ heads](https://www.ebay.co.uk/itm/365955590503?) 43.51
 	[KONG B006 Base heads](https://www.ebay.co.uk/itm/388485412679?) 40.79
 	[Alternate link that has both sets of heads](https://www.ebay.co.uk/itm/126975696224?) 97
-- [x] ![[s-l1600 1.png]]
+- [ ] ![[s-l1600 1.png]]
 	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
-- [x] ![[photo.jpg]]
+- [ ] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
 	63.88 total
@@ -191,7 +190,7 @@ kanban-plugin: board
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005009946066613.html?) 32.79
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
-- [x] ![[s-l1600.png]]
+- [ ] ![[s-l1600.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 35.92
 - [ ] ![[Pasted image 20251108191749.png]]
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 61.79
@@ -209,17 +208,16 @@ kanban-plugin: board
 ## Budget Projections
 
 - [ ] **shf games begin goku 27.99
+	ko shf lssj goku for torso mod 16.09
 	kong b006 ssj and base heads set 97
-	kong adapter pegs 14.66
-	bht/shf gohan kitbash 63.88
-	bht majin vegeta 35.92
-	wow studio goku and vegeta 100~
+	kong adapter pegs 8.69
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
 	white wind effects 10.79
+	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	379.12 total**
+	200.23 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
