@@ -96,21 +96,10 @@ kanban-plugin: board
 	![[Pasted image 20251120172437.png]]
 - [ ] [Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
 	![[Pasted image 20251120172505.png]]
-- [x] [Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
-	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
-- [x] [Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
-	![[Pasted image 20251120172714.png]]
-	![[Pasted image 20251120172728.png]]
 - [ ] [Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
 	![[Aa1194ca9abec427db8372f6d701bf1dfI.jpg_960x960q75.jpg_.avif]]
-- [x] [Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
-	![[Pasted image 20251120172809.png]]
-	![[Pasted image 20251120172818.png]]
 - [ ] [DBZ Auras](https://www.aliexpress.com/item/1005006503681477.html?) 6.31
 	![[Pasted image 20251128042338.png]]
-- [x] [DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
-	![[Pasted image 20251120172831.png]]
-	![[Pasted image 20251120172844.png]]
 - [ ] [KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
 	![[Pasted image 20251120172859.png]]
 - [ ] figure stuff that isn't explicitly figures
@@ -131,8 +120,6 @@ kanban-plugin: board
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
-- [x] ![[Pasted image 20251025183656.png | 200]]
-	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
 	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
 - [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
@@ -140,11 +127,8 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
-- [ ] ![[s-l1600 1.jpg]]
-	![[s-l1600-1.jpg]]
-	Buff Martialist 63.75:
-	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
-	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
+- [x] ![[Pasted image 20251025183656.png | 200]]
+	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [x] ![[Pasted image 20251201192442.png]]
 	[MAFEX TDKR Superman](https://www.nin-nin-game.com/en/mafex/178301-mafex-no161-superman-the-dark-knight-returns-ver-reissue-medicom-toy-.html) 43.93
 - [x] ![[Pasted image 20251203003507.png]]
@@ -158,6 +142,11 @@ kanban-plugin: board
 	Should paint the scuba head more black than blue like the above image.
 	The custom cape will just go on top of the torso with the capeless neck piece.
 	*I already have black paint
+- [ ] ![[s-l1600 1.jpg]]
+	![[s-l1600-1.jpg]]
+	Buff Martialist 63.75:
+	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
+	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [ ] ![[Pasted image 20251110014902.png]]
 	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 
@@ -173,10 +162,6 @@ kanban-plugin: board
 	[KONG B006 SSJ heads](https://www.ebay.co.uk/itm/365955590503?) 43.51
 	[KONG B006 Base heads](https://www.ebay.co.uk/itm/388485412679?) 40.79
 	[Alternate link that has both sets of heads](https://www.ebay.co.uk/itm/126975696224?) 97
-- [ ] ![[s-l1600 1.png]]
-	![[photo.webp]]
-	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
-	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
 - [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
@@ -189,6 +174,10 @@ kanban-plugin: board
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005009946066613.html?) 32.79
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 20.52
+- [ ] ![[s-l1600 1.png]]
+	![[photo.webp]]
+	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
+	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
 - [ ] ![[s-l1600.png]]
 	[BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 35.92
 - [ ] ![[Pasted image 20251108191749.png]]
@@ -267,9 +256,20 @@ kanban-plugin: board
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
 	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
 	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
+- [x] [Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
+	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
+- [x] [Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
+	![[Pasted image 20251120172714.png]]
+	![[Pasted image 20251120172728.png]]
+- [x] [Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
+	![[Pasted image 20251120172809.png]]
+	![[Pasted image 20251120172818.png]]
+- [x] [DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+	![[Pasted image 20251120172831.png]]
+	![[Pasted image 20251120172844.png]]
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,false,false,false],"show-checkboxes":true}
 ```
 %%
