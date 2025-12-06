@@ -103,12 +103,12 @@ kanban-plugin: board
 	![[Pasted image 20251120172728.png]]
 - [ ] [Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
 	![[Aa1194ca9abec427db8372f6d701bf1dfI.jpg_960x960q75.jpg_.avif]]
-- [ ] [Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
+- [x] [Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
 	![[Pasted image 20251120172809.png]]
 	![[Pasted image 20251120172818.png]]
 - [ ] [DBZ Auras](https://www.aliexpress.com/item/1005006503681477.html?) 6.31
 	![[Pasted image 20251128042338.png]]
-- [ ] [DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+- [x] [DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
 	![[Pasted image 20251120172831.png]]
 	![[Pasted image 20251120172844.png]]
 - [ ] [KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
@@ -140,7 +140,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
-- [ ] ![[s-l1600 1.jpg]]
+- [x] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -178,7 +178,7 @@ kanban-plugin: board
 	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
 	WOW Studio! Saiyan Saga Vegeta due to release 2026. Likely same price
-- [ ] ![[photo.jpg]]
+- [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 20.59 for this OR Games Begin for 27.99.
 	63.88 total
@@ -196,7 +196,7 @@ kanban-plugin: board
 	[TONSENARTTOYS Gogeta](https://www.aliexpress.com/item/1005008896476477.html?) 61.79
 - [ ] ![[Pasted image 20251111012821.png]]
 	![[{21EAC00B-3EAF-4B88-97FF-A5D2E0A30B36}.png]]
-	[MP Studio Vegito](https://www.aliexpress.com/item/1005010472585481.html?) 74.19
+	[MP Studio Vegito](https://www.aliexpress.com/item/1005010463902926.html?) 67.59
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [ ] ![[Pasted image 20251106034752.png]]
@@ -210,14 +210,16 @@ kanban-plugin: board
 - [ ] **shf games begin goku 27.99
 	ko shf lssj goku for torso mod 16.09
 	kong b006 ssj and base heads set 97
-	kong adapter pegs 8.69
+	kong adapter peg 8.69
+	kong studios b008 goku 69.32
+	buff martialist 63.75
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
 	white wind effects 10.79
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	200.23 total**
+	333.30 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -233,9 +235,11 @@ kanban-plugin: board
 	mafex knight crusader batman custom 96.20
 	shf dangerous pride vegeta 20.52
 	shf tbftf trunks 40.61
-	air studio trunks headsculpt 32.79
-	kong studios b008 goku 69.32
-	350.19 total**
+	shf khs goku 20.59
+	bht gohan kit 35.89
+	dbz effects** (1b kamehameha, 1g final flash, 2f long ki blast, 5b big bang attack) **31.96
+	blue electricity effect 9.49
+	346.01 total**
 
 
 ***
@@ -269,6 +273,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,true,false],"show-checkboxes":true}
 ```
 %%
