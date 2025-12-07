@@ -187,7 +187,7 @@ kanban-plugin: board
 	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://curibo.co.uk/products/dragonball-super-sh-figuarts-android-no-18-universe-survival-saga-edition) 45
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
-- [ ] ![[Pasted image 20251106034752.png]]
+- [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
 	[Alt link if the above is OOS](https://www.aliexpress.com/item/1005010240398396.html?) 100.19
@@ -198,15 +198,15 @@ kanban-plugin: board
 - [ ] **shf games begin goku 29.94
 	kong b006 goku 93.99
 	kong adapter peg 8.69
-	kong studios b008 goku 80.68
 	shf android 18 45
+	zt studio broly 100.19
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
 	white wind effects 10.79
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	308.76 total**
+	128.27 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
