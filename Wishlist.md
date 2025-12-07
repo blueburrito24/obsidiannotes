@@ -94,6 +94,8 @@ kanban-plugin: board
 
 - [ ] [Tamashii Effect Series - Shock Impact Yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 12.73
 	![[Pasted image 20251120172437.png]]
+- [ ] [Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
+	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
 - [ ] [Tamashii Effect Series - Concrete Crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 15.75
 	![[Pasted image 20251120172505.png]]
 - [ ] [Swirly Aura Effect set](https://www.aliexpress.com/item/1005010035897035.html?) 9.59
@@ -102,6 +104,15 @@ kanban-plugin: board
 	![[Pasted image 20251128042338.png]]
 - [ ] [KO SAS Kenshiro for air-punching effects](https://www.aliexpress.com/item/1005007239608515.html?) 19.79
 	![[Pasted image 20251120172859.png]]
+- [x] [Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
+	![[Pasted image 20251120172714.png]]
+	![[Pasted image 20251120172728.png]]
+- [x] [Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
+	![[Pasted image 20251120172809.png]]
+	![[Pasted image 20251120172818.png]]
+- [x] [DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
+	![[Pasted image 20251120172831.png]]
+	![[Pasted image 20251120172844.png]]
 - [ ] figure stuff that isn't explicitly figures
 	[Display stand for bigger figures](https://www.aliexpress.com/item/1005007402161040.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000040593165571%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0) 8.73
 	[Display stand for 1/12 figures](https://www.aliexpress.com/item/1005008564504383.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.49e0t3QNt3QNY9&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=5f05b2c3-013d-447d-bdf3-2bf0f6c05957&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:5f05b2c3-013d-447d-bdf3-2bf0f6c05957,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22977%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21GBP%212.69%212.42%21%21%213.48%213.13%21%4021039a5b17614240681107134e2f48%2112000045737340511%21rec%21UK%212834634728%21XZ%211%210%21n_tag%3A-29919%3Bd%3A936c168b%3Bm03_new_user%3A-29895%3BpisId%3A5000000191192759&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008564504383%7C_p_origin_prod%3A) 2.69
@@ -206,7 +217,7 @@ kanban-plugin: board
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	128.27 total**
+	328.27 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
@@ -255,17 +266,6 @@ kanban-plugin: board
 - [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
 	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
 	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
-- [x] [Tamashii Effect Series - Impact Debris](https://www.aliexpress.com/item/1005009515291297.html?) 10.99
-	![[61ZVjDIH+vL._AC_SL1200_.jpg]]
-- [x] [Transparent Wind Effects](https://www.aliexpress.com/item/1005009767841409.html?) 10.79/15.59
-	![[Pasted image 20251120172714.png]]
-	![[Pasted image 20251120172728.png]]
-- [x] [Electricity and mid-air aura effects](https://www.aliexpress.com/item/1005007233777178.html?) 9.59 per item
-	![[Pasted image 20251120172809.png]]
-	![[Pasted image 20251120172818.png]]
-- [x] [DBZ Effects, 2F and 1B](https://www.aliexpress.com/item/1005005587949907.html?) 8.11 per item
-	![[Pasted image 20251120172831.png]]
-	![[Pasted image 20251120172844.png]]
 
 %% kanban:settings
 ```
