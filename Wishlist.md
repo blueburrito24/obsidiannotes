@@ -154,7 +154,7 @@ kanban-plugin: board
 ## Dragon Ball Figure Wishlist
 
 - [x] ![[Pasted image 20251106033622.png]]
-	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://www.spiritkingdom.co.uk/shfiguarts/408-dragon-ball-z-super-saiyan-son-goku-the-games-begin-ver-shfiguarts-action-figure-15-cm) 27.99
+	[SH FIGUARTS "GAMES BEGIN" Super Saiyan Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 	Need to do [this mod](https://youtube.com/shorts/3evpgYfvAps?si=sY3AQcDglNF91z8h) for a cleaner sleeve look
 - [x] ![[Pasted image 20251128031116.png]]
 	![[{F3BB59D8-1018-491C-A9AF-912E3C47E982}.png]]
@@ -162,12 +162,12 @@ kanban-plugin: board
 	[KONG B006 SSJ heads](https://www.ebay.co.uk/itm/365955590503?) 43.51
 	[KONG B006 Base heads](https://www.ebay.co.uk/itm/388485412679?) 40.79
 	[Alternate link that has both sets of heads](https://www.ebay.co.uk/itm/126975696224?) 97
+	[Full figure](https://www.aliexpress.com/item/1005009031390054.html?) 93.99
 - [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
-	Would need to buy [Kind-Hearted Saiyan Goku](https://curibo.co.uk/products/dragonball-z-sh-figuarts-son-goku-the-kind-hearted-saiyan?_pos=2&_sid=2af91171c&_ss=r) 35 for this OR Games Begin for 27.99.
-	63.88 total
+	Would need to buy [Kind-Hearted Saiyan Goku](https://curibo.co.uk/products/dragonball-z-sh-figuarts-son-goku-the-kind-hearted-saiyan?_pos=2&_sid=2af91171c&_ss=r) 35
 - [x] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
-	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 69.32
+	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 80.68
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
 	![[Pasted image 20251116145505.png]]
 	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://curibo.co.uk/products/dragonball-z-sh-figuarts-super-saiyan-future-trunks-2022-ver-re-issue?_pos=3&_sid=958010119&_ss=r) 54
@@ -195,10 +195,10 @@ kanban-plugin: board
 
 ## Budget Projections
 
-- [ ] **shf games begin goku 27.99
-	kong b006 ssj and base heads set 97
+- [ ] **shf games begin goku 29.94
+	kong b006 goku 93.99
 	kong adapter peg 8.69
-	kong studios b008 goku 69.32
+	kong studios b008 goku 80.68
 	shf android 18 45
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
@@ -206,7 +206,7 @@ kanban-plugin: board
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	298.46 total**
+	308.76 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
