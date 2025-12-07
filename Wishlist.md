@@ -166,7 +166,7 @@ kanban-plugin: board
 - [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
 	Would need to buy [Kind-Hearted Saiyan Goku](https://curibo.co.uk/products/dragonball-z-sh-figuarts-son-goku-the-kind-hearted-saiyan?_pos=2&_sid=2af91171c&_ss=r) 35
-- [x] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
+- [ ] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
 	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 80.68
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
 	![[Pasted image 20251116145505.png]]
