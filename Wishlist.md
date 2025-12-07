@@ -206,7 +206,7 @@ kanban-plugin: board
 
 ## Budget Projections
 
-- [ ] **shf games begin goku 29.94
+- [ ] **shf games begin goku 29.95
 	kong b006 goku 93.99
 	kong adapter peg 8.69
 	shf android 18 45
@@ -217,7 +217,7 @@ kanban-plugin: board
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	328.27 total**
+	328.28 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
