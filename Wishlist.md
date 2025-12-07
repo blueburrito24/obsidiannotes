@@ -194,8 +194,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251111012821.png]]
 	![[{21EAC00B-3EAF-4B88-97FF-A5D2E0A30B36}.png]]
 	[MP Studio Vegito](https://www.aliexpress.com/item/1005010463902926.html?) 67.59
-- [x] ![[sh-figuarts-dragon-ball-super-ju-hachi-gou-android-18-universe-survival-saga-limited-edition-bandai-.jpg]]
-	[SH FIGUARTS Android 18 Universal Survivor Saga Ver.](https://curibo.co.uk/products/dragonball-super-sh-figuarts-android-no-18-universe-survival-saga-edition) 45
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
 - [x] ![[Pasted image 20251106034752.png]]
@@ -209,7 +207,6 @@ kanban-plugin: board
 - [ ] **shf games begin goku 29.95
 	kong b006 goku 93.99
 	kong adapter peg 8.69
-	shf android 18 45
 	zt studio broly 100.19
 	cotton buds 3.99
 	99% isopropyl alcohol 2.99
@@ -217,7 +214,7 @@ kanban-plugin: board
 	brown ground fissure effect 10.79
 	tripod 7.89
 	portable light 14.01
-	328.28 total**
+	283.28 total**
 - [ ] pac-man world re-pac 3.99
 	pac-man world 2 re-pac 24.99
 	bloodstained 3.99
