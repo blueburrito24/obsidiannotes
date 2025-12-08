@@ -166,8 +166,6 @@ kanban-plugin: board
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
-- [ ] ![[Pasted image 20251110014902.png]]
-	[Fahrulstore35 web set](https://fahrulstore35.bigcartel.com/product/a2) 5usd
 
 
 ## Dragon Ball Figure Wishlist
@@ -245,7 +243,7 @@ kanban-plugin: board
 	bht gohan kit 35.89
 	dbz effects** (1b kamehameha, 1g final flash, 2f long ki blast, 5b big bang attack) **31.96
 	blue electricity effect 9.49
-	377.73 total**
+	384.44 total**
 
 
 ***
