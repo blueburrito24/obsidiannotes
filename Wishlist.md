@@ -244,7 +244,7 @@ kanban-plugin: board
 	bht gohan kit 35.89
 	dbz effects** (1b kamehameha, 1g final flash, 2f long ki blast, 5b big bang attack) **31.96
 	blue electricity effect 9.49
-	389.29 total**
+	423.46 total**
 
 
 ***
