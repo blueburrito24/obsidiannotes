@@ -42,6 +42,8 @@ kanban-plugin: board
 	[Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 	[Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
+	[Batman/Leap print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/leap-batman-dc/) 15usd
+	[Spider-Man 3 print by Acedib](https://www.inprnt.com/gallery/acezdib/sm-300/) 15usd
 	[Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
 	[Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 39.89
 	
@@ -129,6 +131,10 @@ kanban-plugin: board
 
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
+- [ ] ![[photo 1.jpg]]
+	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
+- [ ] ![[photo 2.jpg]]
+	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://www.amazon.co.uk/gp/product/B0FHKYK8B2?smid=A3P5ROKL5A1OLE&th=1) 22.99
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
@@ -266,6 +272,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,false,true,true,true,false,false],"show-checkboxes":true}
 ```
 %%
