@@ -149,7 +149,7 @@ kanban-plugin: board
 - [x] ![[Pasted image 20251025183656.png | 200]]
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [x] ![[Pasted image 20251201192442.png]]
-	[MAFEX TDKR Superman](https://www.nin-nin-game.com/en/mafex/178301-mafex-no161-superman-the-dark-knight-returns-ver-reissue-medicom-toy-.html) 43.93
+	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.64
 - [x] ![[Pasted image 20251203003507.png]]
 	![[s-l1200.jpg]]
 	[MAFEX Knight Crusader Batman](https://www.hlj.com/mafex-knight-crusader-batman-medmafex-215) 56.84
@@ -236,7 +236,7 @@ kanban-plugin: board
 	streets of rage 4 mobile 7.49
 	TOTAL 93.71
 - [ ] **shf gamerverse spider-man 46.82
-	mafex tdkr superman 43.93
+	mafex tdkr superman 50.64
 	mafex knight crusader batman custom 96.20
 	shf lssj goku reissue 34.17
 	shf dangerous pride vegeta 19.92
