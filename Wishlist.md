@@ -204,6 +204,7 @@ kanban-plugin: board
 	[MP Studio Vegito](https://www.aliexpress.com/item/1005010463902926.html?) 67.59
 - [ ] ![[Pasted image 20251106193013.png]]
 	[SH FIGUARTS 40th Anniversary Edition Cooler](https://www.spiritkingdom.co.uk/shfiguarts/330-dragon-ball-sh-figuarts-action-figure-cooler-final-form-40th-anniversary-reissue-edition-19-cm) 61.99
+	[SH FIGUARTS Legendary Super Saiyan Son Goku Reissue](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 34.17
 - [x] ![[Pasted image 20251106034752.png]]
 	![[Pasted image 20251110134110.png]]
 	[ZT Studio Broly](https://www.aliexpress.com/item/1005010194842868.html) 104.19
@@ -236,6 +237,7 @@ kanban-plugin: board
 - [ ] **shf gamerverse spider-man 46.82
 	mafex tdkr superman 43.93
 	mafex knight crusader batman custom 96.20
+	shf lssj goku reissue 34.17
 	shf dangerous pride vegeta 36
 	shf tbftf trunks 54
 	shf khs goku 35
