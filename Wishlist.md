@@ -135,6 +135,8 @@ kanban-plugin: board
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://www.amazon.co.uk/gp/product/B0FHKYK8B2?smid=A3P5ROKL5A1OLE&th=1) 22.99
+- [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
+	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 - [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
