@@ -184,15 +184,15 @@ kanban-plugin: board
 	[Full figure](https://www.aliexpress.com/item/1005009031390054.html?) 93.99
 - [x] ![[photo.jpg]]
 	[HM/Black Hole Toys Gohan Headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 35.89
-	Would need to buy [Kind-Hearted Saiyan Goku](https://curibo.co.uk/products/dragonball-z-sh-figuarts-son-goku-the-kind-hearted-saiyan?_pos=2&_sid=2af91171c&_ss=r) 35
+	Would need to buy [Kind-Hearted Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.92
 - [ ] ![[{A83BC12F-DC00-43A4-9474-306811A4C1DE}.png]]
 	[KONG STUDIOS B008 Goku](https://www.aliexpress.com/item/1005007535068548.html?) 80.68
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.jpg]]
 	![[Pasted image 20251116145505.png]]
-	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://curibo.co.uk/products/dragonball-z-sh-figuarts-super-saiyan-future-trunks-2022-ver-re-issue?_pos=3&_sid=958010119&_ss=r) 54
+	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 39.43
 	[AIR Studio Long Hair headsculpt](https://www.aliexpress.com/item/1005009946066613.html?) 32.79
 - [x] ![[shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.jpg]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://curibo.co.uk/products/dragonball-z-sh-figuarts-super-saiyan-vegeta-dangerous-pride?_pos=1&_sid=ea5f7b1c7&_ss=r) 36
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.92
 - [ ] ![[s-l1600 1.png]]
 	![[photo.webp]]
 	[WOW Studio! Kaioken Goku](https://www.aliexpress.com/item/1005009579626748.html?) 49.39
@@ -239,13 +239,13 @@ kanban-plugin: board
 	mafex tdkr superman 43.93
 	mafex knight crusader batman custom 96.20
 	shf lssj goku reissue 34.17
-	shf dangerous pride vegeta 36
-	shf tbftf trunks 54
-	shf khs goku 35
+	shf dangerous pride vegeta 19.92
+	shf tbftf trunks 39.43
+	shf khs goku 19.92
 	bht gohan kit 35.89
 	dbz effects** (1b kamehameha, 1g final flash, 2f long ki blast, 5b big bang attack) **31.96
 	blue electricity effect 9.49
-	423.46 total**
+	377.73 total**
 
 
 ***
@@ -277,6 +277,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,true,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,true,true,true,true,false,false],"show-checkboxes":true}
 ```
 %%
