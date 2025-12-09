@@ -5,3 +5,6 @@ I think I should look at all the figures in my wishlist when possible and just t
 I need to remember that as much as it sucks to be a retard and not understand this content, it's better that I'm a retard and trying to understand this content than a retard who doesn't try.
 
 15.10.2025.
+
+I really like drawing but whenever I draw I feel like a degenerate fag. :'<
+9.12.2025.
