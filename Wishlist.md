@@ -17,8 +17,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] generic stuff
-	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
+- [ ] [Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
 	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
 	[Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
@@ -35,8 +34,6 @@ kanban-plugin: board
 	[AYN Thor Max](https://www.ayntec.com/products/ayn-thor?variant=46692546805952) 340.34
 	[Dock for AYN Thor](https://amzn.eu/d/2H5HfDl) 29.49
 	[AYN Thor Black Vinyl Protector](https://www.etsy.com/uk/listing/4405013719) 20.85
-	[AYN Thor PSX buttons](https://www.etsy.com/uk/listing/4401376432) 35.11
-	[Tutorial for installing AYN Thor parts](https://www.youtube.com/watch?v=fuoA3l9gH0Y)
 	![[Pasted image 20251129191715.png]]
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
@@ -77,32 +74,58 @@ kanban-plugin: board
 	Metroid Prime PC Fork
 
 
-## General Figure Wishlist
+## Figure Wishlist
 
-- [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
-	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [x] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://www.amazon.co.uk/gp/product/B0FHKYK8B2?smid=A3P5ROKL5A1OLE&th=1) 22.99
 - [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
+- [ ] ![[Pasted image 20251210185624.png]]
+	[MARVEL LEGENDS Black Widow](https://amzn.eu/d/2Yk8mjV) 24.99
+	*needs eyes removed with nail polisher wipes
+- [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
+	![[Pasted image 20251210192819.png]]
+	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
+	[Four-armed kit](https://www.etsy.com/uk/listing/4345937972/3d-printed-four-arm-adapter-pack-for?ls=a&ref=sold_out_ad-2&plkey=LT68434b23d1dce1262dda8cc9d634ecfcd0525aba%3A4345937972) 7.52
+	[Gun Pack](https://www.etsy.com/uk/listing/1773638139/dummy-13-accessory-set-upgraded-handguns?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-10&pro=1&sts=1&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT206410b3e5da7d1010c0c73555313340eae47997&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT206410b3e5da7d1010c0c73555313340eae47997) 12.22
+	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
-- [ ] ![[{6534FC59-E726-4D67-BE66-3B36AAF7C48C}.png]]
-	[MAFEX Carnage](https://www.nin-nin-game.com/en/mafex/154623-mafex-no118-spider-man-carnage-comic-ver-reissue-medicom-toy-.html) 62.13
-- [ ] ![[MESS TOYS Scarlet Spider.png| 200]]
-	MESS TOYS Scarlet Spider 30
 - [ ] ![[Pasted image 20251102040713.png | 200]]
 	![[Pasted image 20251120100618.png]]
 	MESS TOYS Venom 40
 - [ ] ![[Pasted image 20251025183656.png | 200]]
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
+- [ ] ![[Pasted image 20251210184420.png]]
+	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
+	*needs eyes removed with nail polisher wipes
+- [ ] ![[Pasted image 20251210192245.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+	*needs eyes removed with nail polisher wipes
 - [ ] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
+- [ ] ![[Pasted image 20251210190343.png]]
+	[1/12 Weapons Pack](https://www.aliexpress.com/item/1005008135684209.html?) 14.29
+
+
+## Clothes
+
+- [ ] [Assorted Hoodies](https://www.aliexpress.com/item/1005009841258203.html?) 20.19 each
+	![[Pasted image 20251210190723.png]]
+	"green"
+	![[Pasted image 20251210190739.png]]
+	"brown"
+	![[Pasted image 20251210190758.png]]
+	"sky blue"
+	![[Pasted image 20251210190813.png]]
+	"beige"
+- [ ] ["Protect" joggers](https://www.aliexpress.com/item/1005007966201692.html?) 15.79
+	![[Pasted image 20251210191013.png]]
 
 
 ***
@@ -134,6 +157,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
