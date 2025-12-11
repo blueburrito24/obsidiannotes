@@ -76,6 +76,7 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
+- [ ] [Sandpaper assorted](https://www.amazon.co.uk/dp/B0B5LJFF1T?) 3.95
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [x] ![[photo 2.jpg]]
@@ -84,7 +85,7 @@ kanban-plugin: board
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
 - [ ] ![[Pasted image 20251210185624.png]]
 	[MARVEL LEGENDS Black Widow](https://amzn.eu/d/2Yk8mjV) 24.99
-	*needs eyes removed with nail polisher wipes
+	*needs nose sanded down
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
@@ -99,10 +100,10 @@ kanban-plugin: board
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
-	*needs eyes removed with nail polisher wipes
+	*needs nose sanded down
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-	*needs eyes removed with nail polisher wipes
+	*needs nose sanded down
 - [ ] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
@@ -158,6 +159,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
