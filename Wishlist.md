@@ -113,6 +113,10 @@ kanban-plugin: board
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251210190343.png]]
 	[1/12 Weapons Pack](https://www.aliexpress.com/item/1005008135684209.html?) 14.29
+- [ ] ![[Pasted image 20251211232350.png]]
+	[SHF 40th Anniversary Kid Goku](https://www.ebay.co.uk/itm/136302390016?) 119.66
+- [ ] ![[Pasted image 20251211232423.png]]
+	[SHF Bulma](https://www.ebay.co.uk/itm/227060552398?) 97.68
 
 
 ## Clothes
