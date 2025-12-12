@@ -100,8 +100,7 @@ kanban-plugin: board
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] ![[Pasted image 20251212001553.png]]
 	[MAFEX "Knight Crusader" Batman](https://www.nin-nin-game.com/en/mafex/187921-mafex-no215-batman-the-knight-crusader-reissue-medicom-toy-.html) 53.86
-	[Two-toned blue cape](https://www.ebay.co.uk/itm/156393560492) 34.96
-	*I want to sand down the mouths on each face and also paint black shadows on them too. Could also cel shade the rest of the body! Would need to glue the custom cape onto the capeless torso piece.
+	*needs mouth sanded flat
 - [ ] ![[Pasted image 20251212001608.png]]
 	[McFarlane Toys "Troika" Batman](https://www.amazon.co.uk/McFarlane-Multiverse-Batman-Troika-Action/dp/B0DYVRRBG3) 25.99
 	*needs mouth sanded flat
