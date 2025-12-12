@@ -86,8 +86,6 @@ kanban-plugin: board
 	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://www.amazon.co.uk/gp/product/B0FHKYK8B2?smid=A3P5ROKL5A1OLE&th=1) 22.99
 - [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
-- [ ] ![[Pasted image 20251210185624.png]]
-	[MARVEL LEGENDS Black Widow](https://amzn.eu/d/2Yk8mjV) 24.99
 - [ ] ![[Pasted image 20251029162138.png | 200]]
 	[MARVEL LEGENDS ROM the Space Knight](https://amzn.eu/d/ajvx07g) 18.99
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
@@ -104,10 +102,10 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251212072947.png]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010151080515.html?) 35.29
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 21.66
-- [ ] ![[Pasted image 20251025183656.png | 200]]
-	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
+- [ ] ![[Pasted image 20251025183656.png | 200]]
+	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[s-l1600 1.jpg]]
@@ -117,14 +115,12 @@ kanban-plugin: board
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
-- [ ] ![[Pasted image 20251211232350.png]]
-	[SHF 40th Anniversary Kid Goku](https://www.ebay.co.uk/itm/136302390016?) 119.66
-- [ ] ![[Pasted image 20251211232423.png]]
-	[SHF Bulma](https://www.ebay.co.uk/itm/227060552398?) 97.68
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251210190343.png]]
 	[1/12 Weapons Pack](https://www.aliexpress.com/item/1005008135684209.html?) 14.29
+- [ ] ![[Pasted image 20251212092327.png]]
+	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
 	![[Pasted image 20251212074339.png]]
 	"Rome" 23.49
