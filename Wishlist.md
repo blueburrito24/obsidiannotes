@@ -115,6 +115,8 @@ kanban-plugin: board
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
+- [ ] ![[Pasted image 20251212085130.png]]
+	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
 - [ ] ![[Pasted image 20251211232350.png]]
 	[SHF 40th Anniversary Kid Goku](https://www.ebay.co.uk/itm/136302390016?) 119.66
 - [ ] ![[Pasted image 20251211232423.png]]
@@ -128,8 +130,6 @@ kanban-plugin: board
 	"Rome" 23.49
 	![[Pasted image 20251212074504.png]]
 	"Thin section" 27.29
-- [ ] ![[Pasted image 20251212085130.png]]
-	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
 
 
 ## Clothes
