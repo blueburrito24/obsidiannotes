@@ -78,6 +78,8 @@ kanban-plugin: board
 
 - [ ] [Sandpaper assorted](https://www.amazon.co.uk/dp/B0B5LJFF1T?) 3.95
 	for sanding noses off of figures with complete faces
+- [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
+- [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [x] ![[photo 2.jpg]]
@@ -98,9 +100,6 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
-- [ ] ![[Pasted image 20251212001553.png]]
-	[MAFEX "Knight Crusader" Batman](https://www.nin-nin-game.com/en/mafex/187921-mafex-no215-batman-the-knight-crusader-reissue-medicom-toy-.html) 53.86
-	*needs mouth sanded flat
 - [ ] ![[Pasted image 20251212001608.png]]
 	[McFarlane Toys "Troika" Batman](https://www.amazon.co.uk/McFarlane-Multiverse-Batman-Troika-Action/dp/B0DYVRRBG3) 25.99
 	*needs mouth sanded flat
