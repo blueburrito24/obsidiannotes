@@ -17,10 +17,13 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] [Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
+- [ ] [Floral Backends](https://amzn.eu/d/fWRX3g6) 8.39
+	[1 Year Discord Nitro](https://www.eneba.com/gb/discord-discord-nitro-3-months-subscription-key-global/green-keys?product=digital&utm_adid&utm_campaign&utm_content&utm_source=google-ads&utm_term) 70~
+	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
 	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
 	[Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
+	[7 Inch Portable Screen](https://www.aliexpress.com/item/1005007464814035.html?) 31.29
 	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 	[Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 	[Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
@@ -28,11 +31,8 @@ kanban-plugin: board
 	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
 	[Batman/Leap print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/leap-batman-dc/) 15usd
 	[Spider-Man 3 print by Acedib](https://www.inprnt.com/gallery/acezdib/sm-300/) 15usd
-	[Argos Office Chair](https://www.argos.co.uk/product/4818401?clickPR=plp:52:118) 100
-	[Miyoo Mini Plus Crystal Black Ver.](https://www.aliexpress.com/item/1005006966361431.html?) 39.89
 	
 	[AYN Thor Max](https://www.ayntec.com/products/ayn-thor?variant=46692546805952) 340.34
-	[Dock for AYN Thor](https://amzn.eu/d/2H5HfDl) 29.49
 	[AYN Thor Black Vinyl Protector](https://www.etsy.com/uk/listing/4405013719) 20.85
 	![[Pasted image 20251129191715.png]]
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
@@ -106,8 +106,6 @@ kanban-plugin: board
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] ![[Pasted image 20251025183656.png | 200]]
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
-- [ ] ![[Pasted image 20251210192245.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[s-l1600 1.jpg]]
 	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
@@ -126,6 +124,21 @@ kanban-plugin: board
 	"Rome" 23.49
 	![[Pasted image 20251212074504.png]]
 	"Thin section" 27.29
+- [ ] ![[Pasted image 20251212141743.png]]
+	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78
+	[shf trunks ko](https://www.aliexpress.com/item/1005009656550295.html?) 12.27
+	[shf black ko](https://www.aliexpress.com/item/1005010149147778.html?) 15.85 + kaioken ko 16.82
+	total 64.72
+	I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
+	Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black ofc)
+	Add skirt piece from Black (repainted orange)
+	cut down abdomen cover-piece to fit skirt and smooth it down so that it is fully orange
+	add waist tie from kaioken ko (repainted blue)
+	sand down the wrist bands and then sculpt new ones
+	sculpt torso muscles on the blue shirt piece and repaint/smooth
+- [ ] ![[Pasted image 20251210192245.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+	Want to buy a second copy and paint the face/hairs black + dye the blue bits black and then highlight with dry brushed grey paint, alongside resculpting the neck braces and adding whis symbol.
 
 
 ## Clothes
