@@ -106,48 +106,42 @@ kanban-plugin: board
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] ![[Pasted image 20251025183656.png | 200]]
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
+- [ ] ![[Pasted image 20251213151512.png]]
+	[MAFEX 165 Iron Man "Comic Ver."](https://curibo.co.uk/products/marvel-mafex-no-165-iron-man-comic-ver) 130
 - [ ] ![[s-l1600 1.jpg]]
-	![[s-l1600-1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
+- [ ] ![[Pasted image 20251210192245.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+- [ ] ![[Pasted image 20251213160643.png]]
+	[SH FIGUARTS Super Hero Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 43.37
+	*Should paint the wristbands and waistband blue like the manga appearance of Gohan
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
-- [ ] ![[Pasted image 20251210225046.png]]
-	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ![[Pasted image 20251210190343.png]]
-	[1/12 Weapons Pack](https://www.aliexpress.com/item/1005008135684209.html?) 14.29
+- [ ] ![[Pasted image 20251213155104.png]]
+	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94
+	[SH FIGUARTS Full Power Frieza](https://www.nin-nin-game.com/en/dragon-ball/111469-shfiguarts-dragon-ball-z-freezer-full-power-ver-limited-edition-bandai-spirits-.html) 89.38
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
+- [ ] ![[Pasted image 20251213150302.png]]
+	![[Pasted image 20251213150329.png]]
+	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
+	*Need to sand off high-socks and dye legs and short-shorts black
+- [ ] ![[Pasted image 20251213161508.png]]
+	[SH FIGUARTS "Warrior's Fury" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 51.91
+	[TK Custom Silver UI headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 59.06
+- [ ] ![[Pasted image 20251213161740.png]]
+	[BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 52.39
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
 	![[Pasted image 20251212074339.png]]
 	"Rome" 23.49
 	![[Pasted image 20251212074504.png]]
 	"Thin section" 27.29
-- [ ] ![[Pasted image 20251212141743.png]]
-	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
-	[shf trunks ko](https://www.aliexpress.com/item/1005009656550295.html?) 12.27
-	[shf black ko](https://www.aliexpress.com/item/1005010149147778.html?) 15.85 + kaioken ko 16.82
-	total 64.72
-	-I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
-	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black ofc)
-	-Add skirt piece from Black (repainted orange)
-	-cut down abdomen cover-piece to fit skirt and smooth it down so that it is fully orange
-	-add waist tie from kaioken ko (repainted blue)
-	-sand down the wrist bands and then sculpt new ones
-	-sculpt torso muscles on the blue shirt piece and repaint/smooth
-- [ ] ![[Pasted image 20251210192245.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-	-Want to buy a second copy and paint the face/hairs black
-	-Take all the blue parts and dye them with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid
-	-resculpt the shoulder braces to be smooth and have white bezels
-	-paint on whis symbol
-- [ ] ![[Pasted image 20251213150302.png]]
-	![[Pasted image 20251213150329.png]]
-	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
-	*Need to sand off high-socks and dye legs and short-shorts black
-- [ ] ![[Pasted image 20251213151512.png]]
-	[MAFEX 165 Iron Man "Comic Ver."](https://curibo.co.uk/products/marvel-mafex-no-165-iron-man-comic-ver) 130
+- [ ] ![[Pasted image 20251210225046.png]]
+	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
+- [ ] ![[Pasted image 20251210190343.png]]
+	[1/12 Weapons Pack](https://www.aliexpress.com/item/1005008135684209.html?) 14.29
 
 
 ## Clothes
@@ -163,6 +157,26 @@ kanban-plugin: board
 	"beige"
 - [ ] ["Protect" joggers](https://www.aliexpress.com/item/1005007966201692.html?) 15.79
 	![[Pasted image 20251210191013.png]]
+
+
+## Custom Stuff
+
+- [ ] ![[Pasted image 20251212141743.png]]
+	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
+	[shf trunks ko](https://www.aliexpress.com/item/1005009656550295.html?) 12.27
+	[shf black ko](https://www.aliexpress.com/item/1005010149147778.html?) 15.85 + kaioken ko 16.82
+	total 64.72
+	-I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
+	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black ofc)
+	-Add skirt piece from Black (repainted orange)
+	-cut down abdomen cover-piece to fit skirt and smooth it down so that it is fully orange
+	-add waist tie from kaioken ko (repainted blue)
+	-sand down the wrist bands and then sculpt new ones
+	-I want to recast the torso from Super Hero Gohan and then remove the gi areas to have a clean chest sculpt
+- [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
+	-Take all the blue parts and dye them with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid
+	-resculpt the shoulder braces to be smooth and have white bezels
+	-paint on whis symbol
 
 
 ***
@@ -194,6 +208,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true],"show-checkboxes":false}
 ```
 %%
