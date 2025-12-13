@@ -125,20 +125,29 @@ kanban-plugin: board
 	![[Pasted image 20251212074504.png]]
 	"Thin section" 27.29
 - [ ] ![[Pasted image 20251212141743.png]]
-	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78
+	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
 	[shf trunks ko](https://www.aliexpress.com/item/1005009656550295.html?) 12.27
 	[shf black ko](https://www.aliexpress.com/item/1005010149147778.html?) 15.85 + kaioken ko 16.82
 	total 64.72
-	I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
-	Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black ofc)
-	Add skirt piece from Black (repainted orange)
-	cut down abdomen cover-piece to fit skirt and smooth it down so that it is fully orange
-	add waist tie from kaioken ko (repainted blue)
-	sand down the wrist bands and then sculpt new ones
-	sculpt torso muscles on the blue shirt piece and repaint/smooth
+	-I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
+	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black ofc)
+	-Add skirt piece from Black (repainted orange)
+	-cut down abdomen cover-piece to fit skirt and smooth it down so that it is fully orange
+	-add waist tie from kaioken ko (repainted blue)
+	-sand down the wrist bands and then sculpt new ones
+	-sculpt torso muscles on the blue shirt piece and repaint/smooth
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-	Want to buy a second copy and paint the face/hairs black + dye the blue bits black and then highlight with dry brushed grey paint, alongside resculpting the neck braces and adding whis symbol.
+	-Want to buy a second copy and paint the face/hairs black
+	-Take all the blue parts and dye them with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid
+	-resculpt the shoulder braces to be smooth and have white bezels
+	-paint on whis symbol
+- [ ] ![[Pasted image 20251213150302.png]]
+	![[Pasted image 20251213150329.png]]
+	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
+	*Need to sand off high-socks and dye legs and short-shorts black
+- [ ] ![[Pasted image 20251213151512.png]]
+	[MAFEX 165 Iron Man "Comic Ver."](https://curibo.co.uk/products/marvel-mafex-no-165-iron-man-comic-ver) 130
 
 
 ## Clothes
