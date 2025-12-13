@@ -83,7 +83,8 @@ kanban-plugin: board
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [x] ![[photo 2.jpg]]
-	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://www.amazon.co.uk/gp/product/B0FHKYK8B2?smid=A3P5ROKL5A1OLE&th=1) 22.99
+	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99
+	(releases end of february)
 - [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
 - [ ] ![[Pasted image 20251029162138.png | 200]]
@@ -105,7 +106,8 @@ kanban-plugin: board
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] ![[Pasted image 20251025183656.png | 200]]
-	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
+	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82 
+	(releases in march)
 - [ ] ![[Pasted image 20251213151512.png]]
 	[MAFEX 165 Iron Man "Comic Ver."](https://curibo.co.uk/products/marvel-mafex-no-165-iron-man-comic-ver) 130
 - [ ] ![[Pasted image 20251213150302.png]]
@@ -118,24 +120,14 @@ kanban-plugin: board
 	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-- [ ] ![[Pasted image 20251213160643.png]]
-	[SH FIGUARTS Super Hero Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 43.37
-	*Should paint the wristbands and waistband blue like the manga appearance of Gohan
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
-- [ ] ![[Pasted image 20251213161508.png]]
-	[SH FIGUARTS "Warrior's Fury" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 51.91
-	[TK Custom Silver UI headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 59.06
-- [ ] ![[Pasted image 20251213155104.png]]
-	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94
-	[SH FIGUARTS Full Power Frieza](https://www.nin-nin-game.com/en/dragon-ball/111469-shfiguarts-dragon-ball-z-freezer-full-power-ver-limited-edition-bandai-spirits-.html) 89.38
-	*Should paint Frieza's purple bits blue like the manga
+	(releases may/february depending on choice of distrbutor)
+	[(if in stock, buy from here to save on shipping)](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
 - [ ] ![[Pasted image 20251213203229.png]]
 	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 68.19
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] ![[Pasted image 20251213161740.png]]
-	[BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 52.39
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
 	![[Pasted image 20251212074339.png]]
 	"Rome" 23.49
@@ -143,8 +135,8 @@ kanban-plugin: board
 	"Thin section" 27.29
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ![[Pasted image 20251210190343.png]]
-	[1/12 Weapons Pack](https://www.aliexpress.com/item/1005008135684209.html?) 14.29
+- [ ] ![[Pasted image 20251213234418.png]]
+	[Tamashii Effect Series Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 20.23
 
 
 ## Clothes
@@ -175,7 +167,7 @@ kanban-plugin: board
 	-cut down abdomen cover-piece to fit skirt and smooth it down so that it is fully orange
 	-add waist tie from kaioken ko (repainted blue)
 	-sand down the wrist bands and then sculpt new ones
-	-I want to recast the torso from Super Hero Gohan and then remove the gi areas to have a clean chest sculpt
+	-I want to recast the torso from TONSENARTTOYS Gogeta and then thin out the abdomen piece for more articulation. I can reuse the joints from the original figure
 - [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
 	-Take all the blue parts and dye them with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid
 	-resculpt the shoulder braces to be smooth and have white bezels
@@ -211,6 +203,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,true],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
 ```
 %%
