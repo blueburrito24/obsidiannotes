@@ -77,7 +77,7 @@ kanban-plugin: board
 ## Figure Wishlist
 
 - [ ] [Sandpaper assorted](https://www.amazon.co.uk/dp/B0B5LJFF1T?) 3.95
-	for sanding noses off of figures with complete faces
+	for sanding noses and other details off of figures with complete faces
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] ![[photo 1.jpg]]
@@ -108,6 +108,10 @@ kanban-plugin: board
 	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82, releases March 2025
 - [ ] ![[Pasted image 20251213151512.png]]
 	[MAFEX 165 Iron Man "Comic Ver."](https://curibo.co.uk/products/marvel-mafex-no-165-iron-man-comic-ver) 130
+- [ ] ![[Pasted image 20251213150302.png]]
+	![[Pasted image 20251213150329.png]]
+	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
+	*Need to sand off high-socks and dye legs and short-shorts black
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -119,18 +123,17 @@ kanban-plugin: board
 	*Should paint the wristbands and waistband blue like the manga appearance of Gohan
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
-- [ ] ![[Pasted image 20251213155104.png]]
-	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94
-	[SH FIGUARTS Full Power Frieza](https://www.nin-nin-game.com/en/dragon-ball/111469-shfiguarts-dragon-ball-z-freezer-full-power-ver-limited-edition-bandai-spirits-.html) 89.38
-- [ ] ![[Pasted image 20251212092327.png]]
-	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] ![[Pasted image 20251213150302.png]]
-	![[Pasted image 20251213150329.png]]
-	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
-	*Need to sand off high-socks and dye legs and short-shorts black
 - [ ] ![[Pasted image 20251213161508.png]]
 	[SH FIGUARTS "Warrior's Fury" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 51.91
 	[TK Custom Silver UI headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 59.06
+- [ ] ![[Pasted image 20251213155104.png]]
+	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94
+	[SH FIGUARTS Full Power Frieza](https://www.nin-nin-game.com/en/dragon-ball/111469-shfiguarts-dragon-ball-z-freezer-full-power-ver-limited-edition-bandai-spirits-.html) 89.38
+	*Should paint Frieza's purple bits blue like the manga
+- [ ] ![[Pasted image 20251213203229.png]]
+	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 68.19
+- [ ] ![[Pasted image 20251212092327.png]]
+	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] ![[Pasted image 20251213161740.png]]
 	[BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 52.39
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
