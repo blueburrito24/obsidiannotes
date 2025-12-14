@@ -184,19 +184,20 @@ kanban-plugin: board
 	total 154.60
 	-I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
 	-paint on the lining on the upper gi alongside the whis symbol
-	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black ofc)
+	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black, should also dye the ankle joints black)
 	-Add skirt piece from daima goku (also paint the lines on)
 	-IF the upper gi from daima goku can fit with the torso from tonsen gogeta, use it and just paint in the lining and the whis symbol
-	-the torso, arms and waist piece from tonsenarttoys gogeta can be used, repainting the wraps to be brighter and reusing the orange sleeve covers from the original Goku figure
+	-the torso, arms and waist piece from tonsenarttoys gogeta can be used (I might need to swap out the connector pieces from the khs goku into the abdomen cover piece of the tonsen), repainting the wraps to be brighter and reusing the orange sleeve covers from the original Goku figure
 	-Could also recast the bangs from my Super Saiyan Goku and then recast the Gogeta hairsculpt to make a Super Saiyan Blue hairsculpt to use with the Gogeta heads. The bangs would go lower ofc but they'd be connected to the head and cover up the forehead
-	![[Pasted image 20251214014629.png]]
-	[SH FIGUARTS 1.0 Base Goku](https://a.aliexpress.com/_EIUTu8y) 60.66
-	Could buy this for better base faces and hair (would need to modify hair to fit new 3.0 peg style)
+- [ ] I can use the Daima Goku left over to make a Cell Saga casual Goku. it won't have the skirt, and potentially the gi piece, which is fine. I then can dye the shoes black, and throw on the GB headsculpt OR recast my custom SSB Goku head to make a mastered SSJ head (can reuse the faces from SSJ Gogeta alongside GB faces).
+	[59 Jacket and undershirt](https://www.aliexpress.com/item/1005009782721805.html?) 20.59
+	[Green pants](https://www.aliexpress.com/item/1005007966254416.html?) 6.23
 - [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
 	-Take all the blue parts and dye them gray with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid (except the neck, torso, forearms and folded arm piece, all of which I'll paint bluish-gray)
 	-resculpt the shoulder braces to be smooth and have white bezels
 	-paint on whis symbol
 	-repaint yellow areas to be a dull neutral yellow
+	Could also recast the headsculpts and faces for SSB counterparts
 
 
 ***
