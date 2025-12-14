@@ -189,7 +189,7 @@ kanban-plugin: board
 	-IF the upper gi from daima goku can fit with the torso from tonsen gogeta, use it and just paint in the lining and the whis symbol
 	-the torso, arms and waist piece from tonsenarttoys gogeta can be used, repainting the wraps to be brighter and reusing the orange sleeve covers from the original Goku figure
 	-Could also recast the bangs from my Super Saiyan Goku and then recast the Gogeta hairsculpt to make a Super Saiyan Blue hairsculpt to use with the Gogeta heads. The bangs would go lower ofc but they'd be connected to the head and cover up the forehead
-- [ ] ![[Pasted image 20251214014629.png]]
+	![[Pasted image 20251214014629.png]]
 	[SH FIGUARTS 1.0 Base Goku](https://a.aliexpress.com/_EIUTu8y) 60.66
 	Could buy this for better base faces and hair (would need to modify hair to fit new 3.0 peg style)
 - [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
