@@ -16,3 +16,6 @@ Oh also that I want to be thin. I don't envy anyone in particular but it must be
 
 I don't get why I can't bear being close with people. Being talkative and open with friends is one thing but I don't want to be close to anyone. I want to be alone often. There's no way I get married. :`((((
 12.12.25.
+
+I still can't believe I jerked off to my OC. I designed him to just be fun to draw- I like big muscles and long hair, but I drew him attractive! I can't dismiss the thought of it. :°< I hope I can keep this feeling down when I draw, I don't want to stop drawing my OCs but I also don't want to become infatuated with them to the point it affects me.
+14.12.25
