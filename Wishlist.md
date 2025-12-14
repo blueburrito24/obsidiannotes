@@ -76,7 +76,7 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
-- [ ] [Sandpaper assorted](https://www.amazon.co.uk/dp/B0B5LJFF1T?) 3.95
+- [ ] [Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
 	for sanding noses and other details off of figures with complete faces
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
@@ -102,7 +102,7 @@ kanban-plugin: board
 	*needs mouth sanded flat
 - [ ] ![[Pasted image 20251212072947.png]]
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010151080515.html?) 35.29
-	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 21.66
+	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 21.66 with shipping
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] ![[Pasted image 20251025183656.png | 200]]
@@ -116,8 +116,8 @@ kanban-plugin: board
 	*Need to sand off high-socks and dye legs and short-shorts black
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
-	- [ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
-	- [White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
+	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
+	-[White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251212085130.png]]
@@ -128,11 +128,16 @@ kanban-plugin: board
 	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 68.19
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
+- [ ] ![[Pasted image 20251214001239.png]]
+	[DBTOYS Ultimate Net-Man](https://www.aliexpress.com/item/1005009599577207.html?) 72.91
+	[Fahrulstore35 V58 Headsculpt](https://fahrulstore35.bigcartel.com/product/v58) 22.43 with shipping
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
 	![[Pasted image 20251212074339.png]]
 	"Rome" 23.49
 	![[Pasted image 20251212074504.png]]
 	"Thin section" 27.29
+- [ ] ![[Pasted image 20251214002028.png]]
+	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251213234418.png]]
@@ -156,6 +161,18 @@ kanban-plugin: board
 
 ## Custom Stuff
 
+- [ ] ## Recasting figure parts
+	
+	-[Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
+	
+	- [Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
+	- [Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
+	- [Milliput black Epoxy Putty](https://amzn.eu/d/b2Epf4w) 6.18
+	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
+	- [Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
+	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
+- [ ] Could definitely recast the Ultimate Net-Man hands and make them black for ML DA Spider-Man
+	Maybe sculpt adapter joints? Copy the size of the hand pegs on Net-Man and then make the other end cyclindrical like ML
 - [ ] ![[Pasted image 20251212141743.png]]
 	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
 	[shf trunks ko](https://www.aliexpress.com/item/1005009656550295.html?) 12.27
