@@ -184,10 +184,10 @@ kanban-plugin: board
 	total 154.60
 	-I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
 	-paint on the lining on the upper gi alongside the whis symbol
-	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted blue and black, should also dye the ankle joints black)
+	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted to match the gogeta waist piece's blue and black, should also dye the ankle joints black)
 	-Add skirt piece from daima goku (also paint the lines on)
 	-IF the upper gi from daima goku can fit with the torso from tonsen gogeta, use it and just paint in the lining and the whis symbol
-	-the torso, arms and waist piece from tonsenarttoys gogeta can be used (I might need to swap out the connector pieces from the khs goku into the abdomen cover piece of the tonsen), repainting the wraps to be brighter and reusing the orange sleeve covers from the original Goku figure
+	-the torso, arms and waist piece from tonsenarttoys gogeta can be used (I might need to swap out the connector pieces from the khs goku into the abdomen cover piece of the tonsen), and reusing the orange sleeve covers from the original Goku figure
 	-Could also recast the bangs from my Super Saiyan Goku and then recast the Gogeta hairsculpt to make a Super Saiyan Blue hairsculpt to use with the Gogeta heads. The bangs would go lower ofc but they'd be connected to the head and cover up the forehead
 - [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
 	-Take all the blue parts and dye them gray with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid (except the neck, torso, forearms and folded arm piece, all of which I'll paint bluish-gray)
