@@ -122,17 +122,17 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
-	(releases may/february depending on choice of distrbutor)
+	(releases may/february depending on choice of distributor)
 	[(if in stock, buy from here to save on shipping)](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
+- [ ] ![[Pasted image 20251214220539.png]]
+	[SH FIGUARTS Full Power Frieza](https://www.nin-nin-game.com/en/dragon-ball/111469-shfiguarts-dragon-ball-z-freezer-full-power-ver-limited-edition-bandai-spirits-.html) 89.38
+	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94 (releases end of march)
 - [ ] ![[Pasted image 20251213203229.png]]
 	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 68.19
 	[Alt link](https://a.aliexpress.com/_EumWus8) 54.99
 	[Another alt link](https://a.aliexpress.com/_EJnYtCY) 58.79
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] ![[Pasted image 20251214001239.png]]
-	[DBTOYS Ultimate Net-Man](https://www.aliexpress.com/item/1005009599577207.html?) 72.91
-	[Fahrulstore35 V58 Headsculpt](https://fahrulstore35.bigcartel.com/product/v58) + [Fahrulstore35 S2 Jacket](https://fahrulstore35.bigcartel.com/product/s2) 30.72 with shipping
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
 	![[Pasted image 20251212074339.png]]
 	"Rome" 23.49
@@ -173,28 +173,7 @@ kanban-plugin: board
 	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
 	- [Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
 	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
-- [ ] Could definitely recast the Ultimate Net-Man hands and make them black for ML DA Spider-Man
-	Maybe sculpt adapter joints? Heat up the wrists of Net-Man and take apart a wrist peg, then recast those two parts alongside an ML hand, stick the plug from the recasted hand onto the end of the recasted wrist peg and then recast again so that the wrist peg has a sturdy connector
 - [ ] I can recast Misaka Mikoto's frog flip phone to make other flip phones for my figures!!!
-- [ ] ![[Pasted image 20251212141743.png]]
-	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
-	[shf trunks ko](https://www.aliexpress.com/item/1005009656550295.html?) 12.27 
-	[tonsenarttoys super saiyan blue gogeta](https://a.aliexpress.com/_EuAEW2Y) 81.59
-	[shf daima goku](https://hobbyfigures.co.uk/products/dragon-ball-daima-s-h-figuarts-action-figure-son-goku-15cm?srsltid=AfmBOooKfAXzM8p81fRyKiTur1YoOjeRA4P2ObW7XnrpAr45GdGPqL2A) 31.95 
-	total 154.60
-	-I will buy skin tone paints, blue and orange paints, and then make a whis gi goku using the above parts. 
-	-paint on the lining on the upper gi alongside the whis symbol
-	-Remove shoulder sleeves, remove boots and replace them with those from ko trunks (repainted to match the gogeta waist piece's blue and black, should also dye the ankle joints black)
-	-Add skirt piece from daima goku (also paint the lines on)
-	-IF the upper gi from daima goku can fit with the torso from tonsen gogeta, use it and just paint in the lining and the whis symbol
-	-the torso, arms and waist piece from tonsenarttoys gogeta can be used (I might need to swap out the connector pieces from the khs goku into the abdomen cover piece of the tonsen), and reusing the orange sleeve covers from the original Goku figure
-	-Could also recast the bangs from my Super Saiyan Goku and then recast the Gogeta hairsculpt to make a Super Saiyan Blue hairsculpt to use with the Gogeta heads. The bangs would go lower ofc but they'd be connected to the head and cover up the forehead
-- [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
-	-Take all the blue parts and dye them gray with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid (except the neck, torso, forearms and folded arm piece, all of which I'll paint bluish-gray)
-	-resculpt the shoulder braces to be smooth and have white bezels
-	-paint on whis symbol
-	-repaint yellow areas to be a dull neutral yellow
-	Could also recast the headsculpts and faces for SSB counterparts
 
 
 ***
