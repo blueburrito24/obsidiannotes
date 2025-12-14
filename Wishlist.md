@@ -185,6 +185,9 @@ kanban-plugin: board
 	-add waist tie from kaioken ko (repainted blue)
 	-sand down the wrist bands and then sculpt new ones
 	-I want to recast the torso from TONSENARTTOYS Gogeta and then thin out the abdomen piece for more articulation. I can reuse the joints from the original figure
+- [ ] ![[Pasted image 20251214014629.png]]
+	[SH FIGUARTS 1.0 Base Goku](https://www.ebay.co.uk/itm/205575810889?) 71.24
+	Could buy this for better base faces and hair (would need to modify hair to fit new 3.0 peg style)
 - [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
 	-Take all the blue parts and dye them with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid
 	-resculpt the shoulder braces to be smooth and have white bezels
