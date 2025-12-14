@@ -132,7 +132,7 @@ kanban-plugin: board
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] ![[Pasted image 20251214001239.png]]
 	[DBTOYS Ultimate Net-Man](https://www.aliexpress.com/item/1005009599577207.html?) 72.91
-	[Fahrulstore35 V58 Headsculpt](https://fahrulstore35.bigcartel.com/product/v58) 22.43 with shipping
+	[Fahrulstore35 V58 Headsculpt](https://fahrulstore35.bigcartel.com/product/v58) + [Fahrulstore35 S2 Jacket](https://fahrulstore35.bigcartel.com/product/s2) 30.72 with shipping
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
 	![[Pasted image 20251212074339.png]]
 	"Rome" 23.49
@@ -189,9 +189,6 @@ kanban-plugin: board
 	-IF the upper gi from daima goku can fit with the torso from tonsen gogeta, use it and just paint in the lining and the whis symbol
 	-the torso, arms and waist piece from tonsenarttoys gogeta can be used (I might need to swap out the connector pieces from the khs goku into the abdomen cover piece of the tonsen), repainting the wraps to be brighter and reusing the orange sleeve covers from the original Goku figure
 	-Could also recast the bangs from my Super Saiyan Goku and then recast the Gogeta hairsculpt to make a Super Saiyan Blue hairsculpt to use with the Gogeta heads. The bangs would go lower ofc but they'd be connected to the head and cover up the forehead
-- [ ] I can use the Daima Goku left over to make a Cell Saga casual Goku. it won't have the skirt, and potentially the gi piece, which is fine. I then can dye the shoes black, and throw on the GB headsculpt OR recast my custom SSB Goku head to make a mastered SSJ head (can reuse the faces from SSJ Gogeta alongside GB faces).
-	[59 Jacket and undershirt](https://www.aliexpress.com/item/1005009782721805.html?) 20.59
-	[Green pants](https://www.aliexpress.com/item/1005007966254416.html?) 6.23
 - [ ] -Want to buy a second copy of SHF SSJ Vegeta and paint the face/hairs black
 	-Take all the blue parts and dye them gray with [Rit Graphite Dye](https://amzn.eu/d/h9tYV4X) 8 quid (except the neck, torso, forearms and folded arm piece, all of which I'll paint bluish-gray)
 	-resculpt the shoulder braces to be smooth and have white bezels
