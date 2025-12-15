@@ -126,11 +126,9 @@ kanban-plugin: board
 	[(if in stock, buy from here to save on shipping)](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
 - [ ] ![[Pasted image 20251214220539.png]]
 	[SH FIGUARTS Full Power Frieza](https://www.nin-nin-game.com/en/dragon-ball/111469-shfiguarts-dragon-ball-z-freezer-full-power-ver-limited-edition-bandai-spirits-.html) 89.38
-	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94 (releases end of march)
+	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94 (reissue releases end of march)
 - [ ] ![[Pasted image 20251213203229.png]]
-	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005009173410596.html?) 68.19
-	[Alt link](https://a.aliexpress.com/_EumWus8) 54.99
-	[Another alt link](https://a.aliexpress.com/_EJnYtCY) 58.79
+	[TONSENARTTOYS Super Saiyan Gogeta](https://a.aliexpress.com/_EumWus8) 54.99
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
