@@ -97,16 +97,16 @@ kanban-plugin: board
 	*needs mouth sanded flat
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
+- [ ] 258.29
 - [ ] ![[Pasted image 20251213150302.png]]
 	![[Pasted image 20251213150329.png]]
 	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
 	*Need to sand off high-socks and dye legs and short-shorts black
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-- [ ] ![[Pasted image 20251213203229.png]]
-	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
+- [ ] 363.05 (including custom whis gi goku and vegeta)
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -160,7 +160,7 @@ kanban-plugin: board
 	- [Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
 	- [Milliput black Epoxy Putty](https://amzn.eu/d/b2Epf4w) 6.18
 	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
-	- [Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
+	- [Sandpaper for smoothing recasts](https://amzn.eu/d/avedPqe) 5.88
 	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
 - [ ] [How to dye figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
 - [ ] I can recast Misaka Mikoto's frog flip phone to make other flip phones for my figures!!!
