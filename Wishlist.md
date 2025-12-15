@@ -87,48 +87,39 @@ kanban-plugin: board
 	(releases end of february)
 - [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
+- [ ] ![[Pasted image 20251210184420.png]]
+	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
+- [ ] ![[Pasted image 20251212085130.png]]
+	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
+	(releases end of february)
+- [ ] ![[Pasted image 20251212001608.png]]
+	[McFarlane Toys "Troika" Batman](https://www.amazon.co.uk/McFarlane-Multiverse-Batman-Troika-Action/dp/B0DYVRRBG3) 25.99
+	*needs mouth sanded flat
+- [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
+	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
+- [ ] ![[Pasted image 20251213150302.png]]
+	![[Pasted image 20251213150329.png]]
+	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
+	*Need to sand off high-socks and dye legs and short-shorts black
+- [ ] ![[Pasted image 20251210192245.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+- [ ] ![[Pasted image 20251213203229.png]]
+	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
+- [ ] ![[Pasted image 20251212092327.png]]
+	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
+- [ ] ![[Pasted image 20251215082519.png]]
+	[SH FIGUARTS 40th Anniversary Final Form Cooler](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 74.89
+	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94 (reissue releases end of march)
+- [ ] ![[s-l1600 1.jpg]]
+	Buff Martialist 63.75:
+	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
+	-[White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	![[Pasted image 20251210192819.png]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
 	[Four-armed kit](https://www.etsy.com/uk/listing/4345937972/3d-printed-four-arm-adapter-pack-for?ls=a&ref=sold_out_ad-2&plkey=LT68434b23d1dce1262dda8cc9d634ecfcd0525aba%3A4345937972) 7.52
 	[Gun Pack](https://www.etsy.com/uk/listing/1773638139/dummy-13-accessory-set-upgraded-handguns?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-10&pro=1&sts=1&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT206410b3e5da7d1010c0c73555313340eae47997&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT206410b3e5da7d1010c0c73555313340eae47997) 12.22
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
-- [ ] ![[Pasted image 20251210184420.png]]
-	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
-- [ ] ![[Pasted image 20251212001608.png]]
-	[McFarlane Toys "Troika" Batman](https://www.amazon.co.uk/McFarlane-Multiverse-Batman-Troika-Action/dp/B0DYVRRBG3) 25.99
-	*needs mouth sanded flat
-- [ ] ![[Pasted image 20251212072947.png]]
-	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010151080515.html?) 35.29
-	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 21.66 with shipping
-- [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
-	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
-- [ ] ![[Pasted image 20251025183656.png | 200]]
-	[SH FIGUARTS Gamerverse Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 46.82 
-	(releases in march)
-- [ ] ![[Pasted image 20251213151512.png]]
-	[MAFEX 165 Iron Man "Comic Ver."](https://curibo.co.uk/products/marvel-mafex-no-165-iron-man-comic-ver) 130
-- [ ] ![[Pasted image 20251213150302.png]]
-	![[Pasted image 20251213150329.png]]
-	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
-	*Need to sand off high-socks and dye legs and short-shorts black
-- [ ] ![[s-l1600 1.jpg]]
-	Buff Martialist 63.75:
-	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
-	-[White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
-- [ ] ![[Pasted image 20251210192245.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-- [ ] ![[Pasted image 20251212085130.png]]
-	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95
-	(releases may/february depending on choice of distributor)
-	[(if in stock, buy from here to save on shipping)](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
-- [ ] ![[Pasted image 20251214220539.png]]
-	[SH FIGUARTS Full Power Frieza](https://www.nin-nin-game.com/en/dragon-ball/111469-shfiguarts-dragon-ball-z-freezer-full-power-ver-limited-edition-bandai-spirits-.html) 89.38
-	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94 (reissue releases end of march)
-- [ ] ![[Pasted image 20251213203229.png]]
-	[TONSENARTTOYS Super Saiyan Gogeta](https://a.aliexpress.com/_EumWus8) 54.99
-- [ ] ![[Pasted image 20251212092327.png]]
-	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
 	![[Pasted image 20251212074339.png]]
 	"Rome" 23.49
@@ -190,11 +181,11 @@ kanban-plugin: board
 	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also buy [SH FIGUARTS "Unwaivering Saiyan Pride" Super Saiyan Blue Vegeta](https://amzn.eu/d/6XP4cf0) 44.36 for a SSB headsculpt.
 	![[Pasted image 20251215050034.png]]
 	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
-	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010459178805.html?) 55.19
+	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
 	[SH FIGUARTS Son Goku (Daima)](https://hobbyfigures.co.uk/products/dragon-ball-daima-s-h-figuarts-action-figure-son-goku-15cm) 31.95
 	[Vallejo Bright Orange](https://amzn.eu/d/6zmxA5F) 2.95
 	[Vallejo Elf Skintone](https://amzn.eu/d/8CCvmPt) 4.99
-	TOTAL 114.86
+	TOTAL 118.46
 	[[Instructions for Whis Symbol Gi Goku]]
 	
 	I can buy the [SH FIGUARTS Super Saiyan Blue Son Goku](https://www.nin-nin-game.com/en/shfiguarts/210293-shfiguarts-dragon-ball-super-super-saiyan-god-super-saiyan-son-goku-blue-power-transcending-limits-bandai-spirits-.html) 19.78 in July for a SSB headsculpt, and I can reuse the Games Begin SSJ headsculpt.

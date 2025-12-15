@@ -5,4 +5,5 @@
 -Cut off the orange part of KHS Goku's abdomen cover, cut the waist wrap from Tonsen Gogeta in half and then attach them together (make sure the connector for the waist wrap piece is intact).
 -Repaint the wrist wraps from Tonsen Gogeta's torso to match the waist wrap and boots.
 -Paint on the Whis training symbol and lines on the gi.
+-Also need to take the neck peg out of KHS Goku and put it into the neck of the Tonsen Gogeta torso (or if it fits/can be easily adjusted, just use the entire neck from KHS Goku).
 (Note that the shortened waist wrap/abdomen piece will allow for space for the skirt piece while keeping the articulation and visuals intact)
