@@ -98,15 +98,14 @@ kanban-plugin: board
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] 258.29
-- [ ] ![[Pasted image 20251213150302.png]]
-	![[Pasted image 20251213150329.png]]
-	[Kaiyodo Amazing Yamaguchi Misaka Mikoto from Railgun](https://www.amiami.com/eng/detail/?gcode=FIGURE-165429) 52.81
-	*Need to sand off high-socks and dye legs and short-shorts black
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] 368.93 (including custom whis gi goku and vegeta)
+- [ ] 316.12 (including custom whis gi goku and vegeta)
+- [ ] ![[Pasted image 20251215231222.png]]
+	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
+	Saiyan Saga Vegeta release Q1 2026
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -163,7 +162,6 @@ kanban-plugin: board
 	- [Sandpaper for smoothing recasts](https://amzn.eu/d/avedPqe) 5.88
 	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
 - [ ] [How to dye figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
-- [ ] I can recast Misaka Mikoto's frog flip phone to make other flip phones for my figures!!!
 - [ ] ## Whis Gi Vegeta and Son Goku
 	![[Pasted image 20251215051218.png]]
 	![[Pasted image 20251210192245.png]]
