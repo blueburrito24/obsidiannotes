@@ -106,7 +106,7 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] 363.05 (including custom whis gi goku and vegeta)
+- [ ] 368.93 (including custom whis gi goku and vegeta)
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
