@@ -173,7 +173,29 @@ kanban-plugin: board
 	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
 	- [Sandpaper for smoothing recasts](https://amzn.eu/d/eIoUh1u) 3.95
 	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
+- [ ] [How to dye figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
 - [ ] I can recast Misaka Mikoto's frog flip phone to make other flip phones for my figures!!!
+- [ ] ## Whis Gi Vegeta and Son Goku
+	![[Pasted image 20251215051218.png]]
+	![[Pasted image 20251210192245.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+	[SH FIGUARTS Vegeta (Daima)](https://hobbyfigures.co.uk/products/dragon-ball-daima-s-h-figuarts-action-figure-vegeta-14cm) 31.95
+	[Rit Synthetic Dye](https://amzn.eu/d/jkzdPm8) 7.95
+	[Vallejo Deep Yellow](https://amzn.eu/d/aRPOOep) 3.10
+	[Vallejo Yellow Green](https://amzn.eu/d/iXqZznN) 2.83
+	TOTAL 65.64
+	[[Instructions for Whis Symbol Armour Vegeta]]
+	
+	I can later buy the new base form Vegeta for a more quality base form headsculpt.
+	![[Pasted image 20251215050034.png]]
+	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
+	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010459178805.html?) 55.19
+	[SH FIGUARTS Son Goku (Daima)](https://hobbyfigures.co.uk/products/dragon-ball-daima-s-h-figuarts-action-figure-son-goku-15cm) 31.95
+	[Vallejo Bright Orange](https://amzn.eu/d/6zmxA5F) 2.95
+	TOTAL 109.87
+	[[Instructions for Whis Symbol Gi Goku]]
+	
+	I can buy the [SH FIGUARTS Super Saiyan Blue Son Goku](https://www.nin-nin-game.com/en/shfiguarts/210293-shfiguarts-dragon-ball-super-super-saiyan-god-super-saiyan-son-goku-blue-power-transcending-limits-bandai-spirits-.html) 19.78 in July for a SSB headsculpt, and I can reuse the Games Begin SSJ headsculpt.
 
 
 ***
