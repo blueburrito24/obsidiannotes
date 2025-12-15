@@ -186,7 +186,7 @@ kanban-plugin: board
 	TOTAL 65.64
 	[[Instructions for Whis Symbol Armour Vegeta]]
 	
-	I can later buy the new base form Vegeta for a more quality base form headsculpt.
+	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also buy [SH FIGUARTS "Unwaivering Saiyan Pride" Super Saiyan Blue Vegeta](https://amzn.eu/d/6XP4cf0) 44.36 for a SSB headsculpt.
 	![[Pasted image 20251215050034.png]]
 	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010459178805.html?) 55.19
