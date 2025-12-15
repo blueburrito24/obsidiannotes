@@ -190,7 +190,8 @@ kanban-plugin: board
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010459178805.html?) 55.19
 	[SH FIGUARTS Son Goku (Daima)](https://hobbyfigures.co.uk/products/dragon-ball-daima-s-h-figuarts-action-figure-son-goku-15cm) 31.95
 	[Vallejo Bright Orange](https://amzn.eu/d/6zmxA5F) 2.95
-	TOTAL 109.87
+	[Vallejo Elf Skintone](https://amzn.eu/d/8CCvmPt) 4.99
+	TOTAL 114.86
 	[[Instructions for Whis Symbol Gi Goku]]
 	
 	I can buy the [SH FIGUARTS Super Saiyan Blue Son Goku](https://www.nin-nin-game.com/en/shfiguarts/210293-shfiguarts-dragon-ball-super-super-saiyan-god-super-saiyan-son-goku-blue-power-transcending-limits-bandai-spirits-.html) 19.78 in July for a SSB headsculpt, and I can reuse the Games Begin SSJ headsculpt.
