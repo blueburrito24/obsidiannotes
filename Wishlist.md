@@ -142,6 +142,11 @@ kanban-plugin: board
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251213234418.png]]
 	[Tamashii Effect Series Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 20.23
+- [ ] [DBZ Ki Blasts assorted](https://www.aliexpress.com/item/1005005587949907.html?) 
+	![[Pasted image 20251215063014.png]]
+	"1B" 7.99
+	![[Pasted image 20251215063130.png]]
+	"4B" 7.99
 
 
 ## Clothes
