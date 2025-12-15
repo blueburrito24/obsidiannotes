@@ -107,9 +107,6 @@ kanban-plugin: board
 	[TONSENARTTOYS Super Saiyan Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] ![[Pasted image 20251215082519.png]]
-	[SH FIGUARTS 40th Anniversary Final Form Cooler](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 74.89
-	[SH FIGUARTS Legendary Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/190637-shfiguarts-dragon-ball-z-son-goku-ssj-legendary-super-saiyan-ver-reissue-bandai-spirits-.html) 33.94 (reissue releases end of march)
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
