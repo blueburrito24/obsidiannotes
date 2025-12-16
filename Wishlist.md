@@ -106,6 +106,8 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251216022332.png]]
 	[BLACK HOLE TOYS Majin Vegeta (Blue Ver.)](https://www.aliexpress.com/item/1005009366031411.html?) 46.39
 	*I'd like to sand off the muscle veins
+- [ ] ![[Pasted image 20251216160717.png]]
+	[BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99
 - [ ] ## 233.36
 	(ZT Broly, SHF DP Vegeta, SHF KHS Goku, BHT Majin Vegeta, BHT Jiren)
 - [ ] ![[Pasted image 20251214002028.png]]
@@ -178,7 +180,6 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the orange to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
-- [ ] If I make this MUI Goku, I would want to get the [BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99 to go with it (note that this bootleg is shorter than the real deal).
 - [ ] I'll still have all the extra parts so if I want to I can just throw together the original figure designs,
 
 
