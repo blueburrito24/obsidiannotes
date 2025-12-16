@@ -106,9 +106,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026
-- [ ] ![[Pasted image 20251216021332.png]]
-	[TK CUSTOM Ultra Instinct Goku headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 36.49
-	*Would use this with my Whis Gi custom + can take off the upper gi piece for a shirtless look
 - [ ] ![[Pasted image 20251216022332.png]]
 	[BLACK HOLE TOYS Majin Vegeta (Blue Ver.)](https://www.aliexpress.com/item/1005009366031411.html?) 46.39
 	*I'd like to sand off the muscle veins and use the headsculpts to make SSB headsculpts
@@ -179,7 +176,7 @@ kanban-plugin: board
 	TOTAL 65.64
 	[[Instructions for Whis Symbol Armour Vegeta]]
 	
-	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also use the headsculpts from my BHT Majin Vegeta to make SSB headsculpts
+	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also use the headsculpts from my BHT Majin Vegeta to make SSB headsculpts. Using this [Gundam marker/eraser set](https://amzn.eu/d/3F8Eem0) 16.99 I can carefully erase the Majin M and then repaint the eyes and hair as blue.
 	![[Pasted image 20251215050034.png]]
 	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
@@ -190,6 +187,20 @@ kanban-plugin: board
 	[[Instructions for Whis Symbol Gi Goku]]
 	
 	I can buy the [SH FIGUARTS Super Saiyan Blue Son Goku](https://www.nin-nin-game.com/en/shfiguarts/210293-shfiguarts-dragon-ball-super-super-saiyan-god-super-saiyan-son-goku-blue-power-transcending-limits-bandai-spirits-.html) 19.78 in July for a SSB headsculpt, and I can reuse the Games Begin SSJ headsculpt.
+- [ ] ## Custom MUI Goku
+	Image from [elcuarto4to.gamermx](https://www.instagram.com/elcuarto4to.gamermx)
+	![[Pasted image 20251216150247.png]]
+	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
+	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
+	[TK CUSTOM MUI Headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 41.17
+	[SHF Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005007211388879.html?) 18.25
+	TOTAL 149.88
+	Pretty short list of instructions. 
+	-Throw on the Gogeta upper body on the GB lower body (Fill in the holes on the shoulders for a permanent fix).
+	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the orange to match the gi better too).
+	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
+	-Repaint the wrist wraps to match the rest of the outfit.
+- [ ] If I make this MUI Goku, I would want to get the [BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99 to go with it (note that this bootleg is shorter than the real deal).
 
 
 ***
