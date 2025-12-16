@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
 	
-	887.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 453.31gbp (Second Term)
+	1007.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 573.31gbp (Second Term)
 	
 	926.28 \- 300 - 43 for Kalaam app annual \= 583.28gbp (Third Term)
 	
@@ -95,10 +95,12 @@ kanban-plugin: board
 	*needs mouth sanded flat
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
-- [ ] 258.29
+- [ ] 376.50
+	(ML Maximum Spider-Man, ML Spider-Man 2099, ML Dark Avengers Spider-Man, SHF Krillin, Custom MUI Goku, DC Multiverse Batman, MAFEX Superman)
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] 316.12 (including custom whis gi goku and vegeta)
+- [ ] 410.08
+	(ZT Broly, Custom TOP Vegeta, Custom Whis Symbol Goku and Vegeta, BHT Jiren)
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026
