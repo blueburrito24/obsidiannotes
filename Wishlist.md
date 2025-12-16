@@ -193,6 +193,8 @@ kanban-plugin: board
 	-Swap on the KAMIONE Gogeta torso and sand off the wrist wraps.
 	-Use blu-tack to attach the headsculpts from Vegeta.
 	Note I can reuse the base form heads I repainted from the Whis Symbol Vegeta custom AND the blue heads from the repainted BHT Majin Vegeta.
+	*I can take the martial-arts-wrapped arms from KAMIONE Gogeta and modify them to make damaged arms with gloves.
+	Could also get this [RECUSTOM Ultra Ego headsculpt set](https://www.aliexpress.com/item/1005009969446522.html?) 36.89
 - [ ] ## Custom MUI Goku
 	Image from [elcuarto4to.gamermx](https://www.instagram.com/elcuarto4to.gamermx)
 	![[Pasted image 20251216150247.png]]
