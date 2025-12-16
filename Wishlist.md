@@ -200,6 +200,7 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the orange to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
+- [ ] ==I could do this custom in Second Term and not buy a second GB Goku, saving the torso for when I get KHS Goku and throwing them together with a repaint on the torso==
 - [ ] If I make this MUI Goku, I would want to get the [BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99 to go with it (note that this bootleg is shorter than the real deal).
 
 
