@@ -90,12 +90,14 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
 	(releases end of february)
+- [ ] ![[Pasted image 20251214002028.png]]
+	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026
 	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
-- [ ] ## 300.14
-	(ML Maximum Spider-Man, ML Spider-Man 2099, ML Dark Avengers Spider-Man, SHF Krillin, Custom MUI Goku)
+- [ ] ## 310.73
+	(ML Maximum Spider-Man, ML Spider-Man 2099, ML Dark Avengers Spider-Man, SHF Krillin, Custom MUI Goku + custom hands)
 - [ ] ![[Pasted image 20251216155832.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] ![[Pasted image 20251210192245.png]]
@@ -110,8 +112,6 @@ kanban-plugin: board
 	[BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99
 - [ ] ## 233.36
 	(ZT Broly, SHF DP Vegeta, SHF KHS Goku, BHT Majin Vegeta, BHT Jiren)
-- [ ] ![[Pasted image 20251214002028.png]]
-	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
