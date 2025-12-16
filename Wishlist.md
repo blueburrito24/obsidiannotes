@@ -108,6 +108,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251216022332.png]]
 	[BLACK HOLE TOYS Majin Vegeta (Blue Ver.)](https://www.aliexpress.com/item/1005009366031411.html?) 46.39
 	*I'd like to sand off the muscle veins
+	Could buy a second copy to make a TOP style battle damaged version (would just need to sand off some details on the torso and repaint it + add waist wrap)
 - [ ] ![[Pasted image 20251216160717.png]]
 	[BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99
 - [ ] ## 233.36
