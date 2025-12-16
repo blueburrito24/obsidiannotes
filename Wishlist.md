@@ -87,8 +87,6 @@ kanban-plugin: board
 	(releases end of february)
 - [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
-- [ ] ![[Pasted image 20251210184420.png]]
-	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
 	(releases end of february)
@@ -98,8 +96,6 @@ kanban-plugin: board
 - [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
 	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
 - [ ] 258.29
-- [ ] ![[Pasted image 20251210192245.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251212092327.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] 316.12 (including custom whis gi goku and vegeta)
@@ -187,9 +183,19 @@ kanban-plugin: board
 	[[Instructions for Whis Symbol Gi Goku]]
 	
 	I can buy the [SH FIGUARTS Super Saiyan Blue Son Goku](https://www.nin-nin-game.com/en/shfiguarts/210293-shfiguarts-dragon-ball-super-super-saiyan-god-super-saiyan-son-goku-blue-power-transcending-limits-bandai-spirits-.html) 19.78 in July for a SSB headsculpt, and I can reuse the Games Begin SSJ headsculpt.
+- [ ] ## Custom TOP Damaged Vegeta
+	![[Pasted image 20251210192245.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
+	TOTAL 78.60
+	-Recast the LSSJ Goku KO waist piece from the custom MUI Goku and repaint it to match the bright blue bodysuit.
+	-Swap on the KAMIONE Gogeta torso and sand off the wrist wraps.
+	-Use blu-tack to attach the headsculpts from Vegeta.
+	Note I can reuse the base form heads I repainted from the Whis Symbol Vegeta custom AND the blue heads from the repainted BHT Majin Vegeta.
 - [ ] ## Custom MUI Goku
 	Image from [elcuarto4to.gamermx](https://www.instagram.com/elcuarto4to.gamermx)
 	![[Pasted image 20251216150247.png]]
+	![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
 	[TK CUSTOM MUI Headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 41.17
@@ -200,8 +206,6 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the orange to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
-- [ ] I could do this custom in Second Term and just reuse the torso for KHS Goku who I'd be using for Whis Gi Goku. 
-	Would just need to repaint the GB torso piece and shoulder sleeves to match KHS as I would still have the arms and main torso piece from KHS.
 - [ ] If I make this MUI Goku, I would want to get the [BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99 to go with it (note that this bootleg is shorter than the real deal).
 
 
