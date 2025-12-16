@@ -173,6 +173,7 @@ kanban-plugin: board
 	[[Instructions for Whis Symbol Armour Vegeta]]
 	
 	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also use the headsculpts from my BHT Majin Vegeta to make SSB headsculpts. Using this [Gundam marker/eraser set](https://amzn.eu/d/3F8Eem0) 16.99 I can carefully erase the Majin M and then repaint the eyes and hair as blue.
+	Could also paint it as SSBE following [this tutorial](https://www.youtube.com/watch?v=HFTS89Zz-bA).
 	![[Pasted image 20251215050034.png]]
 	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
@@ -207,6 +208,7 @@ kanban-plugin: board
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
 - [ ] If I make this MUI Goku, I would want to get the [BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99 to go with it (note that this bootleg is shorter than the real deal).
+- [ ] I'll still have all the extra parts so if I want to I can just throw together the original figure designs,
 
 
 ***
