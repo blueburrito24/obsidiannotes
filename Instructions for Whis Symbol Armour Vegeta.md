@@ -1,7 +1,0 @@
--Take apart the figure so the blue parts are isolated (arms, upper torso, lower body) and dye gray using Rit Synthetic Dye.
--Resculpt the trap-braces on the upper torso to be smooth and have bezels.
--Repaint the white areas on these body parts.
--Paint the blue part of the neck piece to match the rest of the bodysuit.
--Take the feet off the Daima Vegeta and repaint the yellow parts on that and the DP body using a mix of Deep Yellow and Yellow Green.
--Paint on the Whis Symbol on the chest, and paint the lining on the boots, gloves, pelvis, legs and neck.
--Since this will be my second copy of Dangerous Pride Vegeta, I can repaint the heads to be base form.

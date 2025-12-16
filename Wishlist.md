@@ -90,23 +90,24 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
 	(releases end of february)
-- [ ] ![[Pasted image 20251212001608.png]]
-	[McFarlane Toys "Troika" Batman](https://www.amazon.co.uk/McFarlane-Multiverse-Batman-Troika-Action/dp/B0DYVRRBG3) 25.99
-	*needs mouth sanded flat
-- [ ] ![[{DB787E2E-1A9D-4BD6-9D2C-EFF648C4446D}.png]]
-	[MAFEX TDKR Superman](https://www.hlj.com/mafex-superman-the-dark-knight-returns-medmafex-161) 50.37
-- [ ] 376.50
-	(ML Maximum Spider-Man, ML Spider-Man 2099, ML Dark Avengers Spider-Man, SHF Krillin, Custom MUI Goku, DC Multiverse Batman, MAFEX Superman)
-- [ ] ![[Pasted image 20251212092327.png]]
-	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-- [ ] 410.08
-	(ZT Broly, Custom TOP Vegeta, Custom Whis Symbol Goku and Vegeta, BHT Jiren)
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026
+	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
+- [ ] ## 300.14
+	(ML Maximum Spider-Man, ML Spider-Man 2099, ML Dark Avengers Spider-Man, SHF Krillin, Custom MUI Goku)
+- [ ] ![[Pasted image 20251216155832.png]]
+	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
+- [ ] ![[Pasted image 20251210192245.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+	*Could recast the heads and make some base form heads
+- [ ] ![[Pasted image 20251215050034.png]]
+	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
 - [ ] ![[Pasted image 20251216022332.png]]
 	[BLACK HOLE TOYS Majin Vegeta (Blue Ver.)](https://www.aliexpress.com/item/1005009366031411.html?) 46.39
-	*I'd like to sand off the muscle veins and use the headsculpts to make SSB headsculpts
+	*I'd like to sand off the muscle veins
+- [ ] ## 233.36
+	(ZT Broly, SHF DP Vegeta, SHF KHS Goku, BHT Majin Vegeta, BHT Jiren)
 - [ ] ![[Pasted image 20251214002028.png]]
 	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
 - [ ] ![[s-l1600 1.jpg]]
@@ -163,40 +164,6 @@ kanban-plugin: board
 	- [Sandpaper for smoothing recasts](https://amzn.eu/d/avedPqe) 5.88
 	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
 - [ ] [How to dye figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
-- [ ] ## Whis Gi Vegeta and Son Goku
-	![[Pasted image 20251215051218.png]]
-	![[Pasted image 20251210192245.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-	[SH FIGUARTS Vegeta (Daima)](https://hobbyfigures.co.uk/products/dragon-ball-daima-s-h-figuarts-action-figure-vegeta-14cm) 31.95
-	[Rit Synthetic Dye](https://amzn.eu/d/jkzdPm8) 7.95
-	[Vallejo Deep Yellow](https://amzn.eu/d/aRPOOep) 3.10
-	[Vallejo Yellow Green](https://amzn.eu/d/iXqZznN) 2.83
-	TOTAL 65.64
-	[[Instructions for Whis Symbol Armour Vegeta]]
-	
-	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also use the headsculpts from my BHT Majin Vegeta to make SSB headsculpts. Using this [Gundam marker/eraser set](https://amzn.eu/d/3F8Eem0) 16.99 I can carefully erase the Majin M and then repaint the eyes and hair as blue.
-	Could also paint it as SSBE following [this tutorial](https://www.youtube.com/watch?v=HFTS89Zz-bA).
-	![[Pasted image 20251215050034.png]]
-	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
-	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
-	[SH FIGUARTS Son Goku (Daima)](https://hobbyfigures.co.uk/products/dragon-ball-daima-s-h-figuarts-action-figure-son-goku-15cm) 31.95
-	[Vallejo Bright Orange](https://amzn.eu/d/6zmxA5F) 2.95
-	[Vallejo Elf Skintone](https://amzn.eu/d/8CCvmPt) 4.99
-	TOTAL 118.46
-	[[Instructions for Whis Symbol Gi Goku]]
-	
-	I can buy the [SH FIGUARTS Super Saiyan Blue Son Goku](https://www.nin-nin-game.com/en/shfiguarts/210293-shfiguarts-dragon-ball-super-super-saiyan-god-super-saiyan-son-goku-blue-power-transcending-limits-bandai-spirits-.html) 19.78 in July for a SSB headsculpt, and I can reuse the Games Begin SSJ headsculpt.
-- [ ] ## Custom TOP Damaged Vegeta
-	![[Pasted image 20251210192245.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
-	TOTAL 78.60
-	-Recast the LSSJ Goku KO waist piece from the custom MUI Goku and repaint it to match the bright blue bodysuit.
-	-Swap on the KAMIONE Gogeta torso and sand off the wrist wraps.
-	-Use blu-tack to attach the headsculpts from Vegeta.
-	Note I can reuse the base form heads I repainted from the Whis Symbol Vegeta custom AND the blue heads from the repainted BHT Majin Vegeta.
-	*I can take the martial-arts-wrapped arms from KAMIONE Gogeta and modify them to make damaged arms with gloves.
-	Could also get this [RECUSTOM Ultra Ego headsculpt set](https://www.aliexpress.com/item/1005009969446522.html?) 36.89
 - [ ] ## Custom MUI Goku
 	Image from [elcuarto4to.gamermx](https://www.instagram.com/elcuarto4to.gamermx)
 	![[Pasted image 20251216150247.png]]
