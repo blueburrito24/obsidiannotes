@@ -106,6 +106,14 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026
+- [ ] ![[Pasted image 20251216021332.png]]
+	[TK CUSTOM Ultra Instinct Goku headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 36.49
+	*Would use this with my Whis Gi custom + can take off the upper gi piece for a shirtless look
+- [ ] ![[Pasted image 20251216022332.png]]
+	[BLACK HOLE TOYS Majin Vegeta (Blue Ver.)](https://www.aliexpress.com/item/1005009366031411.html?) 46.39
+	*I'd like to sand off the muscle veins and use the headsculpts to make SSB headsculpts
+- [ ] ![[Pasted image 20251214002028.png]]
+	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -121,8 +129,6 @@ kanban-plugin: board
 	"Rome" 23.49
 	![[Pasted image 20251212074504.png]]
 	"Thin section" 27.29
-- [ ] ![[Pasted image 20251214002028.png]]
-	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251213234418.png]]
@@ -173,7 +179,7 @@ kanban-plugin: board
 	TOTAL 65.64
 	[[Instructions for Whis Symbol Armour Vegeta]]
 	
-	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also buy [SH FIGUARTS "Unwaivering Saiyan Pride" Super Saiyan Blue Vegeta](https://amzn.eu/d/6XP4cf0) 44.36 for a SSB headsculpt.
+	I can later buy the new base form Vegeta for a more quality base form headsculpt, I can also use the headsculpts from my BHT Majin Vegeta to make SSB headsculpts
 	![[Pasted image 20251215050034.png]]
 	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
