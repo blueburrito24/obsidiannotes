@@ -32,12 +32,11 @@ kanban-plugin: board
 	[Batman/Leap print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/leap-batman-dc/) 15usd
 	[Spider-Man 3 print by Acedib](https://www.inprnt.com/gallery/acezdib/sm-300/) 15usd
 	
-	[AYN Thor Max](https://www.ayntec.com/products/ayn-thor?variant=46692546805952) 340.34
-	[AYN Thor Black Vinyl Protector](https://www.etsy.com/uk/listing/4405013719) 20.85
-	![[Pasted image 20251129191715.png]]
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
 	![[26480_LLIFE 1.avif]]
+- [ ] [ANBERNIC RG557](https://www.ebay.co.uk/itm/326755383469?) 273.93
+	![[Pasted image 20251217234626.png]]
 
 
 ## Game Wishlist
