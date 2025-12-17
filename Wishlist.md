@@ -88,9 +88,9 @@ kanban-plugin: board
 - [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
 	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
-- [ ] ![[Pasted image 20251217001217.png]]
+- [ ] ![[Pasted image 20251217195327.png]]
 	[MARVEL LEGENDS Spider-Verse Peter Parker](https://www.instagram.com/p/DSApY00EoQg/?img_index=16) 24.99
-- [ ] ![[Pasted image 20251217001303.png]]
+- [ ] ![[Pasted image 20251217195244.png]]
 	[MARVEL LEGENDS Superior Spider-Man](https://www.aliexpress.com/item/1005009457966015.html?) 36.79
 - [ ] ![[Pasted image 20251217001527.png]]
 	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
