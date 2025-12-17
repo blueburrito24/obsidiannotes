@@ -10,7 +10,7 @@ kanban-plugin: board
 	
 	1007.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 573.31gbp (Second Term)
 	
-	926.28 \- 300 - 43 for Kalaam app annual \= 583.28gbp (Third Term)
+	1046.28 \- 300 - 43 for Kalaam app annual \= 703.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 
@@ -87,36 +87,48 @@ kanban-plugin: board
 	(releases end of february)
 - [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
+	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
+- [ ] ![[Pasted image 20251217001217.png]]
+	[MARVEL LEGENDS Spider-Verse Peter Parker](https://www.instagram.com/p/DSApY00EoQg/?img_index=16) 24.99
+- [ ] ![[Pasted image 20251217001303.png]]
+	[MARVEL LEGENDS Superior Spider-Man](https://www.aliexpress.com/item/1005009457966015.html?) 36.79
+- [ ] ![[Pasted image 20251217001527.png]]
+	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
+- [ ] ![[Pasted image 20251210184420.png]]
+	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
 - [ ] ![[Pasted image 20251212085130.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
 	(releases end of february)
-- [ ] ![[Pasted image 20251214002028.png]]
-	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
-- [ ] ![[Pasted image 20251215231222.png]]
-	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
-	Saiyan Saga Vegeta release Q1 2026
-	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
-- [ ] ## 310.73
-	(ML Maximum Spider-Man, ML Spider-Man 2099, ML Dark Avengers Spider-Man, SHF Krillin, Custom MUI Goku + custom hands)
+- [ ] ![[Pasted image 20251210225046.png]]
+	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
+- [ ] ## 312.77
+	ML Maximum Spider-Man
+	ML Spider-Man 2099
+	ML Dark Avengers Spider-Man + Articulated Feet
+	ML Spider-Verse Peter Parker
+	ML Superior Spider-Man + Articulated Feet
+	ML Iron Spider
+	Web Pack
+	SHF "Games Begin" Super Saiyan Son Goku
+	SHF "Goku's Best Friend" Krillin
 - [ ] ![[Pasted image 20251216155832.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
-- [ ] ![[Pasted image 20251215050034.png]]
-	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.78 (releases end of may)
-- [ ] ![[Pasted image 20251216022332.png]]
-	[BLACK HOLE TOYS Majin Vegeta (Blue Ver.)](https://www.aliexpress.com/item/1005009366031411.html?) 46.39
-	*I'd like to sand off the muscle veins
-	Could buy a second copy to make a TOP style battle damaged version (would just need to sand off some details on the torso and repaint it + add waist wrap)
-- [ ] ![[Pasted image 20251216160717.png]]
-	[BLACK HOLE TOYS Full Power Jiren](https://www.aliexpress.com/item/1005008835451841.html?) 54.99
-- [ ] ## 233.36
-	(ZT Broly, SHF DP Vegeta, SHF KHS Goku, BHT Majin Vegeta, BHT Jiren)
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	-[White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
+- [ ] ## 325.83
+	ZT Broly
+	SHF "Dangerous Pride" Super Saiyan Vegeta
+	Custom SHF MUI Goku
+	"Buff Martialist" ROMANKEY Big Guy
+- [ ] ![[Pasted image 20251215231222.png]]
+	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
+	Saiyan Saga Vegeta release Q1 2026
+	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	![[Pasted image 20251210192819.png]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -128,10 +140,10 @@ kanban-plugin: board
 	"Rome" 23.49
 	![[Pasted image 20251212074504.png]]
 	"Thin section" 27.29
-- [ ] ![[Pasted image 20251210225046.png]]
-	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251213234418.png]]
 	[Tamashii Effect Series Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 20.23
+- [ ] ![[Pasted image 20251214002028.png]]
+	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
 - [ ] [DBZ Ki Blasts assorted](https://www.aliexpress.com/item/1005005587949907.html?) 
 	![[Pasted image 20251215063014.png]]
 	"1B" 7.99
@@ -184,35 +196,10 @@ kanban-plugin: board
 - [ ] I'll still have all the extra parts so if I want to I can just throw together the original figure designs,
 
 
-***
 
-## Archive
-
-- [ ] ![[Pasted image 20251111211154.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 40.61
-	[Cloth cape](https://www.aliexpress.com/item/1005008792432314.html?) 28.04
-- [ ] ![[Pasted image 20251115045809.png]]
-	[SH FIGUARTS "Warrior's Fury" Super Saiyan Goku](https://www.nin-nin-game.com/en/shfiguarts/201657-shfiguarts-dragon-ball-z-super-saiyan-son-goku-warrior-s-fury-ver-limited-edition-bandai-spirits-.html) 53.84
-- [ ] ![[Pasted image 20251107074516.png]]
-	SH FIGUARTS LSSJ Goku Genkidamatsuri Ver. 50~
-	or
-	![[Pasted image 20251106034605.png]]
-	[SH FIGUARTS LEGENDARY SUPER SAIYAN Goku](https://www.spiritkingdom.co.uk/shfiguarts/333-dragon-ball-super-saiyen-son-goky-legendary-super-saiyen-best-selection-shfiguart) 34.99
-	[HM STUDIO SSJ Windy Hair Goku headsculpt](https://www.aliexpress.com/item/1005010080415105.html?) 28.89
-	Need to do [this mod](https://www.youtube.com/watch?v=j6VcolUlBrQ) on the abs and neck for better height and articulation
-- [ ] ![[Pasted image 20251129003804.png]]
-	[DKO SSJ2 Recast](https://www.aliexpress.com/item/1005010443186345.html?) 18.19 or 29.69 with faces
-	(uses 2.0 peg)
-- [ ] ![[the-upcoming-games-begin-super-saiyan-goku-body-with-v0-n7cguh4q4inf1.webp]]
-	[Recustom SSJ3 Hairsculpt](https://www.aliexpress.com/item/1005009484213703.html?) 35.89 (uses KONG peg)
-- [ ] ![[figure-rise-standard-jiren-plastic-model-bandai-.jpg]]
-	[Figure-Rise Standard Jiren](https://www.nin-nin-game.com/en/figures-goodies/35673-figure-rise-standard-jiren-plastic-model-bandai-.html) 59.28
-- [ ] ![[SHF SUPER SAIYAN 4 VEGETA_01.jpg]]
-	[BLACK HOLE TOYS Brute Survivor SSJ4 Goku](https://www.aliexpress.com/item/1005008393242913.html?) 39.89
-	[SH FIGUARTS SSJ4 Vegeta](https://www.aliexpress.com/item/1005008089703073.html?) 60.58
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
 ```
 %%
