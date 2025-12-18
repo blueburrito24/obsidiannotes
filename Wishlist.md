@@ -90,10 +90,10 @@ kanban-plugin: board
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV), note that I need to saw through the lower body using the red-ringed saw attachment on my rotary drill in order to do this waist mod
 - [ ] ![[Pasted image 20251217195327.png]]
 	[MARVEL LEGENDS Spider-Verse Peter Parker](https://amzn.eu/d/fIkn5SF) 24.99
-	*Should [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
+	*Should [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8) and fill in the weblines using my micron pens
 - [ ] ![[Pasted image 20251217195244.png]]
 	[MARVEL LEGENDS Superior Spider-Man](https://www.aliexpress.com/item/1005009457966015.html?) 36.79
-	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV)
+	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and superglue the legged-backpack on
 - [ ] ![[Pasted image 20251217001527.png]]
 	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
