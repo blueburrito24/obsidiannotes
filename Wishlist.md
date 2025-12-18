@@ -25,6 +25,7 @@ kanban-plugin: board
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 	[7 Inch Portable Screen](https://www.aliexpress.com/item/1005007464814035.html?) 31.29
 	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
+	[UGREEN USB Hub](https://amzn.eu/d/2fxiKRG) 9.99
 	[Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
 	[Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
 	[Techniques DBZ Shirt](https://totallynotmark.com/en-gbp/products/techniques) 22.92
@@ -79,6 +80,7 @@ kanban-plugin: board
 	for sanding noses and other details off of figures with complete faces
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
+- [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251218075413.png]]
@@ -112,7 +114,8 @@ kanban-plugin: board
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 372.83
+- [ ] ## 385.82
+	Hairdryer for modding
 	ML Maximum Spider-Man
 	DangITProductions custom Maximum headsculpt x2
 	ML Spider-Man 2099
@@ -149,20 +152,6 @@ kanban-plugin: board
 	[Four-armed kit](https://www.etsy.com/uk/listing/4345937972/3d-printed-four-arm-adapter-pack-for?ls=a&ref=sold_out_ad-2&plkey=LT68434b23d1dce1262dda8cc9d634ecfcd0525aba%3A4345937972) 7.52
 	[Gun Pack](https://www.etsy.com/uk/listing/1773638139/dummy-13-accessory-set-upgraded-handguns?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-10&pro=1&sts=1&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT206410b3e5da7d1010c0c73555313340eae47997&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT206410b3e5da7d1010c0c73555313340eae47997) 12.22
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
-- [ ] [Resin Stone Diorama Displays](https://www.aliexpress.com/item/1005009089361850.html?) 
-	![[Pasted image 20251212074339.png]]
-	"Rome" 23.49
-	![[Pasted image 20251212074504.png]]
-	"Thin section" 27.29
-- [ ] ![[Pasted image 20251213234418.png]]
-	[Tamashii Effect Series Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 20.23
-- [ ] ![[Pasted image 20251214002028.png]]
-	["Three" and Relxaed hand for SHF Goku](https://www.aliexpress.com/item/1005009632352838.html?) 10.59
-- [ ] [DBZ Ki Blasts assorted](https://www.aliexpress.com/item/1005005587949907.html?) 
-	![[Pasted image 20251215063014.png]]
-	"1B" 7.99
-	![[Pasted image 20251215063130.png]]
-	"4B" 7.99
 
 
 ## Clothes
