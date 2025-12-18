@@ -126,6 +126,8 @@ kanban-plugin: board
 	SHF "Goku's Best Friend" Krillin
 - [ ] ![[Pasted image 20251216155832.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
+- [ ] ![[Pasted image 20251218003706.png]]
+	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.84
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
@@ -133,9 +135,10 @@ kanban-plugin: board
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
 	-[White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
-- [ ] ## 325.83
+- [ ] ## 345.67
 	ZT Broly
 	SHF "Dangerous Pride" Super Saiyan Vegeta
+	SHF "Kind-Hearted Saiyan" Son Goku
 	Custom SHF MUI Goku
 	"Buff Martialist" ROMANKEY Big Guy
 - [ ] ![[Pasted image 20251215231222.png]]
