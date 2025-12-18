@@ -36,8 +36,8 @@ kanban-plugin: board
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
 	![[26480_LLIFE 1.avif]]
-- [ ] [ANBERNIC RG557](https://www.ebay.co.uk/itm/326755383469?) 273.93
-	![[Pasted image 20251217234626.png]]
+- [ ] [ANBERNIC RG476H](https://www.aliexpress.com/item/1005007736095871.html) 161.39
+	![[Pasted image 20251218175854.png]]
 
 
 ## Game Wishlist
