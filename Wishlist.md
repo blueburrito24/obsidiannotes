@@ -36,7 +36,7 @@ kanban-plugin: board
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
 	![[26480_LLIFE 1.avif]]
-- [ ] [ANBERNIC RG476H](https://www.aliexpress.com/item/1005007736095871.html) 161.39
+- [ ] [ANBERNIC RG476H](https://www.ebay.co.uk/itm/317461854009) 164.18
 	![[Pasted image 20251218175854.png]]
 
 
@@ -76,8 +76,6 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
-- [ ] [Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
-	for sanding noses and other details off of figures with complete faces
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
@@ -105,16 +103,19 @@ kanban-plugin: board
 	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
 	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
 	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
-	TOTAL 77.71
+	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
+	TOTAL 83.59
 	Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
 	I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set.
 	I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
 	Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
+- [ ] ![[{6329B2FE-FFD0-472F-807B-CA24BF8807AD}.png]]
+	[Revoltech Expansion Pack Vol. 1](https://www.aliexpress.com/item/1005009759684830.html) 25.09
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 385.82
+- [ ] ## 416.79
 	Hairdryer for modding
 	ML Maximum Spider-Man
 	DangITProductions custom Maximum headsculpt x2
@@ -124,6 +125,7 @@ kanban-plugin: board
 	ML Iron Spider
 	ML "Maximum" Agent Venom
 	Web Pack
+	Revoltech Weapons Expansion Pack Vol. 1 
 	SHF "Games Begin" Super Saiyan Son Goku
 - [ ] ![[Pasted image 20251216155832.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
