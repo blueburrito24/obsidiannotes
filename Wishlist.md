@@ -103,9 +103,11 @@ kanban-plugin: board
 	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
 	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
 	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
-	TOTAL 62.42
+	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
+	TOTAL 77.71
 	Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
 	I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set.
+	Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
 - [ ] ![[Pasted image 20251212085130.png]]
@@ -113,7 +115,7 @@ kanban-plugin: board
 	(releases end of february)
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 367.19
+- [ ] ## 392.48
 	ML Maximum Spider-Man
 	ML Spider-Man 2099
 	ML Dark Avengers Spider-Man + Articulated Feet
