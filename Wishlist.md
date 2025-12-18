@@ -81,6 +81,8 @@ kanban-plugin: board
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
+- [ ] ![[Pasted image 20251218075413.png]]
+	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
 - [x] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99
 	(releases end of february)
@@ -88,9 +90,6 @@ kanban-plugin: board
 	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
 	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV), note that I need to saw through the lower body using the red-ringed saw attachment on my rotary drill in order to do this waist mod
-- [ ] ![[Pasted image 20251217195327.png]]
-	[MARVEL LEGENDS Spider-Verse Peter Parker](https://amzn.eu/d/fIkn5SF) 24.99
-	*Should [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8) and fill in the weblines using my micron pens
 - [ ] ![[Pasted image 20251217195244.png]]
 	[MARVEL LEGENDS Superior Spider-Man](https://www.aliexpress.com/item/1005009457966015.html?) 36.79
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and superglue the legged-backpack on
@@ -107,25 +106,22 @@ kanban-plugin: board
 	TOTAL 77.71
 	Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
 	I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set.
+	I'm also going to sand off the webs and add fangs to the lenses of the second DangITProductions headsculpt I bought and use that for Agent Venom.
 	Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
-- [ ] ![[Pasted image 20251212085130.png]]
-	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 47.41
-	(releases end of february)
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 392.48
+- [ ] ## 372.83
 	ML Maximum Spider-Man
+	DangITProductions custom Maximum headsculpt x2
 	ML Spider-Man 2099
 	ML Dark Avengers Spider-Man + Articulated Feet
-	ML Spider-Verse Peter Parker
 	ML Superior Spider-Man
 	ML Iron Spider
 	ML "Maximum" Agent Venom
 	Web Pack
 	SHF "Games Begin" Super Saiyan Son Goku
-	SHF "Goku's Best Friend" Krillin
 - [ ] ![[Pasted image 20251216155832.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 - [ ] ![[Pasted image 20251218003706.png]]
