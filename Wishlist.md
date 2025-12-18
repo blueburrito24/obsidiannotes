@@ -89,7 +89,7 @@ kanban-plugin: board
 	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV), note that I need to saw through the lower body using the red-ringed saw attachment on my rotary drill in order to do this waist mod
 - [ ] ![[Pasted image 20251217195327.png]]
-	[MARVEL LEGENDS Spider-Verse Peter Parker](https://www.instagram.com/p/DSApY00EoQg/?img_index=16) 24.99
+	[MARVEL LEGENDS Spider-Verse Peter Parker](https://amzn.eu/d/fIkn5SF) 24.99
 	*Should [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
 - [ ] ![[Pasted image 20251217195244.png]]
 	[MARVEL LEGENDS Superior Spider-Man](https://www.aliexpress.com/item/1005009457966015.html?) 36.79
