@@ -86,10 +86,6 @@ kanban-plugin: board
 - [x] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99
 	(releases end of february)
-- [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
-	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
-	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
-	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV), note that I need to saw through the lower body using the red-ringed saw attachment on my rotary drill in order to do this waist mod
 - [ ] ![[Pasted image 20251217212103.png]]
 	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
 	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
@@ -113,7 +109,6 @@ kanban-plugin: board
 	ML Maximum Spider-Man
 	DangITProductions custom Maximum headsculpt x2
 	ML Spider-Man 2099
-	ML Dark Avengers Spider-Man + Articulated Feet
 	ML "Maximum" Agent Venom
 	Web Pack
 	SHF "Games Begin" Super Saiyan Son Goku
@@ -140,6 +135,10 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251217001527.png]]
 	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
+- [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
+	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
+	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
+	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV), note that I need to saw through the lower body using the red-ringed saw attachment on my rotary drill in order to do this waist mod
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026
