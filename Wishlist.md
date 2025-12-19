@@ -135,8 +135,8 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
-- [ ] ## 478.63
-	ZT Broly + DKO Heads x2 (both green and yellow)
+- [ ] ## 442.34
+	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
 	Custom SHF Broly Movie 2 Gohan
