@@ -105,9 +105,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251217001527.png]]
 	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
-- [ ] ![[{23F77D7E-CA0F-450A-917B-46FEEA600168}.png]]
-	[DC MULTIVERSE "Troika" Batman](https://amzn.eu/d/dTyJgGT) 25.99
-	*Need to sand off mouth and would like to remove skintone on face
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
 - [ ] ![[Pasted image 20251215231222.png]]
@@ -116,7 +113,13 @@ kanban-plugin: board
 	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 397.91
+- [ ] ![[Pasted image 20251218234917.png]]
+	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
+- [ ] ![[Pasted image 20251218235734.png]]
+	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
+- [ ] ## 409.37
+	GOOD SMILE Oguri Cap Plush 9.47
+	BANDAI Oguri Cap BIG Plush 27.98
 	Hairdryer for modding
 	ML Maximum Spider-Man
 	DangITProductions custom Maximum headsculpt x2
@@ -124,9 +127,11 @@ kanban-plugin: board
 	ML "Maximum" Agent Venom
 	ML Iron Spider
 	Web Pack
-	DC Multiverse "Troika" Batman
 	SHF "Games Begin" Super Saiyan Son Goku
 	WOW Studio Saiyan Saga Vegeta
+- [ ] ![[{23F77D7E-CA0F-450A-917B-46FEEA600168}.png]]
+	[DC MULTIVERSE "Troika" Batman](https://amzn.eu/d/dTyJgGT) 25.99
+	*Need to sand off mouth and would like to remove skintone on face
 - [ ] ![[Pasted image 20251216155832.png]]
 	![[Pasted image 20251219004822.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
@@ -136,7 +141,8 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
-- [ ] ## 318.21
+- [ ] ## 344.20
+	DC Multiverse "Troika" Batman
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Kind-Hearted Saiyan" Son Goku
@@ -156,10 +162,6 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[{6329B2FE-FFD0-472F-807B-CA24BF8807AD}.png]]
 	[Revoltech Expansion Pack Vol. 1](https://www.aliexpress.com/item/1005009759684830.html) 25.09
-- [ ] ![[Pasted image 20251218234917.png]]
-	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47
-- [ ] ![[Pasted image 20251218235734.png]]
-	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98
 
 
 ## Clothes
