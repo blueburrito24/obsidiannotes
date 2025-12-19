@@ -135,13 +135,11 @@ kanban-plugin: board
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
-- [ ] ## 409.80
+- [ ] ## 312.06
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF Oguri Cap
-	Custom MUI Goku upgrade for GB Goku
-	Custom Movie 2 Gohan
-	HM STUDIO Recast Beast Gohan headsculpts
+	Custom MUI Goku Upgrade Kit
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026 50~
@@ -197,27 +195,15 @@ kanban-plugin: board
 	TOTAL 109.13
 	Pretty short list of instructions. 
 	-Throw on the Gogeta upper body on the GB lower body (Fill in the holes on the shoulders for a permanent fix).
-	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the orange to match the gi better too).
+	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
-- [ ] ## CUSTOM Broly Movie 2 Gohan
-	![[Pasted image 20251219035840.png]]
-	[SH FIGUARTS SUPER HERO Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 45.05
-	[Vallejo Yellow Set](https://amzn.eu/d/1DWFl7Q) 11.95
-	[Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
-	TOTAL 64.95
-	-Using the lower body from TONSENARTTOYS Gogeta, I can heat up, take apart and repaint the legs using my Dark Prussian Blue alongside repainting SHF Gohan's torso with the same blue.
-	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
-	-Repaint the leg wraps with a mix of white and blue.
-	-Recast the SHF Gohan hairsculpt and paint the recast to match the TONSENARTTOYS Gogeta's SSJ faceplates. I can also reuse the TONSENARTTOYS Gogeta's base faceplates.
-- [ ] ![[{7CC04B34-D665-49DD-A205-9E7B5094BD39}.png]]
-	[HM STUDIO Recast Beast Gohan headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
