@@ -3,9 +3,10 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "Remote-Folder/Books"
-    order: []
+        - file.folder.contains("Books")
+    order:
+      - title
+      - author
+      - link
     image: note.coverUrl
-    imageAspectRatio: 1.5
-    imageFit: ""
-    cardSize: 150
+    imageAspectRatio: 1.7

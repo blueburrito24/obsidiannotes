@@ -40,3 +40,16 @@ Includes same info as my CV, links to my github and shows off my artworks + thum
 Doesn't need to be super formal, can have fun UI design and random trinkets around like icons and ALSOOO include content in small windows on-screen that can be resized and moved around.
 Black forest background with red sparkles and red logos. Webs around the top and bottom borders and the sparkles fall from the webs.
 As the user scrolls, a spider crawls down a single webline that falls from the header webs.
+
+Tetris:
+Tetris but you control the blocks with your mouse-
+you move around with the mouse, you right click to rotate, you left click to place 
+you can place the blocks at any point on the screen, you can draw with the blocks 
+blocks disappear when you connect to many, so you have to draw carefully, if you use too much space then the game ends like normal Tetris
+
+tetris in java, tetris in python
+tetris as an android app (jetpack compose)
+tetris as a html/css/js website
+
+tetris x snake
+you place blocks to make a path to the apple. there is no ground so you go up and down endlessly til you make a decision. kotlin multiplatform
