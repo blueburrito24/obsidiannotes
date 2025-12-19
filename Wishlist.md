@@ -218,6 +218,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
 ```
 %%
