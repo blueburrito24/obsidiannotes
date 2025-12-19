@@ -102,17 +102,26 @@ kanban-plugin: board
 	I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set.
 	I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
 	Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
+- [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
+	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
+	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
+	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV), note that I need to saw through the lower body using the red-ringed saw attachment on my rotary drill in order to do this waist mod
+- [ ] ![[{23F77D7E-CA0F-450A-917B-46FEEA600168}.png]]
+	[DC MULTIVERSE "Troika" Batman](https://amzn.eu/d/dTyJgGT) 25.99
+	*Need to sand off mouth and would like to remove skintone on face
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 287.68
+- [ ] ## 346.66
 	Hairdryer for modding
 	ML Maximum Spider-Man
 	DangITProductions custom Maximum headsculpt x2
 	ML Spider-Man 2099
 	ML "Maximum" Agent Venom
+	ML Dark Avengers Spider-Man + Articulated Feet
 	Web Pack
+	DC Multiverse "Troika" Batman
 	SHF "Games Begin" Super Saiyan Son Goku
 - [ ] ![[Pasted image 20251216155832.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
@@ -137,10 +146,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251217001527.png]]
 	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
-- [ ] ![[{2D1F8D96-CD3D-4C22-8533-EBA6326733DF}.png]]
-	[MARVEL LEGENDS Dark Avengers Spider-Man](https://amzn.eu/d/eBilaEv) 24.99
-	[Articulated Feet](https://www.etsy.com/uk/listing/1675366287/retro-articulated-toes-pair-for-112?ref=shop_home_active_2&crt=1&logging_key=a1c08352926f1e18c734bf6f0c1d61eacd4a77a8%3A1675366287) 8
-	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV), note that I need to saw through the lower body using the red-ringed saw attachment on my rotary drill in order to do this waist mod
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026
