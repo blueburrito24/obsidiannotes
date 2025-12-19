@@ -134,18 +134,16 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
-- [ ] ## 442.34
+- [ ] ![[Pasted image 20251219091434.png]]
+	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://www.ebay.co.uk/itm/389259354384) 104.11
+- [ ] ## 487.91
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
+	Blue Stuff
 	Custom SHF Broly Movie 2 Gohan
 	Custom SHF MUI Goku
-- [ ] ![[Pasted image 20251217195244.png]]
-	[MARVEL LEGENDS Superior Spider-Man](https://www.aliexpress.com/item/1005009457966015.html?) 36.79
-	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and superglue the legged-backpack on
-- [ ] ![[{23F77D7E-CA0F-450A-917B-46FEEA600168}.png]]
-	[DC MULTIVERSE "Troika" Batman](https://amzn.eu/d/dTyJgGT) 25.99
-	*Need to sand off mouth and would like to remove skintone on face
+	SHF Oguri Cap
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026 50~
@@ -195,12 +193,11 @@ kanban-plugin: board
 - [ ] ## Custom MUI Goku
 	Image from [elcuarto4to.gamermx](https://www.instagram.com/elcuarto4to.gamermx)
 	![[Pasted image 20251216150247.png]]
-	![[Pasted image 20251210184420.png]]
-	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
+	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
-	[TK CUSTOM MUI Headsculpts](https://www.aliexpress.com/item/1005008309224920.html?) 41.17
+	[TK CUSTOM MUI Headsculpts](https://www.aliexpress.com/item/1005009973688914.html) 34.09
 	[SHF Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005007211388879.html?) 18.25
-	TOTAL 149.88
+	TOTAL 139.08
 	Pretty short list of instructions. 
 	-Throw on the Gogeta upper body on the GB lower body (Fill in the holes on the shoulders for a permanent fix).
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the orange to match the gi better too).
@@ -210,20 +207,18 @@ kanban-plugin: board
 - [ ] ## CUSTOM Broly Movie 2 Gohan
 	![[Pasted image 20251219035840.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 45.05
-	[BLACK HOLE TOYS Son Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 35.79
-	[Vallejo Green Set](https://amzn.eu/d/ivvENYO) 11.95
 	[Vallejo Yellow Set](https://amzn.eu/d/1DWFl7Q) 11.95
-	TOTAL 104.74
+	TOTAL 57
 	-Using the lower body from TONSENARTTOYS Gogeta, I can heat up, take apart and repaint the legs using my Dark Prussian Blue alongside repainting SHF Gohan's torso with the same blue.
 	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
 	-Repaint the leg wraps with a mix of white and blue.
-	-Repaint the BLACK HOLE TOYS headsculpts to be Super Saiyan (painting the hair yellow and eyes green).
+	-Recast the SHF Gohan hairsculpt and paint the recast to match the TONSENARTTOYS Gogeta's SSJ faceplates. I can also reuse the TONSENARTTOYS Gogeta's base faceplates.
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
