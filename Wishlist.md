@@ -98,7 +98,7 @@ kanban-plugin: board
 - [ ] ## 285.67
 	GOOD SMILE Oguri Cap Plush
 	BANDAI Oguri Cap BIG Plush
-	SHF "Games Begin" Super Saiyan Son Goku
+	SHF "Games Begin" Super Saiyan Son Goku (imported)
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	Hairdryer for modding
