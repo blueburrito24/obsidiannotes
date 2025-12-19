@@ -117,8 +117,8 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251218235734.png]]
 	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
 - [ ] ## 363.64
-	GOOD SMILE Oguri Cap Plush 9.47
-	BANDAI Oguri Cap BIG Plush 27.98
+	GOOD SMILE Oguri Cap Plush
+	BANDAI Oguri Cap BIG Plush
 	Hairdryer for modding
 	ML Maximum Spider-Man
 	DangITProductions custom Maximum headsculpt x2
@@ -134,8 +134,8 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219091434.png]]
-	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://www.ebay.co.uk/itm/389259354384) 104.11
-- [ ] ## 459.47
+	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
+- [ ] ## 409.80
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF Oguri Cap
@@ -146,10 +146,6 @@ kanban-plugin: board
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026 50~
 	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
-- [ ] ![[s-l1600 1.jpg]]
-	Buff Martialist 63.75:
-	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
-	-[White Gi](https://www.aliexpress.com/item/1005010020137745.html?) 14.43
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	![[Pasted image 20251210192819.png]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -158,6 +154,10 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[{6329B2FE-FFD0-472F-807B-CA24BF8807AD}.png]]
 	[Revoltech Expansion Pack Vol. 1](https://www.aliexpress.com/item/1005009759684830.html) 25.09
+- [ ] ![[{A80304E0-E94B-4672-B6C1-3801B8A32D6B}.png]]
+	[DBZ Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
+- [ ] ![[{87DDA883-6816-46D1-8C98-BD91F2B2E525}.png]]
+	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
 
 
 ## Clothes
