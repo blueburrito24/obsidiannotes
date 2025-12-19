@@ -134,9 +134,12 @@ kanban-plugin: board
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://www.ebay.co.uk/itm/389259354384) 104.11
-- [ ] ## 456.63
+- [ ] ![[{7CC04B34-D665-49DD-A205-9E7B5094BD39}.png]]
+	[HM STUDIO Recast Beast Gohan headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
+- [ ] ## 489.42
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
+	HM STUDIO Recast Beast Gohan heads
 	Blue Stuff
 	Custom SHF Broly Movie 2 Gohan
 	Custom SHF MUI Goku
