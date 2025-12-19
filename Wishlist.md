@@ -84,7 +84,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251218075413.png]]
 	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
 	![[Pasted image 20251219002358.png]]
-	Could also repaint logo to look like the Fortnite skin's logo (would need to draw in the webs ofc).
+	I also want to repaint the spider logo. I would need to paint out the original legs then thin the body of the logo, add thick legs and separate them into the pairs of legs on each end.
 - [x] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99
 	(releases end of february)
