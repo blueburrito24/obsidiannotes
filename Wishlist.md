@@ -147,12 +147,12 @@ kanban-plugin: board
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219034331.png]]
 	[SH FIGUARTS "The Fighter Who Surpassed Goku" Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 38.59
-- [ ] ## 452.11
+- [ ] ## 422.02
 	DC Multiverse "Troika" Batman
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
-	SHF "Kind-Hearted Saiyan" Son Goku + NAN&T Kit
+	SHF "Kind-Hearted Saiyan" Son Goku
 	SHF "The Fighter Who Surpassed Goku" Super Saiyan Son Gohan
 	Custom SHF MUI Goku
 - [ ] ![[Pasted image 20251217195244.png]]
