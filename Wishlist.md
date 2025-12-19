@@ -131,7 +131,9 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ## 273.57
-	
+	ML Maximum Spider-Man
+	DangITProductions custom Maximum headsculpt x2
+	ML "Maximum" Agent Venom
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
