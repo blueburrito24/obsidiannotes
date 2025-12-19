@@ -126,10 +126,9 @@ kanban-plugin: board
 	ML Iron Spider
 	Web Pack
 	SHF "Games Begin" Super Saiyan Son Goku
-- [ ] ![[Pasted image 20251216155832.png]]
-	![[Pasted image 20251219004822.png]]
+- [ ] ![[Pasted image 20251219004822.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
-	[DKO LSSJ Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
+	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
 - [ ] ![[Pasted image 20251219033857.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 39.23 (releases end of may)
 - [ ] ![[Pasted image 20251210192245.png]]
