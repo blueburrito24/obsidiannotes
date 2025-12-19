@@ -140,8 +140,6 @@ kanban-plugin: board
 	[DKO LSSJ Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
 - [ ] ![[Pasted image 20251218003706.png]]
 	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.84 (releases end of may)
-	[NAN&T Future Gohan kit](https://www.aliexpress.com/item/1005010472702587.html) 30.09
-	*I'm going to use torso parts from this Future Gohan kit to make KHS Goku look like Saiyan Saga Goku to pair with WOW Vegeta (logos aren't a match but it's fine)
 - [ ] ![[Pasted image 20251219033857.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 39.23 (releases end of may)
 - [ ] ![[Pasted image 20251210192245.png]]
@@ -149,12 +147,12 @@ kanban-plugin: board
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219034331.png]]
 	[SH FIGUARTS "The Fighter Who Surpassed Goku" Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 38.59
-- [ ] ## 422.02
+- [ ] ## 452.11
 	DC Multiverse "Troika" Batman
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
-	SHF "Kind-Hearted Saiyan" Son Goku
+	SHF "Kind-Hearted Saiyan" Son Goku + NAN&T Kit
 	SHF "The Fighter Who Surpassed Goku" Super Saiyan Son Gohan
 	Custom SHF MUI Goku
 - [ ] ![[Pasted image 20251217195244.png]]
