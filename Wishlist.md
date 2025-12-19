@@ -129,17 +129,14 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251219004822.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
-- [ ] ![[Pasted image 20251219033857.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 39.23 (releases end of may)
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://www.ebay.co.uk/itm/389259354384) 104.11
-- [ ] ## 487.91
+- [ ] ## 456.63
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	SHF "Proud Namekian" Piccolo
 	Blue Stuff
 	Custom SHF Broly Movie 2 Gohan
 	Custom SHF MUI Goku
@@ -219,6 +216,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
 ```
 %%
