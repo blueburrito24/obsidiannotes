@@ -116,7 +116,7 @@ kanban-plugin: board
 	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
 - [ ] ![[Pasted image 20251218235734.png]]
 	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
-- [ ] ## 365.36
+- [ ] ## 363.64
 	GOOD SMILE Oguri Cap Plush 9.47
 	BANDAI Oguri Cap BIG Plush 27.98
 	Hairdryer for modding
