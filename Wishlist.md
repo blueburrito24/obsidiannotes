@@ -96,10 +96,11 @@ kanban-plugin: board
 	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
 	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
 	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
-	TOTAL 83.59
+	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
+	TOTAL 89.58
 	Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
 	Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
-	I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set.
+	I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
 	I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
 	Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 - [ ] ![[Pasted image 20251217001527.png]]
@@ -117,7 +118,7 @@ kanban-plugin: board
 	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
 - [ ] ![[Pasted image 20251218235734.png]]
 	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
-- [ ] ## 409.37
+- [ ] ## 415.36
 	GOOD SMILE Oguri Cap Plush 9.47
 	BANDAI Oguri Cap BIG Plush 27.98
 	Hairdryer for modding
