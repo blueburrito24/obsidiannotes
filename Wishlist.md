@@ -135,11 +135,12 @@ kanban-plugin: board
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
-- [ ] ## 312.06
+- [ ] ## 342.01
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	SHF Oguri Cap
+	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
+	SHF Oguri Cap
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026 50~
@@ -204,6 +205,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
 ```
 %%
