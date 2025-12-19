@@ -109,17 +109,13 @@ kanban-plugin: board
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.67
-- [ ] ![[Pasted image 20251215231222.png]]
-	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
-	Saiyan Saga Vegeta release Q1 2026 50~
-	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251218234917.png]]
 	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
 - [ ] ![[Pasted image 20251218235734.png]]
 	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
-- [ ] ## 415.36
+- [ ] ## 365.36
 	GOOD SMILE Oguri Cap Plush 9.47
 	BANDAI Oguri Cap BIG Plush 27.98
 	Hairdryer for modding
@@ -130,34 +126,31 @@ kanban-plugin: board
 	ML Iron Spider
 	Web Pack
 	SHF "Games Begin" Super Saiyan Son Goku
-	WOW Studio Saiyan Saga Vegeta
-- [ ] ![[{23F77D7E-CA0F-450A-917B-46FEEA600168}.png]]
-	[DC MULTIVERSE "Troika" Batman](https://amzn.eu/d/dTyJgGT) 25.99
-	*Need to sand off mouth and would like to remove skintone on face
 - [ ] ![[Pasted image 20251216155832.png]]
 	![[Pasted image 20251219004822.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010192150928.html?) 92.39
 	[DKO LSSJ Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
-- [ ] ![[Pasted image 20251218003706.png]]
-	[SH FIGUARTS "Kind-Hearted Saiyan" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) 19.84 (releases end of may)
 - [ ] ![[Pasted image 20251219033857.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 39.23 (releases end of may)
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
-- [ ] ![[Pasted image 20251219034331.png]]
-	[SH FIGUARTS "The Fighter Who Surpassed Goku" Super Saiyan Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/163033-shfiguarts-dragon-ball-z-son-gohan-ssj-the-fighter-who-surpassed-goku-ver-reissue-bandai-spirits-.html) 38.59
-- [ ] ## 458.31
-	DC Multiverse "Troika" Batman
+- [ ] ## 478.63
 	ZT Broly + DKO Heads x2 (both green and yellow)
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
-	SHF "Kind-Hearted Saiyan" Son Goku
-	SHF "The Fighter Who Surpassed Goku" Super Saiyan Son Gohan
+	Custom SHF Broly Movie 2 Gohan
 	Custom SHF MUI Goku
 - [ ] ![[Pasted image 20251217195244.png]]
 	[MARVEL LEGENDS Superior Spider-Man](https://www.aliexpress.com/item/1005009457966015.html?) 36.79
 	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and superglue the legged-backpack on
+- [ ] ![[{23F77D7E-CA0F-450A-917B-46FEEA600168}.png]]
+	[DC MULTIVERSE "Troika" Batman](https://amzn.eu/d/dTyJgGT) 25.99
+	*Need to sand off mouth and would like to remove skintone on face
+- [ ] ![[Pasted image 20251215231222.png]]
+	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
+	Saiyan Saga Vegeta release Q1 2026 50~
+	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
 - [ ] ![[s-l1600 1.jpg]]
 	Buff Martialist 63.75:
 	-[ROMANKEY Big Guy 1/12 Base Body](https://www.aliexpress.com/item/1005009131651157.html?) 49.32
@@ -215,6 +208,17 @@ kanban-plugin: board
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
 - [ ] I'll still have all the extra parts so if I want to I can just throw together the original figure designs,
+- [ ] ## CUSTOM Broly Movie 2 Gohan
+	![[Pasted image 20251219035840.png]]
+	[SH FIGUARTS SUPER HERO Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 45.05
+	[BLACK HOLE TOYS Son Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 35.79
+	[Vallejo Green Set](https://amzn.eu/d/ivvENYO) 11.95
+	[Vallejo Yellow Set](https://amzn.eu/d/1DWFl7Q) 11.95
+	TOTAL 104.74
+	-Using the lower body from TONSENARTTOYS Gogeta, I can heat up, take apart and repaint the legs using my Dark Prussian Blue alongside repainting SHF Gohan's torso with the same blue.
+	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
+	-Repaint the leg wraps with a mix of white and blue.
+	-Repaint the BLACK HOLE TOYS headsculpts to be Super Saiyan (painting the hair yellow and eyes green).
 
 
 
