@@ -135,16 +135,13 @@ kanban-plugin: board
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://www.ebay.co.uk/itm/389259354384) 104.11
-- [ ] ![[{7CC04B34-D665-49DD-A205-9E7B5094BD39}.png]]
-	[HM STUDIO Recast Beast Gohan headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
-- [ ] ## 489.42
+- [ ] ## 459.47
 	ZT Broly + DKO Heads
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	HM STUDIO Recast Beast Gohan heads
-	Blue Stuff
-	Custom SHF Broly Movie 2 Gohan
-	Custom SHF MUI Goku
 	SHF Oguri Cap
+	Custom MUI Goku upgrade for GB Goku
+	Custom Movie 2 Gohan
+	HM STUDIO Recast Beast Gohan headsculpts
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026 50~
@@ -191,35 +188,36 @@ kanban-plugin: board
 	- [Sandpaper for smoothing recasts](https://amzn.eu/d/avedPqe) 5.88
 	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
 - [ ] [How to dye figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
-- [ ] ## Custom MUI Goku
-	Image from [elcuarto4to.gamermx](https://www.instagram.com/elcuarto4to.gamermx)
+- [ ] ## Custom MUI Goku Upgrade Kit
+	Image from [elcuarto4to.gamermx](https://www.instagram.com/p/DSUHp_SjULy/)
 	![[Pasted image 20251216150247.png]]
-	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
 	[TK CUSTOM MUI Headsculpts](https://www.aliexpress.com/item/1005009973688914.html) 34.09
 	[SHF Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005007211388879.html?) 18.25
-	TOTAL 139.08
+	TOTAL 109.13
 	Pretty short list of instructions. 
 	-Throw on the Gogeta upper body on the GB lower body (Fill in the holes on the shoulders for a permanent fix).
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the orange to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
-- [ ] I'll still have all the extra parts so if I want to I can just throw together the original figure designs,
 - [ ] ## CUSTOM Broly Movie 2 Gohan
 	![[Pasted image 20251219035840.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 45.05
 	[Vallejo Yellow Set](https://amzn.eu/d/1DWFl7Q) 11.95
-	TOTAL 57
+	[Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
+	TOTAL 64.95
 	-Using the lower body from TONSENARTTOYS Gogeta, I can heat up, take apart and repaint the legs using my Dark Prussian Blue alongside repainting SHF Gohan's torso with the same blue.
 	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
 	-Repaint the leg wraps with a mix of white and blue.
 	-Recast the SHF Gohan hairsculpt and paint the recast to match the TONSENARTTOYS Gogeta's SSJ faceplates. I can also reuse the TONSENARTTOYS Gogeta's base faceplates.
+- [ ] ![[{7CC04B34-D665-49DD-A205-9E7B5094BD39}.png]]
+	[HM STUDIO Recast Beast Gohan headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
