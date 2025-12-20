@@ -88,22 +88,23 @@ kanban-plugin: board
 	[Imported](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 40.86 with shipping
 - [ ] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99 (releases in february)
+- [ ] ![[photo 1.jpg]]
+	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251218234917.png]]
 	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
 - [ ] ![[Pasted image 20251218235734.png]]
 	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
-- [ ] ## 285.67
+- [ ] ## 338.54
 	GOOD SMILE Oguri Cap Plush
 	BANDAI Oguri Cap BIG Plush
 	SHF "Games Begin" Super Saiyan Son Goku (imported)
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
+	ML Maximum Spider-Man
 	Hairdryer for modding
 	Web Pack
-- [ ] ![[photo 1.jpg]]
-	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251218075413.png]]
 	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
 	![[Pasted image 20251219002358.png]]
@@ -136,8 +137,7 @@ kanban-plugin: board
 	[SH FIGUARTS Ichigo Hoshimiya from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-021761-R) 23.89
 - [ ] ![[Pasted image 20251220012355.png]]
 	[SH FIGUARTS Juri Kurebayashi from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-037313-R) 20.99
-- [ ] ## 353.22
-	ML Maximum Spider-Man
+- [ ] ## 300.35
 	DangITProductions custom Maximum headsculpt x2
 	ML "Maximum" Agent Venom
 	ML Iron Spider
