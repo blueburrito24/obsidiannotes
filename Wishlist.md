@@ -86,9 +86,8 @@ kanban-plugin: board
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 	OR if I want to get it ASAP
 	[Imported](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 40.86 with shipping
-- [x] ![[photo 2.jpg]]
-	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99
-	(releases end of february)
+- [ ] ![[photo 2.jpg]]
+	[MARVEL LEGENDS Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99 (releases in february)
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
 - [ ] ![[Pasted image 20251218234917.png]]
@@ -208,7 +207,13 @@ kanban-plugin: board
 	-Repaint the wrist wraps to match the rest of the outfit.
 
 
+***
 
+## Archive
+
+- [x] ![[photo 2.jpg]]
+	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99
+	(releases end of february)
 
 %% kanban:settings
 ```
