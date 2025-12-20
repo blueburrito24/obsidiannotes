@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
 	
-	1007.31 \- 300 - [AMAU student of knowledge annual membership for 134](https://www.amauacademy.com/pages/plans) \= 573.31gbp (Second Term)
+	1007.31 \- 300 \= 707.31gbp (Second Term)
 	
 	1046.28 \- 300 - 43 for Kalaam app annual \= 703.28gbp (Third Term)
 	
@@ -17,6 +17,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [AMAU student of knowledge annual membership](https://www.amauacademy.com/pages/plans) 134
 - [ ] [Floral Backends](https://amzn.eu/d/fWRX3g6) 8.39
 	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
 	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
