@@ -115,6 +115,9 @@ kanban-plugin: board
 	-I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
 	-I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
 	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
+- [ ] ![[Pasted image 20251217001527.png]]
+	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
+	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	![[Pasted image 20251210192819.png]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -123,19 +126,17 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 469.76
+- [ ] ## 504
 	SHF "Games Begin" Super Saiyan Son Goku (imported)
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	ML Maximum Spider-Man
 	DangITProductions custom Maximum headsculpt x2
 	ML "Maximum" Agent Venom
+	ML Iron Spider
 	Hairdryer for modding
 	Web Pack
 	Gun Pack
-- [ ] ![[Pasted image 20251217001527.png]]
-	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
-	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 	*Could recast the heads and make some base form heads
@@ -144,8 +145,7 @@ kanban-plugin: board
 	*Could dye the gi red and paint the logos yellow to match my custom Goku
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
-- [ ] ## 464.79
-	ML Iron Spider
+- [ ] ## 430.55
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	SHF "Games Begin" Super Saiyan Son Goku + 
