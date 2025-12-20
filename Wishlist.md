@@ -143,15 +143,13 @@ kanban-plugin: board
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[Pasted image 20251219235238.png]]
 	[SH FIGUARTS Ichigo Hoshimiya from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-021761-R) 23.89
-- [ ] ![[Pasted image 20251220012355.png]]
-	[SH FIGUARTS Juri Kurebayashi from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-037313-R) 20.99
-- [ ] ## 292.45
+- [ ] ## 433.73
 	ML Iron Spider
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
+	Custom World Tournament Goku and Chichi
 	SHF Oguri Cap
-	SHF Ichigo Hoshimiya
 	SHF Juri Kurebayashi
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
@@ -205,6 +203,35 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
+- [ ] ## Custom World Tournament Goku
+	![[Pasted image 20251220173448.png]]
+	[SHF Son Goku (Daima)](https://www.amiami.com/eng/detail/?gcode=FIGURE-176028-R) 15.54
+	[AIR STUDIO Gi Kit](https://www.aliexpress.com/item/1005009100480292.html) 17.83
+	[Rit Synthetic Dye](https://amzn.eu/d/j24SIwj) 7.50
+	[Yellow Marker](https://amzn.eu/d/f8NL4zn) 5.29
+	[TONSENARTTOYS Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.99
+	TOTAL 85.15
+	-Dye the upper gi and legs red.
+	-Repaint the boots to match the above design.
+	-Apply the AIR STUDIO kit with a hairdryer and colour in the Kame logos with the yellow marker.
+	-Repaint the wristbands with Dark Prussian Blue.
+	-Use the TONSENARTTOYS heads instead of the Daima.
+- [ ] ## Custom World Tournament Chichi
+	![[Pasted image 20251220173929.png]]
+	[SHF Ichigo Hoshimiya from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-021761-R) 23.60
+	[SHF Son Goku (Daima)](https://www.amiami.com/eng/detail/?gcode=FIGURE-176028-R) 15.54
+	[Jada Toys Chun Li](https://www.amiami.com/eng/detail/?gcode=FIGURE-166443) 18.76
+	[Vallejo Fluorescent Magenta](https://amzn.eu/d/6nPeWOC) 2.95
+	[Vallejo Skin Colours](https://www.amazon.co.uk/Vallejo-72380-Model-kit-Multicoloured/dp/B0CLYBD2PK/ref=sr_1_4?sr=8-4) 14.45
+	[6mm H Revoltech joint](https://www.aliexpress.com/item/1005005324042088.html) 4.43
+	TOTAL 79.73
+	-Dye the legs red, resculpt and repaint the boots to match the above design.
+	-Sand off the chest swirls and repaint the torso/dress from Chun Li to match the above design.
+	-Sand and resculpt the arms from Ichigo to look more like skin than clothing.
+	-Resculpt the wristbands from Ichigo to match the above design.
+	-Sand off the bow and cut off the back of Ichigo's hair, then smooth out the head to be round and dremel a hole to connect the rest of the hair on.
+	-Smooth out the detached hair to look more like a ponytail and dremel a hole to connect to the head using the Revoltech joint.
+	-Repaint the faces to have pure black eyes.
 
 
 ***
@@ -217,6 +244,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
