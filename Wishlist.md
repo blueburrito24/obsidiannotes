@@ -118,7 +118,7 @@ kanban-plugin: board
 	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
 	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
 	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
-	TOTAL 89.58
+	TOTAL 99.58
 	-Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
 	-Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
 	-I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. 
@@ -137,7 +137,7 @@ kanban-plugin: board
 	[SH FIGUARTS Ichigo Hoshimiya from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-021761-R) 23.89
 - [ ] ![[Pasted image 20251220012355.png]]
 	[SH FIGUARTS Juri Kurebayashi from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-037313-R) 20.99
-- [ ] ## 300.35
+- [ ] ## 315.70
 	DangITProductions custom Maximum headsculpt x2
 	ML "Maximum" Agent Venom
 	ML Iron Spider
