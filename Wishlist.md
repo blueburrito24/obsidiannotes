@@ -37,6 +37,10 @@ kanban-plugin: board
 	![[26480_LLIFE 1.avif]]
 - [ ] [ANBERNIC RG476H](https://www.ebay.co.uk/itm/317461854009) 164.18
 	![[Pasted image 20251218175854.png]]
+- [ ] ![[Pasted image 20251218234917.png]]
+	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
+- [ ] ![[Pasted image 20251218235734.png]]
+	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
 
 
 ## Game Wishlist
@@ -92,13 +96,7 @@ kanban-plugin: board
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ![[Pasted image 20251218234917.png]]
-	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
-- [ ] ![[Pasted image 20251218235734.png]]
-	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
-- [ ] ## 338.54
-	GOOD SMILE Oguri Cap Plush
-	BANDAI Oguri Cap BIG Plush
+- [ ] ## 295.21
 	SHF "Games Begin" Super Saiyan Son Goku (imported)
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
