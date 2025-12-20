@@ -144,7 +144,7 @@ kanban-plugin: board
 	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251220175420.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-	*Could dye the gi red and paint the logos yellow to match my custom Goku
+	*Could dye/repaint the gi red and paint the logos yellow to match my custom Goku
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ## 430.55
