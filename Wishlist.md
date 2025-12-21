@@ -120,10 +120,8 @@ kanban-plugin: board
 	Gun Pack
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-	*Could recast the heads and make some base form heads
 - [ ] ![[Pasted image 20251220175420.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-	*Could dye/repaint the gi red and paint the logos yellow to match my custom Goku
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ## 238.33
@@ -136,9 +134,6 @@ kanban-plugin: board
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
 	Saiyan Saga Vegeta release Q1 2026 50~
 	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
-- [ ] ![[Pasted image 20251217001527.png]]
-	[MARVEL LEGENDS Iron Spider](https://www.ebay.co.uk/itm/197859975851?) 34.24
-	*Should do [ball-joint waist mod](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and [add toe-hinge](https://www.youtube.com/shorts/4kY5DhkBpb8)
 - [ ] ![[{6329B2FE-FFD0-472F-807B-CA24BF8807AD}.png]]
 	[Revoltech Expansion Pack Vol. 1](https://www.aliexpress.com/item/1005009759684830.html) 25.09
 - [ ] ![[{A80304E0-E94B-4672-B6C1-3801B8A32D6B}.png]]
