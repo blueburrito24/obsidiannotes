@@ -13,25 +13,6 @@ kanban-plugin: board
 	1046.28 \- 300 - 43 for Kalaam app annual \= 703.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
-- [ ] 79.43 + 44 = 123.43 from selling figures:
-- [ ] ![[Pasted image 20251217212103.png]]
-	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
-	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
-	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
-	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
-	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
-	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
-	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
-	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
-	TOTAL 89.58 or 68.41 without CT
-	-Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
-	-Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
-	-I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. 
-	-I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
-	-I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
-	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
-	-Repaint the CT tendrils regular black.
-	-Hit the entire figure with a matte finish.
 
 
 ## General Wishlist
@@ -129,22 +110,6 @@ kanban-plugin: board
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251221051712.png]]
 	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
-- [ ] [Nail punch for cracking figure](https://amzn.eu/d/dxU1qqc) 4.64
-	-Use hand drill to drill into the sides of the lower abdomen, then use the nail punch to crack apart the figure.
-	-Cut off some excess plastic at the place where the joint inserts to increase range of motion. Similar to [this video](https://www.youtube.com/watch?v=UTXk53sCx18).
-	-Sand the joint on the upper torso so that it doesn't ratchet when you rotate the torso.
-	![[Pasted image 20251221183049.png]]
-	-Disassemble the figure with a hairdryer and sand down the joints, not including the gears, to avoid paint rub. (Follow [this tutorial](https://www.youtube.com/watch?v=jh0470VWUoM))
-	-Also take out the butterfly joints and sand them down so that they don't rub the paint off when repainted.
-	-Repaint the blue areas with [Vallejo Blue](https://amzn.eu/d/fHid1O4) 2.95 mixed with [Vallejo Metal Medium](https://amzn.eu/d/9WPIGNE) 2.95 including the joints. Use [tape](https://amzn.eu/d/8RcMZ2v) 3.95 to cover up the red areas while repainting the blue areas.
-	-On the back of the upper torso and lower abdomen, sand down the lower abdomen where it meets the upper torso, and paint on a spider logo alike the above Scott Johnson design.
-	-Insert the upper torso piece and super glue the sides of the lower abdomen together.
-	-Add some epoxy putty on top of those glued areas, and sand down so that it looks normal again. Repaint those areas too with the Metal Medium and Blue.
-	-Repaint the torso front logo area to remove the original logo, and replace it with one to look like the above.
-	-Also fill in the feet with epoxy putty, leaving the connector hole for display stands at the heel.
-	-Dremel the connector holes of the legs so that they can sit flush on the crotch piece.
-	-Cut out a bit of the neck at the back using an exacto knife for increased range.
-	-Hit the entire figure with a matte finish.
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
@@ -186,24 +151,6 @@ kanban-plugin: board
 	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
 - [ ] ![[{87DDA883-6816-46D1-8C98-BD91F2B2E525}.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
-- [ ] ![[Pasted image 20251221210102.png]]
-	![[Pasted image 20251221194820.png]]
-	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
-	[Vallejo Alien Purple](https://amzn.eu/d/duzDRjw) 4.99
-	[Marvel Select Venom](https://www.aliexpress.com/item/1005003738080161.html) 16.67
-	[Unpainted Open-mouth headsculpt](https://www.aliexpress.com/item/1005007986099103.html) 17.82
-	TOTAL 71.38
-	-Crack the figure open and increase the ab crunch.
-	![[Pasted image 20251221195013.png]]
-	-Follow the above guidelines.
-	-Add toe joints following [this tutorial](https://www.youtube.com/watch?v=4kY5DhkBpb8).
-	-Use a hairdryer and take apart the figure, including the hands, and sand down the joints for repainting.
-	-Use a mix of the Vallejo Alien Purple and Metal Medium and repaint the entire figure.
-	-Repaint the face using regular white and Vermillion Red, alongside a blue wash on the tongue.
-	-Repaint the logo on the front and back torso, copying the logo from the 12 inch Spider-Man, sanding down the parts where the torso and lower abdomen touch to avoid paint rub.
-	-Cut out a bit of the neck at the back using an exacto knife for increased range.
-	-Insert the upper torso and glue together the lower abdomen, filling in the empty areas with epoxy putty and sanding it back to normal.
-	-Repaint the Marvel Select closed-mouth headsculpt and the custom open-mouth headsculpt to match the body.
 
 
 ## Clothes
@@ -267,6 +214,58 @@ kanban-plugin: board
 	-Repaint the BHT Gohan hairsculpt to match the TONSENARTTOYS Gogeta's SSJ faceplates, which I need to modify to fit onto the Gohan hairsculpt.
 - [ ] ![[Pasted image 20251221045253.png]]
 	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
+- [ ] ![[Pasted image 20251217212103.png]]
+	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
+	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
+	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
+	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
+	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
+	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
+	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
+	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
+	TOTAL 89.58 or 68.41 without CT
+	-Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
+	-Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
+	-I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. 
+	-I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
+	-I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
+	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
+	-Repaint the CT tendrils regular black.
+	-Hit the entire figure with a matte finish.
+- [ ] [Nail punch for cracking figure](https://amzn.eu/d/dxU1qqc) 4.64
+	-Use hand drill to drill into the sides of the lower abdomen, then use the nail punch to crack apart the figure.
+	-Cut off some excess plastic at the place where the joint inserts to increase range of motion. Similar to [this video](https://www.youtube.com/watch?v=UTXk53sCx18).
+	-Sand the joint on the upper torso so that it doesn't ratchet when you rotate the torso.
+	![[Pasted image 20251221183049.png]]
+	-Disassemble the figure with a hairdryer and sand down the joints, not including the gears, to avoid paint rub. (Follow [this tutorial](https://www.youtube.com/watch?v=jh0470VWUoM))
+	-Also take out the butterfly joints and sand them down so that they don't rub the paint off when repainted.
+	-Repaint the blue areas with [Vallejo Blue](https://amzn.eu/d/fHid1O4) 2.95 mixed with [Vallejo Metal Medium](https://amzn.eu/d/9WPIGNE) 2.95 including the joints. Use [tape](https://amzn.eu/d/8RcMZ2v) 3.95 to cover up the red areas while repainting the blue areas.
+	-On the back of the upper torso and lower abdomen, sand down the lower abdomen where it meets the upper torso, and paint on a spider logo alike the above Scott Johnson design.
+	-Insert the upper torso piece and super glue the sides of the lower abdomen together.
+	-Add some epoxy putty on top of those glued areas, and sand down so that it looks normal again. Repaint those areas too with the Metal Medium and Blue.
+	-Repaint the torso front logo area to remove the original logo, and replace it with one to look like the above.
+	-Also fill in the feet with epoxy putty, leaving the connector hole for display stands at the heel.
+	-Dremel the connector holes of the legs so that they can sit flush on the crotch piece.
+	-Cut out a bit of the neck at the back using an exacto knife for increased range.
+	-Hit the entire figure with a matte finish.
+- [ ] ![[Pasted image 20251221210102.png]]
+	![[Pasted image 20251221194820.png]]
+	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
+	[Vallejo Alien Purple](https://amzn.eu/d/duzDRjw) 4.99
+	[Marvel Select Venom](https://www.aliexpress.com/item/1005003738080161.html) 16.67
+	[Unpainted Open-mouth headsculpt](https://www.aliexpress.com/item/1005007986099103.html) 17.82
+	TOTAL 71.38
+	-Crack the figure open and increase the ab crunch.
+	![[Pasted image 20251221195013.png]]
+	-Follow the above guidelines.
+	-Add toe joints following [this tutorial](https://www.youtube.com/watch?v=4kY5DhkBpb8).
+	-Use a hairdryer and take apart the figure, including the hands, and sand down the joints for repainting.
+	-Use a mix of the Vallejo Alien Purple and Metal Medium and repaint the entire figure.
+	-Repaint the face using regular white and Vermillion Red, alongside a blue wash on the tongue.
+	-Repaint the logo on the front and back torso, copying the logo from the 12 inch Spider-Man, sanding down the parts where the torso and lower abdomen touch to avoid paint rub.
+	-Cut out a bit of the neck at the back using an exacto knife for increased range.
+	-Insert the upper torso and glue together the lower abdomen, filling in the empty areas with epoxy putty and sanding it back to normal.
+	-Repaint the Marvel Select closed-mouth headsculpt and the custom open-mouth headsculpt to match the body.
 
 
 ***
