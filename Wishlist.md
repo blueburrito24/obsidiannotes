@@ -103,6 +103,7 @@ kanban-plugin: board
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251221051712.png]]
 	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
+	*Could also thin the spider logo to match with the more classic head
 - [ ] ![[Pasted image 20251217212103.png]]
 	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
 	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
@@ -128,12 +129,13 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 390.63
+- [ ] ## 502.64
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	ML Maximum Spider-Man
-	DangITProductions custom headsculpt
+	DangITProductions custom headsculpt x2
+	ML Agent Venom custom
 	Red, Blue, Gray and Pink T13s
 	Hairdryer for modding
 	Web Pack
