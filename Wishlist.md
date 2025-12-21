@@ -92,10 +92,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251219004822.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010194842868.html) 108.39
 	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
-- [ ] ![[Pasted image 20251221030611.png]]
-	ZT Broly SSJ4 releases in January
-	Probably 100~
-	Will buy to swap legs with regular Broly, need to sand and apply [Skintone](https://amzn.eu/d/2R4j9c6) 14.45 and [Brown wash](https://amzn.eu/d/euByHnU) 5.40 to the exposed leg.
 - [ ] ![[Pasted image 20251210184420.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 	OR if I want to get it ASAP
@@ -114,9 +110,9 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 470.16
+- [ ] ## 350.31
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
-	ZT Studio Broly + DKO heads + SSJ4 Broly for leg swap
+	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	ML Maximum Spider-Man
 	Red, Blue, Gray and Pink T13s
@@ -129,11 +125,12 @@ kanban-plugin: board
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
-- [ ] ## 238.33
+- [ ] ## 374.92
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
+	Custom Broly Movie 2 Gohan + Recast HM STUDIO Beast headsculpts
 	SHF Oguri Cap
 - [ ] ![[{6329B2FE-FFD0-472F-807B-CA24BF8807AD}.png]]
 	[Revoltech Expansion Pack Vol. 1](https://www.aliexpress.com/item/1005009759684830.html) 25.09
@@ -183,6 +180,23 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
+- [ ] ## CUSTOM Broly Movie 2 Gohan
+	![[Pasted image 20251221043308.png]]
+	![[{5C5E2003-5CAE-4495-A15D-6F42E87DE8EA}.png]]
+	![[{617759BA-01A2-477A-A0E4-F0E9AF67C918}.png]]
+	[SH FIGUARTS SUPER HERO Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 45.05
+	[Vallejo Yellow Set](https://amzn.eu/d/1DWFl7Q) 11.95
+	[Rit Synthetic Royal Purple Dye](https://amzn.eu/d/7EZLEmQ) 8.07
+	[Vallejo Fluorescent Violet](https://amzn.eu/d/hFoYX41) 2.95
+	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
+	TOTAL 103.80
+	-Using the lower body from TONSENARTTOYS Gogeta, I can heat up, take apart and dye the legs using the dye alongside repainting SHF Gohan's torso with a matching purple.
+	-Resculpt the boots to have a smooth loose look before repainting.
+	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
+	-Repaint the leg wraps with a mix of white and blue.
+	-Repaint the BHT Gohan hairsculpt to match the TONSENARTTOYS Gogeta's SSJ faceplates, which I need to modify to fit onto the Gohan hairsculpt.
+- [ ] ![[Pasted image 20251221045253.png]]
+	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
 
 
 ***
@@ -195,6 +209,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
