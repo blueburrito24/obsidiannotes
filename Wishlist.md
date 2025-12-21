@@ -130,10 +130,6 @@ kanban-plugin: board
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
 	SHF Oguri Cap
-- [ ] ![[Pasted image 20251215231222.png]]
-	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
-	Saiyan Saga Vegeta release Q1 2026 50~
-	*Would recast Vegeta's hairsculpt so I can use the base head on multiple bodies
 - [ ] ![[{6329B2FE-FFD0-472F-807B-CA24BF8807AD}.png]]
 	[Revoltech Expansion Pack Vol. 1](https://www.aliexpress.com/item/1005009759684830.html) 25.09
 - [ ] ![[{A80304E0-E94B-4672-B6C1-3801B8A32D6B}.png]]
