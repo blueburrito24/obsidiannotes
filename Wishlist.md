@@ -119,7 +119,11 @@ kanban-plugin: board
 	[Imported](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 40.86 with shipping
 	[SHF Z Fighter Goku](https://www.amiami.com/eng/detail/?gcode=FIGURE-181058-R) 38.29 for better faces
 - [ ] ![[photo 2.jpg]]
-	[MARVEL LEGENDS Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99 (releases in february)
+	[MARVEL LEGENDS Spider-Man 2099](https://www.amiami.com/eng/detail/?gcode=FIGURE-194650) 22.03
+	-Crack open and modify the range of this figure to test the method before I modify Maximum Spider-Man.
+	-Do the same sanding on the joints and repaint the entire figure with the same mix of Metal Medium and Blue alongside adding a [Vallejo Blue Wash](https://amzn.eu/d/dqR6jLy) 3.10 to the web cape.
+	-Repaint the red areas with my Vermillion Red.
+	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251221051712.png]]
@@ -138,6 +142,7 @@ kanban-plugin: board
 	-Repaint the torso front logo area to remove the original logo, and replace it with one to look like the above.
 	-Also fill in the feet with epoxy putty, leaving the connector hole for display stands at the heel.
 	-Dremel the connector holes of the legs so that they can sit flush on the crotch piece.
+	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 	-Hit the entire figure with a matte finish.
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
