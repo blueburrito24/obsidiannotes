@@ -26,12 +26,12 @@ kanban-plugin: board
 	[7 Inch Portable Screen](https://www.aliexpress.com/item/1005007464814035.html?) 31.29
 	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 	[UGREEN USB Hub](https://amzn.eu/d/2fxiKRG) 9.99
-	[Batman-Shadow Tee](https://mamono.world/products/btm-shd) 23 (19 shipping)
-	[Mamono White Tee](https://mamono.world/products/skc-vs2?variant=46151394590912) 23 (19 shipping)
-	[Techniques DBZ Shirt](https://totallynotmark.com/en-gbp/products/techniques) 22.92
 	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
+	![[Pasted image 20251221052604.png]]
 	[Batman/Leap print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/leap-batman-dc/) 15usd
+	![[Pasted image 20251221052919.png]]
 	[Spider-Man 3 print by Acedib](https://www.inprnt.com/gallery/acezdib/sm-300/) 15usd
+	![[Pasted image 20251221052948.png]]
 	
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 	[Nightstand Lamp](https://www.valuelights.co.uk/3-way-floor-lamp-gold-white-glass-globe-shades) 56
@@ -101,6 +101,24 @@ kanban-plugin: board
 	[MARVEL LEGENDS Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99 (releases in february)
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
+- [ ] ![[Pasted image 20251221051712.png]]
+	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
+- [ ] ![[Pasted image 20251217212103.png]]
+	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
+	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
+	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
+	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
+	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
+	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
+	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
+	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
+	TOTAL 89.58 or 68.41 without CT
+	-Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
+	-Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
+	-I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. 
+	-I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
+	-I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
+	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	![[Pasted image 20251210192819.png]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -110,11 +128,12 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 350.31
+- [ ] ## 390.63
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	ML Maximum Spider-Man
+	DangITProductions custom headsculpt
 	Red, Blue, Gray and Pink T13s
 	Hairdryer for modding
 	Web Pack
@@ -153,6 +172,10 @@ kanban-plugin: board
 	"beige"
 - [ ] ["Protect" joggers](https://www.aliexpress.com/item/1005007966201692.html?) 15.79
 	![[Pasted image 20251210191013.png]]
+- [ ] [Batman/Shadow Tee](https://mamono.world/products/btm-shd) 23
+	![[Pasted image 20251221052314.png]]
+- [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
+	![[Pasted image 20251221052344.png]]
 
 
 ## Custom Stuff
