@@ -121,7 +121,8 @@ kanban-plugin: board
 - [ ] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Spider-Man 2099](https://www.amiami.com/eng/detail/?gcode=FIGURE-194650) 22.03
 	-Crack open and modify the range of this figure to test the method before I modify Maximum Spider-Man.
-	-Do the same sanding on the joints and repaint the entire figure with the same mix of Metal Medium and Blue alongside adding a [Vallejo Blue Wash](https://amzn.eu/d/dqR6jLy) 3.10 to the web cape.
+	-Do the same sanding on the joints and repaint the entire figure with the same mix of Metal Medium and Blue alongside adding a [Vallejo Blue Wash](https://amzn.eu/d/dqR6jLy) 3.10 to the web cape. Follow [this tutorial](https://www.youtube.com/watch?v=AxJ94POaoGc).
+	-Also do the same painting on the hands, using a hairdryer to extract the joints.
 	-Repaint the red areas with my Vermillion Red.
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 - [ ] ![[photo 1.jpg]]
@@ -172,18 +173,37 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251220175420.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-- [ ] ## 320.48
+- [ ] ## 391.86
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
 	Custom Broly Movie 2 Gohan + Recast HM STUDIO Beast headsculpts
+	Custom Scott Johnson Venom
 - [ ] ![[{A80304E0-E94B-4672-B6C1-3801B8A32D6B}.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[{8D53FA44-365E-4BBA-A2B9-D45AE3DC6E09}.png]]
 	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
 - [ ] ![[{87DDA883-6816-46D1-8C98-BD91F2B2E525}.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
+- [ ] ![[Pasted image 20251221210102.png]]
+	![[Pasted image 20251221194820.png]]
+	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
+	[Vallejo Alien Purple](https://amzn.eu/d/duzDRjw) 4.99
+	[Marvel Select Venom](https://www.aliexpress.com/item/1005003738080161.html) 16.67
+	[Unpainted Open-mouth headsculpt](https://www.aliexpress.com/item/1005007986099103.html) 17.82
+	TOTAL 71.38
+	-Crack the figure open and increase the ab crunch.
+	![[Pasted image 20251221195013.png]]
+	-Follow the above guidelines.
+	-Add toe joints following [this tutorial](https://www.youtube.com/watch?v=4kY5DhkBpb8).
+	-Use a hairdryer and take apart the figure, including the hands, and sand down the joints for repainting.
+	-Use a mix of the Vallejo Alien Purple and Metal Medium and repaint the entire figure.
+	-Repaint the face using regular white and Vermillion Red, alongside a blue wash on the tongue.
+	-Repaint the logo on the front and back torso, copying the logo from the 12 inch Spider-Man, sanding down the parts where the torso and lower abdomen touch to avoid paint rub.
+	-Cut out a bit of the neck at the back using an exacto knife for increased range.
+	-Insert the upper torso and glue together the lower abdomen, filling in the empty areas with epoxy putty and sanding it back to normal.
+	-Repaint the Marvel Select closed-mouth headsculpt and the custom open-mouth headsculpt to match the body.
 
 
 ## Clothes
