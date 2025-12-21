@@ -109,6 +109,7 @@ kanban-plugin: board
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
 - [ ] [Clamp Stand for holding up parts while customising](https://amzn.eu/d/cE1Sl89) 6.89
+- [ ] [6"x9" ziploc bags for carrying figures](https://amzn.eu/d/cQUYVD3) 6.94
 - [ ] ![[Pasted image 20251219004822.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010194842868.html) 108.39
 	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
@@ -149,7 +150,7 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 450.59
+- [ ] ## 457.53
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
@@ -161,6 +162,7 @@ kanban-plugin: board
 	Web Pack
 	Gun Pack
 	Clamp Stand
+	Ziploc bags
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251220175420.png]]
