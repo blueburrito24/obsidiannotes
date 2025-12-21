@@ -100,26 +100,6 @@ kanban-plugin: board
 	[MARVEL LEGENDS Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99 (releases in february)
 - [ ] ![[photo 1.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
-- [ ] ![[Pasted image 20251218075413.png]]
-	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
-	![[Pasted image 20251219002358.png]]
-	I also want to repaint the spider logo. I would need to paint out the original legs then thin the body of the logo, add thick legs and separate them into the pairs of legs on each end.
-- [ ] ![[Pasted image 20251217212103.png]]
-	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
-	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
-	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
-	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
-	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
-	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
-	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
-	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
-	TOTAL 99.58
-	-Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
-	-Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
-	-I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. 
-	-I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
-	-I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
-	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
 	![[Pasted image 20251210192819.png]]
 	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
@@ -129,13 +109,11 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 512.64
+- [ ] ## 350.31
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	ML Maximum Spider-Man
-	DangITProductions custom Maximum headsculpt x2
-	ML Agent Venom custom
 	Red, Blue, Gray and Pink T13s
 	Hairdryer for modding
 	Web Pack
@@ -148,12 +126,11 @@ kanban-plugin: board
 	*Could dye/repaint the gi red and paint the logos yellow to match my custom Goku
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
-- [ ] ## 430.55
+- [ ] ## 238.33
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
-	Custom World Tournament Goku and Chichi
 	SHF Oguri Cap
 - [ ] ![[Pasted image 20251215231222.png]]
 	[WOW Super Action Studio Saiyan Saga Son Goku](https://www.aliexpress.com/item/1005009555607429.html?) 48.99
@@ -210,35 +187,6 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
-- [ ] ## Custom World Tournament Goku
-	![[Pasted image 20251220173448.png]]
-	[SHF Son Goku (Daima)](https://www.amiami.com/eng/detail/?gcode=FIGURE-176028-R) 15.54
-	[AIR STUDIO Gi Kit](https://www.aliexpress.com/item/1005009100480292.html) 17.83
-	[Rit Synthetic Dye](https://amzn.eu/d/j24SIwj) 7.50
-	[Yellow Marker](https://amzn.eu/d/f8NL4zn) 5.29
-	[TONSENARTTOYS Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.99
-	TOTAL 85.15
-	-Dye the upper gi and legs red.
-	-Repaint the boots to match the above design.
-	-Apply the AIR STUDIO kit with a hairdryer and colour in the Kame logos with the yellow marker.
-	-Repaint the wristbands with Dark Prussian Blue.
-	-Use the TONSENARTTOYS heads instead of the Daima.
-- [ ] ## Custom World Tournament Chichi
-	![[Pasted image 20251220173929.png]]
-	[SHF Ichigo Hoshimiya from Aikatsu!](https://www.amiami.com/eng/detail/?gcode=FIGURE-021761-R) 23.60
-	[SHF Son Goku (Daima)](https://www.amiami.com/eng/detail/?gcode=FIGURE-176028-R) 15.54
-	[Jada Toys Chun Li](https://www.amiami.com/eng/detail/?gcode=FIGURE-166443) 18.76
-	[Vallejo Fluorescent Magenta](https://amzn.eu/d/6nPeWOC) 2.95
-	[Vallejo Skin Colours](https://www.amazon.co.uk/Vallejo-72380-Model-kit-Multicoloured/dp/B0CLYBD2PK/ref=sr_1_4?sr=8-4) 14.45
-	[6mm H Revoltech joint](https://www.aliexpress.com/item/1005005324042088.html) 4.43
-	TOTAL 79.73
-	-Dye the legs red, resculpt and repaint the boots to match the above design.
-	-Sand off the chest swirls and repaint the torso/dress from Chun Li to match the above design.
-	-Sand and resculpt the arms from Ichigo to look more like skin than clothing.
-	-Resculpt the wristbands from Ichigo to match the above design.
-	-Sand off the bow and cut off the back of Ichigo's hair, then smooth out the head to be round and dremel a hole to connect the rest of the hair on.
-	-Smooth out the detached hair to look more like a ponytail and dremel a hole to connect to the head using the Revoltech joint.
-	-Repaint the faces to have pure black eyes.
 
 
 ***
@@ -251,6 +199,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,true],"show-checkboxes":false}
 ```
 %%
