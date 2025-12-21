@@ -253,7 +253,7 @@ kanban-plugin: board
 	![[Pasted image 20251221210102.png]]
 	![[Pasted image 20251221194820.png]]
 	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
-	[Vallejo Alien Purple](https://amzn.eu/d/duzDRjw) 4.99
+	[Vallejo Hexed Lichen](https://amzn.eu/d/1Tl78zX) 4.99
 	[Marvel Select Venom](https://www.aliexpress.com/item/1005003738080161.html) 16.67
 	[Unpainted Open-mouth headsculpt](https://www.aliexpress.com/item/1005007986099103.html) 17.82
 	TOTAL 71.38
@@ -262,7 +262,7 @@ kanban-plugin: board
 	-Follow the above guidelines.
 	-Add toe joints following [this tutorial](https://www.youtube.com/watch?v=4kY5DhkBpb8).
 	-Use a hairdryer and take apart the figure, including the hands, and sand down the joints for repainting.
-	-Use a mix of the Vallejo Alien Purple and Metal Medium and repaint the entire figure.
+	-Use a mix of the Vallejo Hexed Lichen and Metal Medium and repaint the entire figure.
 	-Repaint the face using regular white and Vermillion Red, alongside a blue wash on the tongue.
 	-Repaint the logo on the front and back torso, copying the logo from the 12 inch Spider-Man, sanding down the parts where the torso and lower abdomen touch to avoid paint rub.
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
