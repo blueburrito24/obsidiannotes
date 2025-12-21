@@ -148,6 +148,8 @@ kanban-plugin: board
 	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
 - [ ] ![[{87DDA883-6816-46D1-8C98-BD91F2B2E525}.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
+- [ ] ![[Pasted image 20251221233225.png]]
+	[20cm Street lamp](https://www.etsy.com/uk/listing/1561091818/3v-led-streetlamp-black-lamp-post-for?ref=user_profile&frs=1) 24.99
 
 
 ## Clothes
@@ -268,6 +270,7 @@ kanban-plugin: board
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 	-Insert the upper torso and glue together the lower abdomen, filling in the empty areas with epoxy putty and sanding it back to normal.
 	-Repaint the Marvel Select closed-mouth headsculpt and the custom open-mouth headsculpt to match the body.
+	-Could do a similar mod to [this](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) with the neck, adding neck articulation by cutting off the neck and installing ball joints.
 - [ ] ##### Could repaint Agent Venom to match my Scott Johnson Venom after completing the custom.
 
 
