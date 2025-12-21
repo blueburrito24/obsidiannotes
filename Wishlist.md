@@ -85,6 +85,7 @@ kanban-plugin: board
 ## Figure Wishlist
 
 - [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
+	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
