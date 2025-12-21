@@ -42,6 +42,10 @@ kanban-plugin: board
 	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
 - [ ] ![[Pasted image 20251218235734.png]]
 	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
+- [ ] ![[{3A1CCCBE-7794-4E15-BCBF-636B8A746ADF}.png]]
+	[Oguri Cap Wallet](https://www.aliexpress.com/item/1005009718803850.html?p) 13.21
+- [ ] ![[{0484E16D-8103-4CEE-8D6E-D4F91A920566}.png]]
+	[Oguri Cap Backpack 35x37cm](https://www.aliexpress.com/item/1005008480747318.html) 32.09
 
 
 ## Game Wishlist
@@ -91,6 +95,7 @@ kanban-plugin: board
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 	OR if I want to get it ASAP
 	[Imported](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 40.86 with shipping
+	[SHF Z Fighter Goku](https://www.amiami.com/eng/detail/?gcode=FIGURE-181058-R) 38.29 for better faces
 - [ ] ![[photo 2.jpg]]
 	[MARVEL LEGENDS Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99 (releases in february)
 - [ ] ![[photo 1.jpg]]
@@ -127,8 +132,8 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 508.59
-	SHF "Games Begin" Super Saiyan Son Goku (imported)
+- [ ] ## 546.88
+	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	ML Maximum Spider-Man
