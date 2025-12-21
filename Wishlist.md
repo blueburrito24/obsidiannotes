@@ -121,7 +121,18 @@ kanban-plugin: board
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
 - [ ] ![[Pasted image 20251221051712.png]]
 	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
-	*Could also thin the spider logo to match with the more classic head
+- [ ] [Nail punch for cracking figure](https://amzn.eu/d/dxU1qqc) 4.64
+	-Use hand drill to drill into the sides of the lower abdomen, then use the nail punch to crack apart the figure.
+	-Cut off some excess plastic at the place where the joint inserts to increase range of motion. Similar to [this video](https://www.youtube.com/watch?v=UTXk53sCx18).
+	-Sand the joint on the upper torso so that it doesn't ratchet when you rotate the torso.
+	![[Pasted image 20251221183049.png]]
+	-Disassemble the figure with a hairdryer and sand down the joints, not including the gears, to avoid paint rub. (Follow [this tutorial](https://www.youtube.com/watch?v=jh0470VWUoM))
+	-Repaint the blue areas with [Vallejo Blue](https://amzn.eu/d/fHid1O4) 2.95 mixed with [Vallejo Metal Medium](https://amzn.eu/d/9WPIGNE) 2.95 including the joints. Use [tape](https://amzn.eu/d/8RcMZ2v) 3.95 to cover up the red areas while repainting the blue areas.
+	-On the back of the upper torso and lower abdomen, sand down the lower abdomen where it meets the upper torso, and paint on a spider logo alike the above Scott Johnson design.
+	-Insert the upper torso piece and super glue the sides of the lower abdomen together.
+	-Add some epoxy putty on top of those glued areas, and sand down so that it looks normal again. Repaint those areas too with the Metal Medium and Blue.
+	-Repaint the torso front logo area to remove the original logo, and replace it with one to look like the above.
+	-Also fill in the feet with epoxy putty, leaving the connector hole for display stands at the heel.
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
@@ -133,12 +144,12 @@ kanban-plugin: board
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 436.10
+- [ ] ## 450.59
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099
 	ML Maximum Spider-Man
-	DangITProductions custom headsculpt x2
+	DangITProductions custom headsculpt x2 + tools for customising
 	SHF Oguri Cap
 	Red, Blue, Gray and Pink T13s
 	Hairdryer for modding
