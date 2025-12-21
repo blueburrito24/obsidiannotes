@@ -153,10 +153,10 @@ kanban-plugin: board
 	Custom MUI Goku Upgrade Kit
 	Custom Broly Movie 2 Gohan + Recast HM STUDIO Beast headsculpts
 	SHF Oguri Cap
-- [ ] ![[{6329B2FE-FFD0-472F-807B-CA24BF8807AD}.png]]
-	[Revoltech Expansion Pack Vol. 1](https://www.aliexpress.com/item/1005009759684830.html) 25.09
 - [ ] ![[{A80304E0-E94B-4672-B6C1-3801B8A32D6B}.png]]
-	[DBZ Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
+	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
+- [ ] ![[{8D53FA44-365E-4BBA-A2B9-D45AE3DC6E09}.png]]
+	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
 - [ ] ![[{87DDA883-6816-46D1-8C98-BD91F2B2E525}.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
 
