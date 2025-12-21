@@ -15,6 +15,7 @@ kanban-plugin: board
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 - [ ] 79.43 + 44 = 123.43 from selling figures:
 - [ ] ![[Pasted image 20251217212103.png]]
+	[MARVEL LEGENDS Agent Venom]()
 	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
 	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
 	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
