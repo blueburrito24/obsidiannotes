@@ -125,8 +125,7 @@ kanban-plugin: board
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099 + blue wash
-	ML Maximum Spider-Man
-	DangITProductions custom headsculpt x2 + tools for customising
+	Custom Scott Johnson Spider-Man
 	SHF Oguri Cap
 	Red, Blue, Gray and Pink T13s
 	Hairdryer for modding
@@ -197,7 +196,7 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
-- [ ] ## CUSTOM Broly Movie 2 Gohan
+- [ ] ## Custom Broly Movie 2 Gohan
 	![[Pasted image 20251221043308.png]]
 	![[{5C5E2003-5CAE-4495-A15D-6F42E87DE8EA}.png]]
 	![[{617759BA-01A2-477A-A0E4-F0E9AF67C918}.png]]
@@ -214,7 +213,8 @@ kanban-plugin: board
 	-Repaint the BHT Gohan hairsculpt to match the TONSENARTTOYS Gogeta's SSJ faceplates, which I need to modify to fit onto the Gohan hairsculpt.
 - [ ] ![[Pasted image 20251221045253.png]]
 	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
-- [ ] ![[Pasted image 20251217212103.png]]
+- [ ] ## Custom "Maximum" Agent Venom
+	![[Pasted image 20251217212103.png]]
 	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
 	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
 	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
@@ -232,7 +232,8 @@ kanban-plugin: board
 	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 	-Repaint the CT tendrils regular black.
 	-Hit the entire figure with a matte finish.
-- [ ] [Nail punch for cracking figure](https://amzn.eu/d/dxU1qqc) 4.64
+- [ ] ## Custom Scott Johnson Spider-Man
+	[Nail punch for cracking figure](https://amzn.eu/d/dxU1qqc) 4.64
 	-Use hand drill to drill into the sides of the lower abdomen, then use the nail punch to crack apart the figure.
 	-Cut off some excess plastic at the place where the joint inserts to increase range of motion. Similar to [this video](https://www.youtube.com/watch?v=UTXk53sCx18).
 	-Sand the joint on the upper torso so that it doesn't ratchet when you rotate the torso.
@@ -248,7 +249,8 @@ kanban-plugin: board
 	-Dremel the connector holes of the legs so that they can sit flush on the crotch piece.
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 	-Hit the entire figure with a matte finish.
-- [ ] ![[Pasted image 20251221210102.png]]
+- [ ] ## Custom Scott Johnson Venom
+	![[Pasted image 20251221210102.png]]
 	![[Pasted image 20251221194820.png]]
 	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
 	[Vallejo Alien Purple](https://amzn.eu/d/duzDRjw) 4.99
@@ -266,6 +268,7 @@ kanban-plugin: board
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 	-Insert the upper torso and glue together the lower abdomen, filling in the empty areas with epoxy putty and sanding it back to normal.
 	-Repaint the Marvel Select closed-mouth headsculpt and the custom open-mouth headsculpt to match the body.
+- [ ] ##### Could repaint Agent Venom to match my Scott Johnson Venom after completing the custom.
 
 
 ***
