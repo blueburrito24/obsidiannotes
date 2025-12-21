@@ -30,6 +30,8 @@ kanban-plugin: board
 	-I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
 	-I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
 	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
+	-Repaint the CT tendrils regular black.
+	-Hit the entire figure with a matte finish.
 
 
 ## General Wishlist
@@ -127,12 +129,15 @@ kanban-plugin: board
 	-Sand the joint on the upper torso so that it doesn't ratchet when you rotate the torso.
 	![[Pasted image 20251221183049.png]]
 	-Disassemble the figure with a hairdryer and sand down the joints, not including the gears, to avoid paint rub. (Follow [this tutorial](https://www.youtube.com/watch?v=jh0470VWUoM))
+	-Also take out the butterfly joints and sand them down so that they don't rub the paint off when repainted.
 	-Repaint the blue areas with [Vallejo Blue](https://amzn.eu/d/fHid1O4) 2.95 mixed with [Vallejo Metal Medium](https://amzn.eu/d/9WPIGNE) 2.95 including the joints. Use [tape](https://amzn.eu/d/8RcMZ2v) 3.95 to cover up the red areas while repainting the blue areas.
 	-On the back of the upper torso and lower abdomen, sand down the lower abdomen where it meets the upper torso, and paint on a spider logo alike the above Scott Johnson design.
 	-Insert the upper torso piece and super glue the sides of the lower abdomen together.
 	-Add some epoxy putty on top of those glued areas, and sand down so that it looks normal again. Repaint those areas too with the Metal Medium and Blue.
 	-Repaint the torso front logo area to remove the original logo, and replace it with one to look like the above.
 	-Also fill in the feet with epoxy putty, leaving the connector hole for display stands at the heel.
+	-Dremel the connector holes of the legs so that they can sit flush on the crotch piece.
+	-Hit the entire figure with a matte finish.
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[65d8171e1f353a3a0d7ffe57-titan-13-action-figure-t13-action.jpg]]
