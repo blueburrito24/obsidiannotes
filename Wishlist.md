@@ -15,7 +15,7 @@ kanban-plugin: board
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 - [ ] 79.43 + 44 = 123.43 from selling figures:
 - [ ] ![[Pasted image 20251217212103.png]]
-	[MARVEL LEGENDS Agent Venom]()
+	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
 	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
 	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
 	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
@@ -23,7 +23,7 @@ kanban-plugin: board
 	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
 	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
 	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
-	TOTAL 75.59 or 44.42 without CT
+	TOTAL 89.58 or 68.41 without CT
 	-Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
 	-Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
 	-I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. 
