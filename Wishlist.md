@@ -205,7 +205,6 @@ kanban-plugin: board
 	-Resculpt the boots to have a smooth loose look before repainting.
 	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
 	-Repaint the leg wraps with a mix of white and blue.
-	-Recast and repaint the BHT Gohan hairsculpt to match the TONSENARTTOYS Gogeta's SSJ faceplates, which I need to modify to fit onto the Gohan hairsculpt.
 - [ ] ![[Pasted image 20251221045253.png]]
 	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
 - [ ] ## Custom "Maximum" Agent Venom
