@@ -107,10 +107,10 @@ kanban-plugin: board
 	-Repaint the red areas with my Vermillion Red.
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 - [ ] ![[photo 1.jpg]]
-	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amazon.co.uk/Marvel-Legends-Maximum-Spider-Man-Action/dp/B0DGJ243KR) 52.87
+	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amiami.com/eng/detail/?gcode=FIGURE-182859) 45.51
 - [ ] ![[Pasted image 20251210225046.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 404.78
+- [ ] ## 410.41
 	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
 	ZT Studio Broly + DKO heads
 	ML Spider-Man 2099 + blue wash
@@ -118,6 +118,7 @@ kanban-plugin: board
 	Custom DangITProductions Spider-Man headsculpt x2
 	Web Pack
 	Clamp Stand
+	Hairdryer
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[Pasted image 20251210192245.png]]
