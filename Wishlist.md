@@ -135,13 +135,14 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251220175420.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-- [ ] ## 391.86
+- [ ] ## 397.77
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
 	Custom Broly Movie 2 Gohan + Recast HM STUDIO Beast headsculpts
 	Custom Scott Johnson Venom
+	Blue stuff
 - [ ] ![[{A80304E0-E94B-4672-B6C1-3801B8A32D6B}.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[{8D53FA44-365E-4BBA-A2B9-D45AE3DC6E09}.png]]
@@ -210,7 +211,7 @@ kanban-plugin: board
 	-Resculpt the boots to have a smooth loose look before repainting.
 	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
 	-Repaint the leg wraps with a mix of white and blue.
-	-Repaint the BHT Gohan hairsculpt to match the TONSENARTTOYS Gogeta's SSJ faceplates, which I need to modify to fit onto the Gohan hairsculpt.
+	-Recast and repaint the BHT Gohan hairsculpt to match the TONSENARTTOYS Gogeta's SSJ faceplates, which I need to modify to fit onto the Gohan hairsculpt.
 - [ ] ![[Pasted image 20251221045253.png]]
 	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
 - [ ] ## Custom "Maximum" Agent Venom
@@ -255,16 +256,16 @@ kanban-plugin: board
 	![[Pasted image 20251221210102.png]]
 	![[Pasted image 20251221194820.png]]
 	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
-	[Vallejo Hexed Lichen](https://amzn.eu/d/1Tl78zX) 4.99
+	[Vallejo Imperial Blue](https://amzn.eu/d/7wXuSyQ) 2.95
 	[Marvel Select Venom](https://www.aliexpress.com/item/1005003738080161.html) 16.67
 	[Unpainted Open-mouth headsculpt](https://www.aliexpress.com/item/1005007986099103.html) 17.82
-	TOTAL 71.38
+	TOTAL 69.34
 	-Crack the figure open and increase the ab crunch.
 	![[Pasted image 20251221195013.png]]
 	-Follow the above guidelines.
 	-Add toe joints following [this tutorial](https://www.youtube.com/watch?v=4kY5DhkBpb8).
 	-Use a hairdryer and take apart the figure, including the hands, and sand down the joints for repainting.
-	-Use a mix of the Vallejo Hexed Lichen and Metal Medium and repaint the entire figure.
+	-Use a mix of the Vallejo Imperial Blue and Metal Medium and repaint the entire figure.
 	-Repaint the face using regular white and Vermillion Red, alongside a blue wash on the tongue.
 	-Repaint the logo on the front and back torso, copying the logo from the 12 inch Spider-Man, sanding down the parts where the torso and lower abdomen touch to avoid paint rub.
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
