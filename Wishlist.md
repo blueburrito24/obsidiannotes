@@ -272,6 +272,7 @@ kanban-plugin: board
 	-Insert the upper torso and glue together the lower abdomen, filling in the empty areas with epoxy putty and sanding it back to normal.
 	-Repaint the Marvel Select closed-mouth headsculpt and the custom open-mouth headsculpt to match the body.
 	-Could do a similar mod to [this](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) with the neck, adding neck articulation by cutting off the neck and installing ball joints.
+	-Hit the entire figure with a matte finish.
 - [ ] ##### Could repaint Agent Venom to match my Scott Johnson Venom after completing the custom.
 
 
