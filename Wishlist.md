@@ -233,6 +233,8 @@ kanban-plugin: board
 	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
 	-Repaint the CT tendrils regular black.
 	-Hit the entire figure with a matte finish.
+- [ ] ![[Pasted image 20251221051712.png]]
+	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
 - [ ] ## Custom Scott Johnson Spider-Man
 	[Nail punch for cracking figure](https://amzn.eu/d/dxU1qqc) 4.64
 	-Use hand drill to drill into the sides of the lower abdomen, then use the nail punch to crack apart the figure.
@@ -250,8 +252,6 @@ kanban-plugin: board
 	-Dremel the connector holes of the legs so that they can sit flush on the crotch piece.
 	-Cut out a bit of the neck at the back using an exacto knife for increased range.
 	-Hit the entire figure with a matte finish.
-- [ ] ![[Pasted image 20251221051712.png]]
-	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
 - [ ] ## Custom Scott Johnson Venom
 	![[Pasted image 20251221210102.png]]
 	![[Pasted image 20251221194820.png]]
