@@ -124,7 +124,7 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251220175420.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-- [ ] ## 452.21
+- [ ] ## 440.26
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
@@ -195,15 +195,12 @@ kanban-plugin: board
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
 - [ ] ## Custom Broly Movie 2 Gohan
-	![[Pasted image 20251221043308.png]]
 	![[{5C5E2003-5CAE-4495-A15D-6F42E87DE8EA}.png]]
-	![[{617759BA-01A2-477A-A0E4-F0E9AF67C918}.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.nin-nin-game.com/en/dragon-ball/122583-shfiguarts-dragon-ball-super-super-hero-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 45.05
-	[Vallejo Yellow Set](https://amzn.eu/d/1DWFl7Q) 11.95
 	[Rit Synthetic Royal Purple Dye](https://amzn.eu/d/7EZLEmQ) 8.07
 	[Vallejo Fluorescent Violet](https://amzn.eu/d/hFoYX41) 2.95
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
-	TOTAL 103.80
+	TOTAL 91.85
 	-Using the lower body from TONSENARTTOYS Gogeta, I can heat up, take apart and dye the legs using the dye alongside repainting SHF Gohan's torso with a matching purple.
 	-Resculpt the boots to have a smooth loose look before repainting.
 	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
