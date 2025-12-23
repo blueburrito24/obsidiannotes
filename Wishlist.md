@@ -121,14 +121,17 @@ kanban-plugin: board
 	Hairdryer
 - [ ] ![[Pasted image 20251219091434.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
+- [ ] ![[{87D11029-3D08-44AC-A6F7-9D83097DF359}.png]]
+	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20251210192245.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251220175420.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-- [ ] ## 431.47
+- [ ] ## 470.26
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
+	KAMIONE Bike Goku headsculpts
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
 	Custom Broly Movie 2 Gohan + Recast HM STUDIO Beast headsculpts
