@@ -127,7 +127,7 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[krillin.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-- [ ] ## 470.26
+- [ ] ## 457.43
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
@@ -136,7 +136,6 @@ kanban-plugin: board
 	Custom MUI Goku Upgrade Kit
 	Custom Broly Movie 2 Gohan + Recast HM STUDIO Beast headsculpts
 	Custom Scott Johnson Venom
-	Blue stuff
 - [ ] ![[moar moar effects.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[effects.png]]
@@ -198,6 +197,7 @@ kanban-plugin: board
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
+	-I can reuse the Gogeta base faceplates on the KAMIONE Goku headsculpt.
 - [ ] ## Custom Broly Movie 2 Gohan
 	![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
@@ -254,9 +254,8 @@ kanban-plugin: board
 	![[venom promo.png]]
 	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
 	[Vallejo Imperial Blue](https://amzn.eu/d/7wXuSyQ) 2.95
-	[Marvel Select Venom](https://www.aliexpress.com/item/1005003738080161.html) 16.67
-	[Unpainted Open-mouth headsculpt](https://www.aliexpress.com/item/1005007986099103.html) 17.82
-	TOTAL 69.34
+	[Unpainted Open-mouth headsculpts](https://www.aliexpress.com/item/1005007986099103.html) 29.61
+	TOTAL 64.46
 	-Crack the figure open and increase the ab crunch.
 	![[how to improve articulation on venom.png]]
 	-Follow the above guidelines.
@@ -272,6 +271,7 @@ kanban-plugin: board
 	-While re-assembling the figure, glue in the joints and fill in the pin holes on the legs, sand the areas so that it looks natural and repaint it.
 	-Hit the entire figure with a matte finish.
 - [ ] ##### Could repaint Agent Venom to match my Scott Johnson Venom after completing the custom.
+- [ ] ##### I could install magnets into the feet and butts of mt Spider-Man figures for better metal surfaced poses. Butt magnets would need to be covered up though.
 
 
 ***
