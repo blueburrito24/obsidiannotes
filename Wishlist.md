@@ -13,6 +13,13 @@ kanban-plugin: board
 	1046.28 \- 300 - 43 for Kalaam app annual \= 703.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
+- [ ] ##### the below will be bought using money i have before term 2
+- [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
+	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
+- [ ] ![[ml 2099.jpg]]
+	[MARVEL LEGENDS Spider-Man 2099](https://www.amiami.com/eng/detail/?gcode=FIGURE-194650) 22.03
+- [ ] ![[ml maximum.jpg]]
+	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amiami.com/eng/detail/?gcode=FIGURE-182859) 45.51
 
 
 ## General Wishlist
@@ -84,41 +91,38 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
-- [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
-	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
-- [ ] [Clamp Stand for holding up parts while customising](https://amzn.eu/d/cE1Sl89) 6.89
 - [ ] [6"x9" ziploc bags for carrying figures](https://amzn.eu/d/cQUYVD3) 6.94
 - [ ] ![[zt broly dko.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010194842868.html) 108.39
 	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
-- [ ] ![[games begin goku.png]]
+- [ ] ![[goku and gohan.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 29.95
 	OR if I want to get it ASAP
 	[Imported](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 40.86 with shipping
 	[SHF Z Fighter Goku](https://www.amiami.com/eng/detail/?gcode=FIGURE-181058-R) 38.29 for better faces
-- [ ] ![[ml 2099.jpg]]
-	[MARVEL LEGENDS Spider-Man 2099](https://www.amiami.com/eng/detail/?gcode=FIGURE-194650) 22.03
-	-Crack open and modify the range of this figure to test the method before I modify Maximum Spider-Man.
-	-Do the same sanding on the joints and repaint the entire figure with the same mix of Metal Medium and Blue alongside adding a [Vallejo Blue Wash](https://amzn.eu/d/dqR6jLy) 3.10 to the web cape. Follow [this tutorial](https://www.youtube.com/watch?v=AxJ94POaoGc).
-	-Also do the same painting on the hands, using a hairdryer to extract the joints.
-	-Repaint the red areas with my Vermillion Red.
-	-Cut out a bit of the neck at the back using an exacto knife for increased range.
-- [ ] ![[ml maximum.jpg]]
-	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amiami.com/eng/detail/?gcode=FIGURE-182859) 45.51
+	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-162567-R) 31.21
+- [ ] ![[piccolo.png]]
+	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
+- [ ] ![[revospidey.png]]
+	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
+- [ ] ![[revoironman.png]]
+	[Revoltech Tokusatsu Iron Man Mk4 Iron Man](https://zenmarket.jp/s/mmo-store/fo-10340477?id=d8f128ab-6b91-4baa-b617-1d7d4a7ae51e) 9.79
 - [ ] ![[webs pack.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 410.41
-	SHF "Games Begin" Super Saiyan Son Goku (imported) + SHF Z Fighter Goku
+- [ ] ## 376.25
+	SHF "Games Begin" Super Saiyan Son Goku (imported)
+	SHF "Z Fighter" Super Saiyan Son Goku
+	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
+	SHF "Proud Namekian" Piccolo
 	ZT Studio Broly + DKO heads
-	ML Spider-Man 2099 + blue wash
-	Custom Scott Johnson Spider-Man
-	Custom DangITProductions Spider-Man headsculpt x2
 	Web Pack
-	Clamp Stand
+	Revoltech Tokusatsu Spider-Man
+	Revoltech Tokusatsu Iron Man Mk4
 	Hairdryer
+	Sandpaper
 - [ ] ![[shf oguri cap.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[kamione bike goku.png]]
@@ -127,15 +131,19 @@ kanban-plugin: board
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[krillin.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
-- [ ] ## 457.43
+- [ ] ![[black hole toys gohan head on super hero body.png]]
+	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
+	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
+	TOTAL 72.05
+- [ ] ![[beast gohan.png]]
+	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
+- [ ] ## 411.91
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	KAMIONE Bike Goku headsculpts
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
-	Custom Broly Movie 2 Gohan + Recast HM STUDIO Beast headsculpts
-	Custom Scott Johnson Venom
 - [ ] ![[moar moar effects.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[effects.png]]
@@ -151,6 +159,10 @@ kanban-plugin: board
 	[Four-armed kit](https://www.etsy.com/uk/listing/4345937972/3d-printed-four-arm-adapter-pack-for?ls=a&ref=sold_out_ad-2&plkey=LT68434b23d1dce1262dda8cc9d634ecfcd0525aba%3A4345937972) 7.52
 	[Gun Pack](https://www.etsy.com/uk/listing/1773638139/dummy-13-accessory-set-upgraded-handguns?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-10&pro=1&sts=1&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT206410b3e5da7d1010c0c73555313340eae47997&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT206410b3e5da7d1010c0c73555313340eae47997) 12.22
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
+- [ ] ![[figmasaberzero.png]]
+	[figma Fate:Zero Saber Zero](https://www.nin-nin-game.com/en/fatezero-/4119-fate-zero-saber-zero-verfigma-126-en.html) 55.27
+- [ ] ![[figma okarun.png]]
+	[figma Dandadan Transformed Okarun](https://www.amiami.com/eng/detail/?gcode=FIGURE-180196) 50.37
 
 
 ## Clothes
@@ -198,80 +210,6 @@ kanban-plugin: board
 	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
 	-I can reuse the Gogeta base faceplates on the KAMIONE Goku headsculpt.
-- [ ] ## Custom Broly Movie 2 Gohan
-	![[black hole toys gohan head on super hero body.png]]
-	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
-	[Rit Synthetic Royal Purple Dye](https://amzn.eu/d/7EZLEmQ) 8.07
-	[Vallejo Fluorescent Violet](https://amzn.eu/d/hFoYX41) 2.95
-	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
-	TOTAL 83.06
-	-Using the lower body from TONSENARTTOYS Gogeta, I can heat up, take apart and dye the legs using the dye alongside repainting SHF Gohan's torso with a matching purple.
-	-Resculpt the boots to have a smooth loose look before repainting.
-	-Repaint the wristbands and TONSENARTTOYS Gogeta waistband using my Vermillion Red.
-	-Repaint the leg wraps with a mix of white and blue.
-- [ ] ![[beast gohan.png]]
-	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
-- [ ] ## Custom "Maximum" Agent Venom
-	![[agent venom.png]]
-	[MARVEL LEGENDS Retro Card Agent Venom](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-6-Spider-Man-Retro-Wave-5-Agent-Venom-Flash-Thompson-Comics-Action-Figure-p724475348) 23.99
-	[HD MA-SBJ001 Joint Set](https://www.aliexpress.com/item/1005006807926035.html?) 4.14
-	[DC Multiverse Shriek](https://www.ebay.co.uk/itm/256715977420?) 8.82
-	[Pin Hand Drill](https://amzn.eu/d/ifT4jdv) 21.48
-	[Paperclips](https://amzn.eu/d/2LkPDsQ) 3.99
-	[CT Agent Venom](https://a.aliexpress.com/_EwOOOhq) 25.29
-	[Sandpaper assorted](https://amzn.eu/d/avedPqe) 5.88
-	[Exacto Knife](https://amzn.eu/d/9S14HSo) 5.99
-	TOTAL 89.58 or 68.41 without CT
-	-Following [this tutorial](https://www.youtube.com/shorts/_iQMTq_AkMg?app=desktop) I will replace the feet on Agent Venom with those of Shriek, then replace the joints with the largest ball joints on the joint set (drilling in holes on the feet so they fit properly).
-	-Also need to do [this mod](https://www.youtube.com/watch?v=UTXk53sCx18) for improved range on the neck and upper torso.
-	-I will also add a ball-joint waist following [this tutorial](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) and using the same joint set. 
-	-I'll need to use my exacto knife and cut off the belt packs so I can saw off the waist at the belt with my red-ringed rotary attachment.
-	-I will also take the second DangITProductions headsculpt I bought, add fangs to the lenses and fill in the weblines with putty and sand them out.
-	-Then I need to drill in some holes on the back of the torso for the CT tendrils to plug into. I can also use the weapons from the CT.
-	-Repaint the CT tendrils regular black.
-	-Hit the entire figure with a matte finish.
-- [ ] ![[dangitproductions custom head.png]]
-	[DangITProductions Maximum Spider-Man Custom Headsculpt](https://www.ebay.co.uk/itm/187721709841) 22.43 + 17.89 shipping
-- [ ] ## Custom Scott Johnson Spider-Man
-	[Nail punch for cracking figure](https://amzn.eu/d/dxU1qqc) 4.64
-	-Use hand drill to drill into the sides of the lower abdomen, then use the nail punch to crack apart the figure.
-	-Cut off some excess plastic at the place where the joint inserts to increase range of motion. Similar to [this video](https://www.youtube.com/watch?v=UTXk53sCx18).
-	-Sand the joint on the upper torso so that it doesn't ratchet when you rotate the torso.
-	![[scott johnson spider-man.png]]
-	-Disassemble the figure with a hairdryer and sand down the joints, not including the gears, to avoid paint rub. (Follow [this tutorial](https://www.youtube.com/watch?v=jh0470VWUoM))
-	-Also take out the butterfly joints and sand them down so that they don't rub the paint off when repainted.
-	-Repaint the blue areas with [Vallejo Blue](https://amzn.eu/d/fHid1O4) 2.95 mixed with [Vallejo Metal Medium](https://amzn.eu/d/9WPIGNE) 2.95 including the joints. Use [tape](https://amzn.eu/d/8RcMZ2v) 3.95 to cover up the red areas while repainting the blue areas.
-	-On the back of the upper torso and lower abdomen, sand down the lower abdomen where it meets the upper torso, and paint on a spider logo alike the above Scott Johnson design.
-	-Insert the upper torso piece and super glue the sides of the lower abdomen together.
-	-Add some epoxy putty on top of those glued areas, and sand down so that it looks normal again. Repaint those areas too with the Metal Medium and Blue.
-	-Repaint the torso front logo area to remove the original logo, and replace it with one to look like the above.
-	-Also fill in the feet with epoxy putty, leaving the connector hole for display stands at the heel.
-	-Dremel the connector holes of the legs so that they can sit flush on the crotch piece.
-	-Cut out a bit of the neck at the back using an exacto knife for increased range.
-	-Hit the entire figure with a matte finish.
-- [ ] ## Custom Scott Johnson Venom
-	![[scott johsnon venom.png]]
-	![[venom promo.png]]
-	[MARVEL LEGENDS Gamerverse Venom](https://www.ebay.co.uk/itm/167925772140) 31.90
-	[Vallejo Imperial Blue](https://amzn.eu/d/7wXuSyQ) 2.95
-	[Unpainted Open-mouth headsculpts](https://www.aliexpress.com/item/1005007986099103.html) 29.61
-	TOTAL 64.46
-	-Crack the figure open and increase the ab crunch.
-	![[how to improve articulation on venom.png]]
-	-Follow the above guidelines.
-	-Add toe joints following [this tutorial](https://www.youtube.com/watch?v=4kY5DhkBpb8).
-	-Use a hairdryer and take apart the figure, including the hands, and sand down the joints for repainting.
-	-Use a mix of the Vallejo Imperial Blue and Metal Medium and repaint the entire figure.
-	-Repaint the face using regular white and Vermillion Red, alongside a blue wash on the tongue.
-	-Repaint the logo on the front and back torso, copying the logo from the 12 inch Spider-Man, sanding down the parts where the torso and lower abdomen touch to avoid paint rub.
-	-Cut out a bit of the neck at the back using an exacto knife for increased range.
-	-Insert the upper torso and glue together the lower abdomen, filling in the empty areas with epoxy putty and sanding it back to normal.
-	-Repaint the Marvel Select closed-mouth headsculpt and the custom open-mouth headsculpt to match the body.
-	-Could do a similar mod to [this](https://www.youtube.com/clip/Ugkxd2XK4OUNRBPLnAJT3tfSCEPTaGwETTBV) with the neck, adding neck articulation by cutting off the neck and installing ball joints.
-	-While re-assembling the figure, glue in the joints and fill in the pin holes on the legs, sand the areas so that it looks natural and repaint it.
-	-Hit the entire figure with a matte finish.
-- [ ] ##### Could repaint Agent Venom to match my Scott Johnson Venom after completing the custom.
-- [ ] ##### I could install magnets into the feet and butts of mt Spider-Man figures for better metal surfaced poses. Butt magnets would need to be covered up though.
 
 
 ***
