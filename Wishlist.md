@@ -135,12 +135,16 @@ kanban-plugin: board
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
-- [ ] ## 345.03
+- [ ] ![[Pasted image 20251225013631.png]]
+	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 38.75
+	(releases end of april)
+- [ ] ## 383.78
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	KAMIONE Bike Goku headsculpts
 	SHF Super Hero Gohan + BHT Heads
+	SHF "The Boy From The Future" Super Saiyan Trunks
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Battle damaged kit
 - [ ] ![[moar moar effects.png]]
