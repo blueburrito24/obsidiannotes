@@ -135,14 +135,14 @@ kanban-plugin: board
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
-- [ ] ## 379.12
+- [ ] ## 345.03
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	KAMIONE Bike Goku headsculpts
 	SHF Super Hero Gohan + BHT Heads
 	SHF "Games Begin" Super Saiyan Son Goku + 
-	Custom MUI Goku Upgrade Kit
+	Battle damaged kit
 - [ ] ![[moar moar effects.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[effects.png]]
@@ -192,17 +192,15 @@ kanban-plugin: board
 	- [Sandpaper for smoothing recasts](https://amzn.eu/d/avedPqe) 5.88
 	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
 - [ ] [How to dye figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
-- [ ] ## Custom MUI Goku Upgrade Kit
+- [ ] ## Goku BD Kit
 	Image from [elcuarto4to.gamermx](https://www.instagram.com/p/DSUHp_SjULy/)
 	![[custom mui goku.png]]
 	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
-	[TK CUSTOM MUI Headsculpts](https://www.aliexpress.com/item/1005009973688914.html) 34.09
 	[SHF Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005007211388879.html?) 18.25
-	TOTAL 109.13
+	TOTAL 75.04
 	Pretty short list of instructions. 
 	-Throw on the Gogeta upper body on the GB lower body (Fill in the holes on the shoulders for a permanent fix).
 	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
-	-Throw on the TK CUSTOM headsculpts (may need some blu tack).
 	-Repaint the wrist wraps to match the rest of the outfit.
 	-I can reuse the Gogeta base faceplates on the KAMIONE Goku headsculpt.
 
