@@ -135,13 +135,12 @@ kanban-plugin: board
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
-- [ ] ![[beast gohan.png]]
-	[Recast HM STUDIO Beast Gohan Headsculpts](https://www.aliexpress.com/item/1005009057927082.html) 32.79
-- [ ] ## 411.91
+- [ ] ## 379.12
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Goku's Best Friend" Krillin
 	KAMIONE Bike Goku headsculpts
+	SHF Super Hero Gohan + BHT Heads
 	SHF "Games Begin" Super Saiyan Son Goku + 
 	Custom MUI Goku Upgrade Kit
 - [ ] ![[moar moar effects.png]]
