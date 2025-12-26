@@ -103,20 +103,15 @@ kanban-plugin: board
 	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
 - [ ] ![[revoironman.png]]
 	[Revoltech Tokusatsu Iron Man Mk4 Iron Man](https://zenmarket.jp/s/mmo-store/fo-10340477?id=d8f128ab-6b91-4baa-b617-1d7d4a7ae51e) 9.79
-- [ ] ![[Pasted image 20251225235005.png]]
-	[BLOKEES Marvel Rivals Venom](https://www.aliexpress.com/item/1005010642398775.html) 30.09
-- [ ] [Pliers for BLOKEES model kits](https://amzn.eu/d/fuzpSSF) 3.99
 - [ ] ![[webs pack.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 355.22
+- [ ] ## 321.17
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	ZT Studio Broly + DKO heads
 	Web Pack
 	Revoltech Tokusatsu Spider-Man
 	Revoltech Tokusatsu Iron Man Mk4
-	BLOKEES Marvel Rivals Venom
-	Pliers
 	Hairdryer
 	Sandpaper
 	Ziploc bags + black foam
