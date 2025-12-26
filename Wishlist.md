@@ -14,10 +14,6 @@ kanban-plugin: board
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 - [ ] ##### the below will be bought using money i have before term 2
-- [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
-	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
-- [ ] ![[ml maximum.jpg]]
-	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amiami.com/eng/detail/?gcode=FIGURE-182859) 45.51
 
 
 ## General Wishlist
@@ -86,6 +82,8 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
+- [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
+	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [10"x14" ziploc bags for carrying figures](https://amzn.eu/d/aTcHoi2) 9.94
@@ -100,7 +98,7 @@ kanban-plugin: board
 	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
 - [ ] ![[revoironman.png]]
 	[Revoltech Tokusatsu Iron Man Mk4 Iron Man](https://zenmarket.jp/s/mmo-store/fo-10340477?id=d8f128ab-6b91-4baa-b617-1d7d4a7ae51e) 9.79
-- [ ] ## 289.46
+- [ ] ## 295.45
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	ZT Studio Broly + DKO heads
@@ -108,6 +106,7 @@ kanban-plugin: board
 	Revoltech Tokusatsu Iron Man Mk4
 	Sandpaper
 	Ziploc bags + black foam
+	Assorted sandpaper
 - [ ] ![[shf oguri cap.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[kamione bike goku.png]]
