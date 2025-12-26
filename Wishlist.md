@@ -92,8 +92,8 @@ kanban-plugin: board
 ## Figure Wishlist
 
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
-- [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
+- [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [6"x9" ziploc bags for carrying figures](https://amzn.eu/d/cQUYVD3) 6.94
 - [ ] ![[zt broly dko.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010194842868.html) 108.39
@@ -104,23 +104,25 @@ kanban-plugin: board
 	[Imported](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 40.86 with shipping
 	[SHF Z Fighter Goku](https://www.amiami.com/eng/detail/?gcode=FIGURE-181058-R) 38.29 for better faces
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-162567-R) 31.21
-- [ ] ![[piccolo.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 - [ ] ![[revospidey.png]]
 	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
 - [ ] ![[revoironman.png]]
 	[Revoltech Tokusatsu Iron Man Mk4 Iron Man](https://zenmarket.jp/s/mmo-store/fo-10340477?id=d8f128ab-6b91-4baa-b617-1d7d4a7ae51e) 9.79
+- [ ] ![[Pasted image 20251225235005.png]]
+	[BLOKEES Marvel Rivals Venom](https://www.aliexpress.com/item/1005010642398775.html) 30.09
+- [ ] [Pliers for BLOKEES model kits](https://amzn.eu/d/fuzpSSF) 3.99
 - [ ] ![[webs pack.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 376.25
+- [ ] ## 371.58
 	SHF "Games Begin" Super Saiyan Son Goku (imported)
 	SHF "Z Fighter" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
-	SHF "Proud Namekian" Piccolo
 	ZT Studio Broly + DKO heads
 	Web Pack
 	Revoltech Tokusatsu Spider-Man
 	Revoltech Tokusatsu Iron Man Mk4
+	BLOKEES Marvel Rivals Venom
+	Plier
 	Hairdryer
 	Sandpaper
 - [ ] ![[shf oguri cap.png]]
@@ -129,19 +131,20 @@ kanban-plugin: board
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-- [ ] ![[krillin.png]]
-	[SH FIGUARTS "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95 (releases mid-may)
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
+- [ ] ![[piccolo.png]]
+	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
+	(releases end of may)
 - [ ] ![[trunks.png]]
 	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of april)
-- [ ] ## 383.78
+- [ ] ## 367.58
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	SHF "Goku's Best Friend" Krillin
+	SHF "Proud Namekian" Piccolo
 	KAMIONE Bike Goku headsculpts
 	SHF Super Hero Gohan + BHT Heads
 	SHF "The Boy From The Future" Super Saiyan Trunks
