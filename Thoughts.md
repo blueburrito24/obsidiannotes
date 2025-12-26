@@ -22,7 +22,7 @@ I still can't believe I jerked off to my OC. I designed him to just be fun to dr
 
 Big video ideas.
 1. Long-form figure videos would involve [pngtuber graphics](https://www.instagram.com/reel/DP6biVvErFQ/?igsh=dTQzeXFzNmg0ZG5k) with hands-on footage
-2. short-form figure videos could be edits like [this](https://www.instagram.com/reel/DSiDItmke7N/?igsh=MWQ3NzloOTZ1bTB4eQ==) with a constant fast clock tick instead of music, jet set, undertale or sonic cd sfx OR
+2. short-form figure videos could be edits like [this](https://www.instagram.com/reel/DSiDItmke7N/?igsh=MWQ3NzloOTZ1bTB4eQ==) with a constant fast clock tick instead of music, jet set, undertale, gta sfx (like the wasted DING with a red flash), sonic cd sfx OR
 3. quick posing videos where it's a caption at the start then short cuts of me holding a pose or b-roll of said poses
 
 Could use clipchamp, obs, ditherboy, etc for all sorts of stuff here.
@@ -32,4 +32,5 @@ Could have radio-themed edits like [this](https://www.instagram.com/reel/DSoQi5T
 [How to do crt effect](https://youtu.be/bbv9ILqdC4k)
 [How to do effect glitch](https://youtu.be/RARDzBmWdfE)
 Gotta figure out how to do these in clipchamp
+Could do the clock tick sfx with a watermark of a clock ticking, it ticks really fast then ticks backwards and slows down to the tick of the edit with a Minecraft eating sfx when it finishes setting the tick speed (because burrito).
 26.12.25

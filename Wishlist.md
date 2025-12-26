@@ -13,7 +13,6 @@ kanban-plugin: board
 	1046.28 \- 300 - 43 for Kalaam app annual \= 703.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
-- [ ] ##### the below will be bought using money i have before term 2
 
 
 ## General Wishlist
