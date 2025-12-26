@@ -125,10 +125,11 @@ kanban-plugin: board
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
-- [ ] ## 280.43
+	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
+- [ ] ## 300.89
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	SHF "Proud Namekian" Piccolo
+	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
 	KAMIONE Gogeta 02A
 	Exacto Knife
