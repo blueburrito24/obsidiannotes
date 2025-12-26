@@ -129,7 +129,7 @@ kanban-plugin: board
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20251226011531.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
-	*can use base faceplates on KAMIONE's Goku hairsculpt
+	*can use base faceplates on KAMIONE's Goku hairsculpt if I cut off the pegs and stick them on the back of the faceplates with an [exacto knife](https://amzn.eu/d/gNNzFpY) 5.99
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[black hole toys gohan head on super hero body.png]]
@@ -142,12 +142,13 @@ kanban-plugin: board
 - [ ] ![[trunks.png]]
 	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of april)
-- [ ] ## 313.19
+- [ ] ## 319.18
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
 	KAMIONE Bike Goku headsculpts
 	KAMIONE Gogeta 02A
+	Exacto Knife
 	SHF Super Hero Gohan + BHT Heads
 	SHF "The Boy From The Future" Super Saiyan Trunks
 - [ ] ![[moar moar effects.png]]
