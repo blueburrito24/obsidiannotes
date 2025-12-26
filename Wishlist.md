@@ -16,8 +16,6 @@ kanban-plugin: board
 - [ ] ##### the below will be bought using money i have before term 2
 - [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
 	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
-- [ ] ![[ml 2099.jpg]]
-	[MARVEL LEGENDS Spider-Man 2099](https://www.amiami.com/eng/detail/?gcode=FIGURE-194650) 22.03
 - [ ] ![[ml maximum.jpg]]
 	[MARVEL LEGENDS Maximum Series Spider-Man](https://www.amiami.com/eng/detail/?gcode=FIGURE-182859) 45.51
 
