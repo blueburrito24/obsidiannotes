@@ -164,10 +164,8 @@ kanban-plugin: board
 	"beige"
 - [ ] ["Protect" joggers](https://www.aliexpress.com/item/1005007966201692.html?) 15.79
 	![[Pasted image 20251210191013.png]]
-- [ ] [Batman/Shadow Tee](https://mamono.world/products/btm-shd) 23
-	![[Pasted image 20251221052314.png]]
 - [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
-	![[Pasted image 20251221052344.png]]
+	![[dbz technique shirt.png]]
 
 
 ***
