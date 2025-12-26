@@ -94,7 +94,8 @@ kanban-plugin: board
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
 - [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
-- [ ] [6"x9" ziploc bags for carrying figures](https://amzn.eu/d/cQUYVD3) 6.94
+- [ ] [10"x14" ziploc bags for carrying figures](https://amzn.eu/d/aTcHoi2) 9.94
+- [ ] [Black foam for cushioning figures in ziploc bags](https://amzn.eu/d/ewAQwoe) 11.99
 - [ ] ![[zt broly dko.png]]
 	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010194842868.html) 108.39
 	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
@@ -113,7 +114,7 @@ kanban-plugin: board
 - [ ] [Pliers for BLOKEES model kits](https://amzn.eu/d/fuzpSSF) 3.99
 - [ ] ![[webs pack.png]]
 	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 371.58
+- [ ] ## 393.51
 	SHF "Games Begin" Super Saiyan Son Goku (imported)
 	SHF "Z Fighter" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
@@ -125,10 +126,14 @@ kanban-plugin: board
 	Plier
 	Hairdryer
 	Sandpaper
+	Ziploc bags + black foam
 - [ ] ![[shf oguri cap.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[kamione bike goku.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
+- [ ] ![[Pasted image 20251226011531.png]]
+	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
+	*can use base faceplates on KAMIONE's Goku hairsculpt
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[black hole toys gohan head on super hero body.png]]
@@ -141,15 +146,14 @@ kanban-plugin: board
 - [ ] ![[trunks.png]]
 	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of april)
-- [ ] ## 367.58
+- [ ] ## 313.19
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
 	KAMIONE Bike Goku headsculpts
+	KAMIONE Gogeta 02A
 	SHF Super Hero Gohan + BHT Heads
 	SHF "The Boy From The Future" Super Saiyan Trunks
-	SHF "Games Begin" Super Saiyan Son Goku + 
-	Battle damaged kit
 - [ ] ![[moar moar effects.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[effects.png]]
@@ -186,32 +190,6 @@ kanban-plugin: board
 	![[Pasted image 20251221052344.png]]
 
 
-## Custom Stuff
-
-- [ ] ## Recasting figure parts
-	
-	-[Recasting tutorial](https://youtu.be/mVZLXLaidjQ?si=KS1hvrWeIaZh7Bob)
-	
-	- [Blue stuff for making moulds](https://amzn.eu/d/1w98i34) 7.95
-	- [Milliput Epoxy Putty for making the recasts](https://amzn.eu/d/dRgf10m) 6.22
-	- [Milliput black Epoxy Putty](https://amzn.eu/d/b2Epf4w) 6.18
-	- [Yellow epoxy putty for SSJ recasting](https://amzn.eu/d/3ABPMI8) 9.90
-	- [Sandpaper for smoothing recasts](https://amzn.eu/d/avedPqe) 5.88
-	- [Exacto Knife for smoothing recasts](https://amzn.eu/d/e02yejd) 5.99
-- [ ] [How to dye figures](https://www.youtube.com/watch?v=BEzkLFtnoEs&t=33s)
-- [ ] ## Goku BD Kit
-	Image from [elcuarto4to.gamermx](https://www.instagram.com/p/DSUHp_SjULy/)
-	![[custom mui goku.png]]
-	[TONSENARTTOYS/Kamione Gogeta](https://www.aliexpress.com/item/1005010437390357.html?) 58.79
-	[SHF Legendary Super Saiyan Son Goku KO](https://www.aliexpress.com/item/1005007211388879.html?) 18.25
-	TOTAL 75.04
-	Pretty short list of instructions. 
-	-Throw on the Gogeta upper body on the GB lower body (Fill in the holes on the shoulders for a permanent fix).
-	-Throw on the battle damaged piece from LSSJ on top of the waist wrap (repaint the wrap to match the gi better too).
-	-Repaint the wrist wraps to match the rest of the outfit.
-	-I can reuse the Gogeta base faceplates on the KAMIONE Goku headsculpt.
-
-
 ***
 
 ## Archive
@@ -222,6 +200,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false],"show-checkboxes":false}
 ```
 %%
