@@ -87,7 +87,6 @@ kanban-plugin: board
 ## Figure Wishlist
 
 - [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
-- [ ] [Hairdryer for modding](https://amzn.eu/d/fM4f5UT) 12.99
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [10"x14" ziploc bags for carrying figures](https://amzn.eu/d/aTcHoi2) 9.94
 - [ ] [Black foam for cushioning figures in ziploc bags](https://amzn.eu/d/ewAQwoe) 11.99
@@ -101,16 +100,12 @@ kanban-plugin: board
 	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
 - [ ] ![[revoironman.png]]
 	[Revoltech Tokusatsu Iron Man Mk4 Iron Man](https://zenmarket.jp/s/mmo-store/fo-10340477?id=d8f128ab-6b91-4baa-b617-1d7d4a7ae51e) 9.79
-- [ ] ![[webs pack.png]]
-	[Web Pack](https://www.etsy.com/uk/listing/4351330612/wired-spider-man-webs?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=1%2F12+webs&ref=sr_gallery-1-3&nob=1&content_source=2db66151-448c-476b-83a4-5b9e8307c3a3%253ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966&organic_search_click=1&logging_key=2db66151-448c-476b-83a4-5b9e8307c3a3%3ALTcec0bbf8cce9cb45ab2f930ffe2a49f53aa97966) 18.82
-- [ ] ## 321.17
+- [ ] ## 289.46
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	ZT Studio Broly + DKO heads
-	Web Pack
 	Revoltech Tokusatsu Spider-Man
 	Revoltech Tokusatsu Iron Man Mk4
-	Hairdryer
 	Sandpaper
 	Ziploc bags + black foam
 - [ ] ![[shf oguri cap.png]]
@@ -130,10 +125,7 @@ kanban-plugin: board
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
-- [ ] ![[trunks.png]]
-	[SH FIGUARTS "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 38.75
-	(releases end of april)
-- [ ] ## 319.18
+- [ ] ## 280.43
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo
@@ -141,7 +133,6 @@ kanban-plugin: board
 	KAMIONE Gogeta 02A
 	Exacto Knife
 	SHF Super Hero Gohan + BHT Heads
-	SHF "The Boy From The Future" Super Saiyan Trunks
 - [ ] ![[moar moar effects.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[effects.png]]
