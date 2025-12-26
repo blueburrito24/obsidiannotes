@@ -116,7 +116,7 @@ kanban-plugin: board
 	Revoltech Tokusatsu Spider-Man
 	Revoltech Tokusatsu Iron Man Mk4
 	BLOKEES Marvel Rivals Venom
-	Plier
+	Pliers
 	Hairdryer
 	Sandpaper
 	Ziploc bags + black foam
