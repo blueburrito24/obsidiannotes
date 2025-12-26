@@ -127,13 +127,13 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251226011531.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	*can use base faceplates on KAMIONE's Goku hairsculpt if I cut off the pegs and stick them on the back of the faceplates with an [exacto knife](https://amzn.eu/d/gNNzFpY) 5.99
-- [ ] ![[dangerous pride vegeta.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
 	*could repaint waist strap and wrist wraps blue to match manga
+- [ ] ![[dangerous pride vegeta.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
