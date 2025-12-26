@@ -19,3 +19,17 @@ I don't get why I can't bear being close with people. Being talkative and open w
 
 I still can't believe I jerked off to my OC. I designed him to just be fun to draw- I like big muscles and long hair, but I drew him attractive! I can't dismiss the thought of it. :°< I hope I can keep this feeling down when I draw, I don't want to stop drawing my OCs but I also don't want to become infatuated with them to the point it affects me.
 14.12.25
+
+Big video ideas.
+1. Long-form figure videos would involve [pngtuber graphics](https://www.instagram.com/reel/DP6biVvErFQ/?igsh=dTQzeXFzNmg0ZG5k) with hands-on footage
+2. short-form figure videos could be edits like [this](https://www.instagram.com/reel/DSiDItmke7N/?igsh=MWQ3NzloOTZ1bTB4eQ==) with a constant fast clock tick instead of music, jet set, undertale or sonic cd sfx OR
+3. quick posing videos where it's a caption at the start then short cuts of me holding a pose or b-roll of said poses
+
+Could use clipchamp, obs, ditherboy, etc for all sorts of stuff here.
+Could have radio-themed edits like [this](https://www.instagram.com/reel/DSoQi5TjV7u/?igsh=dndocmM5MTRleHc=). Also I want to do stop-motion clips for these edits.
+[How to do flicker effects](https://youtu.be/T9VyQzaDx3E)
+[How to do flicker text](https://youtu.be/MwE32OUh2ZY)
+[How to do crt effect](https://youtu.be/bbv9ILqdC4k)
+[How to do effect glitch](https://youtu.be/RARDzBmWdfE)
+Gotta figure out how to do these in clipchamp
+26.12.25
