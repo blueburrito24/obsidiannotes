@@ -38,5 +38,5 @@ Could do the clock tick sfx with a watermark of a clock ticking, it ticks really
 I think I need to use capcut. Like a pro apk or something, so I can do those special edit effects like the flickers and stuff. Will be nice.
 Also need to find a stop motion app for making the clips for said edits.
 
-I found a video for bypassing capcut's pro thing [here](https://www.youtube.com/watch?v=2KMdiZiRDEk) so i can do the edits!!
+It seems like I'll have to download capcut 1.5.0 to use features like the glitch effect.
 27.12.25
