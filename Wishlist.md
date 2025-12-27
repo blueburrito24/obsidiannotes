@@ -26,6 +26,11 @@ kanban-plugin: board
 	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 	[UGREEN USB Hub](https://amzn.eu/d/2fxiKRG) 9.99
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
+- [ ] ![[Pasted image 20251227155643.png]]
+	[Fat Chud Oguri Cap Sticker](https://www.etsy.com/uk/listing/4350004904/oguri-cap-bocchari-4-holographic-sticker?ga_search_query=oguri%2Bcap&ref=shop_items_search_1&crt=1&logging_key=e059179ed6652009a103ae5b8595728675b047ef%3A4350004904) 5.58
+- [ ] ![[Pasted image 20251227160014.png]]
+	[Hungry Oguri Cap Sticker](https://www.etsy.com/uk/listing/4340239011/assorted-uma-musume-stickers?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=umamusume+stickers&ref=sr_gallery-1-3&bes=1&content_source=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%253ALT3089af3b52d006467a15834a48180274cdb88dfb&organic_search_click=1&logging_key=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%3ALT3089af3b52d006467a15834a48180274cdb88dfb&variation0=5648408240) 1.86
+	*I want to buy a bunch and throw them on my laptop
 - [ ] ![[oguri chud.png]]
 	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
 - [ ] ![[oguri pillow.png]]
@@ -167,10 +172,6 @@ kanban-plugin: board
 	![[Pasted image 20251210191013.png]]
 - [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
 	![[dbz technique shirt.png]]
-- [ ] ![[Pasted image 20251227103522.png]]
-	[ELRIC FLAMEL ZIP](https://poyopop.com/products/flamel-zip?variant=41907433930827) 62
-- [ ] ![[{EABCB3A9-0744-4C2B-A110-06C0BB2D131B}.png]]
-	[SHINIGAMI ZIP-UP](https://disrupttclothing.com/products/shinigami-zip-up-hoodie) 54.99
 
 
 ***

@@ -27,9 +27,10 @@ Big video ideas.
 
 Could use clipchamp, obs, ditherboy, etc for all sorts of stuff here.
 Could have radio-themed edits like [this](https://www.instagram.com/reel/DSoQi5TjV7u/?igsh=dndocmM5MTRleHc=). Also I want to do stop-motion clips for these edits.
-[How to do flicker effects](https://youtu.be/T9VyQzaDx3E)
-[How to do flicker text](https://youtu.be/MwE32OUh2ZY)
-[How to do crt effect](https://youtu.be/bbv9ILqdC4k)
+[How to do flicker effects](https://www.youtube.com/watch?v=De_8mCAFuFQ)
+[How to do flicker text](https://www.youtube.com/shorts/F5IZbtHBdfE)
+[How to do crt effect](https://www.youtube.com/watch?v=Q4w6gcYEqZ0
+)
 Gotta figure out how to do these in clipchamp
 Could do the clock tick sfx with a watermark of a clock ticking, it ticks really fast then ticks backwards and slows down to the tick of the edit with a Minecraft eating sfx when it finishes setting the tick speed (because burrito).
 26.12.25
@@ -39,4 +40,5 @@ I think I need to use capcut. Like a pro apk or something, so I can do those spe
 Also need to find a stop motion app for making the clips for said edits.
 
 It seems like I'll have to download capcut 1.5.0 to use features like the glitch effect.
+[How to do cutout transitions](https://www.youtube.com/watch?v=KqLLmhbhy5g)
 27.12.25
