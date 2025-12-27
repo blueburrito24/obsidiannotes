@@ -26,15 +26,6 @@ kanban-plugin: board
 	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 	[UGREEN USB Hub](https://amzn.eu/d/2fxiKRG) 9.99
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
-	![[spider-man poster.png]]
-	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd, 8x10in
-	![[batman poster.png]]
-	
-	[Batman/Leap print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/leap-batman-dc/) 15usd
-	![[sm3 poster.png]]
-	[Spider-Man 3 print by Acedib](https://www.inprnt.com/gallery/acezdib/sm-300/) 15usd
-- [ ] ![[anbernic.png]]
-	[ANBERNIC RG476H](https://www.ebay.co.uk/itm/317461854009) 164.18
 - [ ] ![[oguri chud.png]]
 	[GOOD SMILE Oguri Cap "Relaxed Ver." Plush](https://www.nin-nin-game.com/en/uma-musume/190394-uma-musume-cinderella-gray-mini-plush-mascot-oguri-cap-relaxed-ver-good-smile-company-.html) 9.47 (releases end of february)
 - [ ] ![[oguri pillow.png]]
@@ -43,6 +34,18 @@ kanban-plugin: board
 	[Oguri Cap Wallet](https://www.aliexpress.com/item/1005009718803850.html?p) 13.21
 - [ ] ![[oguri cap bag.png]]
 	[Oguri Cap Backpack 35x37cm](https://www.aliexpress.com/item/1005008480747318.html) 32.09
+- [ ] ![[Pasted image 20251227115200.png]]
+	[AYN Thor MAX Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 352.19 with shipping
+	OR
+	![[anbernic.png]]
+	[ANBERNIC RG476H](https://www.ebay.co.uk/itm/317461854009) 164.18
+- [ ] ![[spider-man poster.png]]
+	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd
+	![[batman poster.png]]
+	
+	[Batman/Leap print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/leap-batman-dc/) 15usd
+	![[sm3 poster.png]]
+	[Spider-Man 3 print by Acedib](https://www.inprnt.com/gallery/acezdib/sm-300/) 15usd
 
 
 ## Game Wishlist
@@ -164,6 +167,10 @@ kanban-plugin: board
 	![[Pasted image 20251210191013.png]]
 - [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
 	![[dbz technique shirt.png]]
+- [ ] ![[Pasted image 20251227103522.png]]
+	[ELRIC FLAMEL ZIP](https://poyopop.com/products/flamel-zip?variant=41907433930827) 62
+- [ ] ![[{EABCB3A9-0744-4C2B-A110-06C0BB2D131B}.png]]
+	[SHINIGAMI ZIP-UP](https://disrupttclothing.com/products/shinigami-zip-up-hoodie) 54.99
 
 
 ***

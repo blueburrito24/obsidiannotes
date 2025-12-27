@@ -30,7 +30,13 @@ Could have radio-themed edits like [this](https://www.instagram.com/reel/DSoQi5T
 [How to do flicker effects](https://youtu.be/T9VyQzaDx3E)
 [How to do flicker text](https://youtu.be/MwE32OUh2ZY)
 [How to do crt effect](https://youtu.be/bbv9ILqdC4k)
-[How to do effect glitch](https://youtu.be/RARDzBmWdfE)
 Gotta figure out how to do these in clipchamp
 Could do the clock tick sfx with a watermark of a clock ticking, it ticks really fast then ticks backwards and slows down to the tick of the edit with a Minecraft eating sfx when it finishes setting the tick speed (because burrito).
 26.12.25
+
+[How to do glitch effect](https://www.youtube.com/shorts/_Xf2kXD7z7I) 
+I think I need to use capcut. Like a pro apk or something, so I can do those special edit effects like the flickers and stuff. Will be nice.
+Also need to find a stop motion app for making the clips for said edits.
+
+I found a video for bypassing capcut's pro thing [here](https://www.youtube.com/watch?v=2KMdiZiRDEk) so i can do the edits!!
+27.12.25
