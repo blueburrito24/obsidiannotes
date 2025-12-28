@@ -42,3 +42,6 @@ Also need to find a stop motion app for making the clips for said edits.
 It seems like I'll have to download capcut 1.5.0 to use features like the glitch effect.
 [How to do cutout transitions](https://www.youtube.com/watch?v=KqLLmhbhy5g)
 27.12.25
+
+Should reference the scene of Musaka explaining the Zone in Episode 19 of Cinderella Gray for an edit.
+28.12.25
