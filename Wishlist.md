@@ -124,6 +124,7 @@ kanban-plugin: board
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	Can use the base faceplates on the KAMIONE Goku hairsculpt
 	Can use torso + [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13 with GB Goku to make battle damaged Goku
+	![[Pasted image 20251228152248.png]]
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
