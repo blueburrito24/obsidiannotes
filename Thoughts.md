@@ -44,4 +44,7 @@ It seems like I'll have to download capcut 1.5.0 to use features like the glitch
 27.12.25
 
 Should reference the scene of Musaka explaining the Zone in Episode 19 of Cinderella Gray for an edit.
+
+[This](https://www.instagram.com/reel/DSv-5ePE1S3/?igsh=bDFyMDd2OTcyOGtl) would be a good reference for a fight scene edit like Goku vs Frieza or something.
+Could use [[Jhené Aiko - 2 seconds (Audio).mp3]] in an edit like [this](https://www.instagram.com/p/DSXGvPDEzQr/?hl=en)
 28.12.25
