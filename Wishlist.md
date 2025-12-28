@@ -150,13 +150,10 @@ kanban-plugin: board
 	SHF Super Hero Gohan + BHT Heads
 - [ ] ![[Pasted image 20251228150024.png]]
 	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
-- [ ] ![[t13.jpg]]
-	![[gun pack.png]]
-	[Titan 13 model kits](https://www.aliexpress.com/item/1005007772924507.html?) 1.31
-	*If I get red, blue, gray and pink it'll cost 4.59
-	[Four-armed kit](https://www.etsy.com/uk/listing/4345937972/3d-printed-four-arm-adapter-pack-for?ls=a&ref=sold_out_ad-2&plkey=LT68434b23d1dce1262dda8cc9d634ecfcd0525aba%3A4345937972) 7.52
-	[Gun Pack](https://www.etsy.com/uk/listing/1773638139/dummy-13-accessory-set-upgraded-handguns?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-10&pro=1&sts=1&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT206410b3e5da7d1010c0c73555313340eae47997&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT206410b3e5da7d1010c0c73555313340eae47997) 12.22
-	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
+- [ ] ![[Pasted image 20251228200322.png]]
+	[SH FIGUARTS Miniature Dragon Ball Collection](https://zenmarket.jp/s/toysanta/g-5duh0016au-005-54822?id=dd9b4b68-ff69-4b35-aacc-1740e926c9ae) 12.31
+- [ ] ![[Pasted image 20251228231256.png]]
+	[M16A4 87mm/Assault Rifle accessory](https://www.aliexpress.com/item/1005006915684561.html?) 2.44 per gun + 3.15 shipping
 - [ ] ![[Pasted image 20251228152900.png]]
 	[TAMASHII NATIONS Effect Series Shock Impact Yellow Ver.](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 21.18
 - [ ] ![[moar moar effects.png]]
@@ -168,8 +165,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
 - [ ] ![[street lamp.png]]
 	[20cm Street lamp](https://www.etsy.com/uk/listing/1561091818/3v-led-streetlamp-black-lamp-post-for?ref=user_profile&frs=1) 24.99
-- [ ] ![[Pasted image 20251228200322.png]]
-	[SH FIGUARTS Miniature Dragon Ball Collection](https://zenmarket.jp/s/toysanta/g-5duh0016au-005-54822?id=dd9b4b68-ff69-4b35-aacc-1740e926c9ae) 12.31
 
 
 ## Clothes
@@ -193,7 +188,7 @@ kanban-plugin: board
 
 - [ ] ![[Pasted image 20251228211703.png]]
 	[SH FIGUARTS Majin Buu Evil](https://zenmarket.jp/s/mmo-store/om5075565?id=12ad616f-0cfc-4ea6-bcc7-d38cb081db59) 54.15
-	*If SHF Frieza 3.0 releases this year, I want to get all 3 main Z villains.
+	*If SHF Frieza 3.0 releases this year, I want to get that + this Buu + KW Studio Perfect Cell
 - [ ] ![[Pasted image 20251228153004.png]]
 	[GOOD SMILE Oguri Cap Nendoroid](https://www.amiami.com/eng/detail/?gcode=FIGURE-196083) 29.77
 	(July 2026)
