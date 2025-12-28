@@ -126,6 +126,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251226011531.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	*can use base faceplates on KAMIONE's Goku hairsculpt if I cut off the pegs and stick them on the back of the faceplates with an [exacto knife](https://amzn.eu/d/gNNzFpY) 5.99
+	*could modify the martial art wrapped arms to look like Goku's regular wristbands
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
@@ -137,9 +138,10 @@ kanban-plugin: board
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 300.89
+- [ ] ## 320.44
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
+	SHF "Kind-Hearted Saiyan" Son Goku
 	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
 	KAMIONE Gogeta 02A
@@ -180,6 +182,22 @@ kanban-plugin: board
 	![[dbz technique shirt.png]]
 
 
+## -To Be Released- Wishlist
+
+- [ ] ![[Pasted image 20251228144559.png]]
+	Demoniacal Fit "The Coming One" Trunks
+	(Q1 2026)
+- [ ] ![[Pasted image 20251228144705.png]]
+	NT Games Begin Goku Kit 
+	(Q1 2026)
+- [ ] ![[Pasted image 20251228144850.png]]
+	VitoForge Studio Goku Black
+	(Q1 2026)
+- [ ] ![[Pasted image 20251228145113.png]]
+	Beast Deities DBS Heroes SSJ4 Dark Broly
+	(Q1 2026)
+
+
 ***
 
 ## Archive
@@ -190,6 +208,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
