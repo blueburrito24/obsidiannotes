@@ -105,16 +105,13 @@ kanban-plugin: board
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-162567-R) 31.21
 - [ ] ![[revospidey.png]]
 	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
-- [ ] ![[revoironman.png]]
-	[Revoltech Tokusatsu Iron Man Mk4 Iron Man](https://zenmarket.jp/s/mmo-store/fo-10340477?id=d8f128ab-6b91-4baa-b617-1d7d4a7ae51e) 9.79
 - [ ] ![[Pasted image 20251228014723.png]]
 	[BLOKEES Marvel Rivals Venom](https://www.aliexpress.com/item/1005010642398775.html?) 30.99
-- [ ] ## 326.44
+- [ ] ## 316.65
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	ZT Studio Broly + DKO heads
 	Revoltech Tokusatsu Spider-Man
-	Revoltech Tokusatsu Iron Man Mk4
 	BLOKEES Marvel Rivals Venom
 	Sandpaper
 	Ziploc bags + black foam
