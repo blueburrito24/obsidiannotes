@@ -48,4 +48,5 @@ Should reference the scene of Musaka explaining the Zone in Episode 19 of Cinder
 [This](https://www.instagram.com/reel/DSv-5ePE1S3/?igsh=bDFyMDd2OTcyOGtl) would be a good reference for a fight scene edit like Goku vs Frieza or something.
 Could use [[Jhené Aiko - 2 seconds (Audio).mp3]] in an edit like [this](https://www.instagram.com/p/DSXGvPDEzQr/?hl=en)
 Could do an edit with [[STAND PROUD.mp3]]
+An edit with [this song](https://www.youtube.com/watch?v=DDOLJayy9Cs) would be cool, like [this](https://www.instagram.com/p/DSxu6SjES33/) (need to extract vocals with vocalremover.org) also!! [this song](https://www.youtube.com/watch?v=KWVKzlSBbTQ) like [this edit](https://www.instagram.com/p/DSpj579jrW8/).
 28.12.25
