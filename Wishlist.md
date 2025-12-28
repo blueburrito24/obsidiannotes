@@ -138,10 +138,9 @@ kanban-plugin: board
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 320.44
+- [ ] ## 300.49
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	SHF "Kind-Hearted Saiyan" Son Goku
 	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
 	KAMIONE Gogeta 02A
@@ -189,6 +188,9 @@ kanban-plugin: board
 	(Q1 2026)
 - [ ] ![[Pasted image 20251228144705.png]]
 	NT Games Begin Goku Kit 
+	(Q1 2026)
+- [ ] ![[Pasted image 20251228145442.png]]
+	WOW Factory Saiyan Saga Vegeta
 	(Q1 2026)
 - [ ] ![[Pasted image 20251228144850.png]]
 	VitoForge Studio Goku Black
