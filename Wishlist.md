@@ -159,6 +159,8 @@ kanban-plugin: board
 	[Four-armed kit](https://www.etsy.com/uk/listing/4345937972/3d-printed-four-arm-adapter-pack-for?ls=a&ref=sold_out_ad-2&plkey=LT68434b23d1dce1262dda8cc9d634ecfcd0525aba%3A4345937972) 7.52
 	[Gun Pack](https://www.etsy.com/uk/listing/1773638139/dummy-13-accessory-set-upgraded-handguns?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-10&pro=1&sts=1&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT206410b3e5da7d1010c0c73555313340eae47997&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT206410b3e5da7d1010c0c73555313340eae47997) 12.22
 	[Hands Pack](https://www.etsy.com/uk/listing/4333947001/dummy-13-action-figure-hands-pack?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=dummy+13+accessory+pack&ref=sr_gallery-1-11&nob=1&content_source=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%253ALT724976863899211095d565a4f2fcbef0a04fccfe&organic_search_click=1&logging_key=4a268f01-bf7c-4a8b-ad2b-1a27d113302e%3ALT724976863899211095d565a4f2fcbef0a04fccfe) 4.17
+- [ ] ![[Pasted image 20251228150024.png]]
+	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
 
 
 ## Clothes
