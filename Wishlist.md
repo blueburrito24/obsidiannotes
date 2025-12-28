@@ -187,6 +187,9 @@ kanban-plugin: board
 
 ## -To Be Released- Wishlist
 
+- [ ] ![[Pasted image 20251228153004.png]]
+	[GOOD SMILE Oguri Cap Nendoroid](https://www.amiami.com/eng/detail/?gcode=FIGURE-196083) 29.77
+	(July 2026)
 - [ ] ![[Pasted image 20251228144559.png]]
 	Demoniacal Fit "The Coming One" Trunks
 	(Q1 2026)
