@@ -10,7 +10,7 @@ kanban-plugin: board
 	
 	1007.31 \- 300 \= 707.31gbp (Second Term)
 	
-	1046.28 \- 300 - 43 for Kalaam app annual \= 703.28gbp (Third Term)
+	1046.28 \- 300 \= 746.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 
@@ -102,13 +102,13 @@ kanban-plugin: board
 	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
 	*Could repaint the original heads to be a Shadow DIO style set
 - [ ] ![[goku and gohan.png]]
-	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 40.86 shipped
+	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.59
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-162567-R) 31.21
 - [ ] ![[revospidey.png]]
 	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
 - [ ] ![[Pasted image 20251228014723.png]]
 	[BLOKEES Marvel Rivals Venom](https://www.aliexpress.com/item/1005010642398775.html?) 30.99
-- [ ] ## 316.65
+- [ ] ## 307.14
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	ZT Studio Broly + DKO heads
@@ -122,11 +122,13 @@ kanban-plugin: board
 - [ ] ![[kamione bike goku.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20251226011531.png]]
+	![[Pasted image 20251228152248.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	Can use the base faceplates on the KAMIONE Goku hairsculpt
-	Can use torso + [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13 with GB Goku to make battle damaged Goku
-	![[Pasted image 20251228152248.png]]
-	*I would take the extra wrapped arms from Gogeta and resculpt them to look like Goku's regular arms with the smaller wristbands
+	Resculpt the wristbands and use the upper body alongside [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13 so I have a battle-damaged torso for my Games Begin Goku
+	(And I can keep on the flesh-coloured butterfly cups to make swapping easy)
+- [ ] ![[Pasted image 20251228223921.png]]
+	[TK CUSTOM KO Ultra Instinct -Sign- Set](https://www.aliexpress.com/item/1005008988543892.html?) 29.59
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
@@ -138,13 +140,13 @@ kanban-plugin: board
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 319.92
+- [ ] ## 343.61
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
-	KAMIONE Gogeta 02A + KO LSSJ Goku for waist
-	Exacto Knife
+	TK CUSTOM KO Ultra Instinct -Sign- Set
+	KAMIONE 02A Gogeta, KO LSSJ Goku
 	SHF Super Hero Gohan + BHT Heads
 - [ ] ![[Pasted image 20251228150024.png]]
 	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
@@ -166,6 +168,8 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
 - [ ] ![[street lamp.png]]
 	[20cm Street lamp](https://www.etsy.com/uk/listing/1561091818/3v-led-streetlamp-black-lamp-post-for?ref=user_profile&frs=1) 24.99
+- [ ] ![[Pasted image 20251228200322.png]]
+	[SH FIGUARTS Miniature Dragon Ball Collection](https://zenmarket.jp/s/toysanta/g-5duh0016au-005-54822?id=dd9b4b68-ff69-4b35-aacc-1740e926c9ae) 12.31
 
 
 ## Clothes
@@ -185,8 +189,11 @@ kanban-plugin: board
 	![[dbz technique shirt.png]]
 
 
-## -To Be Released- Wishlist
+## Other Stuff
 
+- [ ] ![[Pasted image 20251228211703.png]]
+	[SH FIGUARTS Majin Buu Evil](https://zenmarket.jp/s/mmo-store/om5075565?id=12ad616f-0cfc-4ea6-bcc7-d38cb081db59) 54.15
+	*If SHF Frieza 3.0 releases this year, I want to get all 3 main Z villains.
 - [ ] ![[Pasted image 20251228153004.png]]
 	[GOOD SMILE Oguri Cap Nendoroid](https://www.amiami.com/eng/detail/?gcode=FIGURE-196083) 29.77
 	(July 2026)
@@ -199,6 +206,9 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228145113.png]]
 	Beast Deities DBS Heroes SSJ4 Dark Broly
 	(Q1 2026)
+- [ ] ![[Pasted image 20251228230524.png]]
+	[BLACK HOLE TOYS "Brute Evolution" SSJ4 Son Goku](https://www.aliexpress.com/item/1005010274535720.html?) 18.99
+	*I want to get this if I get BD DBSH SSJ4 Dark Broly
 
 
 ***
