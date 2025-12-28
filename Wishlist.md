@@ -107,12 +107,15 @@ kanban-plugin: board
 	[Revoltech Tokusatsu Spider-Man 3 Spider-Man](https://zenmarket.jp/s/richsecondjapan/b0087kmyky?id=b8b43900-a92a-4933-96ca-17701b84bfaf) 40.86
 - [ ] ![[revoironman.png]]
 	[Revoltech Tokusatsu Iron Man Mk4 Iron Man](https://zenmarket.jp/s/mmo-store/fo-10340477?id=d8f128ab-6b91-4baa-b617-1d7d4a7ae51e) 9.79
-- [ ] ## 295.45
+- [ ] ![[Pasted image 20251228014723.png]]
+	[BLOKEES Marvel Rivals Venom](https://www.aliexpress.com/item/1005010642398775.html?) 30.99
+- [ ] ## 326.44
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	ZT Studio Broly + DKO heads
 	Revoltech Tokusatsu Spider-Man
 	Revoltech Tokusatsu Iron Man Mk4
+	BLOKEES Marvel Rivals Venom
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
@@ -148,6 +151,7 @@ kanban-plugin: board
 	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
 - [ ] ![[moar effects.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
+- [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
 - [ ] ![[street lamp.png]]
 	[20cm Street lamp](https://www.etsy.com/uk/listing/1561091818/3v-led-streetlamp-black-lamp-post-for?ref=user_profile&frs=1) 24.99
 - [ ] ![[t13.jpg]]
