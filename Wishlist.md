@@ -124,25 +124,28 @@ kanban-plugin: board
 	(And I can keep on the flesh-coloured butterfly cups to make swapping easy)
 - [ ] ![[Pasted image 20251228223921.png]]
 	[TK CUSTOM KO Ultra Instinct -Sign- Set](https://www.aliexpress.com/item/1005008988543892.html?) 29.59
-	*I quite like the closed-eye faceplate, but I could use [masking tape](https://amzn.eu/d/iQ4GyQ5) 3.99 and carefully repaint the rest of the faceplates to look like Mastered Ultra Instinct, alongside repainting the hairsculpt itself with [Vallejo Metallic Silver](https://amzn.eu/d/13E3awM) 4.95
+	*I quite like the closed-eye faceplate, but I could use [masking tape](https://amzn.eu/d/iQ4GyQ5) 3.99 and carefully repaint the rest of the faceplates to look like Mastered Ultra Instinct, alongside repainting the hairsculpt itself with [Vallejo Dark Sea Grey](https://amzn.eu/d/6dNHMBK) 2.95 to match Oguri Cap
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
 	*could repaint waist strap and wrist wraps blue to match manga + grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes
+- [ ] ![[Pasted image 20251229124243.png]]
+	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 298.11
+- [ ] ## 329.90
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
 	TK CUSTOM KO Ultra Instinct -Sign- Set + tape and paint
 	KAMIONE 02A Gogeta, KO LSSJ Goku
 	SHF Super Hero Gohan + BHT Heads
+	HM STUDIO KO Beast Gohan heads
 - [ ] ![[Pasted image 20251228150024.png]]
 	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
 - [ ] ![[Pasted image 20251228200322.png]]
@@ -177,16 +180,27 @@ kanban-plugin: board
 	![[Pasted image 20251210191013.png]]
 - [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
 	![[dbz technique shirt.png]]
+- [ ] [Negative Zone Spider-Man hoodie](https://www.aliexpress.com/item/1005008565561132.html?) 27.28
+	![[Pasted image 20251229100212.png]]
 
 
 ## Other Stuff
 
-- [ ] ![[Pasted image 20251228211703.png]]
-	[SH FIGUARTS Majin Buu Evil](https://zenmarket.jp/s/mmo-store/om5075565?id=12ad616f-0cfc-4ea6-bcc7-d38cb081db59) 54.15
-	*If SHF Frieza 3.0 releases this year, I want to get that + this Buu + KW Studio Perfect Cell
 - [ ] ![[Pasted image 20251228153004.png]]
 	[GOOD SMILE Oguri Cap Nendoroid](https://www.amiami.com/eng/detail/?gcode=FIGURE-196083) 29.77
 	(July 2026)
+- [ ] ![[Pasted image 20251229123108.png]]
+	[Cloth goods Whis/EoZ Gi](https://www.aliexpress.com/item/1005009471725917.html?) 20.39
+	*Would look good on the Tonsen Gogeta body without his jacket
+- [ ] ![[Pasted image 20251229123557.png]]
+	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
+- [ ] ![[Pasted image 20251229123509.png]]
+	![[Pasted image 20251229123828.png]]
+	KW STUDIO Perfect Cell
+	(No release)
+	*If I get this, I want to get the [HOT SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005008089006003.html?), it costs 38.47 if I buy the hairsculpts, faceplates and neck peg all separately
+- [ ] ![[Pasted image 20251228211703.png]]
+	[SH FIGUARTS Majin Buu Evil](https://zenmarket.jp/s/mmo-store/om5075565?id=12ad616f-0cfc-4ea6-bcc7-d38cb081db59) 54.15
 - [ ] ![[Pasted image 20251228144559.png]]
 	Demoniacal Fit "The Coming One" Trunks
 	(Q1 2026)
@@ -199,6 +213,9 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228230524.png]]
 	[BLACK HOLE TOYS "Brute Evolution" SSJ4 Son Goku](https://www.aliexpress.com/item/1005010274535720.html?) 18.99
 	*I want to get this if I get BD DBSH SSJ4 Dark Broly
+- [ ] ![[Pasted image 20251229130608.png]]
+	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
+	[10CM Ver.](https://www.aliexpress.com/item/1005009777058355.html?) 5~ per piece
 
 
 ***
