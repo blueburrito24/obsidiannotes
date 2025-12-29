@@ -120,26 +120,27 @@ kanban-plugin: board
 	![[Pasted image 20251228152248.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	Can use the base faceplates on the KAMIONE Goku hairsculpt
-	Resculpt the wristbands and use the upper body alongside [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13 so I have a battle-damaged torso for my Games Begin Goku
+	Resculpt the alternate wrapped forearms and use the upper body alongside [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13 so I have a battle-damaged torso for my Games Begin Goku
 	(And I can keep on the flesh-coloured butterfly cups to make swapping easy)
 - [ ] ![[Pasted image 20251228223921.png]]
 	[TK CUSTOM KO Ultra Instinct -Sign- Set](https://www.aliexpress.com/item/1005008988543892.html?) 29.59
+	*I quite like the closed-eye faceplate, but I could use [masking tape](https://amzn.eu/d/iQ4GyQ5) 3.99 and carefully repaint the rest of the faceplates to look like Mastered Ultra Instinct, alongside repainting the hairsculpt itself with [Vallejo Metallic Silver](https://amzn.eu/d/13E3awM) 4.95
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
-	*could repaint waist strap and wrist wraps blue to match manga
+	*could repaint waist strap and wrist wraps blue to match manga + grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 289.17
+- [ ] ## 298.11
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
-	TK CUSTOM KO Ultra Instinct -Sign- Set
+	TK CUSTOM KO Ultra Instinct -Sign- Set + tape and paint
 	KAMIONE 02A Gogeta, KO LSSJ Goku
 	SHF Super Hero Gohan + BHT Heads
 - [ ] ![[Pasted image 20251228150024.png]]
