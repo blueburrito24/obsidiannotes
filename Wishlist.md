@@ -27,7 +27,7 @@ kanban-plugin: board
 	[Adjustable USB Desk Light](https://www.aliexpress.com/item/1005006904605256.html?) 11.91
 	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
 	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
-	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
+	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) 19.18 (Colour 7, 900x400x4mm)
 	*I need two tripods for my phone and my portable light*
 - [ ] ![[Pasted image 20251227155643.png]]
 	[Fat Chud Oguri Cap Sticker](https://www.etsy.com/uk/listing/4350004904/oguri-cap-bocchari-4-holographic-sticker?ga_search_query=oguri%2Bcap&ref=shop_items_search_1&crt=1&logging_key=e059179ed6652009a103ae5b8595728675b047ef%3A4350004904) 5.58
