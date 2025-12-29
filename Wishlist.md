@@ -24,7 +24,7 @@ kanban-plugin: board
 - [ ] [GOVEE Smart Lights](https://amzn.eu/d/j7sqleE) 12.99
 	*Need to download Google Home for use
 - [ ] ##### photography stuff
-	[Adjustable USB Desk Light](https://www.aliexpress.com/item/1005006904605256.html?) 11.91
+	[Monitor Lamp Light](https://www.aliexpress.com/item/1005006904605256.html?) 11.91
 	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
 	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) 19.18 (Colour 7, 900x400x4mm)
@@ -91,7 +91,7 @@ kanban-plugin: board
 	Metroid Prime PC Fork
 
 
-## Figure Wishlist
+## Figure Budget
 
 - [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
 	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
@@ -150,17 +150,12 @@ kanban-plugin: board
 	HM STUDIO KO Beast Gohan heads
 
 
-## Other Stuff
+## Figure Wishlist
 
 - [ ] ![[Pasted image 20251228150024.png]]
 	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
 - [ ] ![[Pasted image 20251228231256.png]]
 	[M16A4 87mm/Assault Rifle accessory](https://www.aliexpress.com/item/1005006915684561.html?) 2.44 per gun + 3.15 shipping
-- [ ] ![[Pasted image 20251228200322.png]]
-	[SH FIGUARTS Miniature Dragon Ball Collection](https://zenmarket.jp/s/toysanta/g-5duh0016au-005-54822?id=dd9b4b68-ff69-4b35-aacc-1740e926c9ae) 12.31
-- [ ] ![[Pasted image 20251228153004.png]]
-	[GOOD SMILE Oguri Cap Nendoroid](https://www.amiami.com/eng/detail/?gcode=FIGURE-196083) 29.77
-	(July 2026)
 - [ ] ![[Pasted image 20251229123108.png]]
 	[Cloth goods Whis/EoZ Gi](https://www.aliexpress.com/item/1005009471725917.html?) 20.39
 	*Would look good on the Tonsen Gogeta body without his jacket
