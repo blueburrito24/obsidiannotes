@@ -124,7 +124,7 @@ kanban-plugin: board
 	(And I can keep on the flesh-coloured butterfly cups to make swapping easy)
 - [ ] ![[Pasted image 20251228223921.png]]
 	[TK CUSTOM KO Ultra Instinct -Sign- Set](https://www.aliexpress.com/item/1005008988543892.html?) 29.59
-	*I quite like the closed-eye faceplate, but I could use [masking tape](https://amzn.eu/d/iQ4GyQ5) 3.99 and carefully repaint the rest of the faceplates to look like Mastered Ultra Instinct, alongside repainting the hairsculpt itself with [Vallejo Dark Sea Grey](https://amzn.eu/d/6dNHMBK) 2.95 to match Oguri Cap
+	*I quite like the closed-eye faceplate, but I could use [masking tape](https://amzn.eu/d/iQ4GyQ5) 3.99 and carefully repaint the rest of the faceplates to look like Mastered Ultra Instinct, alongside repainting the hairsculpt itself with [Vallejo Dark Sea Grey](https://amzn.eu/d/6dNHMBK) 2.95 to match Oguri Cap + drawing lines on the bottom of the eyebrows with my micron pens
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
