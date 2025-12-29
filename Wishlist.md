@@ -19,15 +19,16 @@ kanban-plugin: board
 
 - [ ] [AMAU student of knowledge annual membership](https://www.amauacademy.com/pages/plans) 134
 - [ ] [Floral Backends](https://amzn.eu/d/fWRX3g6) 8.39
-	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
-	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
 	[Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
-	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
-	[UGREEN USB Hub](https://amzn.eu/d/2fxiKRG) 9.99
-	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
 - [ ] [GOVEE Smart Lights](https://amzn.eu/d/j7sqleE) 12.99
 	*Need to download Google Home for use
+- [ ] ##### photography stuff
+	[Adjustable USB Desk Light](https://www.aliexpress.com/item/1005006904605256.html?) 11.91
+	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
+	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
+	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) price depending on size
+	*I need two tripods for my phone and my portable light*
 - [ ] ![[Pasted image 20251227155643.png]]
 	[Fat Chud Oguri Cap Sticker](https://www.etsy.com/uk/listing/4350004904/oguri-cap-bocchari-4-holographic-sticker?ga_search_query=oguri%2Bcap&ref=shop_items_search_1&crt=1&logging_key=e059179ed6652009a103ae5b8595728675b047ef%3A4350004904) 5.58
 - [ ] ![[Pasted image 20251227160014.png]]
@@ -39,6 +40,7 @@ kanban-plugin: board
 	[BANDAI Oguri Cap BIG Face Plush](https://www.nin-nin-game.com/en/uma-musume/192151-uma-musume-cinderella-gray-big-face-plush-toy-oguri-cap-bandai-.html) 27.98 (releases on new year)
 - [ ] ![[oguri cap wallet.png]]
 	[Oguri Cap Wallet](https://www.aliexpress.com/item/1005009718803850.html?p) 13.21
+	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 - [ ] ![[oguri cap bag.png]]
 	[Oguri Cap Backpack 35x37cm](https://www.aliexpress.com/item/1005008480747318.html) 32.09
 - [ ] ![[Pasted image 20251227115200.png]]

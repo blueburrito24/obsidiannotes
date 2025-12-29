@@ -20,9 +20,10 @@ I don't get why I can't bear being close with people. Being talkative and open w
 I still can't believe I jerked off to my OC. I designed him to just be fun to draw- I like big muscles and long hair, but I drew him attractive! I can't dismiss the thought of it. :°< I hope I can keep this feeling down when I draw, I don't want to stop drawing my OCs but I also don't want to become infatuated with them to the point it affects me.
 14.12.25
 
+-------------------------------------------------------------------------------
 Big video ideas.
 1. Long-form figure videos would involve [pngtuber graphics](https://www.instagram.com/reel/DP6biVvErFQ/?igsh=dTQzeXFzNmg0ZG5k) with hands-on footage
-2. short-form figure videos could be edits like [this](https://www.instagram.com/reel/DSiDItmke7N/?igsh=MWQ3NzloOTZ1bTB4eQ==) with a constant fast clock tick instead of music, jet set, undertale, gta sfx (like the wasted DING with a red flash), sonic cd sfx OR
+2. short-form figure videos could be edits like [this](https://www.instagram.com/reel/DSiDItmke7N/?igsh=MWQ3NzloOTZ1bTB4eQ==) with a constant fast clock tick instead of music, jet set, undertale, gta sfx (like the wasted DING with a red flash), jojo sfx, sonic cd sfx OR
 3. quick posing videos where it's a caption at the start then short cuts of me holding a pose or b-roll of said poses
 
 Could use clipchamp, obs, ditherboy, etc for all sorts of stuff here.
@@ -55,5 +56,9 @@ also!! [[you get me.mp3]] like [this edit](https://www.instagram.com/p/DSpj579jr
 I think it'd be cool if I did edits using audio of Meisho Doto and TM Opera O interacting, especially for edits of Goku and Vegeta.
 
 I should animate Goku and Gohan doing [this dance](https://www.instagram.com/p/DRDIMhDj2Il/) with [[feeling.mp3]].
-I can always make voice clips sound bitcrushed like a PS1 voice clip to mask any audio bugs, and it compliments screen effects.
+I can always make voice clips sound bitcrushed like a PS1 voice clip to mask any audio bugs, and it compliments screen effects, can feel nice with a snow aesthetic.
+
+I would LOVE to do an edit of my figures dancing to [[QLOO [vocals].mp3]] like [this edit](https://www.instagram.com/p/DQ4Bq6zjvTc/) 
+![[umaqloo.gif | 200]] ![[umaduo.gif | 200]] ![[umaball.gif | 200]]
+Especially with some characters doing the dances in the 2nd and 3rd gifs in the bg or during different cuts!!
 29.12.25
