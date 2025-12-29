@@ -146,46 +146,16 @@ kanban-plugin: board
 	KAMIONE 02A Gogeta, KO LSSJ Goku
 	SHF Super Hero Gohan + BHT Heads
 	HM STUDIO KO Beast Gohan heads
-- [ ] ![[Pasted image 20251228150024.png]]
-	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
-- [ ] ![[Pasted image 20251228200322.png]]
-	[SH FIGUARTS Miniature Dragon Ball Collection](https://zenmarket.jp/s/toysanta/g-5duh0016au-005-54822?id=dd9b4b68-ff69-4b35-aacc-1740e926c9ae) 12.31
-- [ ] ![[Pasted image 20251228231256.png]]
-	[M16A4 87mm/Assault Rifle accessory](https://www.aliexpress.com/item/1005006915684561.html?) 2.44 per gun + 3.15 shipping
-- [ ] ![[Pasted image 20251228152900.png]]
-	[TAMASHII NATIONS Effect Series Shock Impact Yellow Ver.](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 21.18
-- [ ] ![[moar moar effects.png]]
-	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
-- [ ] ![[effects.png]]
-	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
-- [ ] ![[moar effects.png]]
-	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
-- [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
-- [ ] ![[street lamp.png]]
-	[20cm Street lamp](https://www.etsy.com/uk/listing/1561091818/3v-led-streetlamp-black-lamp-post-for?ref=user_profile&frs=1) 24.99
-
-
-## Clothes
-
-- [ ] [Assorted Hoodies](https://www.aliexpress.com/item/1005009841258203.html?) 20.19 each
-	![[Pasted image 20251210190723.png]]
-	"green"
-	![[Pasted image 20251210190739.png]]
-	"brown"
-	![[Pasted image 20251210190758.png]]
-	"sky blue"
-	![[Pasted image 20251210190813.png]]
-	"beige"
-- [ ] ["Protect" joggers](https://www.aliexpress.com/item/1005007966201692.html?) 15.79
-	![[Pasted image 20251210191013.png]]
-- [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
-	![[dbz technique shirt.png]]
-- [ ] [Negative Zone Spider-Man hoodie](https://www.aliexpress.com/item/1005008565561132.html?) 27.28
-	![[Pasted image 20251229100212.png]]
 
 
 ## Other Stuff
 
+- [ ] ![[Pasted image 20251228150024.png]]
+	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
+- [ ] ![[Pasted image 20251228231256.png]]
+	[M16A4 87mm/Assault Rifle accessory](https://www.aliexpress.com/item/1005006915684561.html?) 2.44 per gun + 3.15 shipping
+- [ ] ![[Pasted image 20251228200322.png]]
+	[SH FIGUARTS Miniature Dragon Ball Collection](https://zenmarket.jp/s/toysanta/g-5duh0016au-005-54822?id=dd9b4b68-ff69-4b35-aacc-1740e926c9ae) 12.31
 - [ ] ![[Pasted image 20251228153004.png]]
 	[GOOD SMILE Oguri Cap Nendoroid](https://www.amiami.com/eng/detail/?gcode=FIGURE-196083) 29.77
 	(July 2026)
@@ -216,6 +186,36 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251229130608.png]]
 	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
 	[10CM Ver.](https://www.aliexpress.com/item/1005009777058355.html?) 5~ per piece
+- [ ] ![[Pasted image 20251228152900.png]]
+	[TAMASHII NATIONS Effect Series Shock Impact Yellow Ver.](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 21.18
+- [ ] ![[moar moar effects.png]]
+	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
+- [ ] ![[effects.png]]
+	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
+- [ ] ![[moar effects.png]]
+	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
+- [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
+- [ ] ![[street lamp.png]]
+	[20cm Street lamp](https://www.etsy.com/uk/listing/1561091818/3v-led-streetlamp-black-lamp-post-for?ref=user_profile&frs=1) 24.99
+
+
+## Clothes
+
+- [ ] [Assorted Hoodies](https://www.aliexpress.com/item/1005009841258203.html?) 20.19 each
+	![[Pasted image 20251210190723.png]]
+	"green"
+	![[Pasted image 20251210190739.png]]
+	"brown"
+	![[Pasted image 20251210190758.png]]
+	"sky blue"
+	![[Pasted image 20251210190813.png]]
+	"beige"
+- [ ] ["Protect" joggers](https://www.aliexpress.com/item/1005007966201692.html?) 15.79
+	![[Pasted image 20251210191013.png]]
+- [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
+	![[dbz technique shirt.png]]
+- [ ] [Negative Zone Spider-Man hoodie](https://www.aliexpress.com/item/1005008565561132.html?) 27.28
+	![[Pasted image 20251229100212.png]]
 
 
 ***

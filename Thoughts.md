@@ -55,4 +55,5 @@ also!! [[you get me.mp3]] like [this edit](https://www.instagram.com/p/DSpj579jr
 I think it'd be cool if I did edits using audio of Meisho Doto and TM Opera O interacting, especially for edits of Goku and Vegeta.
 
 I should animate Goku and Gohan doing [this dance](https://www.instagram.com/p/DRDIMhDj2Il/) with [[feeling.mp3]].
+I can always make voice clips sound bitcrushed like a PS1 voice clip to mask any audio bugs, and it compliments screen effects.
 29.12.25
