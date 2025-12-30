@@ -99,14 +99,6 @@ kanban-plugin: board
 - [ ] ![[goku and gohan.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.59
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-162567-R) 31.21
-- [ ] ## 90.61
-	SHF "Games Begin" Super Saiyan Son Goku
-	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
-	Sandpaper
-	Ziploc bags + black foam
-	Assorted sandpaper
-- [ ] ![[shf oguri cap.png]]
-	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[kamione bike goku.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20251226011531.png]]
@@ -115,6 +107,20 @@ kanban-plugin: board
 	Can use the base faceplates on the KAMIONE Goku hairsculpt
 	Resculpt the alternate wrapped forearms and use the upper body alongside [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13 so I have a battle-damaged torso for my Games Begin Goku
 	(And I can keep on the flesh-coloured butterfly cups to make swapping easy)
+- [ ] ![[piccolo.png]]
+	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
+	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
+- [ ] ## 257.65
+	SHF "Games Begin" Super Saiyan Son Goku
+	KAMIONE Goku head set
+	KAMIONE 02A Gogeta, KO LSSJ Goku
+	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
+	SHF "Proud Namekian" Piccolo
+	Sandpaper
+	Ziploc bags + black foam
+	Assorted sandpaper
+- [ ] ![[shf oguri cap.png]]
+	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[Pasted image 20251228223921.png]]
 	[TK CUSTOM KO Ultra Instinct -Sign- Set](https://www.aliexpress.com/item/1005008988543892.html?) 29.59
 	*I quite like the closed-eye faceplate, but I could use [masking tape](https://amzn.eu/d/iQ4GyQ5) 3.99 and carefully repaint the rest of the faceplates to look like Mastered Ultra Instinct, alongside repainting the hairsculpt itself with [Vallejo Dark Sea Grey](https://amzn.eu/d/6dNHMBK) 2.95 to match Oguri Cap + drawing lines on the bottom of the eyebrows with my micron pens
@@ -127,17 +133,11 @@ kanban-plugin: board
 	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-- [ ] ![[piccolo.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
-	(releases end of may)
-	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 384.34
+- [ ] ## 255.41
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
 	TK CUSTOM KO Ultra Instinct -Sign- Set + tape and paint
-	KAMIONE 02A Gogeta, KO LSSJ Goku
 	SHF Super Hero Gohan + BHT Heads
 	HM STUDIO KO Beast Gohan heads
 
@@ -167,10 +167,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228145113.png]]
 	Beast Deities DBS Heroes SSJ4 Dark Broly
 	(Q1 2026)
-- [ ] ![[Pasted image 20251230201428.png]]
-	[BLACK HOLE TOYS "Brute Evolution" SSJ4 Son Goku](https://www.aliexpress.com/item/1005010274535720.html?) 18.99
-	[SH FIGUARTS SSJ4 Vegeta](https://zenmarket.jp/s/mmo-store/om5474802?id=5c229dc0-9dae-4e2a-91e3-cf3536320ef3) 24.48
-	*I want to get these if I get BD DBSH SSJ4 Dark Broly
 - [ ] ![[Pasted image 20251229130608.png]]
 	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
 	[10CM Ver.](https://www.aliexpress.com/item/1005009777058355.html?) 5~ per piece
