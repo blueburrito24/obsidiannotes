@@ -167,7 +167,7 @@ kanban-plugin: board
 	(No release)
 	*If I get this, I want to get the [HOT SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005008089006003.html?), it costs 38.47 if I buy the hairsculpts, faceplates and neck peg all separately
 - [ ] ![[Pasted image 20251228144559.png]]
-	Demoniacal Fit "The Coming One" Trunks
+	[Demoniacal Fit "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
 	(Q1 2026)
 - [ ] ![[Pasted image 20251228144850.png]]
 	VitoForge Studio Goku Black
