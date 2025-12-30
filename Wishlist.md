@@ -166,8 +166,6 @@ kanban-plugin: board
 	KW STUDIO Perfect Cell
 	(No release)
 	*If I get this, I want to get the [HOT SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005008089006003.html?), it costs 38.47 if I buy the hairsculpts, faceplates and neck peg all separately
-- [ ] ![[Pasted image 20251228211703.png]]
-	[SH FIGUARTS Majin Buu Evil](https://zenmarket.jp/s/mmo-store/om5075565?id=12ad616f-0cfc-4ea6-bcc7-d38cb081db59) 54.15
 - [ ] ![[Pasted image 20251228144559.png]]
 	Demoniacal Fit "The Coming One" Trunks
 	(Q1 2026)
