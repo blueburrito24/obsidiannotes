@@ -31,6 +31,7 @@ kanban-plugin: board
 	*I need two tripods for my phone and my portable light*
 - [ ] ![[Pasted image 20251227115200.png]]
 	[AYN Thor PRO Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 275.33 with shipping
+	[Nibbed stylus](https://amzn.eu/d/1W2NhW2) 6.99
 	*I'll use a MicroSD for retro ROMs
 - [ ] ![[Pasted image 20251227155643.png]]
 	[Fat Chud Oguri Cap Sticker](https://www.etsy.com/uk/listing/4350004904/oguri-cap-bocchari-4-holographic-sticker?ga_search_query=oguri%2Bcap&ref=shop_items_search_1&crt=1&logging_key=e059179ed6652009a103ae5b8595728675b047ef%3A4350004904) 5.58
@@ -61,6 +62,8 @@ kanban-plugin: board
 	[DBZ KAKAROT's Season Pass](https://www.loaded.com/dragon-ball-z-kakarot-season-pass-pc-dlc-steam) 7.99
 	[Replicube](https://store.steampowered.com/app/3401490/Replicube?snr=1_25_4__318) 8.50
 	[while True: learn()](https://store.steampowered.com/app/619150/while_True_learn?snr=1_25_4__318) 10.29
+	[Dead Cells](https://www.loaded.com/dead-cells-pc-steam-cd-key) 6.49
+	[Streets of Rage 4](https://k4g.com/product/streets-of-rage-4-steam-global-cd-key-cd-key-CCB15AFC?r=aks&utm_source=allkeyshop.com&utm_medium=referral&xconf=B1651579FA75DB11&currency=GBP) 1.68
 	[SHINOBI: Art of Vengeance](https://www.loaded.com/shinobi-art-of-vengeance-pc-steam-eu) 15.99
 	[PAC-MAN WORLD Re-Pac](https://www.loaded.com/pac-man-world-re-pac-pc-steam) 3.99
 	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
@@ -70,22 +73,18 @@ kanban-plugin: board
 	[Bloodstained: Ritual of the Night](https://www.loaded.com/bloodstained-ritual-of-the-night-steam-pc) 3.99
 	[Blade Chimera](https://store.steampowered.com/app/2671230/BLADECHIMERA/) 16.75
 	[Pseudoregalia](https://store.steampowered.com/app/2365810/Pseudoregalia?snr=1_25_4__318) 4.99
-	[Streets of Rage 4 Mobile](https://play.google.com/store/apps/details?id=com.playdigious.sor4&hl=en_GB&pli=1) 7.49
 	[Epic Mickey Rebrushed](https://www.loaded.com/disney-epic-mickey-rebrushed-pc-steam) 12.89
-	[Marvel's Spider-Man 2](https://www.loaded.com/marvel-s-spider-man-2-pc-steam-eu) 30.99
 	[ENDER LILIES Quietus of the Knights](https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/) 21.99
 	[Prototype](https://store.steampowered.com/app/10150/Prototype?snr=1_25_4__318) 14.99
 	[A Hat In Time](https://store.steampowered.com/app/253230/A_Hat_in_Time?snr=1_25_4__318) 24.99
+	[Umamusume Pretty Derby: Party Dash](https://www.loaded.com/umamusume-pretty-derby-party-dash-pc-steam) 8.99
+	[Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/) 16.75
+	[Yakuza 0](https://www.loaded.com/yakuza-0-pc-steam-cd-key) 14.99
+	[Abathor](https://store.steampowered.com/app/2295610/Abathor/) 12.79
+	[Judgement](https://www.loaded.com/judgment-pc-steam) 8.49
 	[LEGO Batman: Legacy of the Dark Knight](https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/) 59.99
-	[Sonic Frontiers](https://www.loaded.com/sonic-frontiers-digital-deluxe-pc-ww-steam) 15.99
-	[Sonic Colours Ultimate](https://www.loaded.com/sonic-colors-ultimate-digital-deluxe-pc-steam-ww) 9.49
-	[Sonic X Shadow Generations](https://www.loaded.com/sonic-x-shadow-generations-pc-steam-eu) 20.99
 	Sonic Unleashed Recompiled
-	The Amazing Spider-Man
-	X-Men Origins: Wolverine
-	JoJo's Bizarre Adventure: Heritage for the Future (FightCade2)
 	Sonic Boll
-	Marvel: SNAP! on mobile
 	Metroid Prime PC Fork
 
 
