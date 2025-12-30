@@ -31,6 +31,7 @@ kanban-plugin: board
 	*I need two tripods for my phone and my portable light*
 - [ ] ![[Pasted image 20251227115200.png]]
 	[AYN Thor PRO Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 275.33 with shipping
+	*I'll use a MicroSD for retro ROMs
 - [ ] ![[Pasted image 20251227155643.png]]
 	[Fat Chud Oguri Cap Sticker](https://www.etsy.com/uk/listing/4350004904/oguri-cap-bocchari-4-holographic-sticker?ga_search_query=oguri%2Bcap&ref=shop_items_search_1&crt=1&logging_key=e059179ed6652009a103ae5b8595728675b047ef%3A4350004904) 5.58
 - [ ] ![[Pasted image 20251227160014.png]]
