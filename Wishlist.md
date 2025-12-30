@@ -96,23 +96,17 @@ kanban-plugin: board
 - [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
 - [ ] [10"x14" ziploc bags for carrying figures](https://amzn.eu/d/aTcHoi2) 9.94
 - [ ] [Black foam for cushioning figures in ziploc bags](https://amzn.eu/d/ewAQwoe) 11.99
-- [ ] ![[zt broly dko.png]]
-	[ZT STUDIOS Legendary Super Saiyan Broly](https://www.aliexpress.com/item/1005010194842868.html) 108.39
-	[DKO Super Saiyan (Yellow) Heads](https://www.aliexpress.com/item/1005008458108213.html) 36.29
-	*Could repaint the original heads to be a Shadow DIO style set
 - [ ] ![[goku and gohan.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.59
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-162567-R) 31.21
-- [ ] ![[shf oguri cap.png]]
-	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
-- [ ] ## 289.73
+- [ ] ## 90.61
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
-	ZT Studio Broly + DKO heads
 	Sandpaper
-	SHF Oguri Cap
 	Ziploc bags + black foam
 	Assorted sandpaper
+- [ ] ![[shf oguri cap.png]]
+	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[kamione bike goku.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20251226011531.png]]
@@ -137,7 +131,8 @@ kanban-plugin: board
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.75
 	(releases end of may)
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 329.90
+- [ ] ## 384.34
+	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	SHF "Proud Namekian" Piccolo + cloth cape
 	KAMIONE Bike Goku headsculpts
@@ -172,9 +167,10 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228145113.png]]
 	Beast Deities DBS Heroes SSJ4 Dark Broly
 	(Q1 2026)
-- [ ] ![[Pasted image 20251228230524.png]]
+- [ ] ![[Pasted image 20251230201428.png]]
 	[BLACK HOLE TOYS "Brute Evolution" SSJ4 Son Goku](https://www.aliexpress.com/item/1005010274535720.html?) 18.99
-	*I want to get this if I get BD DBSH SSJ4 Dark Broly
+	[SH FIGUARTS SSJ4 Vegeta](https://zenmarket.jp/s/mmo-store/om5474802?id=5c229dc0-9dae-4e2a-91e3-cf3536320ef3) 24.48
+	*I want to get these if I get BD DBSH SSJ4 Dark Broly
 - [ ] ![[Pasted image 20251229130608.png]]
 	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
 	[10CM Ver.](https://www.aliexpress.com/item/1005009777058355.html?) 5~ per piece
