@@ -29,6 +29,8 @@ kanban-plugin: board
 	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
 	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) 19.18 (Colour 7, 900x400x4mm)
 	*I need two tripods for my phone and my portable light*
+- [ ] ![[Pasted image 20251227115200.png]]
+	[AYN Thor PRO Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 275.33 with shipping
 - [ ] ![[Pasted image 20251227155643.png]]
 	[Fat Chud Oguri Cap Sticker](https://www.etsy.com/uk/listing/4350004904/oguri-cap-bocchari-4-holographic-sticker?ga_search_query=oguri%2Bcap&ref=shop_items_search_1&crt=1&logging_key=e059179ed6652009a103ae5b8595728675b047ef%3A4350004904) 5.58
 - [ ] ![[Pasted image 20251227160014.png]]
@@ -43,11 +45,6 @@ kanban-plugin: board
 	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 - [ ] ![[oguri cap bag.png]]
 	[Oguri Cap Backpack 35x37cm](https://www.aliexpress.com/item/1005008480747318.html) 32.09
-- [ ] ![[Pasted image 20251227115200.png]]
-	[AYN Thor MAX Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 352.19 with shipping
-	OR
-	![[anbernic.png]]
-	[ANBERNIC RG476H](https://www.ebay.co.uk/itm/317461854009) 164.18
 - [ ] ![[spider-man poster.png]]
 	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd
 	![[batman poster.png]]
