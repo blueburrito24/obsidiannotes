@@ -133,10 +133,13 @@ kanban-plugin: board
 	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-- [ ] ## 255.41
+- [ ] ![[Pasted image 20251228144559.png]]
+	[DEMONIACAL FIT "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
+	(Q1 2026)
+- [ ] ## 306.80
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
-	KAMIONE Bike Goku headsculpts
+	DEMONIACAL FIT Trunks
 	TK CUSTOM KO Ultra Instinct -Sign- Set + tape and paint
 	SHF Super Hero Gohan + BHT Heads
 	HM STUDIO KO Beast Gohan heads
@@ -146,8 +149,6 @@ kanban-plugin: board
 
 - [ ] ![[Pasted image 20251228150024.png]]
 	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
-- [ ] ![[Pasted image 20251228231256.png]]
-	[M16A4 87mm/Assault Rifle accessory](https://www.aliexpress.com/item/1005006915684561.html?) 2.44 per gun + 3.15 shipping
 - [ ] ![[Pasted image 20251229123108.png]]
 	[Cloth goods Whis/EoZ Gi](https://www.aliexpress.com/item/1005009471725917.html?) 20.39
 	*Would look good on the Tonsen Gogeta body without his jacket
@@ -158,9 +159,6 @@ kanban-plugin: board
 	KW STUDIO Perfect Cell
 	(No release)
 	*If I get this, I want to get the [HOT SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005008089006003.html?), it costs 38.47 if I buy the hairsculpts, faceplates and neck peg all separately
-- [ ] ![[Pasted image 20251228144559.png]]
-	[Demoniacal Fit "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
-	(Q1 2026)
 - [ ] ![[Pasted image 20251228144850.png]]
 	VitoForge Studio Goku Black
 	(Q1 2026)
