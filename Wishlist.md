@@ -110,13 +110,16 @@ kanban-plugin: board
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 257.65
+- [ ] ![[Pasted image 20251231005116.png]]
+	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 104.39
+- [ ] ## 362.04
 	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
 	KAMIONE 02A Gogeta, KO LSSJ Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	SHF "Proud Namekian" Piccolo
 	Sandpaper
+	ZT STUDIO Broly
 	Ziploc bags + black foam
 	Assorted sandpaper
 - [ ] ![[shf oguri cap.png]]
