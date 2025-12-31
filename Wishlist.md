@@ -121,9 +121,8 @@ kanban-plugin: board
 	Assorted sandpaper
 - [ ] ![[shf oguri cap.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
-- [ ] ![[Pasted image 20251228223921.png]]
-	[TK CUSTOM KO Ultra Instinct -Sign- Set](https://www.aliexpress.com/item/1005008988543892.html?) 29.59
-	*I quite like the closed-eye faceplate, but I could use [masking tape](https://amzn.eu/d/iQ4GyQ5) 3.99 and carefully repaint the rest of the faceplates to look like Mastered Ultra Instinct, alongside repainting the hairsculpt itself with [Vallejo Dark Sea Grey](https://amzn.eu/d/6dNHMBK) 2.95 to match Oguri Cap + drawing lines on the bottom of the eyebrows with my micron pens
+- [ ] ![[Pasted image 20251231003013.png]]
+	[TK CUSTOM Ultra Instinct Set](https://www.aliexpress.com/item/1005009459347046.html?) 42.49
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
@@ -136,11 +135,11 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228144559.png]]
 	[DEMONIACAL FIT "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
 	(Q1 2026)
-- [ ] ## 306.80
+- [ ] ## 273.97
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
-	TK CUSTOM KO Ultra Instinct -Sign- Set + tape and paint
+	TK CUSTOM Ultra Instinct Goku heads
 	SHF Super Hero Gohan + BHT Heads
 	HM STUDIO KO Beast Gohan heads
 
