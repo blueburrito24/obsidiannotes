@@ -121,6 +121,11 @@ kanban-plugin: board
 	Assorted sandpaper
 - [ ] ![[shf oguri cap.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
+- [ ] ![[dangerous pride vegeta.png]]
+	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
+- [ ] ![[Pasted image 20251228144559.png]]
+	[DEMONIACAL FIT "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
+	(Q1 2026)
 - [ ] ![[Pasted image 20251231003013.png]]
 	[TK CUSTOM Ultra Instinct Set](https://www.aliexpress.com/item/1005009459347046.html?) 42.49
 - [ ] ![[black hole toys gohan head on super hero body.png]]
@@ -130,11 +135,6 @@ kanban-plugin: board
 	*could repaint waist strap and wrist wraps blue to match manga + grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes
 - [ ] ![[Pasted image 20251229124243.png]]
 	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
-- [ ] ![[dangerous pride vegeta.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
-- [ ] ![[Pasted image 20251228144559.png]]
-	[DEMONIACAL FIT "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
-	(Q1 2026)
 - [ ] ## 273.97
 	SHF Oguri Cap
 	SHF "Dangerous Pride" Super Saiyan Vegeta
