@@ -10,7 +10,7 @@ kanban-plugin: board
 	
 	1007.31 \- 300 \= 707.31gbp (Second Term)
 	
-	1046.28 \- 300 \= 746.28gbp (Third Term)
+	1096.28 \- 300 \= 796.28gbp (Third Term)
 	
 	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
 
@@ -120,8 +120,6 @@ kanban-plugin: board
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
-- [ ] ![[shf oguri cap.png]]
-	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
 - [ ] ![[Pasted image 20251231005116.png]]
 	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 104.39
 - [ ] ![[dangerous pride vegeta.png]]
@@ -132,14 +130,13 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251231003013.png]]
 	[TK CUSTOM Ultra Instinct Set](https://www.aliexpress.com/item/1005009459347046.html?) 42.49
 - [ ] ![[black hole toys gohan head on super hero body.png]]
-	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
+	[SH FIGUARTS SUPER HERO Son Gohan](https://zenmarket.jp/s/mmo-store/om5363538?id=c4cafab4-0f48-4420-bef4-aca6ca2a4d41) 27.16
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
-	TOTAL 72.05
-	*could repaint waist strap and wrist wraps blue to match manga + grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
+	TOTAL 62.95
+	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
 - [ ] ![[Pasted image 20251229124243.png]]
 	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
-- [ ] ## 378.36
-	SHF Oguri Cap
+- [ ] ## 314.82
 	ZT STUDIO Broly
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
