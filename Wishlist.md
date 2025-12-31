@@ -177,8 +177,6 @@ kanban-plugin: board
 - [ ] ![[moar effects.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
 - [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
-- [ ] ![[street lamp.png]]
-	[20cm Street lamp](https://www.etsy.com/uk/listing/1561091818/3v-led-streetlamp-black-lamp-post-for?ref=user_profile&frs=1) 24.99
 
 
 ## Clothes
