@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
 	
-	1057.31 \- 300 \= 757.31gbp (Second Term)
+	1007.31 \- 300 \= 707.31gbp (Second Term)
 	
 	1046.28 \- 300 \= 746.28gbp (Third Term)
 	
@@ -105,25 +105,24 @@ kanban-plugin: board
 	![[Pasted image 20251228152248.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	Can use the base faceplates on the KAMIONE Goku hairsculpt
-	Resculpt the alternate wrapped forearms and use the upper body alongside [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13 so I have a battle-damaged torso for my Games Begin Goku
-	(And I can keep on the flesh-coloured butterfly cups to make swapping easy)
+	Resculpt the alternate wrapped forearms and use the upper body alongside [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13.
+	Going to buy a second "Games Begin" Goku to use this torso with.
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ![[Pasted image 20251231005116.png]]
-	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 104.39
-- [ ] ## 362.04
-	SHF "Games Begin" Super Saiyan Son Goku
+- [ ] ## 289.24
+	SHF "Games Begin" Super Saiyan Son Goku x2
 	KAMIONE Goku head set
 	KAMIONE 02A Gogeta, KO LSSJ Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	SHF "Proud Namekian" Piccolo
 	Sandpaper
-	ZT STUDIO Broly
 	Ziploc bags + black foam
 	Assorted sandpaper
 - [ ] ![[shf oguri cap.png]]
 	[SH FIGUARTS Umamusume Pretty Derby: Oguri Cap](https://zenmarket.jp/s/mmo-store/om5582226?id=3767160a-66cf-40af-b6f1-27458ec8cb1d) 54.44
+- [ ] ![[Pasted image 20251231005116.png]]
+	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 104.39
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251228144559.png]]
@@ -135,11 +134,12 @@ kanban-plugin: board
 	[SH FIGUARTS SUPER HERO Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-134721-R) 36.26
 	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 72.05
-	*could repaint waist strap and wrist wraps blue to match manga + grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes
+	*could repaint waist strap and wrist wraps blue to match manga + grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
 - [ ] ![[Pasted image 20251229124243.png]]
 	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
-- [ ] ## 273.97
+- [ ] ## 378.36
 	SHF Oguri Cap
+	ZT STUDIO Broly
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
 	TK CUSTOM Ultra Instinct Goku heads
