@@ -151,6 +151,8 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251229123108.png]]
 	[Cloth goods Whis/EoZ Gi](https://www.aliexpress.com/item/1005009471725917.html?) 20.39
 	*Would look good on the Tonsen Gogeta body without his jacket
+- [ ] ![[Pasted image 20251231193635.png]]
+	[SHF Trunks cloth jacket](https://www.aliexpress.com/item/1005009404958127.html?) 17.39
 - [ ] ![[Pasted image 20251229123557.png]]
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
