@@ -152,22 +152,16 @@ kanban-plugin: board
 
 - [ ] ![[Pasted image 20251229123108.png]]
 	[Cloth goods Whis/EoZ Gi](https://www.aliexpress.com/item/1005009471725917.html?) 20.39
-	*Would look good on the Tonsen Gogeta body without his jacket
+	*Would look good on the Tonsen Gogeta pants + LSSJ Goku torso
 - [ ] ![[Pasted image 20251231193635.png]]
 	[SHF Trunks cloth jacket](https://www.aliexpress.com/item/1005009404958127.html?) 17.39
 - [ ] ![[Pasted image 20251229123557.png]]
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
-	![[Pasted image 20251229123828.png]]
+	![[Pasted image 20251231220041.png]]
 	[KW STUDIO Perfect Cell](https://www.aliexpress.com/item/1005010144909402.html?) 64.59
 	(No release)
-	*If I get this, I want to get the [HOT SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005008089006003.html?), it costs 38.47 if I buy the hairsculpts, faceplates and neck peg all separately
-- [ ] ![[Pasted image 20251228144850.png]]
-	[VitoForge Studio Goku Black](https://www.aliexpress.com/item/1005008424187793.html?) 62.59
-	(Q1 2026)
-- [ ] ![[Pasted image 20251228145113.png]]
-	Beast Deities DBS Heroes SSJ4 Dark Broly
-	(Q1 2026)
+	*If I get this, I want to get the [HMYR SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005010571382753.html?) 42.49
 - [ ] ![[Pasted image 20251231212638.png]]
 	[KO Kaiyodo Amazing Yamaguchi One Punch Man](https://www.aliexpress.com/item/1005010018530241.html?) 24.37
 	*Mainly buying for effects, can repaint as Serious Saitama following [this video](https://www.tiktok.com/@kcabyap2/video/7582713009743711518)
@@ -175,8 +169,6 @@ kanban-plugin: board
 	[AC TOYS Goku Wind Effect Kit](https://www.aliexpress.com/item/1005009734325158.html?) 10.89
 - [ ] ![[moar moar effects.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
-- [ ] ![[effects.png]]
-	[DBZ Blast effects](https://www.aliexpress.com/item/1005005587933913.html) 5.80~ per piece
 - [ ] ![[moar effects.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
 - [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
