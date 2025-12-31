@@ -47,6 +47,8 @@ kanban-plugin: board
 	[RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 - [ ] ![[oguri cap bag.png]]
 	[Oguri Cap Backpack 35x37cm](https://www.aliexpress.com/item/1005008480747318.html) 32.09
+- [ ] ![[Pasted image 20251231212151.png]]
+	[COSBI Spider-Man Keychain Plushies](https://www.aliexpress.com/item/1005010093534222.html?) 6~ per plush
 - [ ] ![[spider-man poster.png]]
 	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd
 	![[batman poster.png]]
@@ -166,11 +168,11 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228145113.png]]
 	Beast Deities DBS Heroes SSJ4 Dark Broly
 	(Q1 2026)
-- [ ] ![[Pasted image 20251229130608.png]]
-	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
-	[10CM Ver.](https://www.aliexpress.com/item/1005009777058355.html?) 5~ per piece
-- [ ] ![[Pasted image 20251228152900.png]]
-	[TAMASHII NATIONS Effect Series Shock Impact Yellow Ver.](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 21.18
+- [ ] ![[Pasted image 20251231212638.png]]
+	[KO Kaiyodo Amazing Yamaguchi One Punch Man](https://www.aliexpress.com/item/1005010018530241.html?) 24.37
+	*Mainly buying for effects, can repaint as Serious Saitama following [this video](https://www.tiktok.com/@kcabyap2/video/7582713009743711518)
+- [ ] ![[Pasted image 20251231200007.png]]
+	[AC TOYS Goku Wind Effect Kit](https://www.aliexpress.com/item/1005009734325158.html?) 10.89
 - [ ] ![[moar moar effects.png]]
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[effects.png]]
@@ -178,6 +180,9 @@ kanban-plugin: board
 - [ ] ![[moar effects.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
 - [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
+- [ ] ![[Pasted image 20251229130608.png]]
+	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
+	[10CM Ver.](https://www.aliexpress.com/item/1005009777058355.html?) 5~ per piece
 
 
 ## Clothes
