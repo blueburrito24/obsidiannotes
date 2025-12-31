@@ -105,17 +105,16 @@ kanban-plugin: board
 	![[Pasted image 20251228152248.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	Can use the base faceplates on the KAMIONE Goku hairsculpt
-	Resculpt the alternate wrapped forearms and use the upper body alongside [KO SHF LSSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 19.13.
-	Going to buy a second "Games Begin" Goku to use this torso with.
+	Resculpt the alternate wrapped forearms and use the upper body alongside [SHF LSSJ Goku](https://zenmarket.jp/s/mmo-store/5577257?id=a4f8d987-8894-4773-a318-4c97b063c14b) 38.04.
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 289.24
-	SHF "Games Begin" Super Saiyan Son Goku x2
+- [ ] ## 276.56
+	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
-	KAMIONE 02A Gogeta, KO LSSJ Goku
+	KAMIONE 02A Gogeta
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
-	SHF "Proud Namekian" Piccolo
+	SHF "Proud Namekian" Piccolo + SHF Legendary SSJ Goku
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
