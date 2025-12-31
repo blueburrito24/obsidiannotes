@@ -156,11 +156,11 @@ kanban-plugin: board
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
 	![[Pasted image 20251229123828.png]]
-	KW STUDIO Perfect Cell
+	[KW STUDIO Perfect Cell](https://www.aliexpress.com/item/1005010144909402.html?) 64.59
 	(No release)
 	*If I get this, I want to get the [HOT SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005008089006003.html?), it costs 38.47 if I buy the hairsculpts, faceplates and neck peg all separately
 - [ ] ![[Pasted image 20251228144850.png]]
-	VitoForge Studio Goku Black
+	[VitoForge Studio Goku Black](https://www.aliexpress.com/item/1005008424187793.html?) 62.59
 	(Q1 2026)
 - [ ] ![[Pasted image 20251228145113.png]]
 	Beast Deities DBS Heroes SSJ4 Dark Broly
