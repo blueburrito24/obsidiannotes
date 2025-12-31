@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] 3 (months) x 10 (monthly spending limit) \= 300 (term spending limit)  
 	
-	1007.31 \- 300 \= 707.31gbp (Second Term)
+	1057.31 \- 300 \= 757.31gbp (Second Term)
 	
 	1046.28 \- 300 \= 746.28gbp (Third Term)
 	
