@@ -149,8 +149,6 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
-- [ ] ![[Pasted image 20251228150024.png]]
-	[Armoured Knight Model Kit](https://www.aliexpress.com/item/1005009218090099.html?) 3.69 each (comes in gold, silver, metallic red and metallic green)
 - [ ] ![[Pasted image 20251229123108.png]]
 	[Cloth goods Whis/EoZ Gi](https://www.aliexpress.com/item/1005009471725917.html?) 20.39
 	*Would look good on the Tonsen Gogeta body without his jacket
