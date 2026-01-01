@@ -21,6 +21,8 @@ kanban-plugin: board
 - [ ] [Floral Backends](https://amzn.eu/d/fWRX3g6) 8.39
 	[Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
+- [ ] [Plastic Containers for storing figure accessories](https://amzn.eu/d/8wzRW0i) 14.99
+	*Comes in packs of 12
 - [ ] [Adjustable Microphone Stand](https://amzn.eu/d/gn2t9wM) 15.29
 - [ ] [GOVEE Smart Lights](https://amzn.eu/d/j7sqleE) 12.99
 	*Need to download Google Home for use
@@ -130,6 +132,8 @@ kanban-plugin: board
 	Assorted sandpaper
 - [ ] ![[Pasted image 20251231005116.png]]
 	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 104.39
+- [ ] ![[Pasted image 20260101123242.png]]
+	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251228144559.png]]
@@ -144,8 +148,9 @@ kanban-plugin: board
 	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
 - [ ] ![[Pasted image 20251229124243.png]]
 	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
-- [ ] ## 314.82
+- [ ] ## 361.74
 	ZT STUDIO Broly
+	SHF "Goku's Best Friend" Krillin
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
 	TK CUSTOM Ultra Instinct Goku heads
@@ -164,8 +169,6 @@ kanban-plugin: board
 	WOW Superaction Studio Saiyan Saga Vegeta 
 	(Q1 2026) likely 50~
 	*Would like to buy [BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59 and use the head from WOW on it, removing the arm veins for a total base form Buu Saga Vegeta
-- [ ] ![[Pasted image 20260101123242.png]]
-	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
 - [ ] ![[Pasted image 20251229123557.png]]
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
