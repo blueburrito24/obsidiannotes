@@ -21,6 +21,7 @@ kanban-plugin: board
 - [ ] [Floral Backends](https://amzn.eu/d/fWRX3g6) 8.39
 	[Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
+- [ ] [Adjustable Microphone Stand](https://amzn.eu/d/gn2t9wM) 15.29
 - [ ] [GOVEE Smart Lights](https://amzn.eu/d/j7sqleE) 12.99
 	*Need to download Google Home for use
 - [ ] ##### photography stuff
@@ -60,24 +61,26 @@ kanban-plugin: board
 
 ## Game Wishlist
 
-- [ ] [Dragon Ball Z: KAKAROT](https://www.loaded.com/dragon-ball-z-kakarot-steam-pc) 9.79
-	[DBZ KAKAROT's Season Pass](https://www.loaded.com/dragon-ball-z-kakarot-season-pass-pc-dlc-steam) 7.99
-	[Replicube](https://store.steampowered.com/app/3401490/Replicube?snr=1_25_4__318) 8.50
-	[while True: learn()](https://store.steampowered.com/app/619150/while_True_learn?snr=1_25_4__318) 10.29
-	[Dead Cells](https://www.loaded.com/dead-cells-pc-steam-cd-key) 6.49
+- [ ] [PAC-MAN WORLD Re-Pac](https://www.loaded.com/pac-man-world-re-pac-pc-steam) 3.99
+	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
+	[Mega Max Legacy Collection 1+ 2](https://www.loaded.com/mega-man-x-legacy-collection-1-2-bundle-pc-steam-eu) 1.89
+	[Mega Man X Legacy Collection](https://www.loaded.com/mega-man-x-legacy-collection-pc-steam-eu) 8.99
+	[Sonic Adventure 2](https://www.loaded.com/sonic-adventure-2-pc-steam) + [Battle DLC](https://www.loaded.com/sonic-adventure-2-battle-pc-dlc-steam) 4.38
+	[Sonic Superstars](https://www.loaded.com/sonic-superstars-pc-steam-eu) 6.99
 	[Streets of Rage 4](https://k4g.com/product/streets-of-rage-4-steam-global-cd-key-cd-key-CCB15AFC?r=aks&utm_source=allkeyshop.com&utm_medium=referral&xconf=B1651579FA75DB11&currency=GBP) 1.68
 	[SHINOBI: Art of Vengeance](https://www.loaded.com/shinobi-art-of-vengeance-pc-steam-eu) 15.99
-	[PAC-MAN WORLD Re-Pac](https://www.loaded.com/pac-man-world-re-pac-pc-steam) 3.99
-	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
-	[Celeste](https://www.loaded.com/celeste-pc-steam) 4.49
+	[Dragon Ball Z: KAKAROT](https://www.loaded.com/dragon-ball-z-kakarot-steam-pc) 9.79
+	[DBZ KAKAROT's Season Pass](https://www.loaded.com/dragon-ball-z-kakarot-season-pass-pc-dlc-steam) 7.99
 	[Resident Evil 4](https://store.steampowered.com/app/254700/Resident_Evil_4_2005?snr=1_25_4__318) 15.98
+	[Dead Cells](https://www.loaded.com/dead-cells-pc-steam-cd-key) 6.49
+	[Celeste](https://www.loaded.com/celeste-pc-steam) 4.49
 	[Metro Gravity](https://store.steampowered.com/app/2986450/Metro_Gravity?snr=1_25_4__318) 10.99
 	[Bloodstained: Ritual of the Night](https://www.loaded.com/bloodstained-ritual-of-the-night-steam-pc) 3.99
 	[Blade Chimera](https://store.steampowered.com/app/2671230/BLADECHIMERA/) 16.75
 	[Pseudoregalia](https://store.steampowered.com/app/2365810/Pseudoregalia?snr=1_25_4__318) 4.99
-	[Epic Mickey Rebrushed](https://www.loaded.com/disney-epic-mickey-rebrushed-pc-steam) 12.89
 	[ENDER LILIES Quietus of the Knights](https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/) 21.99
 	[Prototype](https://store.steampowered.com/app/10150/Prototype?snr=1_25_4__318) 14.99
+	[Epic Mickey Rebrushed](https://www.loaded.com/disney-epic-mickey-rebrushed-pc-steam) 12.89
 	[A Hat In Time](https://store.steampowered.com/app/253230/A_Hat_in_Time?snr=1_25_4__318) 24.99
 	[Umamusume Pretty Derby: Party Dash](https://www.loaded.com/umamusume-pretty-derby-party-dash-pc-steam) 8.99
 	[Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/) 16.75
@@ -87,7 +90,11 @@ kanban-plugin: board
 	[LEGO Batman: Legacy of the Dark Knight](https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/) 59.99
 	Sonic Unleashed Recompiled
 	Sonic Boll
+	Sonic 1, 2, CD Android ports
 	Metroid Prime PC Fork
+	Super Mario 64 PC Port/Co-op Deluxe
+	[Replicube](https://store.steampowered.com/app/3401490/Replicube?snr=1_25_4__318) 8.50
+	[while True: learn()](https://store.steampowered.com/app/619150/while_True_learn?snr=1_25_4__318) 10.29
 
 
 ## Figure Budget
