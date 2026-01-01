@@ -163,6 +163,10 @@ kanban-plugin: board
 	*Would look good on the Tonsen Gogeta pants + LSSJ Goku torso
 - [ ] ![[Pasted image 20251231193635.png]]
 	[SHF Trunks cloth jacket](https://www.aliexpress.com/item/1005009404958127.html?) 17.39
+- [ ] ![[Pasted image 20260101222548.png]]
+	WOW Superaction Studio Saiyan Saga Vegeta 
+	(Q1 2026) likely 50~
+	*Would like to buy [BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59 and use the head from WOW on it, removing the arm veins for a total base form Buu Saga Vegeta
 - [ ] ![[Pasted image 20251229123557.png]]
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
