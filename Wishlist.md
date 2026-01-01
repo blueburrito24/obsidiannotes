@@ -168,6 +168,10 @@ kanban-plugin: board
 	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
 - [ ] ![[moar effects.png]]
 	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
+- [ ] ![[Pasted image 20260101095910.png]]
+	[Consecutive Energy Blast effects](https://www.aliexpress.com/item/1005009511669769.html?) 13.49
+- [ ] ![[Pasted image 20260101100030.png]]
+	[Electric Beam effect](https://www.aliexpress.com/item/1005006712193974.html?) 7.15
 - [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
 - [ ] ![[Pasted image 20251229130608.png]]
 	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
