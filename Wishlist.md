@@ -107,7 +107,7 @@ kanban-plugin: board
 - [ ] [Black foam for cushioning figures in ziploc bags](https://amzn.eu/d/ewAQwoe) 11.99
 - [ ] ![[goku and gohan.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.59
-	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://www.amiami.com/eng/detail/?gcode=FIGURE-162567-R) 31.21
+	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://zenmarket.jp/s/mmo-store/om5569139?id=3e7274cc-3028-4da9-8712-57255e79e1c7) 27.16
 - [ ] ![[kamione bike goku.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20251226011531.png]]
@@ -119,15 +119,12 @@ kanban-plugin: board
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ![[Pasted image 20260101123242.png]]
-	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
-- [ ] ## 323.48
+- [ ] ## 272.51
 	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
 	KAMIONE 02A Gogeta
-	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
-	SHF "Proud Namekian" Piccolo + SHF Legendary SSJ Goku
-	SHF "Goku's Best Friend" Krillin
+	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan + SHF "Proud Namekian" Piccolo + SHF Legendary SSJ Goku 
+	==(These three are bought via ZenPlus/Zenmarket)==
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
@@ -167,6 +164,8 @@ kanban-plugin: board
 	WOW Superaction Studio Saiyan Saga Vegeta 
 	(Q1 2026) likely 50~
 	*Would like to buy [BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59 and use the head from WOW on it, removing the arm veins for a total base form Buu Saga Vegeta
+- [ ] ![[Pasted image 20260101123242.png]]
+	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
 - [ ] ![[Pasted image 20251229123557.png]]
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
