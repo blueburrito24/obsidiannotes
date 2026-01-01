@@ -121,12 +121,16 @@ kanban-plugin: board
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/5577258?id=353b785d-c220-42a3-be1e-f531109c5b5e) 27.16
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 261.60
+- [ ] ![[Pasted image 20260101232821.png]]
+	[BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
+	*Sand down the veins on the arms and forehead + remove the Majin logo for a SSJ2 look
+- [ ] ## 303.19
 	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
 	KAMIONE 02A Gogeta
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan + SHF "Proud Namekian" Piccolo + SHF Legendary SSJ Goku 
 	==(These three are bought via ZenPlus/Zenmarket)==
+	BHT Majin Vegeta
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
@@ -168,7 +172,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20260101222548.png]]
 	WOW Superaction Studio Saiyan Saga Vegeta 
 	(Q1 2026) likely 50~
-	*Would like to buy [BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59 and use the head from WOW on it, removing the arm veins for a total base form Buu Saga Vegeta
+	*Would like to use this WOW Vegeta's base heads on BHT Majin Vegeta
 - [ ] ![[Pasted image 20251229123557.png]]
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
