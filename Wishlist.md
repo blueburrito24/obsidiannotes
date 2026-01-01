@@ -117,9 +117,9 @@ kanban-plugin: board
 	Sand down the forearms to make the wristbands thinner, resculpting them with epoxy putty and repainting them and use the upper body alongside [SHF LSSJ Goku](https://zenmarket.jp/s/mmo-store/5577257?id=a4f8d987-8894-4773-a318-4c97b063c14b) 38.04.
 	*This means after all the kitbashing, I have the legs from KAMIONE Gogeta, upper body from LSSJ Goku, all the heads from both minus the base form Gogeta faceplates and all their other accessories left over. I can keep them and use them for fodder.
 - [ ] ![[piccolo.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
+	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/5577258?id=353b785d-c220-42a3-be1e-f531109c5b5e) 27.16
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 272.51
+- [ ] ## 261.60
 	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
 	KAMIONE 02A Gogeta
@@ -163,7 +163,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20260101222548.png]]
 	WOW Superaction Studio Saiyan Saga Vegeta 
 	(Q1 2026) likely 50~
-	*Would like to buy [BLACK HOLE TOYS Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59 and use the head from WOW on it, removing the arm veins for a total base form Buu Saga Vegeta
+	*Would like to buy [BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59 and use the head from WOW on it, removing the arm veins for a total base form Buu Saga Vegeta
 - [ ] ![[Pasted image 20260101123242.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
 - [ ] ![[Pasted image 20251229123557.png]]
