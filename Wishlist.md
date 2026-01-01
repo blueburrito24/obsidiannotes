@@ -138,7 +138,7 @@ kanban-plugin: board
 	[TK CUSTOM Ultra Instinct Set](https://www.aliexpress.com/item/1005009459347046.html?) 42.49
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://zenmarket.jp/s/mmo-store/om5363538?id=c4cafab4-0f48-4420-bef4-aca6ca2a4d41) 27.16
-	[Black Hole Toys Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
+	[TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 62.95
 	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
 - [ ] ![[Pasted image 20251229124243.png]]
