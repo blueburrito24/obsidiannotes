@@ -114,7 +114,8 @@ kanban-plugin: board
 	![[Pasted image 20251228152248.png]]
 	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
 	Can use the base faceplates on the KAMIONE Goku hairsculpt
-	Resculpt the alternate wrapped forearms and use the upper body alongside [SHF LSSJ Goku](https://zenmarket.jp/s/mmo-store/5577257?id=a4f8d987-8894-4773-a318-4c97b063c14b) 38.04.
+	Sand down the forearms to make the wristbands thinner, resculpting them with epoxy putty and repainting them and use the upper body alongside [SHF LSSJ Goku](https://zenmarket.jp/s/mmo-store/5577257?id=a4f8d987-8894-4773-a318-4c97b063c14b) 38.04.
+	*This means after all the kitbashing, I have the legs from KAMIONE Gogeta, upper body from LSSJ Goku, all the heads from both minus the base form Gogeta faceplates and all their other accessories left over. I can keep them and use them for fodder.
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
