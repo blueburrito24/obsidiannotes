@@ -118,12 +118,15 @@ kanban-plugin: board
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 38.07
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 276.56
+- [ ] ![[Pasted image 20260101123242.png]]
+	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
+- [ ] ## 323.48
 	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
 	KAMIONE 02A Gogeta
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	SHF "Proud Namekian" Piccolo + SHF Legendary SSJ Goku
+	SHF "Goku's Best Friend" Krillin
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
