@@ -4,7 +4,7 @@ The term was coined by Margaret Hamilton under NASA in the 60s, as a title for N
 SE sets a standard for the programs we produce.
 
 Systems thinking is a holistic (or interconnected) approach to solving problems related to a system's interconnected components change over time, with the goal of the system in mind.
-
+------------
 A bicycle is an example of a system because all the parts work together for the goal of movement. The gears, wheels, etc all work together to keep the bicycle driver in motion.
 A pile of paper, although a collection of items, is not a system as these items do not work together for any sort of goal.
 A tree is a collection of interconnected items, the branches, leaves, roots, they all work together for survival but this might not fit into the definition of a system.
@@ -52,4 +52,32 @@ A good example of these features is this circuit diagram:
 ![[Pasted image 20260102172111.png]]
 The engine powers the battery, so it plugs into the socket of the battery. The lights require power from the battery, so it has a socket for the battery to plug into.
 
-### Tutorial 1
+### Tutorial 1 - "Systems Thinking"
+Many Aston University students study a “sandwich” course, which means they have to spend their third year on a placement, usually working in industry.
+A Placements Tutor at Aston oversees the process. While on placement, the students are supported by their Personal Tutor, who may be different from the Placements Tutor. The Personal Tutor usually makes at least one visit to the student's workplace during the year.
+
+The software system should support the following two processes:
+1. A student provides placement details and an administrator creates the student’s placement record using these details.
+2. Each potential Personal Tutor views available placements on a map and indicates which placements they prefer to visit. The Placements Tutor allocates Personal Tutors to placements, making the allocation fair while respecting the tutors’ preferences as much as possible. The software system helps the Placements Tutor by suggesting an efficient and fair allocation based on placement locations and tutors’ preferences.
+
+Four actors in this system would be:
+- The student (who provides placement details)
+- The administrator (who creates placement records)
+- Personal Tutors (who are assigned to placement records)
+- Placement Tutors (who oversee the process of students getting placements)
+- Database of all available placements.
+
+We need to decide what components would be involved in such a system, and make a UML diagram of them.
+Components:
+- Map of all available placements
+- Database of personal tutors and their preferences (i.e., location, distance, etc)
+![[Pasted image 20260102180420.png]]
+Four potential important emergent properties of this system:
+- Software system can identify who is both a Placement and Personal tutor simultaneously.
+- Software system can identify what placements are taken and if they are taken by Aston's own students.
+- Software system can identify what placements are closest to Placement Tutors.
+- Software system can identify which students don't have any placement.
+
+Two potential important non-emergent properties of this system:
+- Administrators can view information on placements.
+- Personal Tutors can provide preferences on placements they can be involved with.
