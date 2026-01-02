@@ -128,7 +128,9 @@ kanban-plugin: board
 	Ziploc bags + black foam
 	Assorted sandpaper
 - [ ] ![[Pasted image 20251231005116.png]]
+	![[Pasted image 20260102233246.png]]
 	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 104.39
+	[DKO OUT OF CONTROL WARRIOR Broly SSJ headsculpts](https://www.aliexpress.com/item/1005008458108213.html) 36.39
 - [ ] ![[Pasted image 20260101123242.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
 - [ ] ![[dangerous pride vegeta.png]]
@@ -141,8 +143,8 @@ kanban-plugin: board
 	[TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 62.95
 	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
-- [ ] ## 285.46
-	ZT STUDIO Broly
+- [ ] ## 321.85
+	ZT STUDIO Broly + DKO heads
 	SHF "Goku's Best Friend" Krillin
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
