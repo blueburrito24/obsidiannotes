@@ -77,3 +77,9 @@ This diagram has logical mistakes i.e., it shows a model that is not consistent 
 What sequences of activities does the diagram allow? Consider all possible
 sequences of activities that this model permits (i.e., legal paths through the diagram, from start to end). Write down each sequence using the activity numbers provided. For example, 1,2,3,4,5,6,7 is one of the paths to consider.
 
+1,2,3,4,5,6 (Completed phase and planning for next phase)
+1,2,3,4,5,6,7 (Completed phase, planned next phase and review goals for next iteration)
+1,2,3,4,5,6 (Completed phase and next phase is the last phase)
+
+One of the permitted sequences of activities does not make sense and should be forbidden. Fix the diagram and then check that the meaningless sequence is no longer legal and all the other sequences remain legal.
+
