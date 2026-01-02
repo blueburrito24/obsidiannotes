@@ -150,16 +150,13 @@ kanban-plugin: board
 	[TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 62.95
 	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
-- [ ] ![[Pasted image 20251229124243.png]]
-	[KO HM STUDIO Beast Gohan headsculpts](https://www.aliexpress.com/item/1005008917956283.html?) 33.79
-- [ ] ## 361.74
+- [ ] ## 327.95
 	ZT STUDIO Broly
 	SHF "Goku's Best Friend" Krillin
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
 	TK CUSTOM Ultra Instinct Goku heads
 	SHF Super Hero Gohan + BHT Heads
-	HM STUDIO KO Beast Gohan heads
 
 
 ## Figure Wishlist
