@@ -49,3 +49,43 @@ An exception path to making tea, e.g., with a faulty kettle, would be that the k
 
 A use case is an example of functionality in a given scenario, performed by the system with an identifying title. Each use case is associated with the initiating actor and a description for the use case. Its title should fit its function.
 Use cases are depicted with UML use case diagrams.
+Actors are drawn as stick men or stereotyped boxes.
+![[{D7B31A78-3D18-4C82-A62B-C3544531777A}.png]]
+An example of a use case:
+![[{FD854339-3F4B-4AB0-B7CA-6C16418B7ED0}.png]]
+Often times a use case diagram can involve a secondary process, which we refer to using the "include" relationship term.
+![[Pasted image 20260102211332.png]]
+"Extend" can be used to refer to optionally included processes.
+![[Pasted image 20260102211348.png]]
+
+It's useful when categorising requirements to make them traceable by ID e.g., FR1, FR2, NFR1, etc.
+The system should involve sub-systems and components of related requirements, alongside their relationships.
+
+We should align our requirements to the following prioritisation:
+Must, Should, Could and Would (or Won't, Wish to) have -> MoSCoW.
+Delivery of the software without any of the Must requirements is a failure.
+Should requirements are important but not as time-critical as Must.
+Requirements relating to user experience can be classified as Could, least-critical requirements can be classified as Would and can be delivered in the next iteration/release.
+![[Pasted image 20260102212858.png]]
+When prioritising requirements, we can use an ordinal/numbered scale based on importance. This ranking can involve MoSCoW or any other method.
+
+Requirements validation is an evaluation on whether the requirements actually define the system that the customer really wants.
+Types of checks:
+- Validity check (does the system provide the functions that meet the stakeholders' needs)
+- Consistency check (are there any conflicts present)
+- Completeness (are all functions required by the customers included)
+- Realism (can the requirements be implemented given time and budget)
+- Verifiability check (can the requirements actually be tested)
+
+We can validate our requirements in these ways:
+- Review (a team of reviewers will analyse our requirements for errors and inconsistencies)
+- Prototyping (producing an executable model of the system to demonstrate it to end-users and customers)
+- Test-case generation (if a test is difficult to design, the requirements will be difficult to implement)
+
+We have to also specify requirements and write them in a requirements document, using natural language and diagrams.
+There should be a standard format for the document.
+There should be distinction between mandatory and desirable requirements.
+Jargon should be avoided, text highlights should be utilised and rationale (reasoning) should be explained.
+
+### Tutorial 3 - "Use Cases"
+#### Identifying and describing use cases
