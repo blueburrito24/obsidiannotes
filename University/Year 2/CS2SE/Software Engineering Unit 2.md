@@ -64,3 +64,16 @@ When an activity involves external actors/processes, it has to send signals to t
 ![[{D9D23DFC-9B02-4010-95FB-D9962F1FA42B}.png]]
 Interruptions are receive signals that change the flow of an activity, signified with a lightning bolt symbol. The region in which the interruption can take place is often outlined with a dotted box, referred to as the Interruptible Region.
 ![[{96A3B6C4-A422-4800-9E90-8089870928FD}.png]]
+Objects can be depicted with object nodes/pins. Input pins represent input objects, i.e., an action cannot run without an object parameter. Output pins specify that an object is an output from an action.
+![[{7E1E6137-8772-4996-BEDE-EA8F6B03E4DE}.png]]
+"Swimlanes" or partitions are used to depict which component/participant is responsible for which actions.
+![[{31C19137-FB57-42B3-B8C1-DE955F13D92B}.png]]
+
+### Tutorial 2 - "Activity Diagrams"
+Consider the following activity diagram that attempts to show some aspects of a single Unified Process iteration:
+![[{395CF92C-1B35-4279-9A04-573F68E486AB}.png]]
+This diagram has logical mistakes i.e., it shows a model that is not consistent with reality.
+
+What sequences of activities does the diagram allow? Consider all possible
+sequences of activities that this model permits (i.e., legal paths through the diagram, from start to end). Write down each sequence using the activity numbers provided. For example, 1,2,3,4,5,6,7 is one of the paths to consider.
+
