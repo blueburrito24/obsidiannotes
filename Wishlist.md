@@ -112,24 +112,16 @@ kanban-plugin: board
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://zenmarket.jp/s/mmo-store/om5569139?id=3e7274cc-3028-4da9-8712-57255e79e1c7) 27.16
 - [ ] ![[kamione bike goku.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
-- [ ] ![[Pasted image 20251226011531.png]]
-	
-	![[Pasted image 20251228152248.png]]
-	[KAMIONE Gogeta 02A](https://www.aliexpress.com/item/1005010437390357.html?) 50.60
-	Can use the base faceplates on the KAMIONE Goku hairsculpt
-	Sand down the forearms to make the wristbands thinner, resculpting them with epoxy putty and repainting them and use the upper body alongside [SHF LSSJ Goku](https://zenmarket.jp/s/mmo-store/5577257?id=a4f8d987-8894-4773-a318-4c97b063c14b) 38.04.
-	*This means after all the kitbashing, I have the legs from KAMIONE Gogeta, upper body from LSSJ Goku, all the heads from both minus the base form Gogeta faceplates and all their other accessories left over. I can keep them and use them for fodder.
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/5577258?id=353b785d-c220-42a3-be1e-f531109c5b5e) 27.16
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
 - [ ] ![[Pasted image 20260101232821.png]]
 	[BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
 	*Sand down the veins on the arms and forehead + remove the Majin logo for a SSJ2 look
-- [ ] ## 303.19
+- [ ] ## 214.55
 	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
-	KAMIONE 02A Gogeta
-	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan + SHF "Proud Namekian" Piccolo + SHF Legendary SSJ Goku 
+	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan + SHF "Proud Namekian" Piccolo
 	==(These three are bought via ZenPlus/Zenmarket)==
 	BHT Majin Vegeta
 	Sandpaper
