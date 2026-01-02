@@ -122,7 +122,7 @@ kanban-plugin: board
 	SHF "Games Begin" Super Saiyan Son Goku
 	KAMIONE Goku head set
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan + SHF "Proud Namekian" Piccolo
-	==(These three are bought via ZenPlus/Zenmarket)==
+	==(These two are bought via ZenPlus/Zenmarket)==
 	BHT Majin Vegeta
 	Sandpaper
 	Ziploc bags + black foam
