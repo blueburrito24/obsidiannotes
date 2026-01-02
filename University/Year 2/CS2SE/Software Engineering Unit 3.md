@@ -39,3 +39,10 @@ Software engineers need to work with stakeholders to evaluate and decide upon re
 - Prioritisation and Negotiation (deciding on definite requirements and resolving conflicts)
 - Specification (validating and formally documenting requirements)
 
+Discovery has some challenges, e.g., stakeholders don't fully grasp the priority of what their business wants/needs, requirements are expressed from a personal perspective, different stakeholders will conflict on what requirements they want, etc.
+So, we have to brainstorm, discuss and interview the stakeholders, run surveys, etc to come up with definite requirements.
+![[Pasted image 20260102204627.png]]
+Scenarios can involve multiple workflows, i.e., the sequence of events/actions is influenced and initiated by an actor. There is a primary and assumed path, alternative paths and exception (missed) paths.
+We can acknowledge this concept with the 80/20 rule - "You will spend 80% of your time dealing with what will happen 20% of the time".
+![[Pasted image 20260102204828.png]]
+An exception path to making tea, e.g., with a faulty kettle, would be that the kettle explodes upon activating and you have to stop a fire. So to include this exception path forms a scenario with multiple workflows, instead of a single/primary workflow, similar to the above where two workflows are present.
