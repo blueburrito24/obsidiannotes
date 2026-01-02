@@ -103,3 +103,23 @@ could be difficult or go wrong during development, not after development when th
 
 Outline a plausible potential list of iterations for developing the specified system using Unified Process. Cover all four phases indicating which iterations belong to which of the four phases. The plan is expected to have 10–15 iterations. For each iteration, very briefly specify its objectives and deliverables.
 
+- Inception
+-During first iteration we need to decide what features are core and need to be prioritised. Let's say we need an activator, sensors and a bell.
+-Second Iteration, we need to build upon this system's features. We need to involve three more sensors.
+-Third Iteration, we need to add an activation code to activate the entire system.
+-Fourth Iteration, we need to be able to change the code.
+- Elaboration
+-During first iteration we need to figure out how to achieve those features and what components are needed. We need a button to activate the system and that button needs to connect to the sensors, which connect to the bell.
+-During second iteration we need to make sure all the sensors can interact with the activator and bell.
+-Third iteration requires a panel for interacting with the system activation, also deciding where the panel will be placed.
+-Fourth Iteration requires we have an interface where the testers can modify the code for the system activation.
+- Conception
+-First iteration of the system with these components and features. Producing the above system.
+-Second iteration involves producing the above system.
+-Third iteration involves producing the above system.
+-Fourth iteration involves producing the above system.
+- Transition
+-First iteration of live testing.
+-Second iteration of live testing, making sure all sensors are individually performing.
+-Third iteration of live testing, making sure the system cannot be activated without the code and sensors only function when the code is entered.
+-Fourth iteration involves live testing the system to see if it still works as normal, then seeing if changing the code affects any performance.
