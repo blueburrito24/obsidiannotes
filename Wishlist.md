@@ -12,7 +12,7 @@ kanban-plugin: board
 	
 	1096.28 \- 300 \= 796.28gbp (Third Term)
 	
-	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist or [[Comics Wishlist.base]]*
+	*These two are general spending budgets. They can be for anything from [[Wishlist]] or Game Wishlist, [[Comics Wishlist.base]] or [[Books Wishlist.base]].*
 
 
 ## General Wishlist
@@ -143,7 +143,7 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228144559.png]]
 	[DEMONIACAL FIT "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
 	(Q1 2026)
-- [ ] ![[Pasted image 20251231003013.png]]
+- [ ] ![[Pasted image 20260102154247.png]]
 	[TK CUSTOM Ultra Instinct Set](https://www.aliexpress.com/item/1005009459347046.html?) 42.49
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://zenmarket.jp/s/mmo-store/om5363538?id=c4cafab4-0f48-4420-bef4-aca6ca2a4d41) 27.16
