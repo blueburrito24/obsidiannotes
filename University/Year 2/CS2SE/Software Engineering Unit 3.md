@@ -46,3 +46,6 @@ Scenarios can involve multiple workflows, i.e., the sequence of events/actions i
 We can acknowledge this concept with the 80/20 rule - "You will spend 80% of your time dealing with what will happen 20% of the time".
 ![[Pasted image 20260102204828.png]]
 An exception path to making tea, e.g., with a faulty kettle, would be that the kettle explodes upon activating and you have to stop a fire. So to include this exception path forms a scenario with multiple workflows, instead of a single/primary workflow, similar to the above where two workflows are present.
+
+A use case is an example of functionality in a given scenario, performed by the system with an identifying title. Each use case is associated with the initiating actor and a description for the use case. Its title should fit its function.
+Use cases are depicted with UML use case diagrams.
