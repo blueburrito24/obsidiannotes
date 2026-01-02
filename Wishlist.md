@@ -136,19 +136,16 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251228144559.png]]
 	[DEMONIACAL FIT "The Coming One" Trunks](https://www.aliexpress.com/item/1005008165826008.html?) 51.39
 	(Q1 2026)
-- [ ] ![[Pasted image 20260102154247.png]]
-	[TK CUSTOM Ultra Instinct Set](https://www.aliexpress.com/item/1005009459347046.html?) 42.49
 - [ ] ![[black hole toys gohan head on super hero body.png]]
 	[SH FIGUARTS SUPER HERO Son Gohan](https://zenmarket.jp/s/mmo-store/om5363538?id=c4cafab4-0f48-4420-bef4-aca6ca2a4d41) 27.16
 	[TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 62.95
 	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
-- [ ] ## 327.95
+- [ ] ## 285.46
 	ZT STUDIO Broly
 	SHF "Goku's Best Friend" Krillin
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
-	TK CUSTOM Ultra Instinct Goku heads
 	SHF Super Hero Gohan + BHT Heads
 
 
