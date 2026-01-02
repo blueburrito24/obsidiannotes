@@ -81,11 +81,12 @@ sequences of activities that this model permits (i.e., legal paths through the d
 1,2,3,4,5,6 (Completed phase and planning for next phase)
 1,2,3,4,5,6,7 (Completed phase, planned next phase and review goals for next iteration)
 1,2,3,4,5,6 (Completed phase and next phase is the last phase)
+**Did not include 1,2,3,4,5 or 1,2,3,4,5,7
 
 One of the permitted sequences of activities does not make sense and should be forbidden. Fix the diagram and then check that the meaningless sequence is no longer legal and all the other sequences remain legal.
 ![[Pasted image 20260102191851.png]]
 Now you cannot do 1,2,3,4,5,7 as that is not logical.
-
+**The problem sequence is that you plan a following phase even if it does not exist**
 #### Unified Process phases and iterations
 Consider the following preliminary system specification:
 Develop an intruder alarm system controlled by one computer with a control panel, connected to a number of sensors, an alarm bell and a telephone line. The system is activated and deactivated by entering a four digit code. The activation code can be changed using the panel when the system is inactive. After activation, the system monitors the sensors. At first it does not react to any sensor signals but when the signals stop occurring and have been absent for 1 minute, the system will react to any
@@ -100,26 +101,52 @@ could be difficult or go wrong during development, not after development when th
 3. If the number and message cannot be changed, when someone gets a new phone or their current phone breaks, they cannot be reached in an emergency. The number and message should be readily changed if the last set number is unavailable or the message is not preferred for that chosen number. 
 4. If the panel is easily accessible e.g., available in the living room, anyone can go and modify the information for the alarm system. The panel should be in a secluded area so that there is another layer of failsafe to its performance.
 5. If someone compromises the household, they can do what they please in that 1 minute period and then leave without the alarm bell or communications being set off. This needs to be reliably tested with live testers.
+**Should have discussed risks of development!! I.e., difficult requirements, difficult libraries to learn. Also examples of those, like technology for receiving signals from sensors.**
 
 Outline a plausible potential list of iterations for developing the specified system using Unified Process. Cover all four phases indicating which iterations belong to which of the four phases. The plan is expected to have 10–15 iterations. For each iteration, very briefly specify its objectives and deliverables.
+*I'm doing only five to save time, but by doing five we still understand the principles of this exercise.*
 
 - Inception
 -During first iteration we need to decide what features are core and need to be prioritised. Let's say we need an activator, sensors and a bell.
 -Second Iteration, we need to build upon this system's features. We need to involve three more sensors.
 -Third Iteration, we need to add an activation code to activate the entire system.
 -Fourth Iteration, we need to be able to change the code.
+-Fifth Iteration, we need to be able to communicate with an emergency number when the alarm bell activates.
 - Elaboration
 -During first iteration we need to figure out how to achieve those features and what components are needed. We need a button to activate the system and that button needs to connect to the sensors, which connect to the bell.
 -During second iteration we need to make sure all the sensors can interact with the activator and bell.
 -Third iteration requires a panel for interacting with the system activation, also deciding where the panel will be placed.
 -Fourth Iteration requires we have an interface where the testers can modify the code for the system activation.
+-Fifth Iterations requires we can set an emergency number and message on the interface.
 - Conception
 -First iteration of the system with these components and features. Producing the above system.
 -Second iteration involves producing the above system.
 -Third iteration involves producing the above system.
 -Fourth iteration involves producing the above system.
+-Fifth iteration involves producing the above system, alongside providing an emergency number.
 - Transition
 -First iteration of live testing.
 -Second iteration of live testing, making sure all sensors are individually performing.
 -Third iteration of live testing, making sure the system cannot be activated without the code and sensors only function when the code is entered.
 -Fourth iteration involves live testing the system to see if it still works as normal, then seeing if changing the code affects any performance.
+-Fifth iteration involves live testing the system to see if you can properly set an emergency number and message, and if the communication reaches that designated number when the alarm bell is activated.
+
+**I.1 get sample and users and engineers (collaboration contracts)
+I.2 identify and prioritise risks (elaboration plan)
+E.1 identify typical scenarios (detailed scenario descriptions)
+E.2 sensor monitoring and bell control (prototype that rings bell when movement
+detected)
+E.3 making phone calls (prototype making a call to a fixed number with a fixed
+message)
+E.4 recording voice message (prototype with this functionality as before)
+E.5 intuitive user interface (prototype of control panel + user manual)
+E.6 maintenable system design supporting all use cases (basic prototype supporting all use cases with some simulation, component/class diagrams demonstrating good decomposition)
+E.7 coping with power cuts (prototype with backup battery able to operate all use
+cases through a power cut)
+C.1 alarm start and stop (polished user interface to this feature, reliable operation)
+C.2 new code entry (like before)
+C.3 new phone number and message entry (like before)
+T.1 safety standards (prototype and documentation required to pass industry
+safety standards)
+T.2 product documentation (further installation and maintenance manuals)
+T.3 end user testing (system installed in a number of houses, end user reports)**
