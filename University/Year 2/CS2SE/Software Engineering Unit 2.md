@@ -70,6 +70,7 @@ Objects can be depicted with object nodes/pins. Input pins represent input objec
 ![[{31C19137-FB57-42B3-B8C1-DE955F13D92B}.png]]
 
 ### Tutorial 2 - "Activity Diagrams"
+#### Reading and Modifying an Activity Diagram
 Consider the following activity diagram that attempts to show some aspects of a single Unified Process iteration:
 ![[{395CF92C-1B35-4279-9A04-573F68E486AB}.png]]
 This diagram has logical mistakes i.e., it shows a model that is not consistent with reality.
@@ -82,4 +83,23 @@ sequences of activities that this model permits (i.e., legal paths through the d
 1,2,3,4,5,6 (Completed phase and next phase is the last phase)
 
 One of the permitted sequences of activities does not make sense and should be forbidden. Fix the diagram and then check that the meaningless sequence is no longer legal and all the other sequences remain legal.
+![[Pasted image 20260102191851.png]]
+Now you cannot do 1,2,3,4,5,7 as that is not logical.
+
+#### Unified Process phases and iterations
+Consider the following preliminary system specification:
+Develop an intruder alarm system controlled by one computer with a control panel, connected to a number of sensors, an alarm bell and a telephone line. The system is activated and deactivated by entering a four digit code. The activation code can be changed using the panel when the system is inactive. After activation, the system monitors the sensors. At first it does not react to any sensor signals but when the signals stop occurring and have been absent for 1 minute, the system will react to any
+further signal by setting off the bell and making a phone call to a designated number. The designated number and the phone message can be changed using the panel when the system is inactive.
+
+Identify FIVE-SIX major communication and technical risks of developing the
+software component of the system and prioritise these risks. Focus on what
+could be difficult or go wrong during development, not after development when the system is in operation.
+
+1. If someone compromises the household without alerting the system, they can easily change the number and message targets for the system, alongside the four-digit activation code. There should be another layer of failsafe to keep these methods intact.
+2. If someone compromises the household, regardless of the system being activated they can break the alarm bell and even disconnect the telephone line to prevent the communications being performed. These two lines of communication should be protected and not easily accessed.
+3. If the number and message cannot be changed, when someone gets a new phone or their current phone breaks, they cannot be reached in an emergency. The number and message should be readily changed if the last set number is unavailable or the message is not preferred for that chosen number. 
+4. If the panel is easily accessible e.g., available in the living room, anyone can go and modify the information for the alarm system. The panel should be in a secluded area so that there is another layer of failsafe to its performance.
+5. If someone compromises the household, they can do what they please in that 1 minute period and then leave without the alarm bell or communications being set off. This needs to be reliably tested with live testers.
+
+Outline a plausible potential list of iterations for developing the specified system using Unified Process. Cover all four phases indicating which iterations belong to which of the four phases. The plan is expected to have 10–15 iterations. For each iteration, very briefly specify its objectives and deliverables.
 
