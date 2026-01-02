@@ -38,4 +38,18 @@ We have to define the most crucial features of the system; its components, how t
 
 Models allow us to focus on the most important features of a system (abstraction), present our ideas on the system concretely (representation), share our ideas easily (communicate) and check if we meet the requirements for the system (early evaluation).
 ![[Pasted image 20260102163731.png]]
-Models are always abstract - they focus on specific details of a system, software does too. UML is a great way for us to produce models.
+Models are always abstract - they focus on specific details of a system, software does too - details like code organisation, runtime entities, data flow, etc.
+UML is a great way for us to produce models.
+
+Component diagrams help us map out the complex elements of a system to decide how the system should be structured and how the components should interact and interdepend on one another.
+![[{08D3817E-B62C-4B7B-9179-D92494D707B7}.png]]
+There are two common ways to draw how components work together.
+You can either use an arrow for how a component depends on another, or a ball-socket connection.
+![[{969F41AB-EBEA-4A25-9F28-E1E4BA79A54E}.png]]
+Ports are used to show how a component interacts with the outside environment.
+![[{38CD08F7-F6B4-4000-85DB-598505D963D2}.png]]
+A good example of these features is this circuit diagram:
+![[Pasted image 20260102172111.png]]
+The engine powers the battery, so it plugs into the socket of the battery. The lights require power from the battery, so it has a socket for the battery to plug into.
+
+### Tutorial 1
