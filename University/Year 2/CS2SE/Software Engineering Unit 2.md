@@ -49,3 +49,18 @@ Scrum Events involve the following:
 - "Sprint Review" - Demonstrating the completed work and getting feedback from stakeholders.
 - "Sprint Retrospective" - Team reflects on their performance and what to do next.
 
+UML Activity Diagrams show how important business processes occur in our system.
+![[{492AD636-BF5F-45F0-8565-2A647FC4237D}.png]]
+Actions in these activity diagrams start when they receive a control token (i.e., the black circle above).
+Diamonds are used to depict decision/merge nodes.
+An "edge" is a representation of data flow and decision path.
+![[Pasted image 20260102190133.png]]
+Multiple actions that run in parallel are depicted using forks and joins, the flow is broken up into two or more simultaneous flows which must finish before the flow continues past the join node.
+![[Pasted image 20260102190358.png]]
+We can't finish a flow until all actions are done, so we can't do a latter action before we finish all the previous ones related to that action.
+When an activity has time relevance, we use time events to model a waiting period.
+![[{E97A6723-B210-41C4-966F-F3452E21B2D0}.png]]
+When an activity involves external actors/processes, it has to send signals to the actor/process. A receive signal wakes up an action, while a send signal is a message to the external participant.
+![[{D9D23DFC-9B02-4010-95FB-D9962F1FA42B}.png]]
+Interruptions are receive signals that change the flow of an activity, signified with a lightning bolt symbol. The region in which the interruption can take place is often outlined with a dotted box, referred to as the Interruptible Region.
+![[{96A3B6C4-A422-4800-9E90-8089870928FD}.png]]
