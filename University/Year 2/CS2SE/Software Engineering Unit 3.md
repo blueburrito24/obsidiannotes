@@ -18,8 +18,24 @@ There are certain metrics for specifying non-functional requirements:
 - Speed (response time)
 - Size (number of)
 - Ease of use (training or help needed)
-- Reliability (mean time to failure, unavailability, rate of failure occurence)
+- Reliability (mean time to failure, unavailability, rate of failure occurrence)
 - Robustness (time to restart after failure, percentage of events causing failure)
 - Portability (percentage of target dependent statements, number of target systems)
 
 There should be an official statement of what software developers need to implement, it covers both user and system requirements alongside functional and non-functional requirements.
+![[Pasted image 20260102203316.png]]
+The "Feasibility Study" is a short evaluation deciding if the system is useful for the business. It should tell us if the system contributes to the organisation, if it can be implemented into the business' schedule and budget and if it can be integrated alongside other systems in the business.
+E.g.,
+Probe the feasibility of the following project:
+Develop a system that allows real-time editing of a slide by all
+students at once when doing a lecture exercise.
+
+This system is not highly useful. Lecture slides are used to teach content, so students don't need to make changes to the content provided by the university. For it to be implemented into the university, there needs to be components for students to interact with the slides through, which may involve altering how the university uses blackboard.
+**Note that you should consider what happens if we don't implement a system. The rest above is good.**
+
+Software engineers need to work with stakeholders to evaluate and decide upon requirements. The following stages are used for this process:
+- Discovery (finding out about the domain, users and system requirements)
+- Classification and Organisation (categorising requirements, forming clusters of those requirements and assigning sub-systems)
+- Prioritisation and Negotiation (deciding on definite requirements and resolving conflicts)
+- Specification (validating and formally documenting requirements)
+
