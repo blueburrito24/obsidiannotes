@@ -120,12 +120,19 @@ kanban-plugin: board
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 37.99
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
-- [ ] ## 230.71
+- [ ] ![[Pasted image 20260101232821.png]]
+	[BLACK HOLE TOYS/TK CUSTOM Solemn Valor](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
+	[SH FIGUARTS "Old Battle Suit" Vegeta](https://www.nin-nin-game.com/en/shfiguarts/133012-shfiguarts-dragon-ball-z-vegeta-old-battle-suit-ver-bandai-spirits-.html) 44.45
+	*Sand down the veins on the arms and forehead + use a [Gundam eraser](https://oeshop.co.uk/products/gsi-mr-hobby-gm300p-250-gundam-eraser-marker-remover-new-release) 3.49 and [Q-Tips](https://amzn.eu/d/1sBHhsh) 1 to remove the Majin logo for a SSJ2 look, also need to open up torso and dremel it out for more torso range! Follow [this video](https://youtu.be/qQjaGpU8jpI?si=5hrMyvFiwk3Vfz0k)
+	I can use the OBS Vegeta heads for base form.
+	Make sure to dap the faceplates with a wet tissue after removing the logo to remove any left over residue
+- [ ] ## 321.24
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	KAMIONE Goku head set
 	SHF "Goku's Best Friend" Krillin
 	SHF "Proud Namekian" Piccolo
+	BHT Solemn Valor + SHF OBS Vegeta
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
@@ -159,15 +166,6 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
-- [ ] I'd want to get Majin Vegeta only if I can get WOW Vegeta for the base form too, since I'm already gonna get a regular SSJ Vegeta in Term 3.
-- [ ] ![[Pasted image 20260101232821.png]]
-	[BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
-	*Sand down the veins on the arms and forehead + use a [Gundam eraser](https://oeshop.co.uk/products/gsi-mr-hobby-gm300p-250-gundam-eraser-marker-remover-new-release) 3.49 and [Q-Tips](https://amzn.eu/d/1sBHhsh) 1 to remove the Majin logo for a SSJ2 look, also need to open up torso and dremel it out for more torso range! Follow [this video](https://youtu.be/qQjaGpU8jpI?si=5hrMyvFiwk3Vfz0k)
-	Make sure to dap the faceplates with a wet tissue after removing the logo to remove any left over residue
-- [ ] ![[Pasted image 20260101222548.png]]
-	WOW Superaction Studio Saiyan Saga Vegeta 
-	(Q1 2026) likely 50~
-	*Would like to use this WOW Vegeta's base heads on BHT Majin Vegeta
 - [ ] ![[Pasted image 20251231193635.png]]
 	[SHF Trunks cloth jacket](https://www.aliexpress.com/item/1005009404958127.html?) 17.39
 - [ ] ![[Pasted image 20251229123557.png]]
