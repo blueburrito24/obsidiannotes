@@ -1,4 +1,4 @@
-### LECTURE 1
+### Lecture 1
 Software Engineering refers to the methods for analysing, designing, implementing, testing and maintaining software.
 The term was coined by Margaret Hamilton under NASA in the 60s, as a title for NATO's conference to discuss software issues, guidelines, practices etc. SE aims to solve failures due to increasing demands and low expectations for software.
 SE sets a standard for the programs we produce.
