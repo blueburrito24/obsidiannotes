@@ -153,15 +153,12 @@ kanban-plugin: board
 
 ## Figure Wishlist
 
-- [ ] ![[Pasted image 20251229123108.png]]
-	[Cloth goods Whis/EoZ Gi](https://www.aliexpress.com/item/1005009471725917.html?) 20.39
-	*Would look good on the Tonsen Gogeta pants + LSSJ Goku torso
-- [ ] ![[Pasted image 20251231193635.png]]
-	[SHF Trunks cloth jacket](https://www.aliexpress.com/item/1005009404958127.html?) 17.39
 - [ ] ![[Pasted image 20260101222548.png]]
 	WOW Superaction Studio Saiyan Saga Vegeta 
 	(Q1 2026) likely 50~
 	*Would like to use this WOW Vegeta's base heads on BHT Majin Vegeta
+- [ ] ![[Pasted image 20251231193635.png]]
+	[SHF Trunks cloth jacket](https://www.aliexpress.com/item/1005009404958127.html?) 17.39
 - [ ] ![[Pasted image 20251229123557.png]]
 	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
 - [ ] ![[Pasted image 20251229123509.png]]
