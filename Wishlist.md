@@ -114,6 +114,7 @@ kanban-plugin: board
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20260101123242.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
+	(releases end of february)
 - [ ] ![[piccolo.png]]
 	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/5577258?id=353b785d-c220-42a3-be1e-f531109c5b5e) 27.16
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
