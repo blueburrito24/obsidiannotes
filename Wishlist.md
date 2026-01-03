@@ -116,12 +116,12 @@ kanban-plugin: board
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
 	(releases end of february)
 - [ ] ![[piccolo.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/5577258?id=353b785d-c220-42a3-be1e-f531109c5b5e) 27.16
+	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 37.99
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
 - [ ] ![[Pasted image 20260101232821.png]]
 	[BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
 	*Sand down the veins on the arms and forehead + remove the Majin logo for a SSJ2 look, also need to open up torso and dremel it out for more torso range!
-- [ ] ## 261.47
+- [ ] ## 272.30
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	KAMIONE Goku head set
@@ -135,6 +135,12 @@ kanban-plugin: board
 	![[Pasted image 20260102233246.png]]
 	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 104.39
 	[DKO OUT OF CONTROL WARRIOR Broly SSJ headsculpts](https://www.aliexpress.com/item/1005008458108213.html) 36.39
+- [ ] #### Battle-Damaged Goku kitbash
+	![[Pasted image 20260103100108.png]]
+	![[{0EF78302-320F-4FC5-9198-D0780D2FEB04}.png]]
+	[KO SH FIGUARTS Legendary SSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 12.69
+	[KAMIONE Muay Thai Fighter](https://www.aliexpress.com/item/1005010437390357.html?) 55.59
+	*Heat up and swap the wristbands, swap the entire upper torso and I've got a solid battle-damaged Goku. Boots need repainting to swap the red and yellow bits, also need to swap the ankle joints since the KO Goku's are casted in orange. Can use the base form faceplates on KAMIONE's Goku hairsculpts, the rest can be fodder.
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251228144559.png]]
@@ -145,8 +151,9 @@ kanban-plugin: board
 	[TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 62.95
 	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ
-- [ ] ## 274.93
+- [ ] ## 343.21
 	ZT STUDIO Broly + DKO heads
+	Battle-Damaged Goku kitbash
 	SHF "Dangerous Pride" Super Saiyan Vegeta
 	DEMONIACAL FIT Trunks
 	SHF Super Hero Gohan + BHT Heads
