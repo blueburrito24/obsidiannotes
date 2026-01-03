@@ -112,7 +112,7 @@ kanban-plugin: board
 - [ ] ![[goku and gohan.png]]
 	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.59
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://zenmarket.jp/s/mmo-store/om5569139?id=3e7274cc-3028-4da9-8712-57255e79e1c7) 27.16
-- [ ] ![[kamione bike goku.png]]
+- [ ] ![[Pasted image 20260103172425.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
 - [ ] ![[Pasted image 20260101123242.png]]
 	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
