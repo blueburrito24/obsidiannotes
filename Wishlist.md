@@ -142,7 +142,8 @@ kanban-plugin: board
 	![[{0EF78302-320F-4FC5-9198-D0780D2FEB04}.png]]
 	[KO SH FIGUARTS Legendary SSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 12.69
 	[KAMIONE Muay Thai Fighter](https://www.aliexpress.com/item/1005010437390357.html?) 55.59
-	*Heat up and swap the wristbands, swap the entire upper torso and I've got a solid battle-damaged Goku. Boots need repainting to swap the red and yellow bits, also need to swap the ankle joints since the KO Goku's are casted in orange. Can use the base form faceplates on KAMIONE's Goku hairsculpts, the rest can be fodder.
+	*Heat up and swap the wristbands, swap the entire upper torso and I've got a solid battle-damaged Goku. Boots need repainting to swap the red and yellow bits, also need to swap the ankle joints since the KO Goku's are casted in orange. 
+	Can use the base form faceplates on KAMIONE's Goku hairsculpts, the rest can be fodder.
 - [ ] ![[dangerous pride vegeta.png]]
 	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20251228144559.png]]
