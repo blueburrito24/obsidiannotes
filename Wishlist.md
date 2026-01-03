@@ -120,14 +120,14 @@ kanban-plugin: board
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
 - [ ] ![[Pasted image 20260101232821.png]]
 	[BLACK HOLE TOYS/TK CUSTOM Majin Vegeta Blue Ver.](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
-	*Sand down the veins on the arms and forehead + remove the Majin logo for a SSJ2 look, also need to open up torso and dremel it out for more torso range!
-- [ ] ## 272.30
+	*Sand down the veins on the arms and forehead + use a [Gundam eraser](https://oeshop.co.uk/products/gsi-mr-hobby-gm300p-250-gundam-eraser-marker-remover-new-release) 3.49 to remove the Majin logo for a SSJ2 look, also need to open up torso and dremel it out for more torso range!
+- [ ] ## 275.79
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	KAMIONE Goku head set
 	SHF "Goku's Best Friend" Krillin
 	SHF "Proud Namekian" Piccolo
-	BHT Majin Vegeta
+	BHT Majin Vegeta + Gundam eraser
 	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
