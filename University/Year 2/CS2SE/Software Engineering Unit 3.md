@@ -89,3 +89,26 @@ Jargon should be avoided, text highlights should be utilised and rationale (reas
 
 ### Tutorial 3 - "Use Cases"
 #### Identifying and describing use cases
+Consider the process of refuelling a vehicle at a fuel station, described by the activity diagram below.
+![[{1A785BE6-DD4B-4D4F-B965-E1BFE6364912}.png]]
+Assume your company has been commissioned to develop a central controller for the devices present in a fuel station. You choose to perform use case analysis on the fuel station system to help you structure the development.
+
+Identify actors and use cases for a fuel station system that supports the process shown in the above activity diagram.
+
+Actors:
+- Driver
+- Fuel Station Cashier
+- Fuel Station Dispenser
+**Thief, Police**
+Use Cases:
+- Fuelling up a vehicle
+- Stealing fuel for a vehicle
+- No dispensers available
+**Dispense fuel, pay for fuel, arrest a thief**
+Draw a use case diagram showing the identified actors and use cases and all appropriate relationships among them. Aim for approximately 4-6 use cases and 3-6 relationships among them, including at least one inclusion and one extension.
+![[Pasted image 20260103001811.png]]
+It's important to note that a use case diagram abstracts the use cases and actors. It's pretty simple.
+
+Select ONE use case that includes or optionally includes (i.e., extended by) another use case and describe it appropriately on the supplied use case description template (found on Blackboard).
+![[Pasted image 20260103002159.png]]
+![[Pasted image 20260103002213.png]]
