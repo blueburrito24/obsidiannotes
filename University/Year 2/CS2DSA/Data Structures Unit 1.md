@@ -3,11 +3,26 @@ The UML class diagram describes the following:
 The classes of a software system -> the attributes and operations of each class -> the static relationships among classes -> the constraints on the connections among objects.
 There are also details about visibility/access of attributes, and underlining to indicate when an attribute or operation is class-wide/static.
 ![[{D19C9F34-2663-4013-AA47-2CC8C95E110F}.png]]
-- + signifies an item is publicly visible.
-- - signifies an item is privately visible.
-- \# signifies an item is protected.
+- + signifies an item is publicly visible and can be accessed outside its class.
+- - signifies an item is privately visible and can only be accessed within its class.
+- \# signifies an item is protected and only available to inheritors.
 - ~ signifies an item is a package.
-It's also important we note that the location of data defines its scope and level of access. Variables declared in a class are available to all methods in that class, but variables declared in a method are only available to that method.
+![[{5C0044FB-04AA-4FC1-9C55-97D347018D55}.png]]
+It's also important we note that the location of data defines its scope and level of access. Variables declared in a class are available to all methods in that class, also known as instance data, but variables declared in a method are only available to that method. These variables, data as a whole, are referred to as local data.
+
+Constructors are methods that are invoked when an object is instantiated. They establish the initial state of the object. Constructors use the same name as their class, and do not return values or types of values.
+
+You can use the same method name across different methods, so long as their signatures (their amount, type and order of parameters) are different. This is called method overloading.
+![[{14BDACBD-7374-40B0-88BE-5FAA9A7E42F7}.png]]
+You can also use method overloading for constructors, so you can initialise the fields in different ways when instantiating an object.
+![[{F5C76770-4C16-4360-AC96-3931F2E0ED39}.png]]
+
+An object reference variable that doesn't point to an object is a null reference.
+An object can refer to itself using "this" as a keyword, e.g.,
+![[{0809AAB0-4F96-486D-A0C2-CC07E421EE25}.png]]
+Multiple variables can point to the same object, known as aliasing.
+![[{F6F4A414-CB26-41E7-99BB-5BEEF16B6551}.png]]
+
 Below is an example of a UML class diagram.
 ![[{3241E524-014B-4BE1-948C-86054202E3E7}.png]]
 Sub-classes inherit from a super-class to retool existing methods and procedures to avoid doubling efforts.
