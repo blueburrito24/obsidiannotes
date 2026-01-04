@@ -23,8 +23,6 @@ kanban-plugin: board
 	[Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 - [ ] [RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
-- [ ] [Plastic Containers for storing figure accessories](https://amzn.eu/d/8wzRW0i) 14.99
-	*Comes in packs of 12
 - [ ] [Adjustable Microphone Stand](https://amzn.eu/d/gn2t9wM) 15.29
 - [ ] [GOVEE Smart Lights](https://amzn.eu/d/j7sqleE) 12.99
 	*Need to download Google Home for use
@@ -38,18 +36,13 @@ kanban-plugin: board
 	[AYN Thor PRO Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 275.33 with shipping
 	[Nibbed stylus](https://amzn.eu/d/1W2NhW2) 6.99
 	*I'll use a MicroSD for retro ROMs
+- [ ] [Plastic Containers for storing figure accessories](https://amzn.eu/d/8wzRW0i) 14.99
+	*Comes in packs of 12
 - [ ] ![[Pasted image 20251227160014.png]]
 	[Hungry Oguri Cap Sticker](https://www.etsy.com/uk/listing/4340239011/assorted-uma-musume-stickers?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=umamusume+stickers&ref=sr_gallery-1-3&bes=1&content_source=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%253ALT3089af3b52d006467a15834a48180274cdb88dfb&organic_search_click=1&logging_key=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%3ALT3089af3b52d006467a15834a48180274cdb88dfb&variation0=5648408240) 1.86
 	*I want to buy a bunch and throw them on my laptop
 - [ ] ![[Pasted image 20251231212151.png]]
 	[COSBI Spider-Man Keychain Plushies](https://www.aliexpress.com/item/1005010093534222.html?) 6~ per plush
-- [ ] ![[spider-man poster.png]]
-	[Spider-Man/Sun print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/sun-spider-man-marvel/) 15usd
-	![[batman poster.png]]
-	
-	[Batman/Leap print by Foreign Bread](https://www.inprnt.com/gallery/foreignbread/leap-batman-dc/) 15usd
-	![[sm3 poster.png]]
-	[Spider-Man 3 print by Acedib](https://www.inprnt.com/gallery/acezdib/sm-300/) 15usd
 
 
 ## Game Wishlist
@@ -109,40 +102,21 @@ kanban-plugin: board
 	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://zenmarket.jp/s/mmo-store/om5569139?id=3e7274cc-3028-4da9-8712-57255e79e1c7) 27.16
 - [ ] ![[Pasted image 20260103172425.png]]
 	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
-- [ ] ![[Pasted image 20260101123242.png]]
-	[SH FIGUARTS "Goku's Best Friend" Krillin](https://www.nin-nin-game.com/en/dragon-ball/181141-shfiguarts-dragon-ball-z-krillin-goku-s-best-friend-limited-edition-bandai-spirits-.html) 46.92
-	(releases end of february)
-- [ ] ![[piccolo.png]]
-	[SH FIGUARTS "Proud Namekian" Piccolo](https://zenmarket.jp/s/mmo-store/om3738067?id=416b6f71-b086-410b-af00-fad507912af6) 37.99
-	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 20.45
 - [ ] ![[Pasted image 20260101232821.png]]
 	[BLACK HOLE TOYS/TK CUSTOM Solemn Valor](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
 	[SH FIGUARTS "Old Battle Suit" Vegeta](https://www.nin-nin-game.com/en/shfiguarts/133012-shfiguarts-dragon-ball-z-vegeta-old-battle-suit-ver-bandai-spirits-.html) 44.45
 	*Sand down the veins on the arms and forehead + use a [Gundam eraser](https://oeshop.co.uk/products/gsi-mr-hobby-gm300p-250-gundam-eraser-marker-remover-new-release) 3.49 and [Q-Tips](https://amzn.eu/d/1sBHhsh) 1 to remove the Majin logo for a SSJ2 look, also need to open up torso and dremel it out for more torso range! Follow [this video](https://youtu.be/qQjaGpU8jpI?si=5hrMyvFiwk3Vfz0k)
 	I can use the OBS Vegeta heads for base form.
 	Make sure to dap the faceplates with a wet tissue after removing the logo to remove any left over residue
-- [ ] ## 321.24
+- [ ] ## 215.88
 	SHF "Games Begin" Super Saiyan Son Goku
 	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
 	KAMIONE Goku head set
-	SHF "Goku's Best Friend" Krillin
-	SHF "Proud Namekian" Piccolo
 	BHT Solemn Valor + SHF OBS Vegeta
-	Sandpaper
 	Ziploc bags + black foam
 	Assorted sandpaper
 - [ ] ![[Pasted image 20251231005116.png]]
 	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 102.99
-- [ ] #### Battle-Damaged Goku kitbash
-	![[Pasted image 20260103100108.png]]
-	
-	![[{0EF78302-320F-4FC5-9198-D0780D2FEB04}.png]]
-	[KO SH FIGUARTS Legendary SSJ Goku](https://www.aliexpress.com/item/1005008284089137.html?) 12.69
-	[KAMIONE Muay Thai Fighter](https://www.aliexpress.com/item/1005010437390357.html?) 55.59
-	*Heat up and swap the wristbands, swap the entire upper torso + waistband and I've got a solid battle-damaged Goku. Boots need repainting to swap the red and yellow bits, also need to swap the ankle joints since the KO Goku's are casted in orange. 
-	Can use the base form faceplates on KAMIONE's Goku hairsculpts, the rest can be fodder.
-- [ ] ![[dangerous pride vegeta.png]]
-	[SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 19.81 (releases end of april)
 - [ ] ![[Pasted image 20260104141153.png]]
 	[TONSENARTTOYS Warped Vengeance 05B](https://www.aliexpress.com/item/1005010291675750.html?) 49.59
 - [ ] ![[black hole toys gohan head on super hero body.png]]
@@ -150,10 +124,8 @@ kanban-plugin: board
 	[TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
 	TOTAL 62.95
 	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ to go with the SSJ faceplates from KAMIONE Gogeta
-- [ ] ## 303.62
+- [ ] ## 215.53
 	ZT STUDIO Broly
-	Battle-Damaged Goku kitbash
-	SHF "Dangerous Pride" Super Saiyan Vegeta
 	TONSENARTTOYS Warped Vengeance 05B
 	SHF Super Hero Gohan + BHT Heads
 
