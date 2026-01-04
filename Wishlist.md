@@ -28,6 +28,7 @@ kanban-plugin: board
 	*Need to download Google Home for use
 - [ ] ![[Pasted image 20251227115200.png]]
 	[AYN Thor PRO Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 275.33 with shipping
+	[TPU Case](https://www.aliexpress.com/item/1005010222238222.html?) 18.59
 	[Nibbed stylus](https://amzn.eu/d/1W2NhW2) 6.99
 	*I'll use a MicroSD for retro ROMs
 - [ ] ![[Pasted image 20251227160014.png]]
