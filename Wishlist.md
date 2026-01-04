@@ -63,7 +63,11 @@ kanban-plugin: board
 
 ## Game Wishlist
 
-- [ ] [PAC-MAN WORLD Re-Pac](https://www.loaded.com/pac-man-world-re-pac-pc-steam) 3.99
+- [ ] [Five Nights At Freddy's](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/) 3.99
+	[Five Nights At Freddy's 2](https://store.steampowered.com/app/332800/Five_Nights_at_Freddys_2/) 5.79
+	[Five Nights At Freddy's 3](https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/) 5.79
+	[Five Nights At Freddy's 4](https://store.steampowered.com/app/388090/Five_Nights_at_Freddys_4/) 5.79
+	[PAC-MAN WORLD Re-Pac](https://www.loaded.com/pac-man-world-re-pac-pc-steam) 3.99
 	[PAC-MAN WORLD 2 Re-Pac](https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC?snr=1_25_4__318) 24.99
 	[Mega Max Legacy Collection 1+ 2](https://www.loaded.com/mega-man-x-legacy-collection-1-2-bundle-pc-steam-eu) 1.89
 	[Mega Man X Legacy Collection](https://www.loaded.com/mega-man-x-legacy-collection-pc-steam-eu) 8.99
