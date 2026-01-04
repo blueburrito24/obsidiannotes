@@ -26,18 +26,10 @@ kanban-plugin: board
 - [ ] [Adjustable Microphone Stand](https://amzn.eu/d/gn2t9wM) 15.29
 - [ ] [GOVEE Smart Lights](https://amzn.eu/d/j7sqleE) 12.99
 	*Need to download Google Home for use
-- [ ] ##### photography stuff
-	[Monitor Lamp Light](https://www.aliexpress.com/item/1005006904605256.html?) 11.91
-	[Portable light for photos](https://www.aliexpress.com/item/1005006428660477.html?) 14.01
-	[Phone tripod](https://www.amazon.co.uk/dp/B0CQP77YP4?ref=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&social_share=cm_sw_r_cso_cp_apan_dp_6NN2VGV0TFFM5D67WCBQ&titleSource=true) 7.89
-	[Grid Desk Mat](https://www.aliexpress.com/item/1005005127375925.html) 19.18 (Colour 7, 900x400x4mm)
-	*I need two tripods for my phone and my portable light*
 - [ ] ![[Pasted image 20251227115200.png]]
 	[AYN Thor PRO Rainbow Ver.](https://www.ayntec.com/products/ayn-thor?variant=46692546838720) 275.33 with shipping
 	[Nibbed stylus](https://amzn.eu/d/1W2NhW2) 6.99
 	*I'll use a MicroSD for retro ROMs
-- [ ] [Plastic Containers for storing figure accessories](https://amzn.eu/d/8wzRW0i) 14.99
-	*Comes in packs of 12
 - [ ] ![[Pasted image 20251227160014.png]]
 	[Hungry Oguri Cap Sticker](https://www.etsy.com/uk/listing/4340239011/assorted-uma-musume-stickers?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=umamusume+stickers&ref=sr_gallery-1-3&bes=1&content_source=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%253ALT3089af3b52d006467a15834a48180274cdb88dfb&organic_search_click=1&logging_key=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%3ALT3089af3b52d006467a15834a48180274cdb88dfb&variation0=5648408240) 1.86
 	*I want to buy a bunch and throw them on my laptop
