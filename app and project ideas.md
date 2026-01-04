@@ -1,4 +1,5 @@
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
+Also Habib linked me a github repo of starter projects.
 
 Wishlist app:
 be able to add products, including names (string) prices (int) and IDs (int)
