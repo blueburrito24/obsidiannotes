@@ -87,79 +87,6 @@ kanban-plugin: board
 	[while True: learn()](https://store.steampowered.com/app/619150/while_True_learn?snr=1_25_4__318) 10.29
 
 
-## Figure Budget
-
-- [ ] # REMINDER FOR ALL FIGURES WITH COMPLETE FACES I NEED TO SAND OFF THE NOSE
-	[Assorted sandpaper](https://amzn.eu/d/c8U18RO) 5.88
-- [ ] [x4 Clear stands for grounded poses](https://www.aliexpress.com/item/1005004921266817.html?) 4.44
-- [ ] [Clear wired tentacle stands for flying poses](https://www.aliexpress.com/item/1005008564504383.html?) 2.73
-- [ ] [10"x14" ziploc bags for carrying figures](https://amzn.eu/d/aTcHoi2) 9.94
-- [ ] [Black foam for cushioning figures in ziploc bags](https://amzn.eu/d/ewAQwoe) 11.99
-- [ ] ![[{3F14CFE4-0BFA-4CB4-B143-BD3D1248588C}.png]]
-	I could sculpt some OG-size Dragon Balls to go with my figures, painting them with a mix of orange and yellow and adding a pearlescent finish.
-- [ ] ![[goku and gohan.png]]
-	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://www.nin-nin-game.com/en/dragon-ball/176137-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-game-begin-ver-bandai-spirits-.html) 31.59
-	[SH FIGUARTS "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan](https://zenmarket.jp/s/mmo-store/om5569139?id=3e7274cc-3028-4da9-8712-57255e79e1c7) 27.16
-- [ ] ![[Pasted image 20260103172425.png]]
-	[KAMIONE Bike Goku headsculpts](https://www.aliexpress.com/item/1005010045256166.html) 38.79
-- [ ] ![[Pasted image 20260101232821.png]]
-	[BLACK HOLE TOYS/TK CUSTOM Solemn Valor](https://www.aliexpress.com/item/1005009880840694.html?) 41.59
-	[SH FIGUARTS "Old Battle Suit" Vegeta](https://www.nin-nin-game.com/en/shfiguarts/133012-shfiguarts-dragon-ball-z-vegeta-old-battle-suit-ver-bandai-spirits-.html) 44.45
-	*Sand down the veins on the arms and forehead + use a [Gundam eraser](https://oeshop.co.uk/products/gsi-mr-hobby-gm300p-250-gundam-eraser-marker-remover-new-release) 3.49 and [Q-Tips](https://amzn.eu/d/1sBHhsh) 1 to remove the Majin logo for a SSJ2 look, also need to open up torso and dremel it out for more torso range! Follow [this video](https://youtu.be/qQjaGpU8jpI?si=5hrMyvFiwk3Vfz0k)
-	I can use the OBS Vegeta heads for base form.
-	Make sure to dap the faceplates with a wet tissue after removing the logo to remove any left over residue
-- [ ] ## 215.88
-	SHF "Games Begin" Super Saiyan Son Goku
-	SHF "The Warrior Who Surpassed Goku" Super Saiyan Son Gohan
-	KAMIONE Goku head set
-	BHT Solemn Valor + SHF OBS Vegeta
-	Ziploc bags + black foam
-	Assorted sandpaper
-- [ ] ![[Pasted image 20251231005116.png]]
-	[ZT STUDIO Broly](https://www.aliexpress.com/item/1005010240398396.html?) 102.99
-- [ ] ![[Pasted image 20260104141153.png]]
-	[TONSENARTTOYS Warped Vengeance 05B](https://www.aliexpress.com/item/1005010291675750.html?) 49.59
-- [ ] ![[black hole toys gohan head on super hero body.png]]
-	[SH FIGUARTS SUPER HERO Son Gohan](https://zenmarket.jp/s/mmo-store/om5363538?id=c4cafab4-0f48-4420-bef4-aca6ca2a4d41) 27.16
-	[TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html) 35.79
-	TOTAL 62.95
-	*could grab an sh_figuposes Games Begin to 3.0 adapter off eBay for kitbashes, also could repaint the Super Hero headsculpts to be SSJ to go with the SSJ faceplates from KAMIONE Gogeta
-- [ ] ## 215.53
-	ZT STUDIO Broly
-	TONSENARTTOYS Warped Vengeance 05B
-	SHF Super Hero Gohan + BHT Heads
-
-
-## Figure Wishlist
-
-- [ ] ![[Pasted image 20251231193635.png]]
-	[SHF Trunks cloth jacket](https://www.aliexpress.com/item/1005009404958127.html?) 17.39
-- [ ] ![[Pasted image 20251229123557.png]]
-	SH FIGUARTS "The Universe's Bottomless Power" Final Form Frieza
-- [ ] ![[Pasted image 20251229123509.png]]
-	![[Pasted image 20251231220041.png]]
-	[KW STUDIO Perfect Cell](https://www.aliexpress.com/item/1005010144909402.html?) 64.59
-	(No release)
-	*If I get this, I want to get the [HMYR SSJ2 Gohan headsculpt set](https://www.aliexpress.com/item/1005010571382753.html?) 42.49
-- [ ] ![[Pasted image 20251231212638.png]]
-	[KO Kaiyodo Amazing Yamaguchi One Punch Man](https://www.aliexpress.com/item/1005010018530241.html?) 24.37
-	*Mainly buying for effects, can repaint as Serious Saitama following [this video](https://www.tiktok.com/@kcabyap2/video/7582713009743711518)
-- [ ] ![[Pasted image 20251231200007.png]]
-	[AC TOYS Goku Wind Effect Kit](https://www.aliexpress.com/item/1005009734325158.html?) 10.89
-- [ ] ![[moar moar effects.png]]
-	[DBZ Blast Effects](https://www.aliexpress.com/item/1005005587949907.html) 7.99 per piece
-- [ ] ![[moar effects.png]]
-	[DBZ Aura Effects](https://www.aliexpress.com/item/1005007233777178.html) 9.99 per piece
-- [ ] ![[Pasted image 20260101095910.png]]
-	[Consecutive Energy Blast effects](https://www.aliexpress.com/item/1005009511669769.html?) 13.49
-- [ ] ![[Pasted image 20260101100030.png]]
-	[Electric Beam effect](https://www.aliexpress.com/item/1005006712193974.html?) 7.15
-- [ ] ![[Pasted image 20251228011827.png]][Smoke Effects](https://www.aliexpress.com/item/1005009348003664.html?) 13.19
-- [ ] ![[Pasted image 20251229130608.png]]
-	[KOTOBUKIYA KO Artist Support Item Left Hand Gray Ver.](https://www.aliexpress.com/item/1005007279451466.html?) 24.47
-	[10CM Ver.](https://www.aliexpress.com/item/1005009777058355.html?) 5~ per piece
-
-
 ## Clothes
 
 - [ ] [Assorted Hoodies](https://www.aliexpress.com/item/1005009841258203.html?) 20.19 each
@@ -189,6 +116,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true,false,true,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"show-checkboxes":false}
 ```
 %%
