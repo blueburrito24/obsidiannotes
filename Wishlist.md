@@ -72,7 +72,7 @@ kanban-plugin: board
 	Dead Cells
 	Epic Mickey Rebrushed
 	DBZ Kakarot 
-	(needs HD files deleted to reduce file size from 100 -> 50)
+	(needs SD files deleted to reduce file size from 100 -> 50)
 	Ender Lilies: Quietus of the Knights
 	Fate Stay/Night
 	A Hat in Time
