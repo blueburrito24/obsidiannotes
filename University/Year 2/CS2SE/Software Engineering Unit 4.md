@@ -86,13 +86,16 @@ UML State Machines show event-driven objects in a reactive system, and describe 
 Consider the following process map of a certain kitchen:
 ![[{A8A4FB7D-9930-46B0-8D02-A46136A16AEA}.png]]
 (Note that it contains 2 levels).
-Pick one of the processes shown in the process map of a certain kitchen and identify 4–5 classes of objects that play an important part in this process and have sufficiently many associations among themselves for the second task.
+Pick one of the processes shown in the process map of this certain kitchen and identify 4–5 classes of objects that play an important part in this process and have sufficiently many associations among themselves for the second task.
 
+"store food" -> "organise" -> box, label, cupboard, shelf, food item
 
-
-dentify among these objects at least:
+Identify among these objects at least:
 – ONE composition,
 – ONE aggregation that is not composition,
 – TWO associations that are not aggregations.
 Draw ONE object diagram showing all these relationships.
 Draw ONE class diagram showing these relationships with correct multiplicities.
+
+**This is a model answer**
+![[{36DEFC0F-16CD-46E5-BF83-78988BD7823C}.png]]
