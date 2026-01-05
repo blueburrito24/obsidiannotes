@@ -23,16 +23,10 @@ kanban-plugin: board
 - [ ] [Five Nights At Freddy's 2](https://store.steampowered.com/app/332800/Five_Nights_at_Freddys_2/) 5.79
 	[Five Nights At Freddy's 3](https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/) 5.79
 	[Resident Evil 4](https://store.steampowered.com/app/254700/Resident_Evil_4_2005?snr=1_25_4__318) 15.98
-	[Blade Chimera](https://store.steampowered.com/app/2671230/BLADECHIMERA/) 16.75
 	[Umamusume Pretty Derby: Party Dash](https://www.loaded.com/umamusume-pretty-derby-party-dash-pc-steam) 8.99
 	[Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/) 16.75
 	[Abathor](https://store.steampowered.com/app/2295610/Abathor/) 12.79
 	[LEGO Batman: Legacy of the Dark Knight](https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/) 59.99
-	Sonic Unleashed Recompiled
-	Sonic Boll
-	Sonic 1, 2, CD Android ports
-	Metroid Prime PC Fork
-	Super Mario 64 PC Port/Co-op Deluxe
 
 
 ## Clothes
@@ -63,6 +57,8 @@ kanban-plugin: board
 	Spider-Man Shattered Dimensions
 	The Amazing Spider-Man
 	X-Men Origins: Wolverine
+	Super Mario 64 PC Port/Co-op Deluxe
+	Sonic Boll
 	^ Non-Steam Games
 	
 	Aeterno Blade
@@ -76,7 +72,7 @@ kanban-plugin: board
 	Epic Mickey Rebrushed
 	DBZ Kakarot 
 	(needs HD files deleted to reduce file size from 100 -> 50)
-	Ender Lilies: Quietus of the Knight
+	Ender Lilies: Quietus of the Knights
 	Fate Stay/Night
 	A Hat in Time
 	Hollow Knight
@@ -155,7 +151,7 @@ kanban-plugin: board
 - [ ] ### PS2
 	Ultimate Spider-Man
 	Spider-Man (2000)
-	Dragon Ball Z: Infinite World
+	Dragon Ball Z: Budokai 3
 	Dragon Ball Z: Budokai Tenkaichi 3
 	The Simpsons: Hit & Run
 	Okami
