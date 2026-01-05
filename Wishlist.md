@@ -50,6 +50,7 @@ kanban-plugin: board
 
 ## Emulation Backlog
 
+- [ ] [Startup guide for emulators on AYN Thor](https://www.youtube.com/watch?v=1lsOzy_sPKA)
 - [ ] ### PC/Gamehub
 	[how to play non-Steam games on Gamehub](https://youtu.be/rUwybdOAjzc)
 	Sonic Unleashed Recompiled
@@ -199,6 +200,7 @@ kanban-plugin: board
 	Spongebob Squarepants: Battle for Bikini Bottom
 - [ ] ### PS1
 	Spider-Man
+	Marvel VS Capcom: Clash of Super Heroes
 	Klonoa: Door to Phantomile
 	Castlevania: Symphony of the Night
 	Castlevania Chronicles
