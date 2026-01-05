@@ -102,6 +102,7 @@ kanban-plugin: board
 	Tomb Raider
 	VVVVV
 	Wobbly Life
+- [ ] # All the emulated games below will be put onto my 256GB SD Card
 - [ ] ### Wii U
 	Super Mario 3D World
 	Super Smash Bros Ultimate
