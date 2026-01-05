@@ -54,6 +54,173 @@ kanban-plugin: board
 	![[Pasted image 20251229100212.png]]
 
 
+## Emulation Backlog
+
+- [ ] ### PC/Gamehub
+	[how to play non-Steam games on Gamehub](https://youtu.be/rUwybdOAjzc)
+	Sonic Unleashed Recompiled
+	Spider-Man Web of Shadows
+	Spider-Man Shattered Dimensions
+	The Amazing Spider-Man
+	X-Men Origins: Wolverine
+	^ Non-Steam Games
+	
+	Aeterno Blade
+	Another Crab's Treasure
+	Batman Arkham Asylum
+	Blasphemous
+	Bloodstained
+	Cave Story
+	Celeste
+	Dead Cells
+	Epic Mickey Rebrushed
+	DBZ Kakarot 
+	(needs HD files deleted to reduce file size from 100 -> 50)
+	Ender Lilies: Quietus of the Knight
+	Fate Stay/Night
+	A Hat in Time
+	Hollow Knight
+	Intravenous
+	Hitman Blood Money
+	LEGO Batman 2
+	LEGO Marvel Super Heroes
+	Mega Man Legacy Collection 1 + 2
+	Mega Man X Legacy Collection 1 + 2
+	Metal Gear Rising Revengeance
+	Metro Gravity
+	Mirror's Edge
+	Pac-Man World Re-Pac 1 + 2
+	Prototype
+	Pseudoregalia
+	Rayman Legends
+	Rayman Origins
+	Shinobi Art of Vengeance
+	Shovel Knight Treasure Trove
+	Sonic Superstars
+	Streets of Rage 4
+	Super Meat Boy
+	Tomb Raider
+	VVVVV
+	Wobbly Life
+- [ ] ### Wii U
+	Super Mario 3D World
+	Super Smash Bros Ultimate
+	Mario Kart 8
+	The Legend of Zelda: Breath of the Wild
+	The Legend of Zelda: Twilight Princess
+	Pokken Tournament
+	Donkey Kong Country Tropical Freeze
+- [ ] ### 3DS
+	Spider-Man Edge of Time
+	Super Mario 3D Land
+	The Legend of Zelda: Ocarina of Time 3D
+	The Legend of Zelda: Majora's Mask 3D
+	The Legend of Zelda: A Link Between Worlds
+	Animal Crossing: New Leaf
+	Metroid: Samus Returns
+	Kid Icarus: Uprising
+	Kirby: Triple Deluxe
+	Mario Kart 7
+	Donkey Kong Country Returns 3D
+	Disney Epic Mickey: Power of Illusion
+	Dragon Ball Z: Extreme Butoden
+	Sonic Lost World
+	Sonic Generations
+- [ ] ### DS
+	Dragon Ball Kai: Ultimate Butoden
+	Dragon Ball Z: Supersonic Warriors 2
+	Dragon Ball Z: Attack of the Saiyans
+	Tetris DS
+	New Super Mario Bros.
+	Pokémon Diamond & Pearl
+	Mario Kart DS
+	Trace Memory
+	Cooking Mama
+	Hotel Dusk: Room 215
+	Phoenix Wright: Ace Attorney
+	Sonic Rush
+	Spectrobes
+	Spore
+	Contra 4
+- [ ] ### GBA
+	Metroid: Fusion
+	Metroid: Zero Mission
+	Super Mario Advance 2: Super Mario World
+	Sonic Advance
+	The Legend of Zelda: A Link to the Past + Four Swords
+	Dragon Ball: Advanced Adventure
+	Dragon Ball Z: The Legacy of Goku 2
+	Shining Soul
+- [ ] ### PS2
+	Ultimate Spider-Man
+	Spider-Man (2000)
+	Dragon Ball Z: Infinite World
+	Dragon Ball Z: Budokai Tenkaichi 3
+	The Simpsons: Hit & Run
+	Okami
+	Street Fighters EX3
+	Sly Cooper and the Thievius Raccoonus
+	Tekken 4
+	Tekken Tag Tournament
+	NBA Street
+	Rayman 2
+	Tom Clancy's Splinter Cell
+	Def Jam: Fight for NY
+	Street Fighter 3: 3rd Strike
+	Devil May Cry
+	SSX
+	Kingdom Hearts
+	Drakengard
+	Grand Theft Auto Vice City
+	Resident Evil 4
+- [ ] ### Wii
+	Super Mario Galaxy
+	Super Paper Mario
+	Kirby's Epic Yarn
+	Super Mario All-Stars 25th Anniversary Edition
+	Sonic and the Black Knight
+	Sonic Colours
+	Castlevania Judgement
+	Sonic and the Secret Rings
+	Wario Land: Shake It!
+	Punch Out!!
+	Xenoblade
+	The Boy and His Blob
+	Muramasa
+- [ ] ### Gamecube
+	Wario World
+	Metroid Prime
+	The Legend of Zelda: Wind Waker
+	Super Mario Sunshine
+	Luigi's Mansion
+	Super Monkey Ball
+	Super Mario Strikers
+	Paper Mario: The Thousand-Year Door
+	Kirby Air Ride
+	Crazy Taxi
+	Need for Speed: Most Wanted
+	Spongebob Squarepants: Battle for Bikini Bottom
+- [ ] ### PS1
+	Spider-Man
+	Klonoa: Door to Phantomile
+	Castlevania: Symphony of the Night
+	Castlevania Chronicles
+	Street Fighter EX Alpha
+	Tekken 3
+	Metal Gear Solid
+	MediEvil
+	Wild Arms
+	Tomb Raider
+	Resident Evil
+	Rayman
+	Guilty Gear
+	Oddworld: Abe's Odyssey
+	Spyro the Dragon
+	Crash the Bandicoot
+	Tony Hawk's Pro Skater 2
+	Bushido Blade
+
+
 ***
 
 ## Archive
@@ -64,6 +231,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
