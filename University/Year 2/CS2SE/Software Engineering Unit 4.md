@@ -81,3 +81,18 @@ The "H" indicates that the object will go back to whatever state it was in befor
 Just like in [[Data Structures Unit 1]], UML diagrams can involve choices, forks and joins.
 ![[{49F04C14-F666-4B92-A290-DEEDBF1B8C23}.png]]
 UML State Machines show event-driven objects in a reactive system, and describe how the object evolves and changes during its lifetime.
+
+### Tutorial 4 - "Object relationships and state machines"
+Consider the following process map of a certain kitchen:
+![[{A8A4FB7D-9930-46B0-8D02-A46136A16AEA}.png]]
+(Note that it contains 2 levels).
+Pick one of the processes shown in the process map of a certain kitchen and identify 4–5 classes of objects that play an important part in this process and have sufficiently many associations among themselves for the second task.
+
+
+
+dentify among these objects at least:
+– ONE composition,
+– ONE aggregation that is not composition,
+– TWO associations that are not aggregations.
+Draw ONE object diagram showing all these relationships.
+Draw ONE class diagram showing these relationships with correct multiplicities.
