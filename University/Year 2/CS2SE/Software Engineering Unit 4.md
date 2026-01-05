@@ -48,3 +48,36 @@ Object Diagrams also use the same notation for relationships as Class Diagrams.
 ![[{C2176596-47F0-4FE1-A379-155BAD6221DA}.png]]
 Even more so, when relationships involve multiple of something we indicate so with the information next to the class.
 ![[{E4371286-A169-49DE-AD87-1BCC848F5308}.png]]
+
+Below is a good example of an object diagram.
+![[Pasted image 20260105195016.png]]
+You can see here how a shirt's buttons are part of the whole shirt, a shirt's seams cannot exist without the shirt, and the buttons and seams of a shirt are often adjacent or *associated*.
+Class Diagrams, as seen in [[Data Structures Unit 1]] can be very detailed. 
+Same notation, same structure. Note that "realisation" and "specialisation" can be treated as idioms for interfaces and abstract classes.
+![[{F2D0AD82-C0FE-4F10-86E7-331EDB1FA3BD}.png]]
+
+UML Object diagrams are for showing the static view/structure of an interaction without workflows, the object relationships of a system.
+UML Class diagrams are used to better understand the overview of a system, showing us what the system contains but not its nitty gritty details like its code. This is useful for planning and analysis.
+
+State Machine Diagrams are used to show the state of an object across its lifetime, which involves its attribute values. To draw a state machine diagram, we have to abstract the involved object more.
+![[{379917BA-325D-4574-8240-EF83D53CC8AF}.png]]
+Object states can be a passive quality (on or off) or an active quality.
+![[{21411894-81D1-4A75-9DC5-5B374038FD6F}.png]]
+Objects transition from "source" states to "target" states.
+![[{C2310DB1-77FE-4D61-970E-829F217A1B4C}.png]]
+The above syntax follows the format:
+trigger [guard]/behaviour
+There can also be multiple reasons for a "transition" (action taking place).
+![[{EE8712F5-84EE-464A-9DB9-D8FE68812802}.png]]
+
+UML can show multiple states at the same time with the "composite" states notation.
+![[{5DE30A48-7285-4FA4-9D59-E56DE73F7688}.png]]
+Even if the substate completes early, the entire composite state only completes if all substates have completed i.e., searching can finish, but pacing will still be active so the NPC is still "neutral" until both states are finished.
+
+"History states" are used to remember the state of an object before an interruption takes place.
+![[{486B5561-C781-4323-A125-F989B5478479}.png]]
+The "H" indicates that the object will go back to whatever state it was in before the powercut (which is the interruption).
+
+Just like in [[Data Structures Unit 1]], UML diagrams can involve choices, forks and joins.
+![[{49F04C14-F666-4B92-A290-DEEDBF1B8C23}.png]]
+UML State Machines show event-driven objects in a reactive system, and describe how the object evolves and changes during its lifetime.
