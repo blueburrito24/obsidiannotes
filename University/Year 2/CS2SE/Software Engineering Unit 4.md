@@ -99,3 +99,21 @@ Draw ONE class diagram showing these relationships with correct multiplicities.
 
 **This is a model answer**
 ![[{36DEFC0F-16CD-46E5-BF83-78988BD7823C}.png]]
+
+Consider the following state machine diagram that shows aspects of an intruder alarm system:
+![[{8877B8BD-F823-4D20-879C-10046C22D5B4}.png]]
+Suggest helpful names for the states.
+
+Idle, Pre-Activated, Activated, Triggered, Ringing
+
+Add a few actions to the diagram, e.g., indicating when the alarm starts ringing
+and when it stops ringing, and when the controller beeps.
+
+Beep, Start beeping, Stop beeping
+
+Suggest a way to simplify this diagram using a composite state.
+![[{E78BDEDC-1B6F-466F-B7D1-19F5593F10FE}.png]]
+
+Modify the diagram so that is shows the fact that one has to press a reset button
+after an alarm.
+![[{929AF2FF-AC98-4C07-84ED-1FF82DA6930D}.png]]
