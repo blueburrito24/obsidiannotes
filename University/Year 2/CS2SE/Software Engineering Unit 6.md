@@ -73,3 +73,6 @@ The "before" prefix-methods are for preparation of test data and "after" prefix-
 "Test-driven development" is an approach to writing software where the test cases are the only way we move forward in development. We write test cases before even writing source code. We only produce code that addresses mentioned explicitly in the test cases, and we use testing frameworks like the aforementioned JUnit.
 ![[{E4F9CF76-6B33-4055-AC24-7EE28AB49B60}.png]]
 Test-driven development ensures good statement coverage, reduced redundant code, rapid feedback and tests performed can be utilised later for further testing i.e., regression testing.
+
+### Tutorial 6 - "Software Testing"
+
