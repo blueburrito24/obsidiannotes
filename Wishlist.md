@@ -14,8 +14,6 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251227160014.png]]
 	[Hungry Oguri Cap Sticker](https://www.etsy.com/uk/listing/4340239011/assorted-uma-musume-stickers?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=umamusume+stickers&ref=sr_gallery-1-3&bes=1&content_source=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%253ALT3089af3b52d006467a15834a48180274cdb88dfb&organic_search_click=1&logging_key=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%3ALT3089af3b52d006467a15834a48180274cdb88dfb&variation0=5648408240) 1.86
 	*I want to buy a bunch and throw them on my laptop
-- [ ] ![[Pasted image 20251231212151.png]]
-	[COSBI Spider-Man Keychain Plushies](https://www.aliexpress.com/item/1005010093534222.html?) 6~ per plush
 
 
 ## Game Wishlist
