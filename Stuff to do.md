@@ -1,13 +1,5 @@
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
-crazy perspective piece based on triforce films' rendition of fist bump, with shots of sonic and tails running around and stomping eggman's bots with lyrics overlaid on top
-
-character piece of sonic unleashed based on triforce films' rendition of endless possibilities, with shots of sonic transformed and posed up in the sky too - representing light and dark gaia!
-
-piece line-up of all the famous kamehamehas! goku, ryu, gohan, sonic, akuma, whoever and whatever! to the tune of smooth mcgroove's cover of milf from fnf!
-rocky cliffs below and dark skies above - the kamehameha wave blasts up above with my tag on it!
-could also do an alt piece with different iterations of the shoryuken! such as goku's explosive dragon fist from super dragon ball z, mega man's shoryuken, etc to smooth mcgroove's ryu theme!
-
 call nhs about the braces waiting list
 01214344910
 
