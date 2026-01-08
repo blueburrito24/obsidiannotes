@@ -1,6 +1,11 @@
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
 
+Sonic clone: "Blue's World"
+2d action platformer featuring Blue! Focuses on Sonic-inspired stages designed around speed and satisfying platforming, featuring a cosy hub world and acapella covers of all involved themes by either TriforceFilms or Smooth McGroove.
+
+If I ever want to develop Apple iOS apps, or just want something new after java, look into Swift.
+
 Wishlist app:
 be able to add products, including names (string) prices (int) and IDs (int)
 add up prices to a total cost
