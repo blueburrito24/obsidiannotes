@@ -3,6 +3,9 @@ Also Habib linked me a github repo of starter projects.
 
 Sonic clone: "Blue's World"
 2d action platformer featuring Blue! Focuses on Sonic-inspired stages designed around speed and satisfying platforming, featuring a cosy hub world and acapella covers of all involved themes by either TriforceFilms or Smooth McGroove.
+Action is heavy! As you blur through each stage, you'll find strong foes!
+You can do a combo of A and B attacks on them WHILE running through the stage, dragging them along for the ride, or stand your ground for 1-on-1 combat!
+Takes inspiration from Dan the Man and Dragon Ball Xenoverse 2.
 
 If I ever want to develop Apple iOS apps, or just want something new after java, look into Swift.
 
