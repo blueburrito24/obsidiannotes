@@ -6,6 +6,7 @@ character piece of sonic unleashed based on triforce films' rendition of endless
 
 piece line-up of all the famous kamehamehas! goku, ryu, gohan, sonic, akuma, whoever and whatever! to the tune of smooth mcgroove's cover of milf from fnf!
 rocky cliffs below and dark skies above - the kamehameha wave blasts up above with my tag on it!
+could also do an alt piece with different iterations of the shoryuken! such as goku's explosive dragon fist from super dragon ball z, mega man's shoryuken, etc to smooth mcgroove's ryu theme!
 
 call nhs about the braces waiting list
 01214344910
