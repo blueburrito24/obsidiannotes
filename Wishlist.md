@@ -122,6 +122,7 @@ kanban-plugin: board
 	Dragon Ball Z: Extreme Butoden
 	Sonic Lost World
 	Sonic Generations
+	*Could also emulate classics from the NES, SNES, Genesis and more through 3DS Virtual Console titles.*
 - [ ] ### DS
 	Dragon Ball Kai: Ultimate Butoden
 	Dragon Ball Z: Supersonic Warriors 2
