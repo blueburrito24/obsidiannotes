@@ -1,6 +1,8 @@
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
 
+Look into learning C to get an understanding of programming concepts + use Mugen as a medium for learning and developing C skills. I can use my previous project ideas as practice alongside my older idea for a platformer/beat-em-up.
+
 Sonic clone: "Blue's World"
 -2d action platformer featuring Blue! Focuses on Sonic-inspired stages designed around speed and satisfying platforming, featuring a cosy hub world and acapella covers of all involved themes by either TriforceFilms or Smooth McGroove.
 *"Action is heavy! As you blur through each stage, you'll find strong foes!*
