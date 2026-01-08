@@ -5,6 +5,7 @@ crazy perspective piece based on triforce films' rendition of fist bump, with sh
 character piece of sonic unleashed based on triforce films' rendition of endless possibilities, with shots of sonic transformed and posed up in the sky too - representing light and dark gaia!
 
 piece line-up of all the famous kamehamehas! goku, ryu, gohan, sonic, akuma, whoever and whatever! to the tune of smooth mcgroove's cover of milf from fnf!
+rocky cliffs below and dark skies above - the kamehameha wave blasts up above with my tag on it!
 
 call nhs about the braces waiting list
 01214344910
