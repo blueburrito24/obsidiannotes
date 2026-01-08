@@ -2,10 +2,13 @@ I need to do simple starter stuff! Look into using pygame to make basic graphica
 Also Habib linked me a github repo of starter projects.
 
 Sonic clone: "Blue's World"
-2d action platformer featuring Blue! Focuses on Sonic-inspired stages designed around speed and satisfying platforming, featuring a cosy hub world and acapella covers of all involved themes by either TriforceFilms or Smooth McGroove.
-Action is heavy! As you blur through each stage, you'll find strong foes!
-You can do a combo of A and B attacks on them WHILE running through the stage, dragging them along for the ride, or stand your ground for 1-on-1 combat!
-Takes inspiration from Dan the Man and Dragon Ball Xenoverse 2.
+-2d action platformer featuring Blue! Focuses on Sonic-inspired stages designed around speed and satisfying platforming, featuring a cosy hub world and acapella covers of all involved themes by either TriforceFilms or Smooth McGroove.
+*"Action is heavy! As you blur through each stage, you'll find strong foes!*
+*You can do a combo of A and B attacks on them WHILE running through the stage, dragging them along for the ride, or stand your ground for 1-on-1 combat!"*
+-Takes inspiration from Dan the Man and Dragon Ball Xenoverse 2.
+*"If you stand your ground, stand proud! You can do a wider range of combos, including air launchers and air combos!"*
+*"The only score you need to worry about, is how many evils you face and how many leaps you take!"*
+-A velocity-based score system alongside a combo-based score system work in tandem to provide the so-called "World Score".
 
 If I ever want to develop Apple iOS apps, or just want something new after java, look into Swift.
 
