@@ -25,3 +25,23 @@ The above example is known as extraction, using only part of an element's value 
 This method is also used in the previous diagram.
 
 ### "Hashing: another example"
+Division is another hashing method, using the remainder of the key divided by a positive integer, p, as an element's hash value. e.g.,
+$$ hashValue(key) = Math.abs(key)\%p$$
+\- where p can be the size of the hash table.
+The symbol % refers to the "modulo operator" which appears in typical programming languages like Java. Modulo operators denote the process of finding the remainder of a division. Such as, this Java statement prints 2 on the console as the remainder for 17/5 is 2.
+```java
+System.out.println(17 % 5);
+```
+Math.abs is a static method in class java.lang.Math which returns the absolute value of the parameter, meaning that it removes the - sign from a negative value.
+
+In the case of a library application, where information about books are referenced using their ISBN, not all possible combinations of digits in an ISBN will be used for a book owned by the library. We can define a smaller hash table to store the book information.
+The division method will enable book information to be randomly distributed within the hash table.
+A good hash function should assign an element to a cell in a random manner. This will ensure an even distribution of elements in the available cells, regardless of element values or collection size.
+
+### "The need for Hashing"
+Hashing is useful for when we have a large amount of possible element values, but any collection will only contain a small fraction of the possible values.
+In a library application example, ISBN numbers are 10 or 13 digits long, using an array to store the book records with the ISBN as index would enable books to be looked up in O(1) time alongside adding new books being O(1) time.
+Even if we use the older style of ISBN which have 10 digits, there are up to 10,000,000,000 possible ISBNs which would be a wasteful size of an array. Not all of those spots would be used realistically, or even given a title.
+Using a hash table of size 75,000 or even 100,000 and a good hash function for the ISBN would achieve O(1) for looking up or adding new books.
+
+### "Hashing: some implementation issues"
