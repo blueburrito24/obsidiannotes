@@ -5,7 +5,7 @@ Look into learning C to get an understanding of programming concepts + use Mugen
 https://usamimi.info/~suwa/ctut.htm#0_resources
 
 Sonic clone: "Blue's World"
--2d action platformer featuring Blue! Focuses on Sonic-inspired stages designed around speed and satisfying platforming, featuring a cosy hub world and acapella covers of all involved themes by either TriforceFilms or Smooth McGroove.
+-2d action platformer featuring Blue! Focuses on Sonic-inspired stages designed around speed and satisfying platforming, featuring a cosy hub world
 *"Action is heavy! As you blur through each stage, you'll find strong foes!*
 *You can do a combo of A and B attacks on them WHILE running through the stage, dragging them along for the ride, or stand your ground for 1-on-1 combat!"*
 -Takes inspiration from Dan the Man and Dragon Ball Xenoverse 2.
