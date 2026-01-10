@@ -1,3 +1,4 @@
+### Lecture 1 "Intelligent Agents"
 An intelligent agent is a reactive component of AI, it perceives and reacts to its environment.
 An agent is anything that can perceive or ==sense== its environment and act upon the environment or ==actuate==.
 ==Percept== = agent's perceptual input at a given time.
