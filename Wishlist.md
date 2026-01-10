@@ -14,12 +14,12 @@ kanban-plugin: board
 - [ ] ![[Pasted image 20251227160014.png]]
 	[Hungry Oguri Cap Sticker](https://www.etsy.com/uk/listing/4340239011/assorted-uma-musume-stickers?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=umamusume+stickers&ref=sr_gallery-1-3&bes=1&content_source=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%253ALT3089af3b52d006467a15834a48180274cdb88dfb&organic_search_click=1&logging_key=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%3ALT3089af3b52d006467a15834a48180274cdb88dfb&variation0=5648408240) 1.86
 	*I want to buy a bunch and throw them on my laptop
-- [ ] ![[Pasted image 20260109175034.png]]
-	[SHEIK MAINLAND Series Xenotrike](https://www.aliexpress.com/item/1005010300677060.html?)  1 Red and 1 Metallic Black for 19.86
-- [ ] ![[Pasted image 20260109181426.png]]
-	[SHEIK MAINLAND Series ULTRA ACTION TROOPER Black](https://www.amiami.com/eng/detail/?gcode=TOY-RBT-9066) 14.84 (releases 31 Jan)
-- [ ] ![[Pasted image 20260109195409.png]]
-	[BANDAI SPIRITS Acerby](https://www.amiami.com/eng/detail/?gcode=TOY-RBT-7326-R) 6.26
+- [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
+	*Need to make my own sticker sheet w my drawings to fit the given format.
+- [ ] ![[Pasted image 20260110014324.png]]
+	[Set of 6 Titan 13s](https://www.aliexpress.com/item/1005007559264108.html?) 8.02
+	[Weapons Pack](https://www.etsy.com/uk/listing/1773638139) 12.15
+	[Expressive Hands Pack](https://www.etsy.com/uk/listing/4348662164) 4.50
 
 
 ## Game Wishlist
