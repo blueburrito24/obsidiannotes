@@ -49,3 +49,48 @@ We can identify that spam emails often be characterised by the following:
 ![[Pasted image 20260110222639.png]]
 We can map these characteristics on a "feature vector" showing how often these characteristics appear.
 
+We can attribute a mathematical function to the supervised learning problem:
+$$ Feature\ space = R^d $$
+Where "d" is the number of features.
+- Label space (a class or target label): Y = {0, 1} = {ham, spam}
+- a classifier (hypothesis): "h" (family of classifiers)
+- Data: (x$_1$, y$_1$)...(x$_n$, y$_n$)
+- The task of Machine Learning is a selection problem to find "h" that works well on this problem.
+![[Pasted image 20260110223323.png]]
+Diverse Machine Learning Terminology:
+- Training Data - a data set used to find predictive relationships for the model.
+- Test Data - separate data set used to measure the performance of a model.
+- Model - mathematical representation of a real world process; a predictive model forecasts an outcome based on past behaviours.
+- Training process - the process of creating a model from the training data, which is fed into the training algorithm to learn a representation of the problem. AKA "learning".
+- Predicative/data features - independent variables or predictor variables are observable quantities that a prediction model records and uses. We can engineer features by combining or adding new information to them.
+- Target - a dependent variable, the output of the model or the variables we want to predict.
+- Classification - predicting a category label, like spam and ham.
+- Regression - predicting a numerous or continuous label like a price.
+
+"Inductive Learning" 
+The simplest form of inductive learning is learning a function from examples.
+"f" is the target function e.g., a pair of x and f(x).
+Using a hypothesis "h" we can approximate function "f".
+![[{BF357DD7-333A-4490-B796-CB1D4BEEC6AE}.png]]
+We adjust or construct "h" to consist with "f" on the training data set.
+![[{69988A79-3A4B-4924-A80A-2D1D4C3D141D}.png]]
+![[{0C80C5D6-F7F7-4A99-A7FB-C512C5F28DEE}.png]]
+We can see here how red, green and blue are iterations of adjusting "h" to fit with "f" by fitting along a curve.
+![[{D16DE902-427D-404C-887D-CC0D7D5534DD}.png]]
+Overfitting against the training data set is a machine learning behaviour (that we DON'T WANT) that occurs when the machine learning model gives accurate predictions for training data but not for new data.
+
+We also have an identified workflow in machine learning:
+- Define an ML problem and propose a solution
+Choose an unsolved or interesting problem, identify patterns or classifications we can give the model.
+- Provide a data set
+Gather reliable and labelled data with relevant parameters.
+We need to split the data by what data will be used for training and testing (typically falls into a ratio of 66:33). Testing data should never be seen during training. Also note that we should provide a minimum of 1000 examples and 10,000 - 100,000 typical problems + 100,000 - 1,000,000 extreme problems.
+- Prepare the data set and select features
+We need to remove repeated data, fill in missing values, fix outliers in the data set and reformat the data for the model to process. We should remove data that is irrelevant to the problem at hand.
+- Choose and train a model
+Common models for machine learning can involve Decision Trees, Artificial Neural Networks, Hidden Markov Models, Support Vector Machines, Genetic Algorithms and Bayesian Networks. We will likely have to attempt using various models to determine what our best option is.
+- Test and validate your model
+We have to determine how accurate our classifications are, which can be plotted on a "Confusion Matrix".
+![[{827B0BB8-F45C-4CFA-9FF7-F4610B76C8FD}.png]]
+- Use the model to make predictions
+We can now apply the model to new examples that aren't in the training or test data.
