@@ -1,5 +1,7 @@
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
+Look for EPS Placement stuff on blackboard and make a CV including my website iad and other work from first year + work from this year like tp so i can start applying for internships.
+
 call nhs about the braces waiting list
 01214344910
 
