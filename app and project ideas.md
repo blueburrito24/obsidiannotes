@@ -1,6 +1,8 @@
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
 
+could tap into Blender to make models of my characters or just model in general. Useful and shows a more practical example of creative work.
+
 Look into learning C to get an understanding of programming concepts + use Mugen as a medium for learning and developing C skills. I can use my previous project ideas as practice alongside my older idea for a platformer/beat-em-up.
 https://usamimi.info/~suwa/ctut.htm#0_resources
 
