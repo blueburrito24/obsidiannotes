@@ -17,13 +17,6 @@ kanban-plugin: board
 	*I want to buy a bunch and throw them on my laptop
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make my own sticker sheet w my drawings to fit the given format.
-- [ ] ![[Pasted image 20260110014324.png]]
-	[Set of 6 Titan 13s](https://www.aliexpress.com/item/1005007559264108.html?) 8.02
-	[Weapons Pack](https://www.etsy.com/uk/listing/1773638139) 12.15
-	[Expressive Hands Pack](https://www.etsy.com/uk/listing/4348662164) 4.50
-- [ ] ![[Pasted image 20260112003618.png]]
-	[1/44 Scale Gundam-styled Horse](https://www.aliexpress.com/item/1005009252071799.html?) 22.30
-- [ ] [Pliers for assembling figures](https://amzn.eu/d/dgwWgv8) 3.99
 - [ ] ![[Pasted image 20260112010958.png]]
 	[Hand Model Artist Support Item](https://www.aliexpress.com/item/1005008406403225.html?) 40.49 for one Gray and one White
 
