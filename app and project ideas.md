@@ -19,6 +19,9 @@ Sonic clone: "Blue's World"
 a website where i can share posts with both text and images that get archived onto the website on a public board ala late 90s/early 00s blog sites.
 would be cool to add visual flair to the site once the basic site is done.
 
+edit the sprites for Yoshin's Broly Z2i to look more like Z2
+https://github.com/Yoshin2222/BrolyZ2i
+
 If I ever want to develop Apple iOS apps, or just want something new after java, look into Swift.
 
 Wishlist app:
