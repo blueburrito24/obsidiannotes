@@ -15,6 +15,10 @@ Sonic clone: "Blue's World"
 *"The only score you need to worry about, is how many evils you face and how many leaps you take!"*
 -A velocity-based score system alongside a combo-based score system work in tandem to provide the so-called "World Score".
 
+"blue.blogspot.com"
+a website where i can share posts with both text and images that get archived onto the website on a public board ala late 90s/early 00s blog sites.
+would be cool to add visual flair to the site once the basic site is done.
+
 If I ever want to develop Apple iOS apps, or just want something new after java, look into Swift.
 
 Wishlist app:
