@@ -37,7 +37,7 @@ kanban-plugin: board
 
 ## Clothes
 
-- [ ] [Assorted Hoodies](https://www.aliexpress.com/item/1005009841258203.html?) 20.19 each
+- [ ] [Assorted Hoodies](https://www.aliexpress.com/item/1005009389619856.html?) 18.19 each
 	![[Pasted image 20251210190723.png]]
 	"green"
 	![[Pasted image 20251210190739.png]]
@@ -52,16 +52,20 @@ kanban-plugin: board
 	![[dbz technique shirt.png]]
 - [ ] [Negative Zone Spider-Man hoodie](https://www.aliexpress.com/item/1005008565561132.html?) 27.28
 	![[Pasted image 20251229100212.png]]
+- [ ] [Oversized Faux Fur Trim Hooded Bomber Jacket](https://www.boohooman.com/oversized-faux-fur-trim-hooded-bomber-jacket/CMM14245.html?color=105) 24
+	![[Pasted image 20260112173728.png]]
+- [ ] [Cybersigilism Oversized Joggers](https://www.aliexpress.com/item/1005009334437492.html?) 14.59, comes in various colours
+	![[Pasted image 20260112174719.png]]
+- [ ] [403: Forbidden Tee](https://suzuri.jp/kengochi/5919/t-shirt/xxl/yellow) 3,158 JPY or 15gbp~, XXL
+	![[Pasted image 20260112172658.png]]
+- [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXL
+	![[Pasted image 20260112172800.png]]
 - [ ] [Low-Top Trainers](https://www.primark.com/en-gb/p/lace-up-low-top-trainers-white-991128821002) 18 (comes in both black and white)
 	![[Pasted image 20260112004054.png]]
 - [ ] [Low-Top Block Trainers](https://www.primark.com/en-gb/p/low-top-colour-block-trainers-black-991139548804) 18
 	![[Pasted image 20260112004119.png]]
 - [ ] [FoamFlex Hydroguard Trainers](https://www.primark.com/en-gb/p/foamflex-hydroguard-trainers-black-991139582804) 20 (comes in both black and gray)
 	![[Pasted image 20260112004200.png]]
-- [ ] [Cuffed Joggers](https://www.primark.com/en-gb/p/cuffed-leg-joggers-blue-991136855505) 6 (comes in blue, green and white)
-	![[Pasted image 20260112004245.png]]
-- [ ] [2pk Drawstring Joggers](https://www.primark.com/en-gb/p/2pk-drawstring-joggers-black-991155390804) 12
-	![[Pasted image 20260112004306.png]]
 
 
 ## Emulation Backlog
