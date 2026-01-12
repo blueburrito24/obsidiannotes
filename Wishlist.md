@@ -56,6 +56,16 @@ kanban-plugin: board
 	![[dbz technique shirt.png]]
 - [ ] [Negative Zone Spider-Man hoodie](https://www.aliexpress.com/item/1005008565561132.html?) 27.28
 	![[Pasted image 20251229100212.png]]
+- [ ] [Low-Top Trainers](https://www.primark.com/en-gb/p/lace-up-low-top-trainers-white-991128821002) 18 (comes in both black and white)
+	![[Pasted image 20260112004054.png]]
+- [ ] [Low-Top Block Trainers](https://www.primark.com/en-gb/p/low-top-colour-block-trainers-black-991139548804) 18
+	![[Pasted image 20260112004119.png]]
+- [ ] [FoamFlex Hydroguard Trainers](https://www.primark.com/en-gb/p/foamflex-hydroguard-trainers-black-991139582804) 20 (comes in both black and gray)
+	![[Pasted image 20260112004200.png]]
+- [ ] [Cuffed Joggers](https://www.primark.com/en-gb/p/cuffed-leg-joggers-blue-991136855505) 6 (comes in blue, green and white)
+	![[Pasted image 20260112004245.png]]
+- [ ] [2pk Drawstring Joggers](https://www.primark.com/en-gb/p/2pk-drawstring-joggers-black-991155390804) 12
+	![[Pasted image 20260112004306.png]]
 
 
 ## Emulation Backlog
