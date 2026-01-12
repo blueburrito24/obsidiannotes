@@ -1,4 +1,4 @@
-### Lecture 3 "Introduction to Artificial Intelligence" Part 2
+### Lecture 4 "Introduction to Artificial Intelligence" Part 2
 "Data Cleaning" is a critical pre-processing step for Machine Learning.
 ![[{6C83CAE0-ED1E-49DA-91F3-7F13078EA485}.png]]
 Also known as "data wrangling", data cleaning involves handling missing data, detecting and treating outlier data, scaling and normalising data so that we have a consistent range to operate within, and handling categorical data with encoding techniques like "one-hot encoding" and "label encoding". Data cleaning is often done using various libraries and frameworks like Python's "pandas" and scikit-learn, alongside automated tools for efficient data cleaning like open-source libraries and custom scripts.
