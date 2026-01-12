@@ -100,4 +100,33 @@ We have now set the values of $x_1$ and $x_2$ four times, setting two different 
 These input patterns can be mapped out as:
 - $x_1$ = 0, 0, 1, 1
 - $x_2$ = 0, 1, 0, 1
+If we include the dummy input $x_0$ = 1,
+- $x_0$ = 1, 1, 1, 1
+- $x_1$ = 0, 0, 1, 1
+- $x_2$ = 0, 1, 0, 1
+This is because we need to multiply the bias weight w$_0$.
 
+To get the weighted sum for each input pattern, we take the weights $w_0 = 1, w_1 = 1, w_2 = -2$ and the different values of each row from above.
+So we take these weights alongside the input patterns and create the following formula:
+$$w^T x = (w_0 \times x_0) + (w_1 \times x_1) + (w_2 \times x_2)$$
+We substitute the weight values in:
+$$w^T x = (1\times x_0) + (1 \times x_1) + (-2 \times x_2)$$
+$$w^T x = x_0 + x_1 -2x_2$$
+Then we plug in the numbers from the rows of input patterns and we get:
+$$w^T x = 1 + 0 - 2(0)$$
+We multiply:
+$$w^T x = 1 + 0 - 0$$
+and add:
+$$w^T x = 1$$
+So our weighted sum is 1!
+![[{524E15AB-7833-43E2-9ADE-D054D1FCC7CF}.png]]
+
+"Training a Perceptron for Logical OR & AND"
+We want to train a perceptron to behave like a logical OR gate. This is a gate that outputs a true output if atleast one input is true.
+![[{A6006C4D-68A1-46D5-8703-14839DA670FF}.png]]
+If both inputs are 0, then the output is 0 (as seen in the target table).
+In the "structure" we have the inputs, the weights, the sum/activation and the output (from left to right).
+The activation function, seen on the left, says that if the weighted sum value is negative then it outputs 0, if its 0 or positive then it outputs 1.
+So we get the present output formula.
+![[{ACAC2894-DCF5-4C0D-B040-DA537F073168}.png]]
+### UNFINISHED
