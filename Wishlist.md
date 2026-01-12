@@ -80,6 +80,7 @@ kanban-plugin: board
 	X-Men Origins: Wolverine
 	Super Mario 64 PC Port/Co-op Deluxe
 	Sonic Boll
+	Hytale
 	^ Non-Steam Games
 	
 	Aeterno Blade
