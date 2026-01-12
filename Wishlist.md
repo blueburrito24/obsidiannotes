@@ -23,6 +23,8 @@ kanban-plugin: board
 	[Expressive Hands Pack](https://www.etsy.com/uk/listing/4348662164) 4.50
 - [ ] ![[Pasted image 20260112003618.png]]
 	[1/44 Scale Gundam-styled Horse](https://www.aliexpress.com/item/1005009252071799.html?) 22.30
+- [ ] ![[Pasted image 20260112010958.png]]
+	[Hand Model Artist Support Item](https://www.aliexpress.com/item/1005008406403225.html?) 40.49 for one Gray and one White
 
 
 ## Game Wishlist
