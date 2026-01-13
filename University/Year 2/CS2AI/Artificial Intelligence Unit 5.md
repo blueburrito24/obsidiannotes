@@ -1,5 +1,5 @@
-### Lecture 5 "Neural Networks and Deep Learning"
-In previous units like [[Artificial Intelligence Unit 4]] and [[Artificial Intelligence Unit 2]] we've talked about the dilemma of identifying classes amongst a group of data. We've discussed ML models like Decision Trees and K-Nearest Neighbour.
+### Lecture 5 "Neural Networks and Deep Learning Pt. 1"
+In previous units like [[Artificial Intelligence Unit 4]] and [[Artificial Intelligence Unit 3]] we've talked about the dilemma of identifying classes amongst a group of data. We've discussed ML models like Decision Trees and K-Nearest Neighbour.
 Now we will discuss Artificial Neural Networks.
 
 The Neuron involves dendrites, the point of receiving input from other cells, the cell body or "Soma" where information is processed, the axon or output structure of the Neuron and the synapses where two nerve cells can connect.

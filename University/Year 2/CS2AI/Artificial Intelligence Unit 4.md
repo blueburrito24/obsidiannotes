@@ -11,7 +11,7 @@ If we were to include unimportant features in the data, it could worsen the accu
 ![[Pasted image 20260110223323.png]]
 We looked at this diagram previously in [[Remote-Folder/University/Year 2/CS2SE/Software Engineering Unit 2|Software Engineering Unit 2]], it's important we note that the training data set builds a classification model while test data set evaluates the model quality. This classification model is applied to data unseen to the model previously.
 
-When it comes to choosing and training a model, we have to determine a new set of classifiers. Below is an elaboration on some of the models mentioned in [[Artificial Intelligence Unit 2]].
+When it comes to choosing and training a model, we have to determine a new set of classifiers. Below is an elaboration on some of the models mentioned in [[Artificial Intelligence Unit 3]].
 
 "Decision Trees"
 ![[Pasted image 20260112203442.png]]
