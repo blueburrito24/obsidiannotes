@@ -196,5 +196,48 @@ If both inputs are 0, y=0, if both are 1, y=0. Unlike OR, one input being 1 and 
 ![[{927BA588-E58A-4A5A-8565-3D7B5D3FCCA0}.png]]
 We use the same structure and activation function
 $$\varphi(z) = \begin{cases} 0, & \text{if } z < 0 \\ 1, & \text{if } z \geq 0 \end{cases}$$
-, and the same output formula.
+and the same output formula.
 $$y = \begin{cases} 0, & \text{if } w_0 + w_1x_1 + w_2x_2 < 0 \\ 1, & \text{if } w_0 + w_1x_1 + w_2x_2 \geq 0 \end{cases}$$
+Now let's look at the input patterns:
+$x_1 = 0, x_2 = 1$ and output y=1
+We calculate the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$
+$$= w_0 \times 1 + w_1 \times 0 + w_2 \times 0$$
+$$= w_0 + 0 + 0$$
+$$= w_0$$
+We want the output of y = 0, so for that output, $w_0$ < 0 .
+This is the same as OR, both inputs are 0 and we want our target output of 0, so the bias must be negative too.
+
+$x_1 = 0, x_2 = 1$ and output y=1
+We calculate the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$
+$$= w_0 \times 1 + w_1 \times 0 + w_2 \times 1$$
+$$= w_0 + 0 + w_2$$
+$$= w_0 + w_2$$
+We want the output of 0, as neither input are the same, so we need $w_0 + w_2$ < 0.
+That one positive input is not enough to overcome the negative bias!
+We can also rearrange this as $w_2$ < $-w_0$
+
+$x_1 = 1, x_2 = 0$ and output y=1
+We calculate the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$
+$$= w_0 \times 1 + w_1 \times 0 + w_2 \times 1$$
+$$= w_0 \times 1 + w_1 \times 1+ w_2 \times 0$$
+$$= w_0 + w_1+ 0$$
+$$= w_0 + w_1$$
+We want the output of 0, as neither input are the same, so we need $w_0 + w_1$ < 0.
+That one positive input is not enough to overcome the negative bias!
+We can also rearrange this as $w_1$ < $-w_0$
+
+$x_1 = 1, x_2 = 1$ and output y=1
+We calculate the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$
+$$= w_0 \times 1 + w_1 \times 1 + w_2 \times 1$$
+$$= w_0 + w_1+ w_2$$
+We want our input to be y=1, so we need $w_0 + w_1 + w_2$ $\geq$ 0.
+Both inputs ($x_1$ and $x_2$) are positive "AND" so they overcome the negative bias $w_0$ and make the sum non-negative.
+![[{45B4AE76-A051-4C8A-A186-DCD6760D5E2E}.png]]
+
+However! We don't have to manually adjust our inputs like the above.
+If we initialise all weights $w$ to 0, and try out an input $x$ against the target output $y$, we can then either leave it if the computation output is correct or we can modify the weights with an update rule.
+We repeat this process until the perceptron classifies each instance correctly or we have no time i.e., reach the maximum number of iterations.
+![[{3857BD7B-AAAB-4CC6-A179-9A1BDB9F427E}.png]]
+
+We also should consider the limitations of the perceptron: we can only do linear classification with a single perceptron despite most common scenarios not having linearly separable classes. Even so, many common scenarios involve multiple perceptron.
+For example, the logical XOR function returns true if exactly one but not both of two inputs is true.
