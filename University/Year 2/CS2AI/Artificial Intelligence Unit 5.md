@@ -121,12 +121,80 @@ $$w^T x = 1$$
 So our weighted sum is 1!
 ![[{524E15AB-7833-43E2-9ADE-D054D1FCC7CF}.png]]
 
-"Training a Perceptron for Logical OR & AND"
+### "Training a Perceptron for Logical OR & AND"
+"Logical OR arguments"
 We want to train a perceptron to behave like a logical OR gate. This is a gate that outputs a true output if atleast one input is true.
 ![[{A6006C4D-68A1-46D5-8703-14839DA670FF}.png]]
 If both inputs are 0, then the output is 0 (as seen in the target table).
 In the "structure" we have the inputs, the weights, the sum/activation and the output (from left to right).
 The activation function, seen on the left, says that if the weighted sum value is negative then it outputs 0, if its 0 or positive then it outputs 1.
-So we get the present output formula.
-![[{ACAC2894-DCF5-4C0D-B040-DA537F073168}.png]]
-### UNFINISHED
+So we get the present input formula.
+
+Now, we have a perceptron with unknown weight values, $w_0, w_1, w_2$. We want to find the values of these weights so the perceptron outputs the correct answer for "OR" arguments.
+The way we do this is we look at the above "OR" table (featuring $x_1, x_2$ and $y_{target}$) and its rows of inputs and target outputs, and figure out the weights needed to achieve these target outputs.
+
+For example, if we want $x_1 = 0, x_2 = 0$ to output $y=0$,
+we have the inputs, (dummy) $x_0 = 1, x_1 = 0, x_2 = 0$.
+The perceptron takes the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$ 
+and plugs in our inputs:
+$$= w_0 \times 1 + w_1 \times 0 + w_2 \times 0$$
+$$= w_0 + 0 + 0$$
+$$= w_0$$
+So when both inputs are 0, the weighted sum equals $w_0$.
+We want y to equal 0, so let's compare the weighted sum with our parameters:
+if weighted sum, or $w_0$ < 0 -> output 0
+if $w_0$ $\geq$ 0 -> output 1
+So if we want our target output, y, to be 0, $w_0$ (the bias) needs to be less than 0.
+
+Now let's look at our second pattern, $x_1 = 0, x_2 = 1$ and output y=1.
+We plug our inputs into the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$
+$$= w_0 \times 1 + w_1 \times 0 + w_2 \times 1$$
+$$= w_0 + 0 + w_2$$
+$$= w_0 + w_2$$
+So the weighted sum equals $w_0 + w_2$.
+We want our target output, y, to equal 1.
+if $w_0 + w_2$ < 0 -> output 0
+if $w_0 + w_2$ $\geq$ 0 -> output 1
+So for y to = 1, we need $w_0$ to be more than or equal to 0.
+We need $w_0 + w_2 \geq 0$.
+We can say this as "when $x_2=1$, the weight $w_2$ must be positive enough to overcome the negative bias $w_0$ and make the sum non-negative."
+$$w_0 + w_2 \geq 0$$
+$$\rightarrow w_2 \geq -w_0$$
+Since $w_0$ here is negative, $-w_0$ is positive, so $w_2$ needs to be atleast equal to that positive value.
+
+Now our third pattern, $x_1 = 1, x_2 = 0$ with a target output of y=1.
+We plug our inputs into the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$
+$$= w_0 \times 1 + w_1 \times 1 + w_2 \times 0$$
+$$= w_0 + w_1 + 0$$
+$$= w_0 + w_1$$
+We want our target output, y, to equal 1.
+if $w_0 + w_1$ < 0 -> output 0
+if $w_0 + w_1$ $\geq$ 0 -> output 1
+So we need the weighted sum to be equal to or greater than 0.
+$w_0 + w_1 \geq 0$.
+
+Now our fourth pattern, $x_1 = 1, x_2 = 1$ with a target output of y=1.
+We plug our inputs into the weighted sum = $w_0 \times x_0 + w_1 \times x_1 + w_2 \times x_2$
+$$= w_0 \times 1 + w_1 \times 1 + w_2 \times 1$$
+$$= w_0 + w_1 + w_2$$
+We want our target output, y, to equal 1.
+if $w_0 + w_1 + w_2$ < 0 -> output 0
+if $w_0 + w_1 + w_2$ $\geq$ 0 -> output 1
+So we need the weighted sum to be equal to or greater than 0.
+$w_0 + w_1 + w_2\geq 0$.
+"When both inputs are 1, the combined effect of $w_1, w_2$ must overcome the negative bias of $w_0.$"
+![[{ACAC2894-DCF5-4C0D-B040-DA537F073168}.png]]Remember, the bias matters because it gives us a range to operate in.
+Without a bias, let's say as a graph, our line could only go through the origin point (0,0).
+With a bias, we can move around the line anywhere we want, creating a decision boundary.
+
+"Logical AND arguments"
+Similar to the process for "OR" arguments, we now will look at decision arguments for an "AND" gate.
+"AND" only outputs true (1) when both inputs are true (1).
+![[{34DDD5AE-F02E-43B4-B53D-91A6583F90F4}.png]]
+Here is a truth table of what values we would get from an AND gate.
+If both inputs are 0, y=0, if both are 1, y=0. Unlike OR, one input being 1 and the other being 0 gives us y=0.
+![[{927BA588-E58A-4A5A-8565-3D7B5D3FCCA0}.png]]
+We use the same structure and activation function
+$$\varphi(z) = \begin{cases} 0, & \text{if } z < 0 \\ 1, & \text{if } z \geq 0 \end{cases}$$
+, and the same output formula.
+$$y = \begin{cases} 0, & \text{if } w_0 + w_1x_1 + w_2x_2 < 0 \\ 1, & \text{if } w_0 + w_1x_1 + w_2x_2 \geq 0 \end{cases}$$
