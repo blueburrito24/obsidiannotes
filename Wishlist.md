@@ -56,9 +56,9 @@ kanban-plugin: board
 	![[Pasted image 20260112173728.png]]
 - [ ] [Cybersigilism Oversized Joggers](https://www.aliexpress.com/item/1005009334437492.html?) 14.59, comes in various colours
 	![[Pasted image 20260112174719.png]]
-- [ ] [403: Forbidden Tee](https://suzuri.jp/kengochi/5919/t-shirt/xxl/yellow) 3,158 JPY or 15gbp~, XXL
+- [ ] [403: Forbidden Tee](https://suzuri.jp/kengochi/5919/t-shirt/xxl/yellow) 3,158 JPY or 15gbp~, XXXL
 	![[Pasted image 20260112172658.png]]
-- [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXL
+- [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXXL
 	![[Pasted image 20260112172800.png]]
 - [ ] [Low-Top Trainers](https://www.primark.com/en-gb/p/lace-up-low-top-trainers-white-991128821002) 18 (comes in both black and white)
 	![[Pasted image 20260112004054.png]]
