@@ -2,8 +2,8 @@
 1034 x 5 = 5170 salah to make up 
 I'm gonna do x2 qadha a day (F-D-A-M-I, repeat x1) 
 5170 / 10 salah a day = 517 days to finish Starting from 30th September 2025, I would finish at 1st of March 2027. 
-Mark down every set of 5 salah you do here.
 
 I only did four days, or 8 sets of qadha in the time passed.
 
 So from 14 January 2026, I have 513 days to finish -> 11 June 2027.
+Write down any you missed here.
