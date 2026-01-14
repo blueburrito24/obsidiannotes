@@ -12,6 +12,7 @@ time-block a weekly schedule on google calendar including the following:
 - qadha sessions
 - gaming sessions
 - freehand exercises
+- heavy manga sessions
 
 Look for EPS Placement stuff on blackboard and make a CV including my website iad and other work from first year + work from this year like tp so i can start applying for internships.
 
