@@ -35,6 +35,7 @@ A lot of the cool arbitrary features could use three.js!
 edit the sprites for Yoshin's Broly Z2i to look more like Z2
 https://github.com/Yoshin2222/BrolyZ2i
 make sprites of great saiyaman 2 (videl) based on Yoshin's sprite 
+duu z2
 
 If I ever want to develop Apple iOS apps, or just want something new after java, look into Swift.
 
