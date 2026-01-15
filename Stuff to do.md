@@ -13,18 +13,6 @@ read up on [[Crafting Interpreters (Robert Nystrom) (Z-Library).pdf]] and https:
 
 should handwrite my notes before doing them in obsidian
 
-time-block a weekly schedule on google calendar including the following:
-- studying Arabic
-- catching up on university studies
-- reading/listening to Qur'an
-- watching sports or anime like NBA etc
-- personal programming tidbits like learning C with the C tutorial I saved
-- blender shenanigans
-- qadha sessions
-- gaming sessions
-- freehand exercises
-- heavy manga sessions 
-
 Look for EPS Placement stuff on blackboard and make a CV including my website iad and other work from first year + work from this year like tp so i can start applying for internships.
 
 call nhs about the braces waiting list
