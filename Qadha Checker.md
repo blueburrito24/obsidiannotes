@@ -7,3 +7,6 @@ I only did four days, or 8 sets of qadha in the time passed.
 
 So from 14 January 2026, I have 513 days to finish -> 11 June 2027.
 Write down any you missed here.
+
+Didn't do qadha on 14th Jan because I had a horrendous stomach ache.
+Tomorrow is a new day.

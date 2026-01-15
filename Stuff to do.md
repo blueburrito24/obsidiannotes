@@ -1,6 +1,17 @@
+Always check [[app and project ideas]].
+Always check Pinterest!!
+
+draw hytale chopping off blue's sprigs
+
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
-set up pi hole and bedroom security camera (maybe more after)
+[big method](https://youtu.be/_u72OlaWT6k) for studying?
+
+set up adguard home and bedroom security camera (maybe more after)
+
+read up on [[Crafting Interpreters (Robert Nystrom) (Z-Library).pdf]] and https://austinhenley.com/blog/teenytinycompiler1.html to make an interpreter and compiler.
+
+should handwrite my notes before doing them in obsidian
 
 time-block a weekly schedule on google calendar including the following:
 - studying Arabic
