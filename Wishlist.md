@@ -16,6 +16,9 @@ kanban-plugin: board
 	*I want to buy a bunch and throw them on my laptop
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make my own sticker sheet w my drawings to fit the given format.
+- [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
+	[Custom Keychain Charm](https://www.etsy.com/uk/listing/1842800104) 14
+	*Need to provide my own drawings and details for the charms
 - [ ] ![[Pasted image 20260112010958.png]]
 	[Hand Model Artist Support Item](https://www.aliexpress.com/item/1005008406403225.html?) 40.49 for one Gray and one White
 
