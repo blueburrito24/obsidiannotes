@@ -1,5 +1,5 @@
 ### Lecture 5
-"Systems Analysis" is an operation that takes place when we need to define solutions for our requirements. We can't implement anything yet, but are close to doing so. Systems Analysis can overlap with Domain Analysis, seen in [[Remote-Folder/University/Year 2/CS2SE/Software Engineering Unit 2]], but is more technical and a synthesis activity rather than an analysis activity.
+"Systems Analysis" is an operation that takes place when we need to define solutions for our requirements. We can't implement anything yet, but are close to doing so. Systems Analysis can overlap with Domain Analysis, seen in [[Software Engineering Unit 2]], but is more technical and a synthesis activity rather than an analysis activity.
 
 Domain Analysis is how we get the information necessary for Systems Analysis, which delivers a more in-depth, technical solution for the system requirements, such as detailed system models and models of internal mechanisms.
 ![[{350FD180-8389-453A-B98B-9C87E5E45280}.png]]
