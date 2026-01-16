@@ -10,8 +10,8 @@ File Structure:
 Tags are broad and categorical, links are specific and relational.
 
 Study Workflow:
-- Read over the contents of the lecture for exposure to its topics.
-- During lecture, hand-write annotations for the lecture slides while taking in the lecturer's dialogue.
+- Read over the contents of the lecture slides for exposure to its topics.
+- While watching video-lecture, hand-write annotations for the lecture slides while taking in the lecturer's dialogue.
 - After lecture, I need to apply the Feynman Technique. 
 Create a note titled after the concept of interest.
 Explain the topic in a paragraph as if you're explaining it to a 10 year old.
