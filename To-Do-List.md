@@ -13,8 +13,6 @@ set up adguard home and bedroom security camera (maybe more after)
 
 read up on [[Crafting Interpreters (Robert Nystrom) (Z-Library).pdf]] and https://austinhenley.com/blog/teenytinycompiler1.html to make an interpreter and compiler.
 
-should handwrite my notes before doing them in obsidian
-
 Look for EPS Placement stuff on blackboard and make a CV including my website iad and other work from first year + work from this year like tp so i can start applying for internships.
 
 call nhs about the braces waiting list
