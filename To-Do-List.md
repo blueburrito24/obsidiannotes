@@ -4,6 +4,7 @@ Always check Pinterest!!
 draw hytale chopping off blue's sprigs
 draw some dandadan stuff especially of vamola, okarun, momo and jiji
 draw chunnibyou and dbz
+![[Pasted image 20260116222613.png | 300]]
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
