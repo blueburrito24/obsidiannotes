@@ -19,6 +19,8 @@ kanban-plugin: board
 - [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
 	[Custom Keychain Charm](https://www.etsy.com/uk/listing/1842800104) 14
 	*Need to provide my own drawings and details for the charms
+	Could draw something like this below image for the keychain charms
+	![[Pasted image 20260116222650.png]]
 - [ ] ![[Pasted image 20260112010958.png]]
 	[Hand Model Artist Support Item](https://www.aliexpress.com/item/1005008406403225.html?) 40.49 for one Gray and one White
 
