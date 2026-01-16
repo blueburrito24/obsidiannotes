@@ -10,3 +10,5 @@ Write down any you missed here.
 
 Didn't do qadha on 14th Jan because I had a horrendous stomach ache.
 Tomorrow is a new day.
+
+Didn't do one set of two on 15th Jan as it was late. Tomorrow is a new day.

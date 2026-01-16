@@ -5,9 +5,6 @@ draw hytale chopping off blue's sprigs
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
-When making notes, make links! If something has a definition, make a note of that definition and link it.
-"I can write about how c is statically typed but what is statically typed? Now I know that c is statically typed but in the grand scheme of the module it doesn’t provide much so instead I now I type that c is statically typed, create a link to a note that describes what statically typed is, maybe even make another note that links to that which talks about dynamically typed. In the end I create a web of knowledge not just isolated bits of information"
-
 [big method](https://youtu.be/_u72OlaWT6k) for studying?
 
 i want to try and do a paint-like piece on regular ms paint like [this](https://uk.pinterest.com/pin/905575437599652671/).
