@@ -16,7 +16,7 @@ input reader:
 when the user presses a key, the program outputs what key they're pressing. coded in C.
 I would like to then make a version that has icons and can be present on top of your windows on desktop.
 
-"bluetitled.blog" (3.60 for first year, 21 onwards)
+"bluekasten.me" (17.27usd per year) means blue box me
 a website where i can share posts with both text and images that get archived onto the website on a public board ala late 90s/early 00s blog sites.
 would be cool to add visual flair to the site once the basic site is done.
 my posts should follow markdown formatting.
