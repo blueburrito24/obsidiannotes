@@ -18,6 +18,8 @@ Explain the topic in a paragraph as if you're explaining it to a 10 year old.
 Link concepts and sources.
 The bottom of the note should be a footer including its context (what modules it relates to), prerequisites (what do I need to know for this concept?) and next steps (what does this concept lead into?).
 **The Rule of Thumb:** If you can give the topic its own title and explain it in one paragraph (Feynman style), it’s a concept.
+**The "So What?" Shift:** When the lecturer stops defining a term and starts showing how to _apply_ it (e.g., shifting from "What is an Interface" to "How to implement an Interface").
+**The "Prerequisite" Check:** If Topic B requires you to understand Topic A first, they are almost certainly separate concepts.
 
 > Open Book Exam Preparation: The Zettelkasten Export Method
 > 
