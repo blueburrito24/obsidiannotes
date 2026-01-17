@@ -1,5 +1,7 @@
 Always try to break down ideas into small, researchable steps.
 
+[making a web server in C](https://medium.com/@nipunweerasiri/a-simple-web-server-written-in-c-cf7445002e6) beginner project*
+
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
 https://github.com/MunGell/awesome-for-beginners
