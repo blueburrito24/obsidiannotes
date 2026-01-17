@@ -2,6 +2,7 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 
 draw hytale chopping off blue's sprigs
+draw umamusume
 draw some dandadan stuff especially of vamola, okarun, momo and jiji
 draw chunnibyou and dbz
 ![[Pasted image 20260116222613.png | 300]]
