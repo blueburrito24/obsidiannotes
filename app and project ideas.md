@@ -1,6 +1,10 @@
 Always try to break down ideas into small, researchable steps.
 
-[making a web server in C](https://medium.com/@nipunweerasiri/a-simple-web-server-written-in-c-cf7445002e6) beginner project*
+[making a web server in C](https://medium.com/@nipunweerasiri/a-simple-web-server-written-in-c-cf7445002e6)
+[making an image viewer in C](https://www.youtube.com/watch?v=sItRLFjbqvo)
+[making a 3d renderer](https://www.youtube.com/watch?v=nvWDgBGcAIM)
+[making a display driver for an embedded system in C](https://www.youtube.com/watch?v=5cp2iPGWmUY)
+e-ink display of current manga trackers on anilist
 
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
