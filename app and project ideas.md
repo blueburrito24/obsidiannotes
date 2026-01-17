@@ -1,5 +1,6 @@
 Always try to break down ideas into small, researchable steps.
 
+[making a to-do list app in C](https://www.youtube.com/watch?v=rWZpX0jWw0I)
 [making a web server in C](https://medium.com/@nipunweerasiri/a-simple-web-server-written-in-c-cf7445002e6)
 [making an image viewer in C](https://www.youtube.com/watch?v=sItRLFjbqvo)
 [making a 3d renderer](https://www.youtube.com/watch?v=nvWDgBGcAIM)
