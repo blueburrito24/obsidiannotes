@@ -6,7 +6,7 @@ draw umamusume
 draw some dandadan stuff especially of vamola, okarun, momo and jiji, and rin and yoshikuro
 draw zoro and luffy
 draw blue in a landscape "my favourite river is full of tires" - yellow standing with her in a bright jumper and baggy pants
-draw chunnibyou and dbz
+draw chunnibyou and dbz (inc broly)
 ![[Pasted image 20260116222613.png | 300]]
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
