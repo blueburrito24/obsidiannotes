@@ -14,3 +14,5 @@ Tomorrow is a new day.
 Didn't do one set of two on 15th Jan as it was late. Tomorrow is a new day.
 
 Didn't do qadha on 16th Jan as I stayed up too late on the game. Tomorrow is a new day.
+
+Didn't do qadha on 18th. I woke up late and had little motivation. Tomorrow is a new day.
