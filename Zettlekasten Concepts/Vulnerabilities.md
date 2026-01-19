@@ -21,4 +21,4 @@ created: 2026-01-16
 - **Up (Modules):** [[MOC_CS2IS]]
 - **Back (Prerequisites):** [[CIA Triad]]
 - **Forward (Next Steps):** [[Threats]]
-- **Similar/Related:** [[CIA Triad]], [[Threats]], [[Controls]]
+- **Similar/Related:** [[CIA Triad]], [[Threats]], [[Controls]], [[Classes of Vulnerabilities]]

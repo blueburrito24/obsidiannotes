@@ -21,4 +21,4 @@ created: 2026-01-16
 - **Up (Modules):** [[MOC_CS2IS]]
 - **Back (Prerequisites):** [[Threats]], [[Vulnerabilities]]
 - **Forward (Next Steps):** [[Classes of Vulnerabilities]]
-- **Similar/Related:** [[Threats]], [[Vulnerabilities]]
+- **Similar/Related:** [[Threats]], [[Vulnerabilities]], [[Classes of Controls]]

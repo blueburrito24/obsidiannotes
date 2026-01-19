@@ -6,22 +6,22 @@ module_code:
   - CS2IS
 created: 2026-01-16
 ---
-# Classes of Vulnerabilities
+# Classes of Controls
 
 ## 1. Simple Explanation (Feynman Technique)
 > OMITTED
 ---
 ## 2. Technical Details
-- **There are different types, or classes, of vulnerabilities in an asset's security.**
-	- [[Interception]]
-	- [[Interruption]]
-	- [[Modification]]
-	- [[Fabrication]]
+- **There are different types, or classes, of controls we can use against threats.
+	- [[Encryption]]
+	- [[Software Controls]]
+	- [[Hardware Controls]]
+	- [[Policies]]
 ---
 ## 3. Connections & Context
 **Source:** [[Unit 01B - Introduction to information security - slides.pdf]]
 ### Directional Links:
 - **Up (Modules):** [[MOC_CS2IS]]
-- **Back (Prerequisites):** [[Vulnerabilities]]
+- **Back (Prerequisites):** [[Controls]]
 - **Forward (Next Steps):** [[Classes of Controls]]
-- **Similar/Related:** [[Vulnerabilities]], [[Threats]], [[Controls]]
+- **Similar/Related:** [[Classes of Controls]]

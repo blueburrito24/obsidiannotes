@@ -6,22 +6,18 @@ module_code:
   - CS2IS
 created: 2026-01-16
 ---
-# Classes of Vulnerabilities
+# Encryption
 
 ## 1. Simple Explanation (Feynman Technique)
-> OMITTED
+> Encryption is like if you scramble everything in your closet so nobody can find a dirty pair of socks you forgot to wash.
 ---
 ## 2. Technical Details
-- **There are different types, or classes, of vulnerabilities in an asset's security.**
-	- [[Interception]]
-	- [[Interruption]]
-	- [[Modification]]
-	- [[Fabrication]]
+- **Encryption is when you scramble data so that it's unreadable except when someone has the encryption key to descramble it.**
 ---
 ## 3. Connections & Context
 **Source:** [[Unit 01B - Introduction to information security - slides.pdf]]
 ### Directional Links:
 - **Up (Modules):** [[MOC_CS2IS]]
-- **Back (Prerequisites):** [[Vulnerabilities]]
+- **Back (Prerequisites):** [[Classes of Controls]]
 - **Forward (Next Steps):** [[Classes of Controls]]
-- **Similar/Related:** [[Vulnerabilities]], [[Threats]], [[Controls]]
+- **Similar/Related:** [[Classes of Controls]]

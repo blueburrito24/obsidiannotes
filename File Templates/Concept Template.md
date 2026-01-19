@@ -11,12 +11,12 @@ created: 2026-01-16
 > [Write your explanation here as if talking to a 10-year-old. Use an analogy from everyday life. If you can't simplify it yet, keep the status as #status/seed.]
 ---
 ## 2. Technical Details
-- **Formal Definition:** - **Key Constraints/Rules:** - **Formula/Code Snippet:**
+- **Formal Definition**
 ---
 ## 3. Connections & Context
-**Source:** [[ ]] (Link to the specific lecture or scan in your Sources folder)
+**Source:** [[ ]]
 ### Directional Links:
-- **Up (Modules):** 
-- **Back (Prerequisites):** [[ ]] (What did I need to know to understand this?)
-- **Forward (Next Steps):** [[ ]] (What does this concept lead into?)
+- **Up (Modules):** [[]]
+- **Back (Prerequisites):** [[ ]]
+- **Forward (Next Steps):** [[ ]]
 - **Similar/Related:** [[ ]]

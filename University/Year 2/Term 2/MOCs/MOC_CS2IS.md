@@ -15,7 +15,7 @@ status: seed
 		This "triad" is, namely so, consummated of three concepts - [[Confidentiality]], [[Integrity]] and [[Availability]]. 
 		These are the three key goals of information security. 
 		Tied to these three goals, we have to consider a system's [[Vulnerabilities]], [[Threats]] and [[Controls]].
-		There are explicit different [[Classes of Vulnerabilities]] and [[Classes of  Controls]].
+		There are explicit different [[Classes of Vulnerabilities]] and [[Classes of Controls]].
 		We also have to consider [[Control Effectiveness]] and the [[Common Characteristics of Information Security]].
 - **Lecture 2**
 	- To be written.
