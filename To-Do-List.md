@@ -1,9 +1,9 @@
 Always check [[app and project ideas]].
 Always check Pinterest!!
 
-make a wide, green oc to match with my red/black thin oc
--should give her a fairly inhuman physique so i can draw her with a different variety of clothing and accentuate her alien features.
+make an male alien oc with an exaggerated anatomy
 ![[Pasted image 20260119001600.png | 300]]
+make a wide, green oc to match with my red/black thin oc
 -could make her like vamola
 ![[Pasted image 20260119001111.png | 300]]
 draw hytale chopping off blue's sprigs

@@ -1,6 +1,6 @@
 ---
 tags:
-  - status/seed
+  - status/evergreen
   - type/concept
 module_code:
   - CS2IS
