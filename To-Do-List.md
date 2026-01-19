@@ -1,6 +1,7 @@
 Always check [[app and project ideas]].
 Always check Pinterest!!
 
+make a wide, green oc to match with my red/black thin oc
 draw hytale chopping off blue's sprigs
 draw umamusume
 draw some dandadan stuff especially of vamola, okarun, momo and jiji, and rin and yoshikuro
