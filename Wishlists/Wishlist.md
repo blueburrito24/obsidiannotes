@@ -165,6 +165,7 @@ kanban-plugin: board
 	Sly Cooper and the Thievius Raccoonus
 	Tekken 4
 	Tekken Tag Tournament
+	The Bouncer
 	NBA Street
 	Rayman 2
 	Tom Clancy's Splinter Cell
