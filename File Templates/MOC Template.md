@@ -14,21 +14,11 @@ status: #active
 ## 🗺️ Curriculum Map
 *This section is for manually ordered links to follow the lecture sequence.*
 
-- **Phase 1: Foundations**
-	- [[Concept A]]
-	- [[Concept B]]
-- **Phase 2: Core Theory**
-	- [[Concept C]]
-- **Phase 3: Implementation**
-	- [[Concept D]]
+- **Lecture 1**
+	- Summary
+- **Lecture 2**
+	- Summary
+- **Lecture 3**
+	- Summary
 
 ---
-
-## 🧪 Concept Tracker (Automated)
-*The list below automatically pulls in any note that links back to this MOC.*
-
-```dataview
-TABLE tags AS "Status/Type", subjects AS "Subject"
-FROM [[{{title}}]]
-WHERE type = "concept"
-SORT file.name ASC

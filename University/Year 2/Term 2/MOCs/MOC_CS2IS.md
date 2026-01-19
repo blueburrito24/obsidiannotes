@@ -9,9 +9,9 @@ status: seed
 
 ---
 
-## 🗺️ Lecture Map
+## Lecture Map
 - **Lecture 1**
-		Information Security is an element of Computer Science in which we tackle the protection of software, hardware and data, the protection of which relies on the [[CIA Triad]]. 
+		Information Security is an elemenput of Computer Science in which we tackle the protection of software, hardware and data, the protection of which relies on the [[CIA Triad]]. 
 		This "triad" is, namely so, consummated of three concepts - [[Confidentiality]], [[Integrity]] and [[Availability]]. 
 		These are the three key goals of information security. 
 		Tied to these three goals, we have to consider a system's [[Vulnerabilities]], [[Threats]] and [[Controls]].
@@ -23,10 +23,3 @@ status: seed
 	- To be written.
 
 ---
-## 🧪 Concept Tracker (Automated)
-*The list below automatically pulls in any note that links back to this MOC.*
-```dataview
-TABLE tags AS "Status/Type", subjects AS "Subject"
-FROM [[Untitled]]
-WHERE type = "concept"
-SORT file.name ASC
