@@ -6,6 +6,7 @@ make an male alien oc with an exaggerated anatomy
 make a wide, green oc to match with my red/black thin oc
 -could make her like vamola
 ![[Pasted image 20260119001111.png | 300]]
+after making these new ocs, make sprites of each of my ocs in hftf style
 draw hytale chopping off blue's sprigs
 draw yellow sitting with his feet up and holding his phone with his hand curled downwards (ykwim) from a back or side angle
 draw umamusume
