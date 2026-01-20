@@ -63,7 +63,6 @@ kanban-plugin: board
 	X-Men Origins: Wolverine
 	Super Mario 64 PC Port/Co-op Deluxe
 	Sonic Boll
-	Hytale
 	^ Non-Steam Games
 	
 	Aeterno Blade
@@ -172,7 +171,7 @@ kanban-plugin: board
 	Def Jam: Fight for NY
 	Street Fighter 3: 3rd Strike
 	Devil May Cry
-	SSX
+	SSX 3
 	Kingdom Hearts
 	Drakengard
 	Grand Theft Auto Vice City

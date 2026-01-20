@@ -7,6 +7,7 @@ make a wide, green oc to match with my red/black thin oc
 -could make her like vamola
 ![[Pasted image 20260119001111.png | 300]]
 draw hytale chopping off blue's sprigs
+draw yellow sitting with his feet up and holding his phone with his hand curled downwards (ykwim) from a back or side angle
 draw umamusume
 draw some dandadan stuff especially of vamola, okarun, momo and jiji, and rin and yoshikuro
 draw zoro and luffy
