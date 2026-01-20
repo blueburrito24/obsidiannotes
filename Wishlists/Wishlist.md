@@ -41,10 +41,6 @@ kanban-plugin: board
 
 ## Clothes
 
-- [ ] ["Techniques" Tee](https://totallynotmark.com/en-gbp/products/techniques) 22.86
-	![[dbz technique shirt.png]]
-- [ ] [Oversized Faux Fur Trim Hooded Bomber Jacket](https://www.boohooman.com/oversized-faux-fur-trim-hooded-bomber-jacket/CMM14245.html?color=105) 24
-	![[Pasted image 20260112173728.png]]
 - [ ] [403: Forbidden Tee](https://suzuri.jp/kengochi/5919/t-shirt/xxl/yellow) 3,158 JPY or 15gbp~, XXXL
 	![[Pasted image 20260112172658.png]]
 - [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXXL
