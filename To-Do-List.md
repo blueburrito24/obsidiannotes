@@ -7,7 +7,6 @@ I wanna draw expressions more like fma edward and adam warren's artstyle
 
 after making my new ocs, make sprites of each of my ocs in hftf style
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
-![[Pasted image 20260121144830.png]]
 short comic: blue looks to yellow and asks "what do you think of the sun?" "i think the moon is prettier" they're looking at their burning hut
 ![[Pasted image 20260116222613.png | 300]]
 
