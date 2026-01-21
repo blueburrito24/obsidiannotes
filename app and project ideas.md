@@ -44,6 +44,8 @@ https://github.com/Yoshin2222/BrolyZ2i
 make sprites of great saiyaman 2 (videl) based on Yoshin's sprite 
 duu z2
 
+make a moba to see if mobas are good
+
 If I ever want to develop Apple iOS apps, or just want something new after java, look into Swift.
 
 sketchpad:

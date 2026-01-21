@@ -1,19 +1,10 @@
 Always check [[app and project ideas]].
 Always check Pinterest!!
 
-make an male alien oc with an exaggerated anatomy
-![[Pasted image 20260119001600.png | 300]]
-make a wide, green oc to match with my red/black thin oc
--could make her like vamola
-![[Pasted image 20260119001111.png | 300]]
-after making these new ocs, make sprites of each of my ocs in hftf style
-draw hytale chopping off blue's sprigs
+after making my new ocs, make sprites of each of my ocs in hftf style
 draw yellow sitting with his feet up and holding his phone with his hand curled downwards (ykwim) from a back or side angle
-draw umamusume
-draw some dandadan stuff especially of vamola, okarun, momo and jiji, and rin and yoshikuro
-draw zoro and luffy
 draw blue in a landscape "my favourite river is full of tires" - yellow standing with her in a bright jumper and baggy pants
-draw chunnibyou and dbz (inc broly)
+draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
 ![[Pasted image 20260116222613.png | 300]]
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
