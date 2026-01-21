@@ -1,6 +1,10 @@
 Always check [[app and project ideas]].
 Always check Pinterest!!
 
+![[Pasted image 20260121201502.png | 400]]
+![[Pasted image 20260121201534.png | 300]]
+I wanna draw expressions more like fma edward and adam warren's artstyle
+
 after making my new ocs, make sprites of each of my ocs in hftf style
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
 ![[Pasted image 20260121144830.png]]
