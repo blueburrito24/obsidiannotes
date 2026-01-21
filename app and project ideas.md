@@ -19,6 +19,8 @@ Look into learning C to get an understanding of programming concepts + use Mugen
 https://usamimi.info/~suwa/ctut.htm#0_resources
 also the robot boxer game!!!!
 
+count the sheep to sleep! you spawn sheep, move them through a number of fences and increase the counter til you reach 51- then the game turns off!
+
 input reader:
 when the user presses a key, the program outputs what key they're pressing. coded in C.
 I would like to then make a version that has icons and can be present on top of your windows on desktop.
