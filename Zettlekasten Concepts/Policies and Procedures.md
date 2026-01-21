@@ -8,10 +8,10 @@ created: 2026-01-16
 # Policies
 
 ## 1. Simple Explanation (Feynman Technique)
-> Policies are just rules we have in place so people don't make it easy for someone to mess up what we have, like if someone can't enter your room so they don't mess up your desk.
+> Policies are just rules we have in place so people don't make it easy for someone to mess up what we have, like if someone can't enter your room so they don't mess up your desk. Procedures are how we apply those rules!
 ---
 ## 2. Technical Details
-- **Policies, or prodecures, are rules we have in place to stop users from creating vulnerabilities in the security of our assets.**
+- **Policies, or procedures, are rules we have in place to stop users from creating vulnerabilities in the security of our assets, alongside the steps we take to enact those rules.**
 ---
 ## 3. Connections & Context
 **Source:** [[Unit 01B - Introduction to information security - slides.pdf]]

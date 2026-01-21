@@ -30,13 +30,12 @@ kanban-plugin: board
 - [ ] [Five Nights At Freddy's 2](https://store.steampowered.com/app/332800/Five_Nights_at_Freddys_2/) 5.79
 	[Five Nights At Freddy's 3](https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/) 5.79
 	[Resident Evil 4](https://store.steampowered.com/app/254700/Resident_Evil_4_2005?snr=1_25_4__318) 15.98
-	[Umamusume Pretty Derby: Party Dash](https://www.loaded.com/umamusume-pretty-derby-party-dash-pc-steam) 8.99
 	[Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/) 16.75
 	[Abathor](https://store.steampowered.com/app/2295610/Abathor/) 12.79
 	[LEGO Batman: Legacy of the Dark Knight](https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/) 59.99
 	[Castlevania Anniversary Collection](https://www.loaded.com/castlevania-anniversary-collection-steam-pc) 4.49
-	[Castlevania Advance Collection](https://www.loaded.com/castlevania-advance-collection-pc-steam) 5.49
 	[Castlevania Dominus Collection](https://www.loaded.com/castlevania-dominus-collection-pc-steam) 10.99
+	[Contra: Operation Galuga](https://www.loaded.com/contra-operation-galuga-pc-steam) 12.99
 
 
 ## Clothes

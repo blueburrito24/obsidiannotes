@@ -16,7 +16,7 @@ created: 2026-01-16
 	- [[Encryption]]
 	- [[Software Controls]]
 	- [[Hardware Controls]]
-	- [[Policies]]
+	- [[Policies and Procedures]]
 ---
 ## 3. Connections & Context
 **Source:** [[Unit 01B - Introduction to information security - slides.pdf]]
