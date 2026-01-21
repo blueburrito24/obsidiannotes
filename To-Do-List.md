@@ -2,9 +2,9 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 
 after making my new ocs, make sprites of each of my ocs in hftf style
-draw yellow sitting with his feet up and holding his phone with his hand curled downwards (ykwim) from a back or side angle
-draw blue in a landscape "my favourite river is full of tires" - yellow standing with her in a bright jumper and baggy pants
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
+![[Pasted image 20260121144830.png]]
+short comic: blue looks to yellow and asks "what do you think of the sun?" "i think the moon is prettier" they're looking at their burning hut
 ![[Pasted image 20260116222613.png | 300]]
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
