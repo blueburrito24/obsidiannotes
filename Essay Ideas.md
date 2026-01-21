@@ -10,3 +10,5 @@ Hate, Context and Kindness.
 Why I think collecting is a Black Hole for your Wallet.
 "Potential" and why Expectations make or break me.
 Details Matter, No it's not just an "artist thing".
+Spoilers, Details and why the Journey Keeps On Going.
+Hallucinations, Visions and what Beauty means to Me.
