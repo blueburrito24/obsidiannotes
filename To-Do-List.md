@@ -7,6 +7,7 @@ I wanna draw expressions more like fma edward and adam warren's artstyle
 
 give bellabella a necklace and glasses that hang around her neck
 the mouth thing should be a clothing piece like a jacket, unique to her specific seabed culture (jacket branded with "major oceanic division")
+also she really likes sweets like mints and mentos
 redraw nico robin asking to join luffy but it's blue asking to be Yellows partner
 
 after making my new ocs, make sprites of each of my ocs in hftf style
