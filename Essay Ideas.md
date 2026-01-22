@@ -12,3 +12,6 @@ Why I think collecting is a Black Hole for your Wallet.
 Details Matter, No it's not just an "artist thing".
 Spoilers, Details and why the Journey Keeps On Going.
 Hallucinations, Visions and what Beauty means to Me.
+Resilience, Openness, Manners.
+Why do I want to learn Arabic?
+The Steward of Addiction.

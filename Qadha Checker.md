@@ -18,3 +18,5 @@ Didn't do qadha on 16th Jan as I stayed up too late on the game. Tomorrow is a n
 Didn't do qadha on 18th. I woke up late and had little motivation. Tomorrow is a new day.
 
 Didn't do qadha on 19th because I used my time a bit unwisely. Tomorrow is a new day.
+
+Didn't do qadha on 21st. I kinda wasted my morning. Tomorrow is a new day
