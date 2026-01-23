@@ -43,7 +43,8 @@ A lot of the cool arbitrary features could use three.js!
 
 edit the sprites for Yoshin's Broly Z2i to look more like Z2
 https://github.com/Yoshin2222/BrolyZ2i
-make sprites of great saiyaman 2 (videl) based on Yoshin's sprite 
+make sprites of great saiyaman 2 (videl) based on Yoshin's sprite
+![[Pasted image 20260123200010.png]]
 duu z2
 
 make a moba to see if mobas are good
