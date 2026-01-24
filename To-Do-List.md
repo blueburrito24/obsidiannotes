@@ -1,19 +1,12 @@
 Always check [[app and project ideas]].
 Always check Pinterest!!
 
-![[Pasted image 20260121201502.png | 400]]
-![[Pasted image 20260121201534.png | 300]]
-I wanna draw expressions more like fma edward and adam warren's artstyle
-
 redraw nico robin asking to join luffy but it's blue asking to be Yellows partner
 
 after making my new ocs, make sprites of each of my ocs in hftf style
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
-![[Pasted image 20260116222613.png | 300]]
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
-
-[big method](https://youtu.be/_u72OlaWT6k) for studying?
 
 i want to try and do a paint-like piece on regular ms paint like [this](https://uk.pinterest.com/pin/905575437599652671/).
 
@@ -27,8 +20,6 @@ call nhs about the braces waiting list
 01214344910
 
 read ibn taymiyyah's laamiyah
-
-Read Obsidian documentation.
 
 Contact Amazon Support to delete account connected to kamihame7@gmail.com
 
