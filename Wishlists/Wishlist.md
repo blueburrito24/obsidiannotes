@@ -40,10 +40,28 @@ kanban-plugin: board
 
 ## Clothes
 
+- [ ] [THESUPERMADE Goggle Hat](https://www.thesupermade.com/products/colorblock-crochet-goggles-trapper-hat?variant=47294641733858) 18gbp Khaki
+	![[Pasted image 20260125221744.png]]
+- [ ] [THESUPERMADE Distressed Beanie](https://www.thesupermade.com/products/distressed-denim-patchwork-beanie?_pos=4&_ss=r&variant=47143470858466) 13gbp Blue
+	![[Pasted image 20260125221903.png]]
+- [ ] [THESUPERMADE Mesh Hollow Hat](https://www.thesupermade.com/products/retro-mesh-hollow-breathable-pile-hat) 27gbp Black
+	![[Pasted image 20260125221958.png]]
 - [ ] [403: Forbidden Tee](https://suzuri.jp/kengochi/5919/t-shirt/xxl/yellow) 3,158 JPY or 15gbp~, XXXL
 	![[Pasted image 20260112172658.png]]
 - [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXXL
 	![[Pasted image 20260112172800.png]]
+- [ ] [THESUPERMADE Skeleton Sweatshirt](https://www.thesupermade.com/products/skeleton-print-t-shirt?variant=46836171473122) 37gbp XXL
+	![[Pasted image 20260125221650.png]]
+- [ ] [THESUPERMADE Fur-hooded Jacket](https://www.thesupermade.com/products/faux-fur-lined-zip-up-winter-hooded-bomber-jacket?variant=46948612309218) 75gbp Khaki
+	![[Pasted image 20260125222209.png]]
+- [ ] [THESUPERMADE Leather Jacket](https://www.thesupermade.com/products/retro-leather-stand-collar-elastic-hem-jacket?variant=47205628936418) 58gbp Black
+	![[Pasted image 20260125222723.png]]
+- [ ] [Colombia Classic Web Belt](https://amzn.eu/d/a87HQwV) 13.95gbp
+	![[Pasted image 20260125222049.png]]
+- [ ] [THESUPERMADE Wide Pants](https://www.thesupermade.com/products/vintage-paratrooper-machete-side-stripe-drape-wide-leg-pants?variant=46935477453026) 56gbp Yellow
+	![[Pasted image 20260125222807.png]]
+- [ ] [THESUPERMADE Baggy Jeans](https://www.thesupermade.com/products/thesupermade-patchwork-check-pleated-scimitar-jeans?variant=46192034447586) 48gbp
+	![[{DE3AFCD2-D83E-49A2-8FB4-4C6E9BC46B4D}.png]]
 
 
 ## Emulation Backlog
@@ -230,6 +248,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
