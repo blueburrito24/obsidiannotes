@@ -3,6 +3,8 @@ Always check Pinterest!!
 
 redraw nico robin asking to join luffy but it's blue asking to be Yellows partner
 
+draw enel dancing over the gif of vector on the moon
+
 after making my new ocs, make sprites of each of my ocs in hftf style
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
 

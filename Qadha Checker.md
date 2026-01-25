@@ -22,3 +22,7 @@ Didn't do qadha on 19th because I used my time a bit unwisely. Tomorrow is a new
 Didn't do qadha on 21st. I kinda wasted my morning. Tomorrow is a new day
 
 Didn't do qadha on 23rd. Messed up my schedule. Tomorrow is a new day.
+
+Didn't do qadha on 24th. Woke up late. Tomorrow is a new day.
+
+Didn't do qadha on 25th. Woke up late. Tomorrow is a new day.
