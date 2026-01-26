@@ -1,5 +1,6 @@
 Always check [[app and project ideas]].
 Always check Pinterest!!
+https://cooltext.com/
 
 redraw nico robin asking to join luffy but it's blue asking to be Yellows partner
 
