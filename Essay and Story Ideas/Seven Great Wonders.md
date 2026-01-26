@@ -30,8 +30,13 @@ Blue knows she wants to explore and get out of her typical life, Yellow has neve
 Blue retells her boring life+
 (worked a boring job, saved up a ton but didn't know what to do with it, didn't hang around many people, never does what she likes but what's "best*)
 She walks up to her everyday cafe and thinks, "I know! I'll marry the first guy I see, that'll be interesting..." and sees a scary looking guy, Yellow+
+She sits in front of Yellow while he's mid-bite in a pancake, looks him dead in the eyes and says "Let me be your partner!"
 ## Issue 2
-Blue and Yellow get married+
+Yellow freaks out at the idea of such an abrupt change and urges they get to know each other first+
+Yellow, both reluctant and weirdly interested, takes her to a register office to get their marriage license sorted+
+(Blue pulls him aside to a local cultural clothing place and dresses herself in South Asian clothing and Yellow in Chinese clothing. The scene in the office is an abrupt and funny frame.)
+Blue also gets their boating licenses and space-travel licenses sorted, before dropping her travel plans on Yellow out of nowhere!
+(in the previous panels you can see her looking at the different license posters while Yellow is getting the marriage license sorted.)
 Blue burns down her old house to push herself into this exploration trip+
 (burning house scene i came up with before)
 They finalise their packing and leave for their first adventure+
