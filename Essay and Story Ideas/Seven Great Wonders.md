@@ -9,6 +9,7 @@ Less significant but relevant notes:
 - could feature races and even characters from Handsign for building scope
 - I need to define how the two characters become closer through out the story. Is it conflict? Is it just them getting to know each other? Is it knowing that they can rely on each other?
 - I should draw up a world map with all the important and even irrelevant pieces of this story, maybe they will use it to plan the trip!
+- There should be a mermaid in the ghost camp who greets the group upon arrival, her hair is always in twin tails and nobody knows why--- later at the end of the saga its revealed one of the ghost soldiers who loved the mermaid in his past life is always on her back holding her twin tails up high!
 ## Blue and Yellow's dynamic is based on goals; 
 Blue knows she wants to explore and get out of her typical life, Yellow has never had distinct aspirations and is thrown into Blue's shenanigans; through the events of the story Yellow sees the meaning of home and what it means for the people they meet and decides he wants to settle down with Blue and do some new, albeit smaller, things with his life
 ## "I've always liked the number 7, so we'll visit 7 great wonders!"
