@@ -1,3 +1,5 @@
+### Need to define character motivations, goals, roles before I can make proper notes on the story!
+
 alien planet terrorised by its apex predators, two people hiding from the predators send off their child who crash lands years later on earth and the alien + our human mc expose the exploitation and trafficking of aliens into the state (non-descript geographical location that they live in that looks suburban)
 the apex predators are four-armed people and the aliens are just generic green aliens, there was also mutated predator hybrids called chimera I drew up for the trafficking/exploitation facility and one of the main characters would be one of the mutated hybrids
 apex predator aliens called antax in my story differ as such; males  faces their skin never lasts so they've evolved in a way that structure is prioritised but visuals (aka good looking skin and skin being intact around key areas like the mouth and hands) are lost. they are also bald
