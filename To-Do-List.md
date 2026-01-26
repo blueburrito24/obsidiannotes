@@ -7,7 +7,8 @@ redraw nico robin asking to join luffy but it's blue asking to be Yellows partne
 draw enel dancing over the gif of vector on the moon
 
 after making my new ocs, make sprites of each of my ocs in hftf style
-draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
+draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock) 
+look for references in "Other Documents".
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
