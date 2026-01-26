@@ -7,6 +7,7 @@ Always try to break down ideas into small, researchable steps.
 [making a display driver for an embedded system in C](https://www.youtube.com/watch?v=5cp2iPGWmUY)
 e-ink display of current manga trackers on anilist
 api/web app that pulls from my Pictures/artworks folder and displays all the png files in the folder on an e-ink display in a slideshow
+![[{C4EDBDC4-94DA-44F9-A9AC-5F99691F2460}.png]]
 
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
