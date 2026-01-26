@@ -30,9 +30,8 @@ Blue knows she wants to explore and get out of her typical life, Yellow has neve
 Blue retells her boring life+
 (worked a boring job, saved up a ton but didn't know what to do with it, didn't hang around many people, never does what she likes but what's "best*)
 She walks up to her everyday cafe and thinks, "I know! I'll marry the first guy I see, that'll be interesting..." and sees a scary looking guy, Yellow+
-
 ## Issue 2
 Blue and Yellow get married+
 Blue burns down her old house to push herself into this exploration trip+
 (burning house scene i came up with before)
-They finalise their packing and leave for their first adventure
+They finalise their packing and leave for their first adventure+
