@@ -9,6 +9,8 @@ e-ink display of current manga trackers on anilist
 api/web app that pulls from my Pictures/artworks folder and displays all the png files in the folder on an e-ink display in a slideshow
 ![[{C4EDBDC4-94DA-44F9-A9AC-5F99691F2460}.png]]
 
+pinball machine
+
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
 https://github.com/MunGell/awesome-for-beginners
