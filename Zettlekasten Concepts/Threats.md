@@ -13,6 +13,9 @@ created: 2026-01-16
 ---
 ## 2. Technical Details
 - **Threats are scenarios where loss and harm can occur to an asset.**
+- Threats can come from both human and non-human sources, such as employees breaching software confidentiality or hardware failures. [[WAR70]] was a stepping stone in identifying such traits of Information Security.
+- While "threats" refer to potential causes of harm, [[Attacks]] refer to malicious and explicit harm.
+- There are also different types of threats, like [[Cyberthreats]] and [[Advanced Persistent Threats]].
 ---
 ## 3. Connections & Context
 **Source:** [[Unit 01B - Introduction to information security - slides.pdf]]

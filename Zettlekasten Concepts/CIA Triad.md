@@ -19,6 +19,9 @@ created: 2026-01-16
 - [[Integrity]] refers to the status of the information. Information needs to be precise, accurate and only changed when we want it to be changed!
 - [[Availability]] refers to the fact that the authorised party should be able to access the information when they need to.
 These three can be considered the key goals of information security.
+It's also important to consider what levels of security what the [[Value of Assets]] at hand are - we shouldn't put out unnecessary amounts of effort for less important information. 
+Alongside the [[Value of Assets]] we also should consider [[Information Standards]] - definitions provided by third parties to standardise how we can approach Information Security.
+
 ---
 ## 3. Connections & Context
 **Source:** [[Unit 01B - Introduction to information security - slides.pdf]] 

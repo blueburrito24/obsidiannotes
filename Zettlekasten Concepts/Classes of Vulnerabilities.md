@@ -17,6 +17,7 @@ created: 2026-01-16
 	- [[Interruption]]
 	- [[Modification]]
 	- [[Fabrication]]
+- There are various standards of vulnerabilities defined by third party groups like Common Vulnerabilities and Exposures and the Common Vulnerabilities Scoring System for measuring explicit harm, also known as [[Attacks]].
 ---
 ## 3. Connections & Context
 **Source:** [[Unit 01B - Introduction to information security - slides.pdf]]

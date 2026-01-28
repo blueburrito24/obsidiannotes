@@ -18,7 +18,7 @@ status: seed
 		There are explicit different [[Classes of Vulnerabilities]] and [[Classes of Controls]].
 		We also have to consider [[Control Effectiveness]] and the [[Common Characteristics of Information Security]].
 - **Lecture 2**
-	- To be written.
+		Cryptography is a core element of Information Security, which delves into how we protect information from [[Threats]] through [[Encryption]] and utilise that data through [[Decryption]]. There are various [[Types of Encryption Ciphers]] that can be used to encrypt data, which is not limited to digital data!
 - **Lecture 3**
 	- To be written.
 

@@ -1,5 +1,3 @@
-I should try and make up some when I have time. Remember, 2 cycles only takes an hour.
-
 1034 days (April 24 2019-February 21 2022) 
 1034 x 5 = 5170 salah to make up 
 I'm gonna do x2 qadha a day (F-D-A-M-I, repeat x1) 
@@ -30,5 +28,3 @@ Didn't do qadha on 24th. Woke up late. Tomorrow is a new day.
 Didn't do qadha on 25th. Woke up late. Tomorrow is a new day.
 
 Didn't do qadha on 26th. Wasted the day, but tomorrow is a new day.
-
-Didn't do qadha on 27th. I could've done it but I messed about a lot. Tomorrow is a new day.
