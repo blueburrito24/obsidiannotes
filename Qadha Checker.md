@@ -26,3 +26,5 @@ Didn't do qadha on 23rd. Messed up my schedule. Tomorrow is a new day.
 Didn't do qadha on 24th. Woke up late. Tomorrow is a new day.
 
 Didn't do qadha on 25th. Woke up late. Tomorrow is a new day.
+
+Didn't do qadha on 26th. Wasted the day, but tomorrow is a new day.

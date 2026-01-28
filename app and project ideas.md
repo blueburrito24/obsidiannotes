@@ -10,6 +10,7 @@ api/web app that pulls from my Pictures/artworks folder and displays all the png
 ![[{C4EDBDC4-94DA-44F9-A9AC-5F99691F2460}.png]]
 
 pinball machine
+maze game!!
 
 I need to do simple starter stuff! Look into using pygame to make basic graphical games in Python.
 Also Habib linked me a github repo of starter projects.
