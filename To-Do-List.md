@@ -4,6 +4,8 @@ https://cooltext.com/
 
 redraw nico robin asking to join luffy but it's blue asking to be Yellows partner
 
+draw the woman of my dreams
+
 draw enel dancing over the gif of vector on the moon
 
 after making my new ocs, make sprites of each of my ocs in hftf style
@@ -16,6 +18,7 @@ Need to watch those NBA videos/channels that Sean (US) sent me.
 i want to try and do a paint-like piece on regular ms paint like [this](https://uk.pinterest.com/pin/905575437599652671/).
 
 set up adguard home and bedroom security camera (maybe more after)
+also set up vpn that connects to adguard home
 
 read up on [[Crafting Interpreters (Robert Nystrom) (Z-Library).pdf]] and https://austinhenley.com/blog/teenytinycompiler1.html to make an interpreter and compiler.
 

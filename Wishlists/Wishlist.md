@@ -139,6 +139,7 @@ kanban-plugin: board
 	Donkey Kong Country Returns 3D
 	Disney Epic Mickey: Power of Illusion
 	Dragon Ball Z: Extreme Butoden
+	One Piece: The Great Colosseum
 	Sonic Lost World
 	Sonic Generations
 	*Could also emulate classics from the NES, SNES, Genesis and more through 3DS Virtual Console titles.*
@@ -249,6 +250,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
