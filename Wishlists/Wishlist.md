@@ -15,7 +15,7 @@ kanban-plugin: board
 	[Hungry Oguri Cap Sticker](https://www.etsy.com/uk/listing/4340239011/assorted-uma-musume-stickers?ls=s&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=umamusume+stickers&ref=sr_gallery-1-3&bes=1&content_source=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%253ALT3089af3b52d006467a15834a48180274cdb88dfb&organic_search_click=1&logging_key=e8ab084c-2fcd-4683-a53b-ea8b4a70f1df%3ALT3089af3b52d006467a15834a48180274cdb88dfb&variation0=5648408240) 1.86
 	*I want to buy a bunch and throw them on my laptop
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
-	*Need to make my own sticker sheet w my drawings to fit the given format.
+	*Need to make sticker sheets of my OCs + one sheet for Still in Love from Umamusume
 - [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
 	[Custom Keychain Charm](https://www.etsy.com/uk/listing/1842800104) 14
 	*Need to provide my own drawings and details for the charms
