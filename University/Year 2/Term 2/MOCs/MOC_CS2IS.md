@@ -8,7 +8,6 @@ status: seed
 > This module is about protecting valuable assets in an information system. It's a very theoretical topic of discussion and we will look towards creating and protecting information systems using what we learn.
 
 ---
-
 ## Lecture Map
 - **Lecture 1**
 		Information Security is an element of Computer Science in which we tackle the protection of software, hardware and data, the protection of which relies on the [[CIA Triad]].

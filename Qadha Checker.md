@@ -32,3 +32,7 @@ Didn't do qadha on 25th. Woke up late. Tomorrow is a new day.
 Didn't do qadha on 26th. Wasted the day, but tomorrow is a new day.
 
 Didn't do qadha on 27th. I could've done it but I messed about a lot. Tomorrow is a new day.
+
+Didn't do Qadha on 28th. I don't remember why. Tomorrow is a new day.
+
+Didn't do qadha on 29th. I slept the whole day. Tomorrow is a new day.
