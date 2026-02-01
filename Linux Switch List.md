@@ -1,0 +1,31 @@
+This is a list of important items for when I switch to Kubuntu (Linux):
+- Paint.NET ran via WinBoat
+- Hytale
+- Steam for some games
+- LibreWolf
+- Vencord (Need to export settings, plugins, themes)
+- Windows 7 Theming with dark window aero effects (use KDE store)
+- Vicinae (Raycast clone) and no start button
+- various fonts including:
+  - KingjolA
+  - iThornet
+  - Impacted
+  - Fleshwound
+  - CC Wild Word
+  - Dinosaur Cake
+  - Parchment
+  - X-Files
+- various Paint.NET plugins:
+  - DistortThis
+  - Fisheye
+  - Layer Cake
+  - TRsBokeh
+  - TRsHalfTone
+  - TRsMonolithic
+  - TRsPixelSharp
+- Ente Auth
+- Stremio
+- Mangayomi (Mihon clone)
+- Obsidian
+- Git (terminal uses Bash already)
+- Syncthing + Syncthing Tray
