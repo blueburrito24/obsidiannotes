@@ -2,7 +2,7 @@ This is a list of important items for when I switch to Kubuntu (Linux):
 - Paint.NET ran via WinBoat
 - Hytale
 - Steam for some games
-- LibreWolf
+- LibreWolf (Need to export settings, bookmarks, extensions)
 - Vencord (Need to export settings, plugins, themes)
 - Windows 7 Theming with dark window aero effects (use KDE store)
 - Vicinae (Raycast clone) and no start button
@@ -29,3 +29,5 @@ This is a list of important items for when I switch to Kubuntu (Linux):
 - Obsidian
 - Git (terminal uses Bash already)
 - Syncthing + Syncthing Tray
+- Laravel/nodeJS for TP
+- Visual Studio Code, Eclipse, IntelliJ
