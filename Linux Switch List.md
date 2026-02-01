@@ -25,7 +25,6 @@ This is a list of important items for when I switch to Kubuntu (Linux):
   - TRsPixelSharp
 - Ente Auth
 - Stremio
-- Mangayomi (Mihon clone)
 - Obsidian
 - Git (terminal uses Bash already)
 - Syncthing + Syncthing Tray
