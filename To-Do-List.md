@@ -10,7 +10,7 @@ draw enel dancing over the gif of vector on the moon
 after making my new ocs, make sprites of each of my ocs in hftf style
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock) 
 look for references in "Other Documents".
-I can even use these sprites for shimeji of all my OCs.
+I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
