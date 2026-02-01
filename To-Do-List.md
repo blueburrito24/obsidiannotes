@@ -5,8 +5,6 @@ https://cooltext.com/
 book an appointment at the local doctors office for concerns about visual and audible hallucinations
 or a ruqyah specialist (ask maulana naim)
 
-redraw nico robin asking to join luffy but it's blue asking to be Yellows partner
-
 draw enel dancing over the gif of vector on the moon
 
 after making my new ocs, make sprites of each of my ocs in hftf style
