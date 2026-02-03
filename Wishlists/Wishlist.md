@@ -77,6 +77,7 @@ kanban-plugin: board
 	X-Men Origins: Wolverine
 	Super Mario 64 PC Port/Co-op Deluxe
 	Sonic Boll
+	Sonic Robo Blast 2 (Android)
 	^ Non-Steam Games
 	
 	Aeterno Blade

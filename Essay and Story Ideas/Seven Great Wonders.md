@@ -15,6 +15,7 @@ Blue knows she wants to explore and get out of her typical life, Yellow has neve
 ## "I've always liked the number 7, so we'll visit 7 great wonders!"
 - great kingdom under the sea
 (stopping a big bully who's pushing over the people of the kingdom while the king is away on business, **learning to understand our neighbours**)
+     - Deep Sea Kingdom runs under a fish-eat-fish system. Big fish eat small fish.
 - planetary system above the stars
 (stopping an argument between leaders of rival alien clans, who happen to be siblings, **finding solace in those close to us**)
 - secluded town far out in the country

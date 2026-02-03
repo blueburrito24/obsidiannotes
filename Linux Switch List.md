@@ -15,6 +15,7 @@ This is a list of important items for when I switch to Kubuntu (Linux):
   - Dinosaur Cake
   - Parchment
   - X-Files
+  - Anime Ace BB
 - various Paint.NET plugins:
   - DistortThis
   - Fisheye
@@ -28,5 +29,6 @@ This is a list of important items for when I switch to Kubuntu (Linux):
 - Obsidian
 - Git (terminal uses Bash already)
 - Syncthing + Syncthing Tray
+- OBS
 - Laravel/nodeJS for TP
 - Visual Studio Code, Eclipse, IntelliJ
