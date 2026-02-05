@@ -42,3 +42,17 @@ Blue also gets their boating licenses and space-travel licenses sorted, before d
 Blue burns down her old house to push herself into this exploration trip+
 (burning house scene i came up with before)
 They finalise their packing and leave for their first adventure+
+
+# Sideplots:
+## The Lull Kingdom of Vitalae
+- while journeying from one kingdom to another Blue and Yellow need a place to get some proper rest, they see a broken down sign to a smaller kingdom and think that, at worst, they can take up this abandoned town and rest up, so they follow the sign
+- they find that the kingdom is live and well, welcomed by a local librarian, they get to rest and enjoy the local entertainment for the day
+- the sun sets at 7pm and everyone in town goes to sleep immediately, Blue and Yellow planned to sleep later however
+- a tall, rustic machine stands over their cabin and launches a hard fist into it!
+- both are unscathed, but Blue is left in a deep sleep from the impact and can't be awoken
+- Yellow runs off to the local librarian they met earlier and wakes him up to find out what's happening
+- the librarian dusts off a fairly old book and recounts how the old king from 30 years ago sought out for his kingdom's health and gathered various scientists to produce large robots to help the people of the kingdom.
+- these robots helped water crops and built shelter, but were also made to help the people get good rest too; on the first day of activation their parameters for this function were set incorrectly and instead of calmly putting everyone to rest, the robots put the people to rest with heavy hands (albeit to the same result)
+- the king stayed up late to try and work out how to fix it, but he forgot that he too would be put to sleep; the impact did not hurt him initially but it blasted the castle with him inside outside the kingdom and its barrier
+- the sleep enacted by the robots only lasts for the night, however if you leave the barrier of the kingdom you cannot wake; this was a safety function to ensure easy rescue if someone is captured from the kingdom
+- the librarian and Yellow have to quietly search through the library for any documentation on the robots and how their functions are set, so they can re-calibrate them and ensure proper peace in the kingdom.

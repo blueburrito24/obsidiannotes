@@ -47,3 +47,9 @@ Tomorrow is a new day.
 
 Didn't do qadha on 2nd Feb. I woke up late, but also very demotivated.
 Tomorrow is a new day.
+
+Didn't do qadha on 3rd Feb. I slept all day.
+Tomorrow is a new day.
+
+Didn't do qadha on 4th Feb. I made poor use of my time.
+Tomorrow is a new day 
