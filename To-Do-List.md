@@ -2,8 +2,7 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
-book an appointment at the local doctors office for concerns about visual and audible hallucinations
-or a ruqyah specialist (ask maulana naim)
+Read and make notes on Story by Robert McKee to improve my writing skill
 
 make an OC inspired by ulti from one piece
 
