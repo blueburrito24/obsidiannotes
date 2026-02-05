@@ -6,6 +6,9 @@ Read and make notes on Story by Robert McKee to improve my writing skill
 
 make an OC inspired by ulti from one piece
 
+attempt this style of drawings
+![[Pasted image 20260205221324.png | 200]]
+
 draw enel dancing over the gif of vector on the moon
 
 after making my new ocs, make sprites of each of my ocs in hftf style
