@@ -9,7 +9,10 @@ make an OC inspired by ulti from one piece
 attempt this style of drawings
 ![[Pasted image 20260205221324.png | 200]]
 
-draw enel dancing over the gif of vector on the moon
+design a few background characters/template designs for SGW e.g., different types of deep sea people or different soldiers for the ghost camp
+
+i should try shading my drawings the same way i shade sprites, this image below feels like a comparable result
+![[Pasted image 20260206081651.png | 200]]
 
 after making my new ocs, make sprites of each of my ocs in hftf style
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock) 
