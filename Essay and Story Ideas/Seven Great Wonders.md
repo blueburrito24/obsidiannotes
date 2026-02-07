@@ -1,8 +1,3 @@
-**I'd like to make my own little e-reader app that reads my comic, i can release it on my website**
-It would let you flip through each page of an issue, issues are separated by folders and each page is an image file
-you can save where you last read and all those good features
-the comics would be in folders organised by comic/issue/page so i can use the program to read any comic I make
-
 Less significant but relevant notes:
 - I think the technological aspects and scope should be defined through visuals e.g., we see advanced vehicles and different species in the background, people still use flip-phones though and there's even people that hold them from the top!
 - each issue cover is a photograph from their time there, whether it's them at a restaurant or doing yoga or running away from bandits, whatever! then at the end of the comic, the final image is a wall of these photos with them drinking tea together
@@ -10,7 +5,7 @@ Less significant but relevant notes:
 - I need to define how the two characters become closer through out the story. Is it conflict? Is it just them getting to know each other? Is it knowing that they can rely on each other?
 - I should draw up a world map with all the important and even irrelevant pieces of this story, maybe they will use it to plan the trip!
 - There should be a mermaid in the ghost camp who greets the group upon arrival, her hair is always in twin tails and nobody knows why--- later at the end of the saga its revealed one of the ghost soldiers who loved the mermaid in his past life is always on her back holding her twin tails up high! He drives her like a motorcycle across the sea!!!
-## Blue and Yellow's dynamic is based on goals; 
+- Blue and Yellow's dynamic is based on their goals;
 Blue knows she wants to explore and get out of her typical life, Yellow has never had distinct aspirations and is thrown into Blue's shenanigans; through the events of the story Yellow sees the meaning of home and what it means for the people they meet and decides he wants to settle down with Blue and do some new, albeit smaller, things with his life
 # "I've always liked the number 7, so we'll visit 7 great wonders!"
 ## Deep Sea Kingdom (Not Finished)
@@ -54,7 +49,6 @@ At first confused and refusing to, Akim noticed Sacchan's eyes were a deep shade
 Upon putting her life to its end, Akim found the two children in a bed of her fur near the mountain, warding off the scared and somewhat violent townsfolk he knew that these two were Sacchan's children and that they needed to be taken care of in her absence. Akim opened up a bar at the end of the town so that the two had somewhere to stay, and that he could be something of use to the townsfolk after this ordeal.
 
 Barakim sits with his two children and recommends Blue and Yellow to visit Baron Round Island for him. (This bit needs some work).
-
 ## Baron Round Island/the Bun Boyage Incident (Not Finished)
 - Upon Barakim's recommendation, and seeing the Bun Boyage cabin cruiser in a local magazine, Blue prompts that she and Yellow go on the Bun Boyage to visit Baron Round Island, from which they can also send Barakim a postcard!
 - Pirates invade the boat mid-trip (need to finish writing this story).
@@ -75,7 +69,6 @@ Blue also gets their boating licenses and space-travel licenses sorted, before d
 Blue burns down her old house to push herself into this exploration trip+
 (burning house scene i came up with before)
 They finalise their packing and leave for their first adventure+
-
 # Sideplots:
 ## The Lull Kingdom of Vitalae
 - while journeying from one kingdom to another Blue and Yellow need a place to get some proper rest, they see a broken down sign to a smaller kingdom and think that, at worst, they can take up this abandoned town and rest up, so they follow the sign
