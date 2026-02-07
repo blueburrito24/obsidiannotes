@@ -7,15 +7,16 @@ Less significant but relevant notes:
 - There should be a mermaid in the ghost camp who greets the group upon arrival, her hair is always in twin tails and nobody knows why--- later at the end of the saga its revealed one of the ghost soldiers who loved the mermaid in his past life is always on her back holding her twin tails up high! He drives her like a motorcycle across the sea!!!
 - Blue and Yellow's dynamic is based on their goals;
 Blue knows she wants to explore and get out of her typical life, Yellow has never had distinct aspirations and is thrown into Blue's shenanigans; through the events of the story Yellow sees the meaning of home and what it means for the people they meet and decides he wants to settle down with Blue and do some new, albeit smaller, things with his life
+- I want to draw panels like pre-timeskip Oda, omitting unnecessary details and controlling the scope of what viewers take in with each panel!
 # "I've always liked the number 7, so we'll visit 7 great wonders!"
-## Deep Sea Kingdom (Not Finished)
+### Deep Sea Kingdom (Not Finished)
 stopping a big bully who's pushing over the people of the kingdom while the king is away on business, **learning to understand our neighbours**. 
 Deep Sea Kingdom runs under a fish-eat-fish system. Big fish eat small fish.
-## Planet (Not Finished)
+### Planet (Not Finished)
 - planetary system above the stars
 (stopping an argument between leaders of rival alien clans, who happen to be siblings, **finding solace in those close to us**)
 
-## Veral Vine Kingdom
+### Veral Vine Kingdom
 One of the incredible landmarks Blue spots in a magazine is the tallest mountain known to man - Great Gray Mountain - huddled deep in a jungle far-off from Blue and Yellow's home town of Diamond Trail.
 They pack their bags with mountain climbing gear and head off for the jungle, wanting to see the view from the peak of the mountain.
 Deep in the jungle, they see at the bottom of the mountain there is a large, bustling town! This is Veral Vine Kingdom, a land cut off from the rest of the world despite its next-door landmark!
@@ -49,10 +50,10 @@ At first confused and refusing to, Akim noticed Sacchan's eyes were a deep shade
 Upon putting her life to its end, Akim found the two children in a bed of her fur near the mountain, warding off the scared and somewhat violent townsfolk he knew that these two were Sacchan's children and that they needed to be taken care of in her absence. Akim opened up a bar at the end of the town so that the two had somewhere to stay, and that he could be something of use to the townsfolk after this ordeal.
 
 Barakim sits with his two children and recommends Blue and Yellow to visit Baron Round Island for him. (This bit needs some work).
-## Baron Round Island/the Bun Boyage Incident (Not Finished)
+### Baron Round Island/the Bun Boyage Incident (Not Finished)
 - Upon Barakim's recommendation, and seeing the Bun Boyage cabin cruiser in a local magazine, Blue prompts that she and Yellow go on the Bun Boyage to visit Baron Round Island, from which they can also send Barakim a postcard!
 - Pirates invade the boat mid-trip (need to finish writing this story).
-## Other/Unfinished
+### Other/Unfinished
 - the deep dark caves of their own home town
 (looking around where they started and looking forward to what they might face, **thinking ahead of what life might throw your way**)
 # Issue 1
@@ -70,7 +71,7 @@ Blue burns down her old house to push herself into this exploration trip+
 (burning house scene i came up with before)
 They finalise their packing and leave for their first adventure+
 # Sideplots:
-## The Lull Kingdom of Vitalae
+### The Lull Kingdom of Vitalae
 - while journeying from one kingdom to another Blue and Yellow need a place to get some proper rest, they see a broken down sign to a smaller kingdom and think that, at worst, they can take up this abandoned town and rest up, so they follow the sign
 - they find that the kingdom is live and well, welcomed by a local librarian, they get to rest and enjoy the local entertainment for the day
 - the sun sets at 7pm and everyone in town goes to sleep immediately, Blue and Yellow planned to sleep later however
@@ -82,6 +83,6 @@ They finalise their packing and leave for their first adventure+
 - the king stayed up late to try and work out how to fix it, but he forgot that he too would be put to sleep; the impact did not hurt him initially but it blasted the castle with him inside outside the kingdom and its barrier
 - the sleep enacted by the robots only lasts for the night, however if you leave the barrier of the kingdom you cannot wake; this was a safety function to ensure easy rescue if someone is captured from the kingdom
 - the librarian and Yellow have to quietly search through the library for any documentation on the robots and how their functions are set, so they can re-calibrate them and ensure proper peace in the kingdom.
-## Skull Shore Camp
+### Skull Shore Camp
 - a seemingly abandoned military camp in the arctic
 (running into ghosts and furmaids, running around in fear but eventually finding solid ground with them, **realising that even when thrown in a bad situation, we should make the best of it**)

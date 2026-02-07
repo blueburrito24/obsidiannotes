@@ -9,7 +9,7 @@ make an OC inspired by ulti from one piece
 attempt this style of drawings
 ![[Pasted image 20260205221324.png | 200]]
 
-design a few background characters/template designs for SGW e.g., different types of deep sea people or different soldiers for the ghost camp
+design a few background characters/template designs for SGW; Deep Sea Kingdom, the Planet, Veral Vine Kingdom, Baron Round Island, etc
 
 i should try shading my drawings the same way i shade sprites, this image below feels like a comparable result
 ![[Pasted image 20260206081651.png | 200]]
