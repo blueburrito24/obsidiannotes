@@ -59,8 +59,6 @@ Barakim sits with his two children and recommends Blue and Yellow to visit Baron
 - Upon Barakim's recommendation, and seeing the Bun Boyage cabin cruiser in a local magazine, Blue prompts that she and Yellow go on the Bun Boyage to visit Baron Round Island, from which they can also send Barakim a postcard!
 - Pirates invade the boat mid-trip (need to finish writing this story).
 ## Other/Unfinished
-- a seemingly abandoned military camp in the arctic
-(running into ghosts and furmaids, running around in fear but eventually finding solid ground with them, **realising that even when thrown in a bad situation, we should make the best of it**)
 - the deep dark caves of their own home town
 (looking around where they started and looking forward to what they might face, **thinking ahead of what life might throw your way**)
 # Issue 1
@@ -91,3 +89,6 @@ They finalise their packing and leave for their first adventure+
 - the king stayed up late to try and work out how to fix it, but he forgot that he too would be put to sleep; the impact did not hurt him initially but it blasted the castle with him inside outside the kingdom and its barrier
 - the sleep enacted by the robots only lasts for the night, however if you leave the barrier of the kingdom you cannot wake; this was a safety function to ensure easy rescue if someone is captured from the kingdom
 - the librarian and Yellow have to quietly search through the library for any documentation on the robots and how their functions are set, so they can re-calibrate them and ensure proper peace in the kingdom.
+## Skull Shore Camp
+- a seemingly abandoned military camp in the arctic
+(running into ghosts and furmaids, running around in fear but eventually finding solid ground with them, **realising that even when thrown in a bad situation, we should make the best of it**)
