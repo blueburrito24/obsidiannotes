@@ -10,8 +10,12 @@ Blue knows she wants to explore and get out of her typical life, Yellow has neve
 - I want to draw panels like pre-timeskip Oda, omitting unnecessary details and controlling the scope of what viewers take in with each panel!
 # "I've always liked the number 7, so we'll visit 7 great wonders!"
 ### Deep Sea Kingdom (Not Finished)
-stopping a big bully who's pushing over the people of the kingdom while the king is away on business, **learning to understand our neighbours**. 
-Deep Sea Kingdom runs under a fish-eat-fish system. Big fish eat small fish.
+While getting her boat license sorted, Blue reads up on various sights to see around the nearby seas and takes note of a seldom-mentioned place called "The Deep Sea".
+After getting the boat license, Blue rents out a boat for her and Yellow to ride into The Deep Sea.
+They ogle at all the strange creatures they see around in the water, and eventually find themselves at a dock at the Deep Sea!?
+It appears that the Deep Sea is actually a Kingdom deep under Diamond Trail!
+They're welcomed at the dock by the daughter of the dock's owner, Bellabella, and she accompanies them to the nearby town for their sightseeing.
+(Need to figure out what conflict they face here and how/why they go to the next "wonder").
 ### Planet (Not Finished)
 - planetary system above the stars
 (stopping an argument between leaders of rival alien clans, who happen to be siblings, **finding solace in those close to us**)
