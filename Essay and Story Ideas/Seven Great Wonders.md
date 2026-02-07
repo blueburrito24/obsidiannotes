@@ -19,7 +19,6 @@ They're welcomed at the dock by the daughter of the dock's owner, Bellabella, an
 ### Planet (Not Finished)
 - planetary system above the stars
 (stopping an argument between leaders of rival alien clans, who happen to be siblings, **finding solace in those close to us**)
-
 ### Veral Vine Kingdom
 One of the incredible landmarks Blue spots in a magazine is the tallest mountain known to man - Great Gray Mountain - huddled deep in a jungle far-off from Blue and Yellow's home town of Diamond Trail.
 They pack their bags with mountain climbing gear and head off for the jungle, wanting to see the view from the peak of the mountain.
