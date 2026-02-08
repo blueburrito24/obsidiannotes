@@ -1,5 +1,14 @@
 Would be cool to run a tiktok about my comic after I've finished 5 issues where I discuss my series, drop late posts of chapter content, give bts content, etc
 Post my comic on Webtoon CANVAS.
+#### After I finish the comic I would like to adapt it into a 3D RPG.
+- Open-world game focused around preparations and subsequent exploration.
+- Main plot facilitated by character dialogue, but players can explore a multitude of available locations through finding out about all locations in local magazines.
+- Players have to raise money to get gear for travel by doing quests.
+- After completing the main plot, players can still explore other locations and even do sideplots that were not completed during the main playthrough.
+- Players have to run a "party" of characters with individual basic stats, these stats affect exploration quality like stamina and speed etc.
+- The game's focus is the exploration, but there can be minor inclusion of action/fight sequences such as fending off predators and squabbles with locals.
+- The action sequences would have a similar structure to the World Tournament DLC of DBZ Kakarot, where it's close-combat and grounded.
+- The "party" feature affects your traversal (as you travel with multiple characters alongside you and need to take care of them or provide them with items) but also affects fights, you can swap out characters or use assists.
 
 Less significant but relevant notes:
 - I think the technological aspects and scope should be defined through visuals e.g., we see advanced vehicles and different species in the background, people still use flip-phones though and there's even people that hold them from the top!
