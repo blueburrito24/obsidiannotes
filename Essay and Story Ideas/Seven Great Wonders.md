@@ -54,6 +54,7 @@ At first confused and refusing to, Akim noticed Sacchan's eyes were a deep shade
 Upon putting her life to its end, Akim found the two children in a bed of her fur near the mountain, warding off the scared and somewhat violent townsfolk he knew that these two were Sacchan's children and that they needed to be taken care of in her absence. Akim opened up a bar at the end of the town so that the two had somewhere to stay, and that he could be something of use to the townsfolk after this ordeal.
 
 Also he makes note of rumours around their birth, since he wasn't there for it he couldn't decide what really happened, but many theorise that the two monkeys were in fact the original Sacchan split into two new bodies.
+He thinks back to the encyclopedia he kept at his home on Baron Round Island - there has never been any documents on how Sacchan's sub-species of ape reproduces...
 
 Barakim sits with his two children and recommends Blue and Yellow to visit Baron Round Island for him. (This bit needs some work).
 ### Baron Round Island/the Bun Boyage Incident (Not Finished)
