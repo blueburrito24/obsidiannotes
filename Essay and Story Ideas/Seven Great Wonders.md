@@ -1,3 +1,6 @@
+Would be cool to run a tiktok about my comic after I've finished 5 issues where I discuss my series, drop late posts of chapter content, give bts content, etc
+Post my comic on Webtoon CANVAS.
+
 Less significant but relevant notes:
 - I think the technological aspects and scope should be defined through visuals e.g., we see advanced vehicles and different species in the background, people still use flip-phones though and there's even people that hold them from the top!
 - each issue cover is a photograph from their time there, whether it's them at a restaurant or doing yoga or running away from bandits, whatever! then at the end of the comic, the final image is a wall of these photos with them drinking tea together
