@@ -1,5 +1,6 @@
 This is a list of important items for when I switch to Kubuntu (Linux):
 - Paint.NET ran via WinBoat
+- Animation Paper
 - Hytale
 - Steam for some games
 - LibreWolf (Need to export settings, bookmarks, extensions)
