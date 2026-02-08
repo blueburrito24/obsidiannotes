@@ -239,6 +239,7 @@ kanban-plugin: board
 	Crash the Bandicoot
 	Tony Hawk's Pro Skater 2
 	Bushido Blade
+	Toy Story 2: Buzz Lightyear to the Rescue
 
 
 ***

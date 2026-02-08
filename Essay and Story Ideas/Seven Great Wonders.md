@@ -19,6 +19,7 @@ They're welcomed at the dock by the daughter of the dock's owner, Bellabella, an
 ### Planet (Not Finished)
 - planetary system above the stars
 (stopping an argument between leaders of rival alien clans, who happen to be siblings, **finding solace in those close to us**)
+- I want some mention of the planet from [[HANDSIGN]] where the predator Antax race is from.
 ### Veral Vine Kingdom
 One of the incredible landmarks Blue spots in a magazine is the tallest mountain known to man - Great Gray Mountain - huddled deep in a jungle far-off from Blue and Yellow's home town of Diamond Trail.
 They pack their bags with mountain climbing gear and head off for the jungle, wanting to see the view from the peak of the mountain.
@@ -51,6 +52,8 @@ Upon his revisiting years later, Akim had found that Sacchan had been having a b
 When he went to confront Sacchan, the monkey prompted him to end her life.
 At first confused and refusing to, Akim noticed Sacchan's eyes were a deep shade of red - this made Akim aware that she was sick and had no solution to her problem.
 Upon putting her life to its end, Akim found the two children in a bed of her fur near the mountain, warding off the scared and somewhat violent townsfolk he knew that these two were Sacchan's children and that they needed to be taken care of in her absence. Akim opened up a bar at the end of the town so that the two had somewhere to stay, and that he could be something of use to the townsfolk after this ordeal.
+
+Also he makes note of rumours around their birth, since he wasn't there for it he couldn't decide what really happened, but many theorise that the two monkeys were in fact the original Sacchan split into two new bodies.
 
 Barakim sits with his two children and recommends Blue and Yellow to visit Baron Round Island for him. (This bit needs some work).
 ### Baron Round Island/the Bun Boyage Incident (Not Finished)

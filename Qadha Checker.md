@@ -56,3 +56,11 @@ Tomorrow is a new day
 
 Didn't do qadha on 5th. I made poor use of some of the day again. I need to be more flexible when it comes to my choice of when I do qadha.
 Tomorrow is a new day 
+
+Didn't do qadha on 6th.
+I woke up early but used my time poorly.
+Tomorrow is a new day.
+
+Didn't do qadha on 7th.
+I slept all day and didn't do anything.
+Tomorrow is a new day.
