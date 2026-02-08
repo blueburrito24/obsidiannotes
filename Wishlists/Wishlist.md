@@ -51,12 +51,8 @@ kanban-plugin: board
 	![[Pasted image 20260112172658.png]]
 - [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXXL
 	![[Pasted image 20260112172800.png]]
-- [ ] [THESUPERMADE Skeleton Sweatshirt](https://www.thesupermade.com/products/skeleton-print-t-shirt?variant=46836171473122) 37gbp XXL
-	![[Pasted image 20260125221650.png]]
 - [ ] [THESUPERMADE Fur-hooded Jacket](https://www.thesupermade.com/products/faux-fur-lined-zip-up-winter-hooded-bomber-jacket?variant=46948612309218) 75gbp Khaki
 	![[Pasted image 20260125222209.png]]
-- [ ] [THESUPERMADE Leather Jacket](https://www.thesupermade.com/products/retro-leather-stand-collar-elastic-hem-jacket?variant=47205628936418) 58gbp Black
-	![[Pasted image 20260125222723.png]]
 - [ ] [Colombia Classic Web Belt](https://amzn.eu/d/a87HQwV) 13.95gbp
 	![[Pasted image 20260125222049.png]]
 - [ ] [THESUPERMADE Wide Pants](https://www.thesupermade.com/products/vintage-paratrooper-machete-side-stripe-drape-wide-leg-pants?variant=46935477453026) 56gbp Yellow
