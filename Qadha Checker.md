@@ -75,3 +75,9 @@ Tomorrow is a new day.
 Didn't do qadha on 10th.
 I slept til 4~ and didn't use my time greatly. I need to sleep strictly at 10pm.
 Tomorrow is a new day.
+
+I did one cycle on the 11th.
+I took too long to get some shopping done and ended up not sleeping.
+
+Didn't do qadha on 12th either.
+Tomorrow is a new day.

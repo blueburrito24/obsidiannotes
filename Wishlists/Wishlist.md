@@ -41,6 +41,8 @@ kanban-plugin: board
 
 ## Clothes
 
+- [ ] [READ 4 Red Men's Glasses](https://specscart.co.uk/glasses/read-wine-red-square-and-rectangular-glasses) 39.99
+	![[Pasted image 20260212231906.png]]
 - [ ] [THESUPERMADE Goggle Hat](https://www.thesupermade.com/products/colorblock-crochet-goggles-trapper-hat?variant=47294641733858) 18gbp Khaki
 	![[Pasted image 20260125221744.png]]
 - [ ] [THESUPERMADE Distressed Beanie](https://www.thesupermade.com/products/distressed-denim-patchwork-beanie?_pos=4&_ss=r&variant=47143470858466) 13gbp Blue
@@ -61,64 +63,6 @@ kanban-plugin: board
 	![[{DE3AFCD2-D83E-49A2-8FB4-4C6E9BC46B4D}.png]]
 
 
-## Emulation Backlog
-
-- [ ] [Startup guide for emulators on AYN Thor](https://www.youtube.com/watch?v=1lsOzy_sPKA)
-- [ ] ### PC/Gamehub
-	[how to play non-Steam games on Gamehub](https://youtu.be/rUwybdOAjzc)
-	Sonic Unleashed Recompiled
-	Spider-Man Web of Shadows
-	Spider-Man Shattered Dimensions
-	The Amazing Spider-Man
-	X-Men Origins: Wolverine
-- [ ] # All the emulated games below will be put onto my 256GB SD Card
-- [ ] ### Wii
-	Super Mario Galaxy
-	Super Paper Mario
-	Kirby's Epic Yarn
-	Sonic and the Black Knight
-	Sonic Colours
-	Castlevania Judgement
-	Sonic and the Secret Rings
-	Wario Land: Shake It!
-	Punch Out!!
-	Xenoblade
-	The Boy and His Blob
-	Muramasa
-- [ ] ### Gamecube
-	Wario World
-	The Legend of Zelda: Wind Waker
-	Super Mario Sunshine
-	Luigi's Mansion
-	Super Monkey Ball
-	Super Mario Strikers
-	Paper Mario: The Thousand-Year Door
-	Kirby Air Ride
-	Crazy Taxi
-	Need for Speed: Most Wanted
-	Spongebob Squarepants: Battle for Bikini Bottom
-- [ ] ### PS1
-	Marvel VS Capcom: Clash of Super Heroes
-	Klonoa: Door to Phantomile
-	Castlevania: Symphony of the Night
-	Castlevania Chronicles
-	Street Fighter EX Alpha
-	Tekken 3
-	Metal Gear Solid
-	MediEvil
-	Wild Arms
-	Tomb Raider
-	Resident Evil
-	Rayman
-	Guilty Gear
-	Oddworld: Abe's Odyssey
-	Spyro the Dragon
-	Crash the Bandicoot
-	Tony Hawk's Pro Skater 2
-	Bushido Blade
-	Toy Story 2: Buzz Lightyear to the Rescue
-
-
 ***
 
 ## Archive
@@ -129,6 +73,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
