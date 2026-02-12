@@ -4,6 +4,11 @@ https://cooltext.com/
 
 Read and make notes on Story by Robert McKee to improve my writing skill
 
+make a video discussing oda death theory as i commented about it [here](https://www.reddit.com/r/Piratefolk/comments/1qvty1c/comment/o4cy5rk/?) with all evidences shown like my nami artstyle analysis, panel comparisons, managing stakes, writing, racism and general insensitivity, etc
+Also go in depth with examples of these things like comparing yamato's writing quality to kiku, comparing luffy post and pre ts
+Also delve into Oda's misogynistic writing as Mysto outlined [here](https://discord.com/channels/1436916647809253429/1436916648434077769/1470244270698139678)
+Defend toei with how the anime is bad because of Oda
+
 make an OC inspired by ulti from one piece
 
 attempt this style of drawings

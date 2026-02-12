@@ -64,3 +64,14 @@ Tomorrow is a new day.
 Didn't do qadha on 7th.
 I slept all day and didn't do anything.
 Tomorrow is a new day.
+
+Didn't do qadha on 8th.
+I slept all day again. Tomorrow is a new day.
+
+Didn't do qadha on 9th.
+I slept til 10~ and I didn't get to make use of my day fully. But I know how to approach my day.
+Tomorrow is a new day.
+
+Didn't do qadha on 10th.
+I slept til 4~ and didn't use my time greatly. I need to sleep strictly at 10pm.
+Tomorrow is a new day.
