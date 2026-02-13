@@ -34,8 +34,6 @@ kanban-plugin: board
 	[Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/) 16.75
 	[Abathor](https://store.steampowered.com/app/2295610/Abathor/) 12.79
 	[LEGO Batman: Legacy of the Dark Knight](https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/) 59.99
-	[Castlevania Anniversary Collection](https://www.loaded.com/castlevania-anniversary-collection-steam-pc) 4.49
-	[Castlevania Dominus Collection](https://www.loaded.com/castlevania-dominus-collection-pc-steam) 10.99
 	[Contra: Operation Galuga](https://www.loaded.com/contra-operation-galuga-pc-steam) 12.99
 
 
