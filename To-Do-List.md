@@ -3,11 +3,27 @@ Always check Pinterest!!
 https://cooltext.com/
 
 Read and make notes on Story by Robert McKee to improve my writing skill
+also 1984, all tomorrows, animal world, harry potter, 
 
-make a video discussing oda death theory as i commented about it [here](https://www.reddit.com/r/Piratefolk/comments/1qvty1c/comment/o4cy5rk/?) with all evidences shown like my nami artstyle analysis, panel comparisons, managing stakes, writing, racism and general insensitivity, etc
-Also go in depth with examples of these things like comparing yamato's writing quality to kiku, comparing luffy post and pre ts
-Also delve into Oda's misogynistic writing as Mysto outlined [here](https://discord.com/channels/1436916647809253429/1436916648434077769/1470244270698139678)
-Defend toei with how the anime is bad because of Oda
+gather characters and a screenpack to make a ps1 accurate jojo venture mugen
+
+gather characters and a screenpack to make a mvc1 mugen with only sf characters
+
+make an mvc goku for mugen inspired by @neotookay on twt
+Goku would have a similar movesets to Change Ryu
+I gotta code him! C practice baby
+Also want to make Krillin, Vegeta (also has SSJ) and Piccolo (has giant)
+I could also make a Gohan conversion of Goku for a Ken-equivalent.
+I'll use the EB sprites as a basis for all of these! also got the liberty to use ssw2 or hyper dimension etc
+also Teen Gohan, Broly, Trunks & Freeza would be cool.
+Use sprites from Change Ryu's air hadouken for ki blasts
+Take inspiration from Super DBZ for movesets
+![[GSjgR1HXMAA_DzN.png]]
+[[MVC DBZ movesets]]
+
+download nes emulator for nes rom hacks and nes games
+
+redownload ps3 roms and replace rpcsx with aps3e
 
 make an OC inspired by ulti from one piece
 

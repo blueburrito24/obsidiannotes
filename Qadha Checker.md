@@ -81,3 +81,11 @@ I took too long to get some shopping done and ended up not sleeping.
 
 Didn't do qadha on 12th either.
 Tomorrow is a new day.
+
+I did 1 set of qadha on 13th.
+
+Didn't do qadha on 14th.
+
+Didn't do qadha on 15th.
+
+Didn't do qadha on 16th. Tomorrow is a new day.
