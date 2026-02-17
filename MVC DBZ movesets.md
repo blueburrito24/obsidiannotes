@@ -17,5 +17,6 @@ akuma air ki blasts, strangle -> gut punch, gigantic lariat, air-stomp, gigantic
 
 ###### Trunks; moveset is based on Z
 sword slash barrage, dashing sword stab, change the future from fz, big tree cannon, heat dome attack (can throw opponent upwards before performing)
+==ssj moveset is the same==
 ###### Freeza; moveset is based on Z
 death saucers, psychokinesis (ranged stun blast), quick death beam (can spam), death beam array (shoots death beams in a range of directions like golden freeza z2), super death beam, death ball,
