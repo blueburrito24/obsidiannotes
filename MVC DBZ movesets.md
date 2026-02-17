@@ -2,6 +2,8 @@
 akuma air ki blasts, super/kamehameha, solar flare, kaioken, after-image feint, spirit bomb
 ==ssj moveset is Cell/Buu Saga==
 akuma air ki blasts, super/kamehameha, dragon flash fist from fz, instant transmission, evil eye from xv2, blast fist from super dbz, chicken wing kick from fei long sf
+###### Goku-Gohan conversion; moveset is based on Cell/Buu Saga
+sonic kick, super dragon fist (shoryuken), masenko, super kamehameha, potential awoken (install just increases defense and atk)
 ###### Krillin; moveset is based on Saiyan/Namek
 akuma air ki blasts (except its stones), afterimage technique, solar flare, destructo disc, kamehameha, potential awoken (install just increases defense and atk)
 ###### Vegeta; base moveset is Saiyan/Namek Saga
