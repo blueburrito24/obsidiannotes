@@ -3,7 +3,7 @@ Always check Pinterest!!
 https://cooltext.com/
 
 Read and make notes on Story by Robert McKee to improve my writing skill
-also 1984, all tomorrows, animal world, harry potter, 
+also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice
 
 gather characters and a screenpack to make a ps1 accurate jojo venture mugen
 
