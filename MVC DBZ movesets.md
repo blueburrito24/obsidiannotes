@@ -22,3 +22,5 @@ sword slash barrage, dashing sword stab, change the future from fz, big tree can
 ==ssj moveset is the same==
 ###### Freeza; moveset is based on Z
 death saucers, psychokinesis (ranged stun blast), quick death beam (can spam), death beam array (shoots death beams in a range of directions like golden freeza z2), super death beam, death ball,
+###### Yamcha; moveset is based on OG
+akuma air ki blasts, tatsumaki, wolf fang fist, kamehameha, super wolf fang fist, spirit ball
