@@ -3,7 +3,7 @@ Always check Pinterest!!
 https://cooltext.com/
 
 Read and make notes on Story by Robert McKee to improve my writing skill
-also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey
+also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda
 
 gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
 
@@ -11,10 +11,12 @@ gather [characters](https://mugenfreeforall.com/topic/49470-marvel-vs-capcom-1-2
 [stages from mvc](https://mugenfreeforall.com/topic/6682-versus-series-stage-collection/) and a [screenpack](https://mugenfreeforall.com/topic/19391-street-fighter-alpha-640x480-mugen-10/) to make a mvc1 mugen with only sf characters
 
 [hdbz stages to use for sf vs dbz mugen](https://network.mugenguild.com/balthazar/hyperdbz/stages.html)
+also including hdbz and sf mini games would be cool
+
 SF VS DBZ Mugen;
 make an mvc goku for mugen inspired by @neotookay on twt
 I gotta code him! C practice baby
-Also want to make Krillin, Vegeta (also has SSJ) and Piccolo (has giant)
+Also want to make Krillin, Vegeta and Piccolo
 I could also make a Gohan conversion of Goku for a Ken-equivalent.
 I'll use the EB sprites as a basis for all of these! also got the liberty to use ssw2 or hyper dimension etc
 also Teen Gohan, Broly, Trunks, Freeza & Yamcha would be cool.

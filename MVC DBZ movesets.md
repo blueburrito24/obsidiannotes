@@ -5,7 +5,7 @@ akuma air ki blasts, super/kamehameha, dragon flash fist from fz, instant transm
 ###### Goku-Gohan conversion; moveset is based on Cell/Buu Saga
 sonic kick, super dragon fist (shoryuken), masenko, super kamehameha, potential awoken (install just increases defense and atk)
 ###### Krillin; moveset is based on Saiyan/Namek
-akuma air ki blasts (except its stones), afterimage technique, solar flare, destructo disc, kamehameha, potential awoken (install just increases defense and atk)
+akuma air ki blasts (except its stones), akuma's demon flip, afterimage technique, solar flare, destructo disc, kamehameha, potential awoken (install just increases defense and atk)
 ###### Vegeta; base moveset is Saiyan/Namek Saga
 akuma air ki blasts (can spam), dash kick from sugeta z2, galick gun (like super dbz), dirty fireworks, final crash
 ==ssj moveset is Cell/Buu Saga==
@@ -13,7 +13,7 @@ akuma air ki blasts (can spam), side bridge xv2 (dashes backwards), big bang att
 ###### Piccolo; moveset is based on OG/Z
 evil flight strike from xv2, eye beams (like hftf dio), explosive demon wave (one-hand ki attack), giant form (can't use supers)
 ###### Teen Gohan; moveset is based on Namek/Cell
-dash-kick flurry, dragon uppercut (shoryuken clone), masenko, super masenko, super kamehameha (no start-up pose, only aims upwards), father-son kamehameha
+akuma's demon flip (can do flurry kick, low kick or a demon chop), dragon uppercut (shoryuken clone), masenko, super masenko, super kamehameha (no start-up pose, only aims upwards), father-son kamehameha
 ###### Broly; moveset is based on Z
 akuma air ki blasts, strangle -> gut punch, gigantic lariat, air-stomp, gigantic meteor from xv2
 
