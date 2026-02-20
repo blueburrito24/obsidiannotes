@@ -3,9 +3,9 @@ akuma teleport (instant transmission), akuma air ki blasts, super/kamehameha, so
 ==ssj moveset is Cell/Buu Saga==
 akuma air ki blasts, super/kamehameha, dragon flash fist from fz, instant transmission, evil eye from xv2, blast fist from super dbz, chicken wing kick from fei long sf
 ###### Goku-Gohan conversion; moveset is based on Cell/Buu Saga
-violent ken forward dash, sonic kick, super dragon fist (shoryuken), masenko, super kamehameha, potential awoken (install just increases defense and atk)
+violent ken forward dash, sonic kick, super dragon fist (shoryuken), masenko, super kamehameha, super sonic cyclone (tatsumaki), potential awoken (install just increases defense and atk)
 ###### Krillin; moveset is based on Saiyan/Namek
-akuma air ki blasts (except its stones), akuma's demon flip, afterimage technique, solar flare, destructo disc, kamehameha, potential awoken (install just increases defense and atk)
+akuma air ki blasts (except its stones), akuma's demon flip, kamehameha, solar flare, super destructo disc, super kamehameha, potential awoken (install just increases defense and atk)
 ###### Vegeta; base moveset is Saiyan/Namek Saga
 akuma air ki blasts (can spam), dash kick from sugeta z2, galick gun (like super dbz), dirty fireworks, super galick gun
 ==ssj moveset is Cell/Buu Saga==
