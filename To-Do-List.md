@@ -7,20 +7,44 @@ also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter,
 
 gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
 
-gather [characters](https://mugenfreeforall.com/topic/49470-marvel-vs-capcom-1-2-3-infinite-collection/), 
-[stages from mvc](https://mugenfreeforall.com/topic/6682-versus-series-stage-collection/) and a [screenpack](https://mugenfreeforall.com/topic/19391-street-fighter-alpha-640x480-mugen-10/) to make a mvc1 mugen with only sf characters
+make a sf vs dbz mugen:
+[street fighter characters + screenpack](https://gamejolt.com/games/mshvsfr/525947);
+- [Evil Ryu](https://www.mediafire.com/file/sz54alfsx7f13as/evilryuMB%28MystikBlaze%29_WinMugen%2610.zip)
+- Akuma
+- Ryu
+- Ken
+- Chun-Li
+- Sakura
+- Dan
+- Dhalsim
+- Zangief
+- M. Bison
 
-[hdbz stages to use for sf vs dbz mugen](https://network.mugenguild.com/balthazar/hyperdbz/stages.html)
-also including hdbz and sf mini games would be cool
+stages; 
+- [Manhattan (mvsf)](https://www.mediafire.com/download/s0k8zw4p4ayjv13/ManhattanStreets%26Sewer.rar)
+- [Showdown in the Park (mvsf)](https://www.andersonkenya1.net/files/file/30659-mugen-showdown-in-the-park/)
+- [Training Room (mvc2)](https://www.andersonkenya1.net/files/file/41789-training-room-by-shwa-exshadow/)
+- [Cliff of Desolation (mvc)](https://www.andersonkenya1.net/files/file/73-cliff-of-desolation/)
+- [Field of "Spring" (sfa2)](https://www.andersonkenya1.net/files/file/9686-field-of-spring/) <- edit of Field of Fate from sfa2
+- [Field of Fate (sfa2)](https://www.andersonkenya1.net/files/file/374-australian-outback/)
+- [Tenkaichi Budokai (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=tenkaichi%20budokai)
+- [Gravity Chamber (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=gravity%20chamber)
+- [Namek (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=namek)
+- [Kami's Lookout (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=kami%27s%20lookout)
+- [Time Chamber Aurora (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=time%20chamber%20aurora)
+*All HDBZ stages need to be redrawn to fit with the Street Fighter artstyle.*
+
+[select sprites](https://www.spriters-resource.com/arcade/marvelvssf/asset/116304/); would make new icons for the dbz characters to replace the sf characters
+same goes for [select portraits](https://www.spriters-resource.com/arcade/marvelvssf/asset/5860/) and [victory portraits](https://www.spriters-resource.com/arcade/marvelvssf/asset/229035/)
+[bonus sor2 game](http://www.mediafire.com/download/vdbdyetbf168z48/SoRC30.zip)
+[sf2 car game](https://www.andersonkenya1.net/files/file/50356-sf2-car/)
+[hdbz saibamen game](https://network.mugenguild.com/balthazar/hyperdbz/character-info.html?name=Saibamen) could use a street fighter resprite
+[hdbz dr brief game](https://network.mugenguild.com/balthazar/hyperdbz/character-info.html?name=Dr.%20Briefs) could use a street fighter resprite
 
 SF VS DBZ Mugen;
-make an mvc goku for mugen inspired by @neotookay on twt
-I gotta code him! C practice baby
-Also want to make Krillin, Vegeta and Piccolo
-I could also make a Gohan conversion of Goku for a Ken-equivalent.
+make an mvsf dbz roster for mugen inspired by @neotookay on twt (also use his [website](https://neo2k.neocities.org/Webpages/pages/Sprite%20Gallery) for more references)
+I gotta code them! C practice baby
 I'll use the EB sprites as a basis for all of these! also got the liberty to use ssw2 or hyper dimension etc
-also Teen Gohan, Broly, Trunks, Freeza & Yamcha would be cool.
-Use sprites from Change Ryu's air hadouken for ki blasts
 Take inspiration from Super DBZ for movesets
 ![[GSjgR1HXMAA_DzN.png]]
 ![[6i3xbNg.png]]
