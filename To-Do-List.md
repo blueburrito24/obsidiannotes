@@ -8,7 +8,7 @@ also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter,
 gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
 
 make a sf vs dbz mugen:
-[street fighter characters + screenpack](https://gamejolt.com/games/mshvsfr/525947);
+[street fighter characters + screenpack](https://gamejolt.com/games/mshvsfr/525947), [[MVC DBZ movesets]];
 - [Evil Ryu](https://www.mediafire.com/file/sz54alfsx7f13as/evilryuMB%28MystikBlaze%29_WinMugen%2610.zip)
 - Akuma
 - Ryu
@@ -19,6 +19,18 @@ make a sf vs dbz mugen:
 - Dhalsim
 - Zangief
 - M. Bison
+- Goku
+- Adult Gohan
+- Krillin
+- Vegeta
+- Piccolo
+- Teen Gohan
+- Trunks
+- Freeza
+- Yamcha
+- Broly (secret/boss)
+- Chi-Chi
+- Kid Goku (secret)
 
 stages; 
 - [Manhattan (mvsf)](https://www.mediafire.com/download/s0k8zw4p4ayjv13/ManhattanStreets%26Sewer.rar)
@@ -41,15 +53,11 @@ same goes for [select portraits](https://www.spriters-resource.com/arcade/marvel
 [hdbz saibamen game](https://network.mugenguild.com/balthazar/hyperdbz/character-info.html?name=Saibamen) could use a street fighter resprite
 [hdbz dr brief game](https://network.mugenguild.com/balthazar/hyperdbz/character-info.html?name=Dr.%20Briefs) could use a street fighter resprite
 
-SF VS DBZ Mugen;
-make an mvsf dbz roster for mugen inspired by @neotookay on twt (also use his [website](https://neo2k.neocities.org/Webpages/pages/Sprite%20Gallery) for more references)
-I gotta code them! C practice baby
+inspired by @neotookay on twt (also use his [website](https://neo2k.neocities.org/Webpages/pages/Sprite%20Gallery) for more references)
 I'll use the EB sprites as a basis for all of these! also got the liberty to use ssw2 or hyper dimension etc
-Take inspiration from Super DBZ for movesets
 ![[GSjgR1HXMAA_DzN.png]]
 ![[6i3xbNg.png]]
 Can use this LSW idle for Goku
-[[MVC DBZ movesets]]
 
 download nes emulator for nes rom hacks and nes games
 
