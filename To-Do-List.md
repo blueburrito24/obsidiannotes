@@ -5,6 +5,10 @@ https://cooltext.com/
 Read and make notes on Story by Robert McKee to improve my writing skill
 also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda
 
+download opentoonz for animation
+jailbreak kindle
+set up adguard home and tailscale
+
 gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
 
 make a sf vs dbz mugen:
