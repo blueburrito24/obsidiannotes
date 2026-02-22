@@ -2,9 +2,36 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
+-plc unit 2 (use notes)
+-plc tutorial 3 (d) & unit 3
+-infosec unit 3 & tutorial 3
+-plc tutorial 4 & unit 4
+\--------------------------------------
+-infosec unit 4 & tutorial 4
+-plc tutorial 5 & unit 5
+-some sort of progress on my tp tasks
+\--------------------------------------
+-adapt hci induction, unit 1 and book notes onto obsidian
+-adapt infosec lecture 2 and tutorial 2 notes
+-adapt notes from plc unit 1 onto obsidian concepts
+-adapt hci unit 3
+
+-set up website for launching with VSCode using kamalpreet's guide
+-work on Product Listing Adjustment for the tp website
+-work on Customer Support Interaction after Ayomide uploads his renewed admin page
+\+ provide visual polishing for the website like branding imagery and website ui design
+
+-dig through infosec lecture 1, 2 and the infosec book by pfleeger for case studies to document
+-make annotations and build on moc using pfleeger section 2.3 for core reading (week 2)
+
+"personal programming" use vscode btw
+- c tutorial
+- make a something c program!
+
 Read and make notes on Story by Robert McKee to improve my writing skill
 also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda
 
+work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29
 download opentoonz for animation
 jailbreak kindle
 set up adguard home and tailscale
