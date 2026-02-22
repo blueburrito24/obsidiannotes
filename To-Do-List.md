@@ -10,9 +10,9 @@ download opentoonz for animation
 jailbreak kindle
 set up adguard home and tailscale
 \--------------------------------------
+-infosec unit 3 & tutorial 3
 -plc unit 2 (use notes)
 -plc tutorial 3 (d) & unit 3
--infosec unit 3 & tutorial 3
 -plc tutorial 4 & unit 4
 \--------------------------------------
 -infosec unit 4 & tutorial 4
@@ -37,19 +37,19 @@ set up adguard home and tailscale
 - make a something c program!
 \--------------------------------------
 Read and make notes on Story by Robert McKee to improve my writing skill
-also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda
+also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda, Moribito: Guardian of the Spirit, Hamlet, King Lear, Othello, Romeo and Juliet, Oliver Twist
 \--------------------------------------
 gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
 \--------------------------------------
 make a sf vs dbz mugen:
 [street fighter characters + screenpack](https://gamejolt.com/games/mshvsfr/525947), [[MVC DBZ movesets]];
-- [Evil Ryu](https://www.mediafire.com/file/sz54alfsx7f13as/evilryuMB%28MystikBlaze%29_WinMugen%2610.zip)
-- Akuma
+- [Evil Ryu](https://www.mediafire.com/file/sz54alfsx7f13as/evilryuMB%28MystikBlaze%29_WinMugen%2610.zip) (secret)
+- Akuma (boss/secret)
 - Ryu
 - Ken
 - Chun-Li
 - Sakura
-- Dan
+- [Guile](https://www.mediafire.com/download/zpu1zl1bjjoa167/Guile.rar)
 - Dhalsim
 - Zangief
 - M. Bison
