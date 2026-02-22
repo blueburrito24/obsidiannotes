@@ -2,6 +2,14 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
+work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29
+draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
+I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
+\--------------------------------------
+download opentoonz for animation
+jailbreak kindle
+set up adguard home and tailscale
+\--------------------------------------
 -plc unit 2 (use notes)
 -plc tutorial 3 (d) & unit 3
 -infosec unit 3 & tutorial 3
@@ -27,17 +35,12 @@ https://cooltext.com/
 "personal programming" use vscode btw
 - c tutorial
 - make a something c program!
-
+\--------------------------------------
 Read and make notes on Story by Robert McKee to improve my writing skill
 also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda
-
-work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29
-download opentoonz for animation
-jailbreak kindle
-set up adguard home and tailscale
-
+\--------------------------------------
 gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
-
+\--------------------------------------
 make a sf vs dbz mugen:
 [street fighter characters + screenpack](https://gamejolt.com/games/mshvsfr/525947), [[MVC DBZ movesets]];
 - [Evil Ryu](https://www.mediafire.com/file/sz54alfsx7f13as/evilryuMB%28MystikBlaze%29_WinMugen%2610.zip)
@@ -107,9 +110,7 @@ i should try shading my drawings the same way i shade sprites, this image below 
 ![[Pasted image 20260206081651.png | 200]]
 
 after making my new ocs, make sprites of each of my ocs in hftf style
-draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock) 
 look for references in "Other Documents".
-I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
 
 Need to watch those NBA videos/channels that Sean (US) sent me.
 
