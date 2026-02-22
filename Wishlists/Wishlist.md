@@ -49,8 +49,6 @@ kanban-plugin: board
 	![[Pasted image 20260125222049.png]]
 - [ ] [THESUPERMADE Wide Pants](https://www.thesupermade.com/products/vintage-paratrooper-machete-side-stripe-drape-wide-leg-pants?variant=46935477453026) 56gbp Yellow
 	![[Pasted image 20260125222807.png]]
-- [ ] [THESUPERMADE Baggy Jeans](https://www.thesupermade.com/products/thesupermade-patchwork-check-pleated-scimitar-jeans?variant=46192034447586) 48gbp
-	![[{DE3AFCD2-D83E-49A2-8FB4-4C6E9BC46B4D}.png]]
 - [ ] [THESUPERMADE Baggy Jeans](https://www.thesupermade.com/products/retro-patchwork-belt-decorated-scimitar-jeans?variant=46974374084834) 60gbp
 	![[Pasted image 20260222072949.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 45gbp
