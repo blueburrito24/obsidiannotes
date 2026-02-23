@@ -45,6 +45,7 @@ infosec:
 \--------------------------------------
 Read and make notes on Story by Robert McKee to improve my writing skill
 also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda, Moribito: Guardian of the Spirit, Hamlet, King Lear, Othello, Romeo and Juliet, Oliver Twist
+also Understanding Comics
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
@@ -87,7 +88,7 @@ stages;
 - [Namek (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=namek)
 - [Kami's Lookout (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=kami%27s%20lookout)
 - [Time Chamber Aurora (hdbz)](https://network.mugenguild.com/balthazar/hyperdbz/stage-info.html?name=time%20chamber%20aurora)
-*All HDBZ stages need to be redrawn to fit with the Street Fighter artstyle.*
+*All HDBZ stages need to be redrawn to fit with the Street Fighter artstyle and every stage needs unique ambience.*
 
 [select sprites](https://www.spriters-resource.com/arcade/marvelvssf/asset/116304/); would make new icons for the dbz characters to replace the sf characters
 same goes for [select portraits](https://www.spriters-resource.com/arcade/marvelvssf/asset/5860/) and [victory portraits](https://www.spriters-resource.com/arcade/marvelvssf/asset/229035/)
