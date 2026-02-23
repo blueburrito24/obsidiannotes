@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] Make sure to look at my Shopping List on Amazon for anything I don't have noted here
 - [ ] [AMAU student of knowledge annual membership](https://www.amauacademy.com/pages/plans) 134
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
