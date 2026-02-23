@@ -52,8 +52,8 @@ gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-advent
 \--------------------------------------
 make a sf vs dbz mugen:
 [street fighter characters + screenpack](https://gamejolt.com/games/mshvsfr/525947), [[MVC DBZ movesets]];
-- [Evil Ryu](https://www.mediafire.com/file/sz54alfsx7f13as/evilryuMB%28MystikBlaze%29_WinMugen%2610.zip) (secret)
-- Akuma (boss/secret)
+- [Evil Ryu](https://www.mediafire.com/file/sz54alfsx7f13as/evilryuMB%28MystikBlaze%29_WinMugen%2610.zip)
+- Akuma
 - Ryu
 - Ken
 - Chun-Li
@@ -62,6 +62,7 @@ make a sf vs dbz mugen:
 - Dhalsim
 - Zangief
 - M. Bison
+- [Strider Hiryu](https://www.andersonkenya1.net/files/file/39746-strider-hiryu/?do=download&csrfKey=a49132277a9b78c32c8e7f14797f3d02)
 - Goku
 - Adult Gohan
 - Krillin
@@ -71,9 +72,8 @@ make a sf vs dbz mugen:
 - Trunks
 - Freeza
 - Yamcha
-- Broly (secret/boss)
+- Broly
 - Chi-Chi
-- Kid Goku (secret)
 
 stages; 
 - [Manhattan (mvsf)](https://www.mediafire.com/download/s0k8zw4p4ayjv13/ManhattanStreets%26Sewer.rar)
@@ -95,6 +95,10 @@ same goes for [select portraits](https://www.spriters-resource.com/arcade/marvel
 [sf2 car game](https://www.andersonkenya1.net/files/file/50356-sf2-car/)
 [hdbz saibamen game](https://network.mugenguild.com/balthazar/hyperdbz/character-info.html?name=Saibamen) could use a street fighter resprite
 [hdbz dr brief game](https://network.mugenguild.com/balthazar/hyperdbz/character-info.html?name=Dr.%20Briefs) could use a street fighter resprite
+UI would be inspired by Tekken 3
+![[Pasted image 20260223060713.png | 300]] ![[Pasted image 20260223060730.png | 320]]
+Would need to make custom logo, maybe use mvc1 fonts for game ui.
+Need to make custom graphics for game backgrounds.
 
 inspired by @neotookay on twt (also use his [website](https://neo2k.neocities.org/Webpages/pages/Sprite%20Gallery) for more references)
 I'll use the EB sprites as a basis for all of these! also got the liberty to use ssw2 or hyper dimension etc

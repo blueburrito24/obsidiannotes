@@ -25,5 +25,3 @@ violent ken forward dash, akuma air ki blasts, tatsumaki, wolf fang fist, kameha
 akuma air ki blasts, strangle -> gut punch, gigantic lariat, air-stomp, gigantic meteor from xv2
 ###### Chi-Chi; moveset is based on OG/SDBZ
 power pole combos, power pole cyclone, bansho fan tornado (ki blast), chun-li lightning kicks, kamehameha, super power pole extend, chun-li's senretsukyaku, super kamehameha, satsui no hado install (looks like kaioken)
-###### Kid Goku; moveset is based on OG
-nimbus to super jump/fly, power pole flurry (similar to chun li's lighting kicks), "succinct movement" counter move to dodge any incoming attack (dashes forward behind opponent), rock paper scissors punch, kamehameha (looks more like a regular little hadouken), great ape fist (air only), super kamehameha, super power pole extend
