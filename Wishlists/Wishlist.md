@@ -27,6 +27,8 @@ kanban-plugin: board
 
 - [ ] [READ 4 Red Men's Glasses](https://specscart.co.uk/glasses/read-wine-red-square-and-rectangular-glasses) 39.99
 	![[Pasted image 20260212231906.png]]
+- [ ] [LAPWORTH 4 Clear Men's Glasses](https://specscart.co.uk/glasses/lapworth-designer-clear-eyeglasses) 39.99
+	![[Pasted image 20260222155331.png]]
 - [ ] [THESUPERMADE Star Hat](https://www.thesupermade.com/products/the-supermade-american-star-embroidered-wrap-hat?variant=44352788955362) 16gbp Dark Gray
 	![[Pasted image 20260222073813.png]]
 - [ ] [THESUPERMADE Distressed Beanie](https://www.thesupermade.com/products/distressed-denim-patchwork-beanie?_pos=4&_ss=r&variant=47143470858466) 13gbp Blue
@@ -43,13 +45,14 @@ kanban-plugin: board
 	![[Pasted image 20260222074409.png]]
 - [ ] [THESUPERMADE Grey Fur Jacket](https://www.thesupermade.com/products/streetwear-metal-clip-faux-fur-hooded-suede-bomber-jacket?variant=47431712014562) 73gbp
 	![[Pasted image 20260222073437.png]]
-- [ ] [THESUPERMADE Fur-hooded Jacket]([https://www.thesupermade.com/products/faux-fur-lined-zip-up-winter-hooded-bomber-jacket?variant=46948612309218](https://www.thesupermade.com/products/washed-embroidered-fur-lined-denim-bomber-jacket?variant=47288463294690)) 72gbp
+- [ ] [THESUPERMADE Fur-hooded Jacket](https://www.thesupermade.com/products/washed-embroidered-fur-lined-denim-bomber-jacket?variant=47288463294690) 72gbp
 	![[Pasted image 20260222073600.png]]
 - [ ] [Colombia Classic Web Belt](https://amzn.eu/d/a87HQwV) 13.95gbp
 	![[Pasted image 20260125222049.png]]
 - [ ] [THESUPERMADE Wide Pants](https://www.thesupermade.com/products/vintage-paratrooper-machete-side-stripe-drape-wide-leg-pants?variant=46935477453026) 56gbp Yellow
 	![[Pasted image 20260125222807.png]]
 - [ ] [THESUPERMADE Baggy Jeans](https://www.thesupermade.com/products/retro-patchwork-belt-decorated-scimitar-jeans?variant=46974374084834) 60gbp
+	-Also comes in Black
 	![[Pasted image 20260222072949.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 45gbp
 	![[Pasted image 20260222074204.png]]

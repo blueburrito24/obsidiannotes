@@ -7,8 +7,15 @@ draw all my ocs hanging out and eating fruit in a hut (there should be a stylish
 I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
 \--------------------------------------
 download opentoonz for animation
-jailbreak kindle
+jailbreak kindle (use koreader, calibre etc)
 set up adguard home and tailscale
+\--------------------------------------
+plc:
+![[{A61D47FE-E530-4E13-BB1B-ED73CDF948DD}.png]]
+also quiz this week
+infosec:
+![[Pasted image 20260222213119.png]]
+![[{706EF3C6-4292-4556-A8F8-07A6E904F53A}.png]]
 \--------------------------------------
 -infosec unit 3 & tutorial 3
 -plc unit 2 (use notes)
@@ -38,6 +45,8 @@ set up adguard home and tailscale
 \--------------------------------------
 Read and make notes on Story by Robert McKee to improve my writing skill
 also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda, Moribito: Guardian of the Spirit, Hamlet, King Lear, Othello, Romeo and Juliet, Oliver Twist
+\--------------------------------------
+should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
 gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
 \--------------------------------------
