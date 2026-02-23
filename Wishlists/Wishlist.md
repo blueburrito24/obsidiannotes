@@ -35,8 +35,6 @@ kanban-plugin: board
 	![[Pasted image 20260125221903.png]]
 - [ ] [THESUPERMADE Mesh Hollow Hat](https://www.thesupermade.com/products/retro-mesh-hollow-breathable-pile-hat) 27gbp Black
 	![[Pasted image 20260125221958.png]]
-- [ ] [THESUPERMADE Pink Gothic Tee](https://www.thesupermade.com/products/acid-wash-gothic-cross-spine-graphic-distressed-t-shirt?variant=47414240444642) 35gbp
-	![[Pasted image 20260222073351.png]]
 - [ ] [403: Forbidden Tee](https://suzuri.jp/kengochi/5919/t-shirt/xxl/yellow) 3,158 JPY or 15gbp~, XXXL
 	![[Pasted image 20260112172658.png]]
 - [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXXL
