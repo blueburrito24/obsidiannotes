@@ -9,3 +9,5 @@ In my second phase, planning 14 Jan 2026-11 Jun 2027, I did 11 sets of qadha.
 5170 - 11 = 5159.
 5159 / 5 (one round a day) = 1032 days.
 Starting from 25th March 2026, I should finish by 20 Jan 2029.
+
+Write any you miss below:
