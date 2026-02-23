@@ -44,7 +44,7 @@ infosec:
 - make a something c program!
 \--------------------------------------
 Read and make notes on Story by Robert McKee to improve my writing skill
-also 1984, all tomorrows, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda, Moribito: Guardian of the Spirit, Hamlet, King Lear, Othello, Romeo and Juliet, Oliver Twist
+also 1984, all tomorrows, how to keep house while drowning, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda, Moribito: Guardian of the Spirit, Hamlet, King Lear, Othello, Romeo and Juliet, Oliver Twist
 also Understanding Comics
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
@@ -106,7 +106,7 @@ I'll use the EB sprites as a basis for all of these! also got the liberty to use
 ![[GSjgR1HXMAA_DzN.png]]
 ![[6i3xbNg.png]]
 Can use this LSW idle for Goku
-
+\--------------------------------------
 download nes emulator for nes rom hacks and nes games
 
 redownload ps3 roms and replace rpcsx with aps3e
