@@ -32,8 +32,6 @@ kanban-plugin: board
 	![[Pasted image 20260222073813.png]]
 - [ ] [THESUPERMADE Distressed Beanie](https://www.thesupermade.com/products/distressed-denim-patchwork-beanie?_pos=4&_ss=r&variant=47143470858466) 13gbp Blue
 	![[Pasted image 20260125221903.png]]
-- [ ] [THESUPERMADE Mesh Hollow Hat](https://www.thesupermade.com/products/retro-mesh-hollow-breathable-pile-hat) 27gbp Black
-	![[Pasted image 20260125221958.png]]
 - [ ] [403: Forbidden Tee](https://suzuri.jp/kengochi/5919/t-shirt/xxl/yellow) 3,158 JPY or 15gbp~, XXXL
 	![[Pasted image 20260112172658.png]]
 - [ ] [404: Not Found Tee](https://suzuri.jp/kengochi/5959/heavyweight-t-shirt/2xl/royalblue) 4,140 JPY or 22gbp~, XXXL
