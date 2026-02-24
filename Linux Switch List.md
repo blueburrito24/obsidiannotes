@@ -1,11 +1,11 @@
 This is a list of important items for when I switch to Kubuntu (Linux):
-- Paint.NET ran via WinBoat
-- Animation Paper
+- Paint.NET ran via WinBoat (also CSP?)
+- Opentoonz
 - Hytale
-- Steam for some games
+- Steam + Steam Millenium
 - LibreWolf (Need to export settings, bookmarks, extensions)
-- Vencord (Need to export settings, plugins, themes)
-- Windows 7 Theming with dark window aero effects (use KDE store)
+- Vesktop (Need to export settings, plugins, themes)
+- Windows Vista Theming with dark window aero effects (use KDE store)
 - Vicinae (Raycast clone) and no start button
 - various fonts including:
   - KingjolA

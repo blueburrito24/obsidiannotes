@@ -2,13 +2,16 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
-work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29
+work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers
+draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
+(also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
 I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
 \--------------------------------------
 download opentoonz for animation
 jailbreak kindle (use koreader, calibre etc)
 set up adguard home and tailscale
+try out apex legends
 \--------------------------------------
 plc:
 ![[{A61D47FE-E530-4E13-BB1B-ED73CDF948DD}.png]]
