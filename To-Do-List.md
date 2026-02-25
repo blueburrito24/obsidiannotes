@@ -2,11 +2,12 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
-work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers
+work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers, 31t
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 (also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
 I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
+should do a study on the artstyle of late jojos part 1/early part 2 manga
 \--------------------------------------
 download opentoonz for animation
 jailbreak kindle (use koreader, calibre etc)
