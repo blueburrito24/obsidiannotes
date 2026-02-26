@@ -21,6 +21,8 @@ kanban-plugin: board
 	![[Pasted image 20260126123638.png]]
 - [ ] ![[Pasted image 20260112010958.png]]
 	[Hand Model Artist Support Item](https://www.aliexpress.com/item/1005008406403225.html?) 40.49 for one Gray and one White
+- [ ] [Gamesir Cyclone 2 Controller](https://amzn.eu/d/03aDDPvF) 55gbp
+	![[Pasted image 20260226234404.png]]
 
 
 ## Clothes

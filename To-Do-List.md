@@ -3,6 +3,7 @@ Always check Pinterest!!
 https://cooltext.com/
 
 work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers, 31
+oc based on the healing ninjutsu lady from shinobi aov
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 (also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
@@ -12,7 +13,7 @@ should do a study on the artstyle of late jojos part 1/early part 2 manga
 download opentoonz for animation
 jailbreak kindle (use koreader, calibre etc)
 set up adguard home and tailscale
-set up metroid prime pc fork
+set up duckstation and pcsx2
 \--------------------------------------
 plc:
 ![[{A61D47FE-E530-4E13-BB1B-ED73CDF948DD}.png]]
@@ -49,9 +50,7 @@ FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 - c tutorial
 - make a something c program!
 \--------------------------------------
-Read and make notes on Story by Robert McKee to improve my writing skill
-also 1984, all tomorrows, how to keep house while drowning, animal world, harry potter, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, fifty shames of earl grey, Coraline, Matilda, Moribito: Guardian of the Spirit, Hamlet, King Lear, Othello, Romeo and Juliet, Oliver Twist
-also Understanding Comics
+animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
