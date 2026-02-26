@@ -2,7 +2,7 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
-work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers, 31t
+work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers, 31
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 (also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
@@ -12,22 +12,24 @@ should do a study on the artstyle of late jojos part 1/early part 2 manga
 download opentoonz for animation
 jailbreak kindle (use koreader, calibre etc)
 set up adguard home and tailscale
-try out apex legends
+set up metroid prime pc fork
 \--------------------------------------
 plc:
 ![[{A61D47FE-E530-4E13-BB1B-ED73CDF948DD}.png]]
-also quiz this week
 infosec:
 ![[Pasted image 20260222213119.png]]
 ![[{706EF3C6-4292-4556-A8F8-07A6E904F53A}.png]]
 \--------------------------------------
 -infosec unit 3 & tutorial 3
+-infosec unit 4 & tutorial 4
 -plc unit 2 (use notes)
 -plc tutorial 3 (d) & unit 3
 -plc tutorial 4 & unit 4
-\--------------------------------------
--infosec unit 4 & tutorial 4
 -plc tutorial 5 & unit 5
+FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
+\--------------------------------------
+-infosec unit 6 & tutorial 6
+-plc tutorial 6 & unit 6
 -some sort of progress on my tp tasks
 \--------------------------------------
 -adapt hci induction, unit 1 and book notes onto obsidian
