@@ -11,9 +11,7 @@ I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobit
 should do a study on the artstyle of late jojos part 1/early part 2 manga
 \--------------------------------------
 download opentoonz for animation
-jailbreak kindle (use koreader, calibre etc)
 set up adguard home and tailscale
-set up duckstation and pcsx2
 \--------------------------------------
 plc:
 ![[{A61D47FE-E530-4E13-BB1B-ED73CDF948DD}.png]]
@@ -50,7 +48,7 @@ FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 - c tutorial
 - make a something c program!
 \--------------------------------------
-animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice
+animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
