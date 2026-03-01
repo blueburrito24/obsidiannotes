@@ -14,6 +14,8 @@ kanban-plugin: board
 - [ ] [GPD Win 4](https://uk.webuy.com/product-detail/?id=SHGPGPDWIN4202454B&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=D07D958599B28CA39BE1AA1524045A64&position=1) 675gbp
 	Would sell my Thor for 400 on eBay and then use that to help pay for it.
 	![[Pasted image 20260301183225.png]]
+	[Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?th=1) 18.99gbp
+	[MAD68HE Keyboard](https://www.aliexpress.com/item/1005009016759666.html) 41.29
 - [ ] [Gamesir Cyclone 2 Controller](https://amzn.eu/d/03aDDPvF) 55gbp
 	![[Pasted image 20260226234404.png]]
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
