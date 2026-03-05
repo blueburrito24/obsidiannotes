@@ -52,8 +52,6 @@ kanban-plugin: board
 	![[Pasted image 20260125222807.png]]
 - [ ] [THESUPERMADE Baggy Jeans](https://www.thesupermade.com/products/retro-patchwork-belt-decorated-scimitar-jeans?variant=46974374084834) 60gbp
 	![[Pasted image 20260222072949.png]]
-- [ ] [Drawstring Jeans](https://www.boohooman.com/product/atlas-for-men-cargo-jeans_p-5a7291e9-6e87-434f-af8c-6399eaedbfdd?colour=Blue) 25gbp
-	![[Pasted image 20260305122347.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 45gbp
 	![[Pasted image 20260222074204.png]]
 
