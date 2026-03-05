@@ -11,7 +11,7 @@ kanban-plugin: board
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 - [ ] [RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
-- [ ] [GPD Win 4](https://uk.webuy.com/product-detail/?id=SHGPGPDWIN4202454B&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=D07D958599B28CA39BE1AA1524045A64&position=1) 675gbp
+- [ ] [GPD Win 4](https://ebay.us/m/wJa4Sp) 653.15gbp
 	Would sell my Thor for 400 on eBay and then use that to help pay for it.
 	![[Pasted image 20260301183225.png]]
 	[Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?th=1) 18.99gbp
@@ -42,6 +42,12 @@ kanban-plugin: board
 	![[Pasted image 20260223194831.png]]
 - [ ] [THESUPERMADE Skeleton Sweater](https://www.thesupermade.com/products/skeleton-print-t-shirt?variant=46968327930082) 38gbp
 	![[Pasted image 20260222074409.png]]
+- [ ] [Burgundy Long-sleeve Shirt](https://www.next.co.uk/style/su620384/f29947) 26gbp
+	![[Pasted image 20260305112824.png]]
+- [ ] [Mad Engine McFarlane Spider-Man Hoodie](https://www.ebay.co.uk/itm/277772551293?) 78.58gbp
+	![[Pasted image 20260305112443.png]]
+- [ ] [MARVEL ATSV Scarlet Spider Hoodie](https://www.hottopic.com/product/our-universe-marvel-spider-man-across-the-spider-verse-scarlet-spider-twofer-hoodie/35108497.html) 47.92USD (35.88gbp)
+	![[Pasted image 20260305112606.png]]
 - [ ] [THESUPERMADE Wide Pants](https://www.thesupermade.com/products/vintage-paratrooper-machete-side-stripe-drape-wide-leg-pants?variant=46935477453026) 56gbp Yellow
 	![[Pasted image 20260125222807.png]]
 - [ ] [THESUPERMADE Baggy Jeans](https://www.thesupermade.com/products/retro-patchwork-belt-decorated-scimitar-jeans?variant=46974374084834) 60gbp

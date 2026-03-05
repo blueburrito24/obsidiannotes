@@ -4,6 +4,7 @@ https://cooltext.com/
 
 work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers, 31
 oc based on the healing ninjutsu lady from shinobi aov
+oc named Urania
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 (also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
@@ -48,7 +49,7 @@ FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 - c tutorial
 - make a something c program!
 \--------------------------------------
-animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit
+animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
