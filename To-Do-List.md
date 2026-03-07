@@ -5,6 +5,7 @@ https://cooltext.com/
 work on wipdoodles19/21\* (use ideas from 19 but focusing on 21), wipdoodles23\*, 25, 28\*, 29, wipstickers, 31
 oc based on the healing ninjutsu lady from shinobi aov
 oc named Urania
+oc named DX-Termina
 draw the temporal outfit beheaded as my own oc (undead fiery girl)
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 (also use detailed style for hair etc)
