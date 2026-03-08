@@ -26,8 +26,6 @@ kanban-plugin: board
 	Could draw something like this below image for the keychain charms
 	![[Pasted image 20260116222650.png]]
 	![[Pasted image 20260126123638.png]]
-- [ ] ![[Pasted image 20260112010958.png]]
-	[Hand Model Artist Support Item](https://www.aliexpress.com/item/1005008406403225.html?) 40.49 for one Gray and one White
 
 
 ## Clothes
@@ -36,6 +34,10 @@ kanban-plugin: board
 	![[Pasted image 20260212231906.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
+- [ ] [THESUPERMADE Skeleton Graphic Long-sleeve Tee](https://www.thesupermade.com/products/skeleton-print-t-shirt?variant=46968327930082) 38gbp
+	![[Pasted image 20260307071915.png]]
+- [ ] [Primark 2 Black Drawstring Joggers](https://www.primark.com/en-gb/p/2pk-drawstring-joggers-black-991155390804) 12gbp
+	![[Pasted image 20260307073039.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 45gbp
 	![[Pasted image 20260222074204.png]]
 
