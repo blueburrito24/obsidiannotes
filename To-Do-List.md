@@ -3,7 +3,6 @@ Always check Pinterest!!
 https://cooltext.com/
 
 work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29 (background characters), wipstickers (sgw stickers), 31 (windows icon), whiteboard, 33
-go to the library at uni early one day and draw on the whiteboard; camera-pose hands with various drawings of Blue and Yellow in random outfits (I think putting Yellow in outfits I'd wear if I was thin is cool)
 +++++++++++++++++
 oc based on the healing ninjutsu lady from shinobi aov, named Urania DX-Termina
 draw the temporal outfit beheaded as my own oc (undead fiery girl)
@@ -51,7 +50,7 @@ FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 - c tutorial
 - make a something c program!
 \--------------------------------------
-animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders
+animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders, Jekyll and Hyde
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
