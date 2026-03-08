@@ -27,11 +27,8 @@ infosec:
 -plc tutorial 3 (d) & unit 3
 -plc tutorial 4 & unit 4
 -plc tutorial 5 & unit 5
-FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
-\--------------------------------------
 -infosec unit 6 & tutorial 6
 -plc tutorial 6 & unit 6
--some sort of progress on my tp tasks
 \--------------------------------------
 -adapt hci induction, unit 1 and book notes onto obsidian
 -adapt infosec lecture 2 and tutorial 2 notes
