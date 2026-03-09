@@ -33,6 +33,10 @@ kanban-plugin: board
 	![[Pasted image 20260212231906.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
+- [ ] [Todd McFarlane Spider-Man Shirt](https://www.ebay.co.uk/itm/236368669034) 41.19gbp
+	![[Pasted image 20260309090140.png]]
+- [ ] [Spider-Man 2002 Shirt Inverse Colour](https://www.ebay.co.uk/itm/147097901027) 44.74
+	![[Pasted image 20260309090333.png]]
 - [ ] [THESUPERMADE Skeleton Graphic Long-sleeve Tee](https://www.thesupermade.com/products/skeleton-print-t-shirt?variant=46968327930082) 38gbp
 	![[Pasted image 20260307071915.png]]
 - [ ] [Primark 2 Black Drawstring Joggers](https://www.primark.com/en-gb/p/2pk-drawstring-joggers-black-991155390804) 12gbp
