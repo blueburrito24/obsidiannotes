@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [AMAU student of knowledge annual membership](https://www.amauacademy.com/pages/plans) 134
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
@@ -29,8 +30,8 @@ kanban-plugin: board
 
 ## Clothes
 
-- [ ] [READ 4 Red Men's Glasses](https://specscart.co.uk/glasses/read-wine-red-square-and-rectangular-glasses) 39.99
-	![[Pasted image 20260212231906.png]]
+- [ ] [Jax Red Men's Glasses](https://www.glassesdirect.co.uk/glasses/frames/jax-red-s-17597) 25gbp
+	![[Pasted image 20260309135655.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
 - [ ] [Todd McFarlane Spider-Man Shirt](https://www.ebay.co.uk/itm/236368669034) 41.19gbp
