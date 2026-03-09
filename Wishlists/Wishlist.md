@@ -39,6 +39,12 @@ kanban-plugin: board
 	![[Pasted image 20260309090333.png]]
 - [ ] [THESUPERMADE Skeleton Graphic Long-sleeve Tee](https://www.thesupermade.com/products/skeleton-print-t-shirt?variant=46968327930082) 38gbp
 	![[Pasted image 20260307071915.png]]
+- [ ] [Denim Wash Blue Zip-up Hoodie](https://www.boohooman.com/product/boohooman-oversized-boxy-zip-through-denim-wash-hoodie_cmm06167?colour=blue) 11gbp
+	![[Pasted image 20260309091915.png]]
+- [ ] [Ribbed Knitted Hoodie](https://www.boohooman.com/product/boohooman-relaxed-boxy-ribbed-knitted-hoodie_cmm24657?colour=taupe) 10gbp
+	![[Pasted image 20260309092022.png]]
+- [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
+	![[Pasted image 20260309092112.png]]
 - [ ] [Primark 2 Black Drawstring Joggers](https://www.primark.com/en-gb/p/2pk-drawstring-joggers-black-991155390804) 12gbp
 	![[Pasted image 20260307073039.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 45gbp
