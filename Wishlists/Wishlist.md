@@ -48,6 +48,10 @@ kanban-plugin: board
 	![[Pasted image 20260309092112.png]]
 - [ ] [Primark 2 Black Drawstring Joggers](https://www.primark.com/en-gb/p/2pk-drawstring-joggers-black-991155390804) 12gbp
 	![[Pasted image 20260307073039.png]]
+- [ ] [Black Carpenter Cargo Jeans](https://www.boohooman.com/product/boohooman-tall-relaxed-fit-carpenter-cargo-jeans_cmm08409?colour=washed+black&size=36) 31.50gbp
+	![[Pasted image 20260309140109.png]]
+- [ ] [Relaxed Fit Jeans](https://www.boohooman.com/product/boohooman-tall-relaxed-fit-jeans_bmm95119?colour=dark+wash&size=36) 17.50gbp
+	![[Pasted image 20260309140135.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 45gbp
 	![[Pasted image 20260222074204.png]]
 
