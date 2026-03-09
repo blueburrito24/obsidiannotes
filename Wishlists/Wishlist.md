@@ -30,7 +30,7 @@ kanban-plugin: board
 
 ## Clothes
 
-- [ ] [Jax Red Men's Glasses](https://www.glassesdirect.co.uk/glasses/frames/jax-red-s-17597) 25gbp
+- [ ] [Jax Red Men's Glasses](https://www.glassesdirect.co.uk/glasses/frames/jax-red-s-17597) 39gbp with types; Distance, Clear Lenses, Silver
 	![[Pasted image 20260309135655.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
