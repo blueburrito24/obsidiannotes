@@ -2,7 +2,7 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
-work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29 (background characters), wipstickers (sgw stickers), 31 (windows icon), whiteboard, 33, 34
+work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29\* (background characters), wipstickers\* (sgw stickers), 31\* (windows icon), whiteboard, 33\* (dbz/sgw), 34\* (web-man)
 +++++++++++++++++
 oc based on the healing ninjutsu lady from shinobi aov, named Urania DX-Termina
 draw the temporal outfit beheaded as my own oc (undead fiery girl)
