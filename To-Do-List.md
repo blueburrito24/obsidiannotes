@@ -6,6 +6,7 @@ work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (
 +++++++++++++++++
 oc based on the healing ninjutsu lady from shinobi aov, named Urania DX-Termina
 draw the temporal outfit beheaded as my own oc (undead fiery girl)
+Maybe do a Goth thing
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 (also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)

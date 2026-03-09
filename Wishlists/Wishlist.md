@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [AMAU student of knowledge annual membership](https://www.amauacademy.com/pages/plans) 134
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
@@ -40,6 +41,8 @@ kanban-plugin: board
 	![[Pasted image 20260309090333.png]]
 - [ ] [THESUPERMADE Skeleton Graphic Long-sleeve Tee](https://www.thesupermade.com/products/skeleton-print-t-shirt?variant=46968327930082) 38gbp
 	![[Pasted image 20260307071915.png]]
+- [ ] [Mad Engine Spider-Man Black Suit Hoodie](https://www.ebay.co.uk/itm/336469532575) 97.37gbp
+	![[Pasted image 20260309164154.png]]
 - [ ] [Denim Wash Blue Zip-up Hoodie](https://www.boohooman.com/product/boohooman-oversized-boxy-zip-through-denim-wash-hoodie_cmm06167?colour=blue) 11gbp
 	![[Pasted image 20260309091915.png]]
 - [ ] [Ribbed Knitted Hoodie](https://www.boohooman.com/product/boohooman-relaxed-boxy-ribbed-knitted-hoodie_cmm24657?colour=taupe) 10gbp
