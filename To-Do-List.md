@@ -48,7 +48,7 @@ infosec:
 - c tutorial
 - make a something c program!
 \--------------------------------------
-animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders, Jekyll and Hyde
+animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders, Jekyll and Hyde, Mistborn, Why We Sleep, 
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------

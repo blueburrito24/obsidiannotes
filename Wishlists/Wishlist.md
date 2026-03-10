@@ -12,6 +12,7 @@ kanban-plugin: board
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 - [ ] [RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 - [ ] [GPD Win 4](https://www.ebay.co.uk/itm/389206452257) 678.82gbp
+	[Alt link if available](https://www.ebay.co.uk/itm/206088532826) 565.12gbp
 	I'd clone my current Windows setup alongside using Widget Launcher to add shortcuts for Steam Gaming Mode etc.
 	![[Pasted image 20260301183225.png]]
 	[Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?th=1) 19.99gbp
@@ -30,6 +31,8 @@ kanban-plugin: board
 
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
+- [ ] [Long-sleeve Tee](https://www.boohooman.com/product/boohooman-basic-oversized-long-sleeve-crew-neck-t-shirt_cmm23061?colour=black) 8.40gbp
+	![[Pasted image 20260309193633.png]]
 - [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
 	![[Pasted image 20260309092112.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 31.50gbp
