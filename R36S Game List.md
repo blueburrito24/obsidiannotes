@@ -37,6 +37,8 @@ New Super Mario Bros.
 Pokémon Diamond
 Castlevania Dawn of Sorrow (patch ver.)
 Tetris DS
+Contra 4
+Animal Crossing: Wild World
 ## PS1:
 Threads of Fate
 Blaster Master: Blasting Again
