@@ -17,8 +17,6 @@ kanban-plugin: board
 	![[Pasted image 20260301183225.png]]
 	[Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?th=1) 19.99gbp
 	[MAD68HE Keyboard](https://www.aliexpress.com/item/1005009016759666.html) 36.39
-- [ ] [MIYOO MINI Plus](https://www.aliexpress.com/item/1005006966361431.html) 35.40gbp
-	![[Pasted image 20260310141935.png]]
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make sticker sheets of my OCs
 - [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
