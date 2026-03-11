@@ -107,7 +107,7 @@ Sonic Triple Trouble 16-Bit
 LBreakoutHD
 Grand Theft Auto Vice City
 Celeste (need to remove Steam DRM using Goldberg and then use those game files)
-Dead Cells
+Dead Cells (need to remove Steam DRM using Goldberg and then use those game files)
 MineSector (MineSweeper clone)
 2048
 Shovel Knight Treasure Trove
