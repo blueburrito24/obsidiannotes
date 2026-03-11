@@ -2,10 +2,11 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
-work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29 (background characters), wipstickers (sgw stickers), 31 (windows icon), whiteboard, 33
+work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29\* (background characters), wipstickers\* (sgw stickers), 31\* (windows icon), whiteboard, 33\* (dbz/sgw), 34\* (web-man)
 +++++++++++++++++
 oc based on the healing ninjutsu lady from shinobi aov, named Urania DX-Termina
 draw the temporal outfit beheaded as my own oc (undead fiery girl)
+Maybe do a Goth thing
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 (also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
@@ -27,11 +28,8 @@ infosec:
 -plc tutorial 3 (d) & unit 3
 -plc tutorial 4 & unit 4
 -plc tutorial 5 & unit 5
-FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
-\--------------------------------------
 -infosec unit 6 & tutorial 6
 -plc tutorial 6 & unit 6
--some sort of progress on my tp tasks
 \--------------------------------------
 -adapt hci induction, unit 1 and book notes onto obsidian
 -adapt infosec lecture 2 and tutorial 2 notes
@@ -50,11 +48,11 @@ FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 - c tutorial
 - make a something c program!
 \--------------------------------------
-animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders, Jekyll and Hyde
+animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders, Jekyll and Hyde, Mistborn, Why We Sleep, 
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
-create a Z2 Kung Fu Man character for MUGEN, for practicing coding and spriting
+gather [characters](https://mugenfreeforall.com/topic/48016-jojos-bizarre-adventure-heritage-for-the-future/) and a [screenpack](https://gamejolt.com/games/JoJosVentureMUGEN/876843) to make a ps1 accurate jojo venture mugen
 \--------------------------------------
 make a sf vs dbz mugen:
 [street fighter characters + screenpack](https://gamejolt.com/games/mshvsfr/525947), [[MVC DBZ movesets]];

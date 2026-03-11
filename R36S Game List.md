@@ -5,7 +5,8 @@ Blaster Master
 Contra
 Mega Man
 Double Dragon
-
+Excitebike
+Bionic Commando
 ## SNES:
 Super Mario All Stars + Super Mario World
 Super Castlevania IV
@@ -15,7 +16,12 @@ Donkey Kong Country
 Super Mario RPG
 Contra III
 Super Metroid
-
+## SEGA Genesis:
+Shinobi III: The Return of the Ninja Master
+Knuckles in Sonic the Hedgehog 2
+Yoshi in Sonic the Hedgehog 2
+Knuckles' Emerald Hunt
+Sonic Megamix
 ## GBA:
 Metroid Zero Mission
 Metroid Fusion
@@ -25,14 +31,12 @@ Dragon Ball Z The Legend of Goku
 Shining Soul
 Sonic Advance
 Wario Land 4
-
 ## DS:
 Mario Kart DS
 New Super Mario Bros.
 Pokémon Diamond
 Castlevania Dawn of Sorrow (patch ver.)
 Tetris DS
-
 ## PS1:
 Threads of Fate
 Blaster Master: Blasting Again
@@ -52,7 +56,6 @@ Tekken 3
 Tomb Raider
 Tony Hawk's Pro Skater 2
 Chrono Trigger
-
 ## PSP:
 Dragon Ball Z Shin Budokai 2
 Dragon Ball Z Tenkaichi Tag Team
@@ -63,7 +66,7 @@ Mega Man Maverick Hunter X
 Castlevania: The Dracula X Chronicles
 Power Stone
 Sonic Rivals
-
+Spider-Man 2
 ## CPS2:
 Marvel Vs Capcom: Clash of Super Heroes
 Street Fighter Alpha 3
@@ -71,18 +74,25 @@ Super Street Fighter II Turbo
 19XX: The War Against Destiny
 Red Earth
 Vampire Saviour: The Lord of Vampire
-
 ## CPS3:
 JoJo's Venture
 Red Earth
 Street Fighter III 3rd Strike
-
+## Neo Geo:
+SVC Chaos: SNK Vs Capcom
+Metal Slug
+Garou: Mark of the Wolves
+The King of Fighters '98
+Samurai Shodown II
+Neo Bomberman
+Art of Fighting 3: The Path of the Warrior
+Ninja Commando
+World Heroes 2
 ## Dreamcast:
 Sonic Adventure
 Sonic Adventure 2
 Crazy Taxi
 Rayman 3
-
 ## Portmaster:
 SorR (Streets of Rage Remake)
 Sonic CD
@@ -107,3 +117,9 @@ Cave Story
 VVVVVV
 Super Meat Boy
 Balatro
+Ikemen GO (Replace game files with [Hyper DBZ](https://drive.google.com/drive/u/0/folders/1jqk3cU2rAE2AMQfXHOAnQtUfI1RgJTJy) and map controls with a keyboard on the OTG port of the device)
+Stardew Valley
+Spelunky
+Pacman
+Starship (Star Fox 64)
+Magical Broom Extreme
