@@ -17,6 +17,11 @@ kanban-plugin: board
 	![[Pasted image 20260301183225.png]]
 	[Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?th=1) 19.99gbp
 	[MAD68HE Keyboard](https://www.aliexpress.com/item/1005009016759666.html) 36.39
+- [ ] WOULD BUY THE FOLLOWING AFTER SELLING MY THINKPAD P14 GEN 5 AMD RYZEN 7 8840HS 16GB 256GB FOR 650
+	[Macbook Air M1 16GB 1TB](https://www.hoxtonmacs.co.uk/products/macbook-air-13-inch-m1-gold-2020-fair?variant=44383130419516) 565gbp
+	[Student Beans discount](https://www.studentbeans.com/student-discount/uk/hoxton-macs) for 7% off (making it near 500) and free shipping
+	[dbrand Black Deluxe Kit](https://dbrand.com/shop/skins/apple-macbook-air-13-skins-2020-m1?design=matte-blk&kit=deluxe) 54.90USD or 40.91gbp
+	![[Pasted image 20260311144616.png]]
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make sticker sheets of my OCs
 - [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
