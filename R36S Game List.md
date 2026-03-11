@@ -104,7 +104,7 @@ Sonic Robo Blast 2
 Sonic Triple Trouble 16-Bit
 LBreakoutHD
 Grand Theft Auto Vice City
-Celeste (needs Steam's Linux version of the game files)
+Celeste (need to remove Steam DRM using Goldberg and then use those game files)
 Dead Cells
 MineSector (MineSweeper clone)
 2048
