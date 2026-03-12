@@ -58,6 +58,8 @@ Tekken 3
 Tomb Raider
 Tony Hawk's Pro Skater 2
 Chrono Trigger
+Brave Fencer Musashi
+Mega Man Legends
 ## PSP:
 Dragon Ball Z Shin Budokai 2
 Dragon Ball Z Tenkaichi Tag Team
@@ -69,6 +71,8 @@ Castlevania: The Dracula X Chronicles
 Power Stone
 Sonic Rivals
 Spider-Man 2
+WWE All Stars
+Fifa Street 2
 ## CPS2:
 Marvel Vs Capcom: Clash of Super Heroes
 Street Fighter Alpha 3
@@ -90,6 +94,7 @@ Neo Bomberman
 Art of Fighting 3: The Path of the Warrior
 Ninja Commando
 World Heroes 2
+Crossed Swords 2
 ## Dreamcast:
 Sonic Adventure
 Sonic Adventure 2
