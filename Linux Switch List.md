@@ -3,7 +3,7 @@ This is a list of important items for when I switch to Kubuntu (Linux):
 - Opentoonz
 - Hytale
 - Steam + Steam Millenium
-- LibreWolf (Need to export settings, bookmarks, extensions)
+- LibreWolf (Need to export user profile folder)
 - Vesktop (Need to export settings, plugins, themes)
 - Windows Vista Theming with dark window aero effects (use KDE store)
 - Vicinae (Raycast clone) and no start button
