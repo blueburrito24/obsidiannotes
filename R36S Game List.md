@@ -16,6 +16,8 @@ Donkey Kong Country
 Super Mario RPG
 Contra III
 Super Metroid
+A Plumber for All Seasons
+Mortal Kombat II
 ## SEGA Genesis:
 Shinobi III: The Return of the Ninja Master
 Knuckles in Sonic the Hedgehog 2
@@ -130,3 +132,4 @@ Spelunky
 Pacman
 Starship (Star Fox 64)
 Magical Broom Extreme
+Minecraft (requires set up using PC files and other shenanigans)
