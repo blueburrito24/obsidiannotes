@@ -1,4 +1,4 @@
-This is a list of important items for when I switch to Kubuntu (Linux):
+This is a list of important items for when I switch to Fedora (Linux):
 - Paint.NET ran via WinBoat
 - Opentoonz
 - Hytale
@@ -34,6 +34,7 @@ This is a list of important items for when I switch to Kubuntu (Linux):
 - Stremio
 - Obsidian
 - Git (terminal uses Bash already)
+- Ghostty for Terminal
 - Syncthing + Syncthing Tray
 - OBS
 - Laravel/nodeJS for TP
