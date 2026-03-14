@@ -17,7 +17,6 @@ Super Mario RPG
 Contra III
 Super Metroid
 A Plumber for All Seasons
-Mortal Kombat II
 ## SEGA Genesis:
 Shinobi III: The Return of the Ninja Master
 Knuckles in Sonic the Hedgehog 2
@@ -62,6 +61,9 @@ Tony Hawk's Pro Skater 2
 Chrono Trigger
 Brave Fencer Musashi
 Mega Man Legends
+Mortal Kombat Trilogy
+Disruptor
+Doom
 ## PSP:
 Dragon Ball Z Shin Budokai 2
 Dragon Ball Z Tenkaichi Tag Team
