@@ -132,4 +132,4 @@ Spelunky
 Pacman
 Starship (Star Fox 64)
 Magical Broom Extreme
-Minecraft (requires set up using PC files and other shenanigans)
+Minecraft (1.12.2 running Forge for mods, using Sodium, Lithium, FerriteCore and Starlight for optimisation with "fast" settings and java-jre17 and WestonPack runtimes on the device + an enabled swap file)
