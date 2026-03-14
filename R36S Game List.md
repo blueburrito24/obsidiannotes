@@ -63,7 +63,6 @@ Brave Fencer Musashi
 Mega Man Legends
 Mortal Kombat Trilogy
 Disruptor
-Doom
 ## PSP:
 Dragon Ball Z Shin Budokai 2
 Dragon Ball Z Tenkaichi Tag Team
