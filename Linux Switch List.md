@@ -3,6 +3,8 @@ This is a list of important items for when I switch to Kubuntu (Linux):
 - Opentoonz
 - Hytale
 - Steam + Steam Millenium
+- EmuDeck and SteamROMManager for managing game artwork etc.
+- Lutris for older non-Steam games
 - LibreWolf (Need to export user profile folder)
 - Vesktop (Need to export settings, plugins, themes)
 - Windows Vista Theming with dark window aero effects (use KDE store)
