@@ -2,7 +2,7 @@ This is a list of important items for when I switch to Kubuntu (Linux):
 - Paint.NET ran via WinBoat
 - Opentoonz
 - Hytale
-- Steam + Steam Millenium
+- Steam + Steam Millenium (move all games to external SSD for smooth transition to Kubuntu)
 - EmuDeck and SteamROMManager for managing game artwork etc.
 - Lutris for older non-Steam games
 - LibreWolf (Need to export user profile folder)
