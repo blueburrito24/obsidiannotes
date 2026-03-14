@@ -1,5 +1,5 @@
 This is a list of important items for when I switch to Kubuntu (Linux):
-- Paint.NET ran via WinBoat (also CSP?)
+- Paint.NET ran via WinBoat
 - Opentoonz
 - Hytale
 - Steam + Steam Millenium
