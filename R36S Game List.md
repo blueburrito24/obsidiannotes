@@ -1,4 +1,6 @@
-Need to scrape all games with Scraper and install themes
+Need to scrape all games with Scraper and install ES-DE RetroBenny-PS2 theme, plus SyncThing for games and game saves
+Can either USB tether connection from my phone or use USB WiFi receiver
+Need to find crt-guest-advanced-ntsc shader for all PS1-below games
 ## NES:
 Castlevania
 Blaster Master

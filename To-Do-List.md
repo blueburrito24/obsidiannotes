@@ -13,7 +13,7 @@ I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobit
 should do a study on the artstyle of late jojos part 1/early part 2 manga
 \--------------------------------------
 download opentoonz for animation
-set up adguard home and tailscale
+ask baba for smarty login and save it to bitwarden
 \--------------------------------------
 plc:
 ![[{A61D47FE-E530-4E13-BB1B-ED73CDF948DD}.png]]
@@ -39,9 +39,7 @@ FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 -adapt hci unit 3
 
 -set up website for launching with VSCode using kamalpreet's guide
--work on Product Listing Adjustment for the tp website
--work on Customer Support Interaction after Ayomide uploads his renewed admin page
-\+ provide visual polishing for the website like branding imagery and website ui design
+-work on item reviewing system
 
 -dig through infosec lecture 1, 2 and the infosec book by pfleeger for case studies to document
 -make annotations and build on moc using pfleeger section 2.3 for core reading (week 2)
