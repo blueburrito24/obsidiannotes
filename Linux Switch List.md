@@ -31,7 +31,7 @@ This is a list of important items for when I switch to Fedora (Linux):
   - TRsMonolithic
   - TRsPixelSharp
 - Ente Auth
-- Stremio
+- Stremio Enhanced
 - Obsidian
 - Git (terminal uses Bash already)
 - Ghostty for Terminal

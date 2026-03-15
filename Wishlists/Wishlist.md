@@ -13,8 +13,6 @@ kanban-plugin: board
 - [ ] [RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
 - [ ] [Retroid Pocket Flip 2](https://www.goretroid.com/en-gb/collections/retro-game-system/products/retroid-pocket-flip-2?variant=47137820901600) 173.76gbp with worry-free shipping
 	![[Pasted image 20260314220803.png]]
-- [ ] [GAMESIR Cyclone 2](https://amzn.eu/d/0eV6arvi) 47.59gbp
-	![[Pasted image 20260314172101.png]]
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make sticker sheets of my OCs
 - [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
