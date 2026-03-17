@@ -1,6 +1,7 @@
 how I'd record commentary videos:
 find a booth on uni campus (not in the library) and record myself doing the commentary, then do gameplay recordings at home
 microphone for commentary in [[Wishlist]]
+when I "splice" game footage, I'll do a visual transition of quick cuts of me closing a game window, going onto Steam, pulling up another game and then it cuts to the next game footage.
 
 -"but when i win a 200v1"
 discussing my experience being bullied in an all-boys secondary school over 4 years for a misconception, I'd be retelling events on a timeline from me studying in tuition in primary to me leaving secondary school
@@ -42,3 +43,7 @@ discussing the unique perspective of holding beliefs above all else and how it f
 \(3. a lot of things that are normal now aren't morally right in Islam, however it's the acts that are disliked not the people -> seeing people engage in that stuff so often does annoy me
 \(4. in another video I talked about how I hate social media, extending off of that I hate seeing my own people (i.e., Muslims) doing misdeeds on social media
 BG Footage -> Spider-Man Shattered Dimensions
+
+"you are a slave"
+discussing how we are all slaves to something, whether it is a God we worship or chasing what we want i.e., desires; extending to examples like music, gluttony, hedonism.
+BG Footage -> Street Fighter Alpha III: Third Strike spliced with Minecraft
