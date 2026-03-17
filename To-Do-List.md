@@ -20,6 +20,7 @@ plc:
 infosec:
 ![[Pasted image 20260222213119.png]]
 ![[{706EF3C6-4292-4556-A8F8-07A6E904F53A}.png]]
+![[{77E9F71B-86CE-4D7D-BEF1-10ED2D138996}.png]]
 \--------------------------------------
 -infosec unit 3 & tutorial 3
 -infosec unit 4 & tutorial 4
