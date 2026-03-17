@@ -1,6 +1,6 @@
-Need to scrape all games with Scraper and install ES-DE RetroBenny-PS2 theme, plus SyncThing for games and game saves
-Can either USB tether connection from my phone or use USB WiFi receiver
-Need to find crt-guest-advanced-ntsc shader for all PS1-below games
+Need to scrape all games with Scraper and install ES-DE RetroBenny-PS2 and XMB theme
+Can USB tether connection from my phone
+ALL ==HIGHLIGHTED GAMES== ARE NOT CURRENTLY DOWNLOADED
 ## NES:
 Castlevania
 Blaster Master
@@ -83,8 +83,13 @@ Marvel Vs Capcom: Clash of Super Heroes
 Street Fighter Alpha 3
 Super Street Fighter II Turbo
 19XX: The War Against Destiny
-Red Earth
 Vampire Saviour: The Lord of Vampire
+==Battle Circuit==
+==X-Men: Children of the Atom==
+==Mega Man 2: The Power Fighters==
+==Armored Warriors==
+==Dungeons & Dragons: Tower of Doom==
+==Progear==
 ## CPS3:
 JoJo's Venture
 Red Earth
@@ -100,11 +105,11 @@ Art of Fighting 3: The Path of the Warrior
 Ninja Commando
 World Heroes 2
 Crossed Swords 2
+Viewpoint
 ## Dreamcast:
 Sonic Adventure
 Sonic Adventure 2
 Crazy Taxi
-Rayman 3
 ## Portmaster:
 SorR (Streets of Rage Remake)
 Sonic CD
@@ -116,8 +121,6 @@ Sonic Robo Blast 2
 Sonic Triple Trouble 16-Bit
 LBreakoutHD
 Grand Theft Auto Vice City
-Celeste (need to remove Steam DRM using Goldberg and then use those game files)
-Dead Cells (need to remove Steam DRM using Goldberg and then use those game files)
 MineSector (MineSweeper clone)
 2048
 Shovel Knight Treasure Trove
