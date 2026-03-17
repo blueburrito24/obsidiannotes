@@ -37,8 +37,8 @@ BG Footage -> Super Street Fighter II Turbo
 
 -"it's really hard to communicate with others while holding prejudice"
 discussing the unique perspective of holding beliefs above all else and how it forms pre-conceived notions about certain people; 
-1. in Islam we're taught that lying is wrong -> I hate lying and liars acutely
-2. having belief makes me look at people who don't believe in any God with detachment -> I don't feel the same way about their opinions as I do for others
-3. a lot of things that are normal now aren't morally right in Islam, however it's the acts that are disliked not the people -> seeing people engage in that stuff so often does annoy me
-4. in another video I talked about how I hate social media, extending off of that I hate seeing my own people (i.e., Muslims) doing misdeeds on social media
+\(1. in Islam we're taught that lying is wrong -> I hate lying and liars acutely
+\(2. having belief makes me look at people who don't believe in any God with detachment -> I don't feel the same way about their opinions as I do for others
+\(3. a lot of things that are normal now aren't morally right in Islam, however it's the acts that are disliked not the people -> seeing people engage in that stuff so often does annoy me
+\(4. in another video I talked about how I hate social media, extending off of that I hate seeing my own people (i.e., Muslims) doing misdeeds on social media
 BG Footage -> Spider-Man Shattered Dimensions
