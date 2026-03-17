@@ -46,6 +46,7 @@ Animal Crossing: Wild World
 Threads of Fate
 Blaster Master: Blasting Again
 Spider-Man
+==Marvel Vs. Capcom: Clash of Super Heroes==
 Castlevania Symphony of the Night
 Castlevania Chronicles
 Crash Bandicoot Collection
