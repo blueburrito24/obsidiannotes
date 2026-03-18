@@ -1,7 +1,7 @@
 how I'd record commentary videos:
 find a booth on uni campus (not in the library) and record myself doing the commentary, then do gameplay recordings at home
 microphone for commentary in [[Wishlist]]
-when I "splice" game footage, I'll do a visual transition of quick cuts of me closing a game window, going onto Steam, pulling up another game and then it cuts to the next game footage.
+when I "splice" game footage, I'll use the Spider-Man 2000 cutscene transition with a pause on the commentary audio. Can also use this for intro and outro.
 
 -"but when i win a 200v1"
 discussing my experience being bullied in an all-boys secondary school over 4 years for a misconception, I'd be retelling events on a timeline from me studying in tuition in primary to me leaving secondary school
