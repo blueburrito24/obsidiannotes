@@ -2,15 +2,16 @@ how I'd record commentary videos:
 find a booth on uni campus (not in the library) and record myself doing the commentary, then do gameplay recordings at home
 microphone for commentary in [[Wishlist]]
 when I "splice" game footage, I'll use the Spider-Man 2000 cutscene transition with a pause on the commentary audio. Can also use this for intro and outro.
+(need to reproduce it at a high quality for my videos)
 
--"but when i win a 200v1"
+-"i'm like naruto if he was hated by his village for being a chud"
 discussing my experience being bullied in an all-boys secondary school over 4 years for a misconception, I'd be retelling events on a timeline from me studying in tuition in primary to me leaving secondary school
 I'd centre the video around how this experience made me more aware of my actions and consequences, going from a stuck-up and lazy child to who I am now.
 BG Footage -> Minecraft gameplay spliced with clips of me drawing
 
 -"getting touched as a dude sucks"
 recounting times I got inappropriately touched in life i.e., getting my nipples pinched in the secondary school changing rooms, getting my waist grabbed in madressah; and showing how its affected my attitude to being open with others
-BG Footage -> Marvel's Spider-Man
+BG Footage -> Marvel's Spider-Man spliced with clips of me drawing
 
 -"why do you want to get groomed bro"
 discussing how I hate "goth mommy gf"/"e-mommy" web-culture and why I do; being groomed by women into altering my lifestyle as a teenager on multiple counts
@@ -30,7 +31,7 @@ BG Footage -> Mirror's Edge spliced with MVC1
 
 -"i hate social media"
 discussing why I don't like social media, how it affects you as a person; dopamine rushing, spreading negativity and degeneracy (even if that is subjective), how I use social media while avoiding these issues
-BG Footage -> Batman Arkham Asylum
+BG Footage -> Batman Arkham Asylum spliced with clips of me drawing
 
 -"what do I do with my life?"
 recounting my lack of life goals and how I developed my own life goals over time, how I struggle working towards them everyday with balancing different things; talking about religion, trying to be a real coder in this age of AI merchants, working against habitual bad attitude
