@@ -15,7 +15,7 @@ BG Footage -> Marvel's Spider-Man spliced with clips of me drawing
 
 -"why do you want to get groomed bro"
 discussing how I hate "goth mommy gf"/"e-mommy" web-culture and why I do; being groomed by women into altering my lifestyle as a teenager on multiple counts
-BG Footage -> Spider-Man 2000 spliced with Balatro
+BG Footage -> Spider-Man 2000 (widescreen hack) spliced with Balatro
 
 -"atp just use ai to annoy artists"
 discussing how I as a person have always lived for fun, in my ignorance and now in my awareness; extending my sort of philosophy to why I think art matters - it's fun and anyone can do it! -> but people take it so serious that they demonise AI to the point of socially distancing others from actually trying art.
