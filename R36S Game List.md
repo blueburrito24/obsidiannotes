@@ -46,7 +46,7 @@ Animal Crossing: Wild World
 Threads of Fate
 Blaster Master: Blasting Again
 Spider-Man
-==Marvel Vs. Capcom: Clash of Super Heroes==
+Marvel Vs. Capcom: Clash of Super Heroes
 Castlevania Symphony of the Night
 Castlevania Chronicles
 Crash Bandicoot Collection
@@ -85,12 +85,12 @@ Street Fighter Alpha 3
 Super Street Fighter II Turbo
 19XX: The War Against Destiny
 Vampire Saviour: The Lord of Vampire
-==Battle Circuit==
-==X-Men: Children of the Atom==
-==Mega Man 2: The Power Fighters==
-==Armored Warriors==
-==Dungeons & Dragons: Tower of Doom==
-==Progear==
+Battle Circuit
+X-Men: Children of the Atom
+Mega Man 2: The Power Fighters
+Armored Warriors
+Dungeons & Dragons: Tower of Doom
+Progear
 ## CPS3:
 JoJo's Venture
 Red Earth
