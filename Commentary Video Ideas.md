@@ -48,3 +48,7 @@ BG Footage -> Spider-Man Shattered Dimensions
 "you are a slave"
 discussing how we are all slaves to something, whether it is a God we worship or chasing what we want i.e., desires; extending to examples like music, gluttony, hedonism.
 BG Footage -> Street Fighter Alpha III: Third Strike spliced with Minecraft
+
+"stop chudmaxxing and appreciate life bro"
+discussing how we should take time to appreciate things despite being in an era full of shortcuts and how we can use that energy to use our time better
+BG Footage -> Luigi's Mansion
