@@ -22,6 +22,16 @@ This is a list of important items for when I switch to Fedora (Linux):
   - Parchment
   - X-Files
   - Anime Ace BB
+  - Vampiress
+  - Docallisme On Street
+  - Next Custom
+  - Sister Spray
+  - The Jacatra
+  - A Another Tag
+  - Blood Crow
+  - Mars Attacks
+  - Bloodsuckers
+  - Punkbabe
 - various Paint.NET plugins:
   - DistortThis
   - Fisheye
