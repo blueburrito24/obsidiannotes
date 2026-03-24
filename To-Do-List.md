@@ -4,13 +4,12 @@ https://cooltext.com/
 
 work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29 (background characters), wipstickers (sgw stickers), 31 (windows icon), whiteboard, 33
 +++++++++++++++++
+oc inspired by og mary jane watson with curly hair
 oc based on the healing ninjutsu lady from shinobi aov, named Urania DX-Termina
 draw the temporal outfit beheaded as my own oc (undead fiery girl)
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
-(also use detailed style for hair etc)
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
 I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
-should do a study on the artstyle of late jojos part 1/early part 2 manga
 \--------------------------------------
 download opentoonz for animation
 ask baba for smarty login and save it to bitwarden

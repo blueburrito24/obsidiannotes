@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
+- [ ] [Regaine Minoxidil Hair Growth Solution 3 month supply](https://amzn.eu/d/09ux3oLt) 45.48gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69

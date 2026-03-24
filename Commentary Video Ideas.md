@@ -4,7 +4,7 @@ microphone for commentary in [[Wishlist]]
 when I "splice" game footage, I'll use the Spider-Man 2000 cutscene transition with a pause on the commentary audio. Can also use this for intro and outro.
 (need to reproduce it at a high quality for my videos)
 
--"i'm like naruto if he was hated by his village for being a chud"
+-"i'm like naruto if the nine tails was a chud"
 discussing my experience being bullied in an all-boys secondary school over 4 years for a misconception, I'd be retelling events on a timeline from me studying in tuition in primary to me leaving secondary school
 I'd centre the video around how this experience made me more aware of my actions and consequences, going from a stuck-up and lazy child to who I am now.
 BG Footage -> Minecraft gameplay spliced with clips of me drawing
