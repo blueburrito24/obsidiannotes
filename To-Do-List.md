@@ -5,21 +5,12 @@ https://cooltext.com/
 work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29 (background characters), wipstickers (sgw stickers), 31 (windows icon), whiteboard, 33
 +++++++++++++++++
 oc inspired by og mary jane watson with curly hair
-oc based on the healing ninjutsu lady from shinobi aov, named Urania DX-Termina
-draw the temporal outfit beheaded as my own oc (undead fiery girl)
+oc based on the healing ninjutsu lady from shinobi aov, named Urania Termina
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
-I'd like to make Shimejis of all my OCs with the proportions of the chibi Chobits characters
+I'd like to make Shimejis of all my OCs with the super puzzle fighter proportions
 \--------------------------------------
 download opentoonz for animation
-ask baba for smarty login and save it to bitwarden
-\--------------------------------------
-plc:
-![[{A61D47FE-E530-4E13-BB1B-ED73CDF948DD}.png]]
-infosec:
-![[Pasted image 20260222213119.png]]
-![[{706EF3C6-4292-4556-A8F8-07A6E904F53A}.png]]
-![[{77E9F71B-86CE-4D7D-BEF1-10ED2D138996}.png]]
 \--------------------------------------
 -infosec unit 3 & tutorial 3
 -infosec unit 4 & tutorial 4
@@ -27,19 +18,14 @@ infosec:
 -plc tutorial 3 (d) & unit 3
 -plc tutorial 4 & unit 4
 -plc tutorial 5 & unit 5
-FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 \--------------------------------------
 -infosec unit 6 & tutorial 6
 -plc tutorial 6 & unit 6
--some sort of progress on my tp tasks
 \--------------------------------------
 -adapt hci induction, unit 1 and book notes onto obsidian
 -adapt infosec lecture 2 and tutorial 2 notes
 -adapt notes from plc unit 1 onto obsidian concepts
 -adapt hci unit 3
-
--set up website for launching with VSCode using kamalpreet's guide
--work on item reviewing system
 
 -dig through infosec lecture 1, 2 and the infosec book by pfleeger for case studies to document
 -make annotations and build on moc using pfleeger section 2.3 for core reading (week 2)
@@ -48,7 +34,7 @@ FOCUS ON PLC AS THERE IS A QUIZ NEXT WEEK
 - c tutorial
 - make a something c program!
 \--------------------------------------
-animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders, Jekyll and Hyde
+BOOKS; animal world, Undisputed Street Fighter, The Culture of Digital Fighting Games: Performance and Practice, Hobbit, The Ghost in the Machine, The Outsiders, Jekyll and Hyde
 \--------------------------------------
 should watch AMAU and saudi scholar videos to learn about hadith
 \--------------------------------------
