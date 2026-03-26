@@ -105,3 +105,7 @@ They finalise their packing and leave for their first adventure+
 ### Skull Shore Camp (Unfinished)
 - a seemingly abandoned military camp in the arctic
 (running into ghosts and furmaids, running around in fear but eventually finding solid ground with them, **realising that even when thrown in a bad situation, we should make the best of it**)
+### Luminos (Unfinished)
+- a large, tight-knit town where darkness is purity
+- everyone dresses in dark clothing and wear all sorts of dark aesthetics
+- the best hotel in town is a super creepy mansion and the owner's employees are all his children, his most popular employee his his darkest-dressing daughter Jessica (need to design)

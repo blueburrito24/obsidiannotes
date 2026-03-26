@@ -2,9 +2,9 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
-work on wipdoodles19/21\* (blue and yellow art), wipdoodles23\* (alien oc), 25 (blue and yellow landscape art), 28\* (monkey ocs), 29 (background characters), wipstickers (sgw stickers), 31 (windows icon), whiteboard, 33
+I want to do some Sakura and Ryu drawings; reference Sakura's [concept art](https://game.capcom.com/cfn/sfv/column/132442?lang=en) to make a censored design
 +++++++++++++++++
-oc inspired by og mary jane watson with curly hair
+black goth oc with mjw dimples
 oc based on the healing ninjutsu lady from shinobi aov, named Urania Termina
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
