@@ -4,7 +4,7 @@ https://cooltext.com/
 
 I want to do some Sakura and Ryu drawings; reference Sakura's [concept art](https://game.capcom.com/cfn/sfv/column/132442?lang=en) to make a censored design
 +++++++++++++++++
-black goth oc with mjw dimples
+black goth oc with mjw dimples and kohaku-style hair
 oc based on the healing ninjutsu lady from shinobi aov, named Urania Termina
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
