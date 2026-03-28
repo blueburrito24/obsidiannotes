@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Retroid Pocket 2S](https://uk.webuy.com/product-detail/?id=SHGPRETPOC2S4128GREA&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=CFE998C13A10520E7D873E70C3703EB6&position=1) 110gbp
+	![[Pasted image 20260328235501.png]]
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Regaine Minoxidil Hair Growth Solution 3 month supply](https://amzn.eu/d/09ux3oLt) 45.48gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
@@ -16,8 +18,6 @@ kanban-plugin: board
 - [ ] [Amazon Basics Portable Microphone](https://amzn.eu/d/08OssEXJ) 20.78gbp
 	^ Buying this to record commentary videos
 	![[Pasted image 20260317094401.png]]
-- [ ] [Retroid Pocket Flip 2](https://www.goretroid.com/en-gb/collections/retro-game-system/products/retroid-pocket-flip-2?variant=47137820901600) 173.76gbp with worry-free shipping
-	![[Pasted image 20260314220803.png]]
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make sticker sheets of my OCs
 - [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
