@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] [Retroid Pocket 2S](https://uk.webuy.com/product-detail/?id=SHGPRETPOC2S4128GREA&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=CFE998C13A10520E7D873E70C3703EB6&position=1) 110gbp
 	![[Pasted image 20260328235501.png]]
+	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
+	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Regaine Minoxidil Hair Growth Solution 3 month supply](https://amzn.eu/d/09ux3oLt) 45.48gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
@@ -40,6 +42,22 @@ kanban-plugin: board
 	![[Pasted image 20260222074204.png]]
 
 
+## Figures
+
+- [ ] [SH FIGUARTS GAMERVERSE Spider-Man](https://hobby-genki.com/en/shfiguarts/61004-shfiguarts-spider-man-gamerverse-action-figure-4573102687524.html) 85gbp~ (converted from jpy)
+	[Alt link](https://www.comicsandcocktails.co.uk/store/**PRE-ORDER**-Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p778175149) 99.99gbp
+	![[Pasted image 20260329161330.png]]
+	I want to recast the abdomen piece (use [this tutorial](https://www.youtube.com/watch?v=lCL84-pv6FM)) and split it in half to create a more poseable abdomen piece using a [joint set](https://www.aliexpress.com/item/1005006807926035.html) 4.15gbp
+	See below images for a similar mod by B_Gara_Aki
+	![[Pasted image 20260329161312.png]]
+	![[Pasted image 20260329161321.png]]
+	![[Pasted image 20260329161327.png]]
+- [ ] [SH FIGUARTS Across The Spider-Verse Scarlet Spider](https://www.nin-nin-game.com/en/bandai/189858-shfiguarts-spider-man-across-the-spider-verse-scarlet-spider-bandai-spirits-.html) 58.81gbp~ (converted from jpy)
+	![[Pasted image 20260329161824.png]]
+	![[Pasted image 20260329161737.png]]
+	Going to do [this articulation mod](https://www.instagram.com/p/DUR030EEX_d/?img_index=1) and remove the cel shading as seen in the above AI preview.
+
+
 ***
 
 ## Archive
@@ -50,6 +68,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
