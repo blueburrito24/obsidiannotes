@@ -44,6 +44,9 @@ kanban-plugin: board
 
 ## Figures
 
+- [ ] [Alligator Clip Stand for customising](https://amzn.eu/d/0i5Bo7d8) 10.99gbp
+	[Blue Stuff for recasting](https://amzn.eu/d/02S2O2IW) 8gbp
+	[Milliput Epoxy Putty White](https://amzn.eu/d/0hStDlz6) 8.99gbp
 - [ ] [SH FIGUARTS GAMERVERSE Spider-Man](https://hobby-genki.com/en/shfiguarts/61004-shfiguarts-spider-man-gamerverse-action-figure-4573102687524.html) 85gbp~ (converted from jpy)
 	[Alt link](https://www.comicsandcocktails.co.uk/store/**PRE-ORDER**-Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p778175149) 99.99gbp
 	![[Pasted image 20260329161330.png]]
@@ -52,10 +55,16 @@ kanban-plugin: board
 	![[Pasted image 20260329161312.png]]
 	![[Pasted image 20260329161321.png]]
 	![[Pasted image 20260329161327.png]]
-- [ ] [SH FIGUARTS Across The Spider-Verse Scarlet Spider](https://www.nin-nin-game.com/en/bandai/189858-shfiguarts-spider-man-across-the-spider-verse-scarlet-spider-bandai-spirits-.html) 58.81gbp~ (converted from jpy)
-	![[Pasted image 20260329161824.png]]
-	![[Pasted image 20260329161737.png]]
-	Going to do [this articulation mod](https://www.instagram.com/p/DUR030EEX_d/?img_index=1) and remove the cel shading as seen in the above AI preview.
+	If possible, I should remove the waist back-cover and modify the joint system at the waist to allow for strafing
+- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	![[Pasted image 20260329204039.png]]
+	Will remove face.
+- [ ] [SH FIGUARTS JoJo's BIzarre Adventure Joseph Joestar](https://www.nin-nin-game.com/en/jojo-s-bizarre-adventure/181254-shfiguarts-jojo-s-bizarre-adventure-battle-tendency-joseph-joestar-bandai-spirits-.html) 45.86gbp
+	![[Pasted image 20260329210044.png]]
+	Will remove face.
+- [ ] [SH FIGUARTS Haikyuu!! Shoyo Hinata](https://www.nin-nin-game.com/en/shfiguarts/185796-shfiguarts-haikyuu-shoyo-hinata-bandai-spirits-.html) 34.53gbp
+	![[Pasted image 20260329211456.png]]
+	Will remove face.
 
 
 ***
