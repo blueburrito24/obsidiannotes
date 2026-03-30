@@ -65,6 +65,9 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS Haikyuu!! Shoyo Hinata](https://www.nin-nin-game.com/en/shfiguarts/185796-shfiguarts-haikyuu-shoyo-hinata-bandai-spirits-.html) 34.53gbp
 	![[Pasted image 20260329211456.png]]
 	Will remove face.
+- [ ] [SH FIGUARTS ALL MIGHT](https://tamashiiweb.com/item/15793/?wovn=en) 60gbp~ (announced as 12,100 jpy)
+	![[Pasted image 20260330050154.png]]
+	Preorders open April 3, releases October
 
 
 ***
