@@ -2,10 +2,14 @@ Always check [[app and project ideas]].
 Always check Pinterest!!
 https://cooltext.com/
 
+![[Pasted image 20260330180608.png]]
++++++++++++++++++
 I want to do some Sakura and Ryu drawings; reference Sakura's [concept art](https://game.capcom.com/cfn/sfv/column/132442?lang=en) to make a censored design
 +++++++++++++++++
 black goth oc with mjw dimples and kohaku-style hair
-oc based on the healing ninjutsu lady from shinobi aov, named Urania Termina
+oc with utero twin that reincarnates as a cursed spirit that comes out their back
+![[Pasted image 20260330180542.png]]
++++++++++++++++++
 draw blue struggling to floss her teeth, could be four panels of different ways of flossing with the final panel being her eating a sandwich
 draw all my ocs hanging out and eating fruit in a hut (there should be a stylish wall clock)
 I'd like to make Shimejis of all my OCs with the super puzzle fighter proportions
