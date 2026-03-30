@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] [Retroid Pocket 2S](https://uk.webuy.com/product-detail/?id=SHGPRETPOC2S4128GREA&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=CFE998C13A10520E7D873E70C3703EB6&position=1) 110gbp
-	![[Pasted image 20260328235501.png]]
+- [ ] [Anbernic RG405M](https://uk.webuy.com/product-detail/?id=SHGPANBRG405MBB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=079040D22A12702E27C78B618CEF6FA2&position=2) 82gbp
+	![[Pasted image 20260330175530.png]]
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
