@@ -56,18 +56,15 @@ kanban-plugin: board
 	![[Pasted image 20260329161321.png]]
 	![[Pasted image 20260329161327.png]]
 	If possible, I should remove the waist back-cover and modify the joint system at the waist to allow for strafing
-- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	![[Pasted image 20260329204039.png]]
-	Will remove face.
-- [ ] [SH FIGUARTS JoJo's BIzarre Adventure Joseph Joestar](https://www.nin-nin-game.com/en/jojo-s-bizarre-adventure/181254-shfiguarts-jojo-s-bizarre-adventure-battle-tendency-joseph-joestar-bandai-spirits-.html) 45.86gbp
-	![[Pasted image 20260329210044.png]]
-	Will remove face.
 - [ ] [SH FIGUARTS Haikyuu!! Shoyo Hinata](https://www.nin-nin-game.com/en/shfiguarts/185796-shfiguarts-haikyuu-shoyo-hinata-bandai-spirits-.html) 34.53gbp
 	![[Pasted image 20260329211456.png]]
 	Will remove face.
 - [ ] [SH FIGUARTS ALL MIGHT](https://tamashiiweb.com/item/15793/?wovn=en) 60gbp~ (announced as 12,100 jpy)
 	![[Pasted image 20260330050154.png]]
-	Preorders open April 3, releases October
+	Preorders open April 3, releases October.
+- [ ] [Whale Works 1/12 Male Body](https://www.aliexpress.com/item/1005011748464686.html) 46.61gbp
+	![[Pasted image 20260330072114.png]]
+	Releases August.
 
 
 ***
