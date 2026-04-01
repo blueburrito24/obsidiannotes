@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] [Anbernic RG405M](https://uk.webuy.com/product-detail/?id=SHGPANBRG405MBB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=079040D22A12702E27C78B618CEF6FA2&position=2) 82gbp
+- [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
 	![[Pasted image 20260330175530.png]]
+	[GammaOS is a must!](https://youtu.be/BD0ab1gr4gM?si=8l2qbJedmb3yZ7qA)
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
-- [ ] [Regaine Minoxidil Hair Growth Solution 3 month supply](https://amzn.eu/d/09ux3oLt) 45.48gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
@@ -42,31 +42,6 @@ kanban-plugin: board
 	![[Pasted image 20260222074204.png]]
 
 
-## Figures
-
-- [ ] [Alligator Clip Stand for customising](https://amzn.eu/d/0i5Bo7d8) 10.99gbp
-	[Blue Stuff for recasting](https://amzn.eu/d/02S2O2IW) 8gbp
-	[Milliput Epoxy Putty White](https://amzn.eu/d/0hStDlz6) 8.99gbp
-- [ ] [SH FIGUARTS GAMERVERSE Spider-Man](https://hobby-genki.com/en/shfiguarts/61004-shfiguarts-spider-man-gamerverse-action-figure-4573102687524.html) 85gbp~ (converted from jpy)
-	[Alt link](https://www.comicsandcocktails.co.uk/store/**PRE-ORDER**-Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p778175149) 99.99gbp
-	![[Pasted image 20260329161330.png]]
-	I want to recast the abdomen piece (use [this tutorial](https://www.youtube.com/watch?v=lCL84-pv6FM)) and split it in half to create a more poseable abdomen piece using a [joint set](https://www.aliexpress.com/item/1005006807926035.html) 4.15gbp
-	See below images for a similar mod by B_Gara_Aki
-	![[Pasted image 20260329161312.png]]
-	![[Pasted image 20260329161321.png]]
-	![[Pasted image 20260329161327.png]]
-	If possible, I should remove the waist back-cover and modify the joint system at the waist to allow for strafing
-- [ ] [SH FIGUARTS Haikyuu!! Shoyo Hinata](https://www.nin-nin-game.com/en/shfiguarts/185796-shfiguarts-haikyuu-shoyo-hinata-bandai-spirits-.html) 34.53gbp
-	![[Pasted image 20260329211456.png]]
-	Will remove face.
-- [ ] [SH FIGUARTS ALL MIGHT](https://tamashiiweb.com/item/15793/?wovn=en) 60gbp~ (announced as 12,100 jpy)
-	![[Pasted image 20260330050154.png]]
-	Preorders open April 3, releases October.
-- [ ] [Whale Works 1/12 Male Body](https://www.aliexpress.com/item/1005011748464686.html) 46.61gbp
-	![[Pasted image 20260330072114.png]]
-	Releases August.
-
-
 ***
 
 ## Archive
@@ -77,6 +52,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
