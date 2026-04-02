@@ -10,6 +10,8 @@ black goth oc with mjw dimples and kohaku-style hair
 +++++++++++++++++
 buff oc with bangs that has cuts all over her body so her lack of sweat glands means she doesn't get very dirty
 +++++++++++++++++
+feminine asian dude oc with ginger hair
++++++++++++++++++
 oc with utero twin that reincarnates as a cursed spirit that comes out their back
 ![[Pasted image 20260330180542.png]]
 +++++++++++++++++

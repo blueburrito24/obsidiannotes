@@ -6,6 +6,14 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Flatbox Keyboard Fightpad](https://www.aliexpress.com/item/1005005993974374.html) 26.79gbp
+	![[Pasted image 20260402030816.png]]
+	^ Black-KB-003, Cherry Red Switch
+- [ ] [GPD Win Max](https://www.ebay.co.uk/itm/286822805620) 467.98gbp
+	![[Pasted image 20260402032351.png]]
+	Would use my 256GB microSD for games and use the device as a whole for a portable workstation.
+	[Alternate link](https://www.ebay.co.uk/itm/157594487224) 384.81gbp
+	^ If the other listing does down, although this is the less powerful 2020 model.
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
 	![[Pasted image 20260330175530.png]]
 	[GammaOS is a must!](https://youtu.be/BD0ab1gr4gM?si=8l2qbJedmb3yZ7qA)
