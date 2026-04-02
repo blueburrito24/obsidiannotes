@@ -9,15 +9,11 @@ kanban-plugin: board
 - [ ] [Flatbox Keyboard Fightpad](https://www.aliexpress.com/item/1005005993974374.html) 26.79gbp
 	![[Pasted image 20260402030816.png]]
 	^ Black-KB-003, Cherry Red Switch
-- [ ] [GPD Win Max](https://www.ebay.co.uk/itm/286822805620) 467.98gbp
-	![[Pasted image 20260402032351.png]]
-	Would use my 256GB microSD for games and use the device as a whole for a portable workstation.
-	[Alternate link](https://www.ebay.co.uk/itm/157594487224) 384.81gbp
-	^ If the other listing does down, although this is the less powerful 2020 model.
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
 	![[Pasted image 20260330175530.png]]
 	[GammaOS is a must!](https://youtu.be/BD0ab1gr4gM?si=8l2qbJedmb3yZ7qA)
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
+	GGPO (Fightcade clone) for online fg like SFIII3rd.
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
@@ -42,6 +38,12 @@ kanban-plugin: board
 
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
+- [ ] [MadEngine Spider-Man Tee](https://www.ebay.co.uk/itm/147215687030) 43.38gbp
+	![[Pasted image 20260402042653.png]]
+- [ ] [MadEngine Spider-Man Tee](https://www.ebay.co.uk/itm/136824483070) 37.27gbp
+	![[Pasted image 20260402042813.png]]
+- [ ] [Universal Studios Spider-Man Tee](https://www.ebay.co.uk/itm/147209763134?_trksid=p2332490.c101196.m2219) 43.38gbp
+	![[Pasted image 20260402043637.png]]
 - [ ] [Long-sleeve Tee](https://www.boohooman.com/product/boohooman-basic-oversized-long-sleeve-crew-neck-t-shirt_cmm23061?colour=black) 8.40gbp
 	![[Pasted image 20260309193633.png]]
 - [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
