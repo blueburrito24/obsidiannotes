@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	![[Pasted image 20260402043859.png]]
+- [ ] [Revoltech Genos KO](https://www.aliexpress.com/item/1005011659137639.html) 31.99gbp
+	![[Pasted image 20260402043816.png]]
+- [ ] [SH FIGUARTS Haikyuu!! Shoyo Hinata](https://www.nin-nin-game.com/en/shfiguarts/185796-shfiguarts-haikyuu-shoyo-hinata-bandai-spirits-.html) 34.76gbp
+	![[Pasted image 20260402043736.png]]
 - [ ] [Flatbox Keyboard Fightpad](https://www.aliexpress.com/item/1005005993974374.html) 26.79gbp
 	![[Pasted image 20260402030816.png]]
 	^ Black-KB-003, Cherry Red Switch
