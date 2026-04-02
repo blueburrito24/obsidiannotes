@@ -6,21 +6,21 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	![[Pasted image 20260402043859.png]]
-- [ ] [Revoltech Genos KO](https://www.aliexpress.com/item/1005011659137639.html) 31.99gbp
-	![[Pasted image 20260402043816.png]]
-- [ ] [SH FIGUARTS Haikyuu!! Shoyo Hinata](https://www.nin-nin-game.com/en/shfiguarts/185796-shfiguarts-haikyuu-shoyo-hinata-bandai-spirits-.html) 34.76gbp
-	![[Pasted image 20260402043736.png]]
-- [ ] [Flatbox Keyboard Fightpad](https://www.aliexpress.com/item/1005005993974374.html) 26.79gbp
-	![[Pasted image 20260402030816.png]]
-	^ Black-KB-003, Cherry Red Switch
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
 	![[Pasted image 20260330175530.png]]
 	[GammaOS is a must!](https://youtu.be/BD0ab1gr4gM?si=8l2qbJedmb3yZ7qA)
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
 	GGPO (Fightcade clone) for online fg like SFIII3rd.
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
+- [ ] [Flatbox Keyboard Fightpad](https://www.aliexpress.com/item/1005005993974374.html) 26.79gbp
+	![[Pasted image 20260402030816.png]]
+	^ Black-KB-003, Cherry Red Switch
+- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	![[Pasted image 20260402043859.png]]
+- [ ] [Revoltech Genos KO](https://www.aliexpress.com/item/1005011659137639.html) 31.99gbp
+	![[Pasted image 20260402043816.png]]
+- [ ] [SH FIGUARTS Haikyuu!! Shoyo Hinata](https://www.nin-nin-game.com/en/shfiguarts/185796-shfiguarts-haikyuu-shoyo-hinata-bandai-spirits-.html) 34.76gbp
+	![[Pasted image 20260402043736.png]]
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
