@@ -36,6 +36,8 @@ kanban-plugin: board
 
 ## Clothes
 
+- [ ] [White Tee](https://www.boohooman.com/product/boohooman-tall-basic-crew-neck-regular-fit-t-shirt_cmm20343?colour=white&size=XL) 8gbp
+	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
 - [ ] [MadEngine Spider-Man Tee](https://www.ebay.co.uk/itm/274841273041) 45.64gbp
