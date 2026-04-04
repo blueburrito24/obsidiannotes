@@ -15,6 +15,8 @@ kanban-plugin: board
 - [ ] [Flatbox Keyboard Fightpad](https://www.aliexpress.com/item/1005005993974374.html) 26.79gbp
 	![[Pasted image 20260402030816.png]]
 	^ Black-KB-003, Cherry Silent Red
+- [ ] [Kobo Clara E-Reader](https://amzn.eu/d/09Nf3nhD) 109.99gbp
+	![[Pasted image 20260403233225.png]]
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
@@ -52,6 +54,8 @@ kanban-plugin: board
 	![[Pasted image 20260403193529.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 	![[Pasted image 20260403193552.png]]
+- [ ] [Cotton Pyjama Pants](https://www.matalan.co.uk/p/clothing/navy-check-jacquard-woven-pyjama-bottoms/17433334/) 12gbp
+	![[Pasted image 20260404170436.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 31.50gbp
 	![[Pasted image 20260222074204.png]]
 

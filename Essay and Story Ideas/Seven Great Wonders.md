@@ -78,6 +78,7 @@ Barakim sits with his two children and recommends Blue and Yellow to visit Baron
 # Issue 1
 Blue retells her boring life+
 (worked a boring job, saved up a ton but didn't know what to do with it, didn't hang around many people, never does what she likes but what's "best*)
+Yells that she doesn't want to live the same life ever again, and gets dressed into some random clothes and rips off her ponytail with her hair exploding into model
 She walks up to her everyday cafe and thinks, "I know! I'll marry the first guy I see, that'll be interesting..." and sees a scary looking guy, Yellow+
 She sits in front of Yellow while he's mid-bite in a pancake, looks him dead in the eyes and says "Let me be your partner!"
 # Issue 2

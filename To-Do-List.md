@@ -8,6 +8,20 @@ I want to do some Sakura and Ryu drawings; reference Sakura's [concept art](http
 +++++++++++++++++
 black goth oc with mjw dimples and kohaku-style hair
 +++++++++++++++++
+remy fanart (with both default and my own pals)
+have imagery of his command inputs and him doing the moves
+feature my catchphrase "boom ,boom ,BOOM!" with his supreme rising rage flash
++++++++++++++++++
+comic of blue leaning back on a sink flusteredly asking yellow out and then it cuts to him on the toilet with a "are you srs" expression
+panel 1 - O shape mouth
+panel 2 - A shape mouth
+panel 3 - E shape mouth
+blue wearing a baggy black spidey crop top and baggy bottoms
++++++++++++++++++
+side view blue shaving her bush
++++++++++++++++++
+art of blue and yellow falling past each other but she's pulling him away from his direction + shaky fast dull bg
++++++++++++++++++
 buff oc with bangs that has cuts all over her body so her lack of sweat glands means she doesn't get very dirty
 +++++++++++++++++
 feminine asian dude oc with ginger hair
