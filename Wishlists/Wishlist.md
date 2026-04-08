@@ -34,15 +34,13 @@ kanban-plugin: board
 	![[Pasted image 20260116222650.png]]
 	![[Pasted image 20260126123638.png]]
 - [ ] [JADA TOYS Evil Ryu](https://www.ebay.co.uk/itm/205989282018) 50.88gbp
-	[White Cloth Gi](https://www.aliexpress.com/item/1005008401644125.html) 23.27gbp
 	![[Pasted image 20260408231523.png]]
-	Buying a white gi with Evil Ryu for a more natural look than the regular Ryu.
 	*Need to remove eyes*
 - [ ] [MARVEL LEGENDS Maximum Series Spider-Man KO](https://www.aliexpress.com/item/1005010535732213.html) 34.49gbp
 	![[Pasted image 20260408231916.png]]
-- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	![[Pasted image 20260408232421.png]]
-	*Need to remove eyes*
+- [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
+	![[Pasted image 20260408234128.png]]
+	Might buy 2 (one grey, one peach)
 
 
 ## Clothes
