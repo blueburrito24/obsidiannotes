@@ -14,8 +14,6 @@ kanban-plugin: board
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
 - [ ] [Haute42 Hauteboard B16](https://www.aliexpress.com/item/1005006635383497.html) 32.69gbp
 	![[Pasted image 20260407124804.png]]
-- [ ] [Kobo Clara E-Reader](https://amzn.eu/d/09Nf3nhD) 109.99gbp
-	![[Pasted image 20260403233225.png]]
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
@@ -41,8 +39,6 @@ kanban-plugin: board
 	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
-- [ ] [Universal Studios Spider-Man Tee](https://www.ebay.co.uk/itm/147209763134?_trksid=p2332490.c101196.m2219) 43.38gbp
-	![[Pasted image 20260402043637.png]]
 - [ ] [Long-sleeve Tee](https://www.boohooman.com/product/boohooman-basic-oversized-long-sleeve-crew-neck-t-shirt_cmm23061?colour=black) 8.40gbp
 	![[Pasted image 20260309193633.png]]
 - [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
