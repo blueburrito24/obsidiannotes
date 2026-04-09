@@ -33,11 +33,6 @@ kanban-plugin: board
 	Could draw something like this below image for the keychain charms
 	![[Pasted image 20260116222650.png]]
 	![[Pasted image 20260126123638.png]]
-- [ ] [JADA TOYS Evil Ryu](https://www.ebay.co.uk/itm/205989282018) 50.88gbp
-	![[Pasted image 20260408231523.png]]
-	*Need to remove eyes*
-- [ ] [MARVEL LEGENDS Maximum Series Spider-Man KO](https://www.aliexpress.com/item/1005010535732213.html) 34.49gbp
-	![[Pasted image 20260408231916.png]]
 - [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
 	![[Pasted image 20260408234128.png]]
 	Might buy 2 (one grey, one peach)
