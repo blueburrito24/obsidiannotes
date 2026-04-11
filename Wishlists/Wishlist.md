@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Slim Messenger Bag](https://www.amazon.co.uk/dp/B079FCH95H) 21.99gbp
+	![[Pasted image 20260411135240.png]]
+- [ ] [Smart Weight Scale](https://www.amazon.co.uk/dp/B0CQJJ8DN4) 14.98gbp
+	![[Pasted image 20260411135137.png]]
+- [ ] [Naruto Frog Wallet](https://www.amazon.co.uk/dp/B0CT39Q585) 13.30gbp
+	![[Pasted image 20260411135034.png]]
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
@@ -21,10 +27,6 @@ kanban-plugin: board
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
-- [ ] [RFID Cards](https://www.amazon.co.uk/WHonor-Blocking-Protector-Contactless-Protection/dp/B0CHHZ323V?dib=eyJ2IjoiMSJ9.3oovWHGg-Tc2LmkMhu1lva1pRWNjmBCC9_wKGJhg9-CbuF1wMvwtMVZCu-dZH5W4bZwesuyTv9Ga_SNwsD1S7KM70ghG3Ivji9gby1X_yA2l-ldbs9QvFkLulVhsgXHAS_XrO2GdpQYgca0Ae61HEsNuv0EsHuKwIgv-jU0HFb1CyyQR4-11EkvebN6Y3TgUrvuyOyElX7m1fm7CCMjxUVRGWZC042d-E0WmPF5YEKnzDG9q8csTLBDKXDnbJUX9meI_O1EaKB6v66lNUKcKOBCZTHXrpbmFR6zQZC1p4nc.qbFclqgKO2To5rtlQMiyww3nbd9douTbFoUkmKSi0Cc&dib_tag=se&keywords=RFID+Cards&qid=1759682979&sr=8-4) 8.99
-- [ ] [Amazon Basics Portable Microphone](https://amzn.eu/d/08OssEXJ) 20.78gbp
-	^ Buying this to record commentary videos
-	![[Pasted image 20260317094401.png]]
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make sticker sheets of my OCs
 - [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
@@ -33,13 +35,27 @@ kanban-plugin: board
 	Could draw something like this below image for the keychain charms
 	![[Pasted image 20260116222650.png]]
 	![[Pasted image 20260126123638.png]]
+- [ ] [Work Lamp](https://www.ikea.com/gb/en/p/forsa-work-lamp-black-80106012/) 15gbp
+	![[Pasted image 20260411164704.png]]
+- [ ] [MESS TOYS Black Suit Spider-Man](https://www.aliexpress.com/item/1005010151548170.html) 32.99gbp
+	[CT TOYS ANAD Spider-Man](https://www.aliexpress.com/item/1005010274247653.html) 24.19gbp
+	![[Pasted image 20260411164835.png]]
+- [ ] [MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151400819.html) 33.19gbp
+	![[Pasted image 20260411164905.png]]
+- [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html) 27.39gbp
+	![[Pasted image 20260411164927.png]]
 - [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
 	![[Pasted image 20260408234128.png]]
 	Might buy 2 (one grey, one peach)
+- [ ] [REVOLTECH Weapons Pack](https://www.aliexpress.com/item/1005009759684830.html) 24.39gbp
 
 
 ## Clothes
 
+- [ ] [How to make custom graphic tees](https://www.youtube.com/watch?v=t1QSgRSzoFY)
+	[Transfer Paper A4](https://amzn.eu/d/0f3YUdwo) 5.99gbp
+	I would do this on the white and black tees, need to make my own graphics using edited comic images etc.
+	For example I could have a collage of Spider-Man art by Angel Medina in pure black and white (med contrast) with some paint splatters, then on the back have a big Spider-Man logo.
 - [ ] [White Tee](https://www.boohooman.com/product/boohooman-tall-basic-crew-neck-regular-fit-t-shirt_cmm20343?colour=white&size=XL) 8gbp
 	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
