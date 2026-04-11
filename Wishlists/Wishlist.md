@@ -29,25 +29,8 @@ kanban-plugin: board
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 - [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
 	*Need to make sticker sheets of my OCs
-- [ ] [Custom Phone Charm](https://www.etsy.com/uk/listing/1884791956) 10.20
-	[Custom Keychain Charm](https://www.etsy.com/uk/listing/1842800104) 14
-	*Need to provide my own drawings and details for the charms
-	Could draw something like this below image for the keychain charms
-	![[Pasted image 20260116222650.png]]
-	![[Pasted image 20260126123638.png]]
 - [ ] [Work Lamp](https://www.ikea.com/gb/en/p/forsa-work-lamp-black-80106012/) 15gbp
 	![[Pasted image 20260411164704.png]]
-- [ ] [MESS TOYS Black Suit Spider-Man](https://www.aliexpress.com/item/1005010151548170.html) 32.99gbp
-	[CT TOYS ANAD Spider-Man](https://www.aliexpress.com/item/1005010274247653.html) 24.19gbp
-	![[Pasted image 20260411164835.png]]
-- [ ] [MESS TOYS Scarlet Spider](https://www.aliexpress.com/item/1005010151400819.html) 33.19gbp
-	![[Pasted image 20260411164905.png]]
-- [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html) 27.39gbp
-	![[Pasted image 20260411164927.png]]
-- [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
-	![[Pasted image 20260408234128.png]]
-	Might buy 2 (one grey, one peach)
-- [ ] [REVOLTECH Weapons Pack](https://www.aliexpress.com/item/1005009759684830.html) 24.39gbp
 
 
 ## Clothes
@@ -60,18 +43,29 @@ kanban-plugin: board
 	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
-- [ ] [Long-sleeve Tee](https://www.boohooman.com/product/boohooman-basic-oversized-long-sleeve-crew-neck-t-shirt_cmm23061?colour=black) 8.40gbp
-	![[Pasted image 20260309193633.png]]
 - [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
 	![[Pasted image 20260309092112.png]]
 - [ ] [Washed Blue Jeans](https://www.boohooman.com/product/boohooman-tall-balloon-baggy-fit-jeans_cmm03627?colour=light+wash) 20gbp
 	![[Pasted image 20260403193529.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 	![[Pasted image 20260403193552.png]]
-- [ ] [Cotton Pyjama Pants](https://www.matalan.co.uk/p/clothing/navy-check-jacquard-woven-pyjama-bottoms/17433334/) 12gbp
-	![[Pasted image 20260404170436.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 31.50gbp
 	![[Pasted image 20260222074204.png]]
+
+
+## Figures
+
+- [ ] [MESS TOYS Black Suit Spider-Man](https://www.aliexpress.com/item/1005010151548170.html) 32.99gbp
+	[CT TOYS ANAD Spider-Man](https://www.aliexpress.com/item/1005010274247653.html) 24.19gbp
+	![[Pasted image 20260411164835.png]]
+- [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html) 27.39gbp
+	![[Pasted image 20260411164927.png]]
+- [ ] [REVOLTECH Eren Yaeger KO](https://www.aliexpress.com/item/1005011745797243.html) 15.39gbp
+	![[Pasted image 20260411192010.png]]
+- [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
+	![[Pasted image 20260408234128.png]]
+	Might buy 2 (one grey, one peach)
+- [ ] [REVOLTECH Weapons Pack](https://www.aliexpress.com/item/1005009759684830.html) 24.39gbp
 
 
 ***
@@ -84,6 +78,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
