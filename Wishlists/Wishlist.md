@@ -66,7 +66,7 @@ kanban-plugin: board
 	![[Pasted image 20260413054832.png]]
 - [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html) 27.39gbp
 	![[Pasted image 20260411164927.png]]
-	I can drill holes into the MESS TOYS Symbiote Spider-Man to use the tentacles from Agent Venom on, alongside slapping the Agent Venom legs and head onto the KO Eren Yaegar for an interesting look
+	I can drill holes into the MESS TOYS Symbiote Spider-Man to use the tentacles from Agent Venom on
 - [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
 	![[Pasted image 20260408234128.png]]
 	Might buy 2 (one grey, one peach)
