@@ -55,13 +55,18 @@ kanban-plugin: board
 
 ## Figures
 
+- [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html ) 84.15gbp (+ shipping)
+	![[Pasted image 20260413055338.png]]
+	[CT TOYS 185 Spider-Man](https://www.aliexpress.com/item/1005010162801006.html) 22.99gbp
+	^ for soft waist piece for [articulation mod](https://www.youtube.com/watch?v=WAxvOdniEe0)
+	/-----------------
+	[SH FIGUARTS SSGSS Vegeta](https://www.aliexpress.com/item/1005009622530363.html) 32.99gbp
+	^ for chest joint for [articulation mod](https://www.instagram.com/ar_collector/reel/DW6vTDRCqc_/)
 - [ ] [MESS TOYS Black Suit Spider-Man](https://www.aliexpress.com/item/1005010151548170.html) 32.99gbp
-	[CT TOYS ANAD Spider-Man](https://www.aliexpress.com/item/1005010274247653.html) 24.19gbp
-	![[Pasted image 20260411164835.png]]
+	![[Pasted image 20260413054832.png]]
 - [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html) 27.39gbp
 	![[Pasted image 20260411164927.png]]
-- [ ] [REVOLTECH Eren Yaeger KO](https://www.aliexpress.com/item/1005011745797243.html) 15.39gbp
-	![[Pasted image 20260411192010.png]]
+	I can drill holes into the MESS TOYS Symbiote Spider-Man to use the tentacles from Agent Venom on, alongside slapping the Agent Venom legs and head onto the KO Eren Yaegar for an interesting look
 - [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
 	![[Pasted image 20260408234128.png]]
 	Might buy 2 (one grey, one peach)
