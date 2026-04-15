@@ -47,20 +47,23 @@ kanban-plugin: board
 
 - [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html ) 84.15gbp (+ shipping)
 	![[Pasted image 20260413055338.png]]
-	[CT TOYS 185 Spider-Man](https://www.aliexpress.com/item/1005010162801006.html) 22.99gbp
-	^ for soft waist piece for [articulation mod](https://www.youtube.com/watch?v=WAxvOdniEe0)
+	[CT TOYS ANAD Spider-Man](https://www.aliexpress.com/item/1005010274247653.html) 24.09gbp
+	^ for [waist replacement mod](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/)
+	needs repainting to match rest of body
 	/-----------------
 	[SH FIGUARTS SSGSS Vegeta](https://www.aliexpress.com/item/1005009622530363.html) 32.99gbp
 	^ for chest joint for [articulation mod](https://www.instagram.com/ar_collector/reel/DW6vTDRCqc_/)
+	Here is an example [without gaps](https://www.instagram.com/p/DW-UhPWDd_3)
+	Requires [super glue](https://amzn.eu/d/0iW0NBZt) 3.49gbp
 - [ ] [MESS TOYS Black Suit Spider-Man](https://www.aliexpress.com/item/1005010151548170.html) 32.99gbp
 	![[Pasted image 20260413054832.png]]
 - [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html) 27.39gbp
 	![[Pasted image 20260411164927.png]]
 	I can drill holes into the MESS TOYS Symbiote Spider-Man to use the tentacles from Agent Venom on
+- [ ] [REVOLTECH Weapons Pack](https://www.aliexpress.com/item/1005009759684830.html) 24.39gbp
 - [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
 	![[Pasted image 20260408234128.png]]
 	Might buy 2 (one grey, one peach)
-- [ ] [REVOLTECH Weapons Pack](https://www.aliexpress.com/item/1005009759684830.html) 24.39gbp
 
 
 ## Tech
