@@ -15,10 +15,8 @@ kanban-plugin: board
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
-- [ ] [Custom Sticker Sheet](https://www.etsy.com/uk/listing/1647585384) 4.95
-	*Need to make sticker sheets of my OCs
-- [ ] [Work Lamp](https://www.ikea.com/gb/en/p/forsa-work-lamp-black-80106012/) 15gbp
-	![[Pasted image 20260411164704.png]]
+- [ ] [Sofa Futon Bed](https://amzn.eu/d/0iYNiGoA) 99.95gbp
+	![[Pasted image 20260415072944.png]]
 
 
 ## Clothes
@@ -41,29 +39,6 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 31.50gbp
 	![[Pasted image 20260222074204.png]]
-
-
-## Figures
-
-- [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html ) 84.15gbp (+ shipping)
-	![[Pasted image 20260413055338.png]]
-	[CT TOYS ANAD Spider-Man](https://www.aliexpress.com/item/1005010274247653.html) 24.09gbp
-	^ for [waist replacement mod](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/)
-	needs repainting to match rest of body
-	/-----------------
-	[SH FIGUARTS SSGSS Vegeta](https://www.aliexpress.com/item/1005009622530363.html) 32.99gbp
-	^ for chest joint for [articulation mod](https://www.instagram.com/ar_collector/reel/DW6vTDRCqc_/)
-	Here is an example [without gaps](https://www.instagram.com/p/DW-UhPWDd_3)
-	Requires [super glue](https://amzn.eu/d/0iW0NBZt) 3.49gbp
-- [ ] [MESS TOYS Black Suit Spider-Man](https://www.aliexpress.com/item/1005010151548170.html) 32.99gbp
-	![[Pasted image 20260413054832.png]]
-- [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html) 27.39gbp
-	![[Pasted image 20260411164927.png]]
-	I can drill holes into the MESS TOYS Symbiote Spider-Man to use the tentacles from Agent Venom on
-- [ ] [REVOLTECH Weapons Pack](https://www.aliexpress.com/item/1005009759684830.html) 24.39gbp
-- [ ] [WHALE WORKS Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.67gbp
-	![[Pasted image 20260408234128.png]]
-	Might buy 2 (one grey, one peach)
 
 
 ## Tech
@@ -100,6 +75,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
