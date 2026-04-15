@@ -15,8 +15,6 @@ kanban-plugin: board
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
-- [ ] [Sofa Futon Bed](https://amzn.eu/d/0iYNiGoA) 99.95gbp
-	![[Pasted image 20260415072944.png]]
 
 
 ## Clothes
@@ -46,7 +44,8 @@ kanban-plugin: board
 - [ ] [GMK87 75% Mechanical Keyboard Kit](https://www.aliexpress.com/item/1005006904447893.html) 43.99gbp
 	![[Pasted image 20260413144624.png]]
 	[Outemu Silent Peach V3 90pcs](https://www.aliexpress.com/item/1005006905361113.html) 13.09gbp
-	[GMK WOB Double Shot Black Keycaps 114pcs](https://www.aliexpress.com/item/1005006361412359.html?search_p4p_id=20260413055902628982595977350001125237_1) 17.45gbp
+	[JCM Double Shot Keycaps 126pcs](https://www.aliexpress.com/item/1005006666891017.html) 11.63gbp
+	(Need to buy two pairs of red and two pairs of black so I can do main body red keys and supporting black keys, with red numpad on quiet keyboard and black numpad on loud keyboard)
 	[LEOBOG Ice Vein Key Switches 100pcs](https://www.aliexpress.com/item/1005008844799560.html) 25.59gbp
 	(for making a silent keyboard with the same above kit)
 	
