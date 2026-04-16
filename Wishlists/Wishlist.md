@@ -6,8 +6,11 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Amazon Basics Adjustable Monitor Stand](https://amzn.eu/d/0fbZHiba) 16.78gbp
+	![[Pasted image 20260416202434.png]]
 - [ ] [Street Fighter II Desk Mat](https://amzn.eu/d/0jcejppV) 23.89gbp
 	![[Pasted image 20260416161654.png]]
+- [ ] [Keyboard Dust Sweeper](https://www.amazon.co.uk/OXO-12246100UK-Laptop-Cleaner-Plastic/dp/B07W1L7TCF?th=1) 9.35gbp
 - [ ] [Slim Messenger Bag](https://www.amazon.co.uk/dp/B079FCH95H) 21.99gbp
 	![[Pasted image 20260411135240.png]]
 - [ ] [Naruto Frog Wallet](https://www.amazon.co.uk/dp/B0CT39Q585) 13.30gbp
@@ -23,7 +26,6 @@ kanban-plugin: board
 
 - [ ] [How to make custom graphic tees](https://www.youtube.com/watch?v=t1QSgRSzoFY)
 	[Transfer Paper A4](https://amzn.eu/d/0f3YUdwo) 5.99gbp
-	[Heat Press](https://www.amazon.co.uk/dp/B0G146NPSJ/?th=1) 79.99gbp
 	I would do this on the white and black tees, need to make my own graphics using edited comic images etc.
 	For example I could have a collage of Spider-Man art by Angel Medina in pure black and white (med contrast) with some paint splatters, then on the back have a big Spider-Man logo.
 	[Thread of raw Spidey art scans 1](https://x.com/DariushSeif/status/2042377703475585170?s=20)
@@ -32,10 +34,11 @@ kanban-plugin: board
 	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
+- [ ] [Monkeytype Embroidered Hoodie](https://monkeytype.store/en-gbp/products/dark-wordmark-hoodie-embroidered) 36.21gbp
+	^ 3XL, gray
+	![[Pasted image 20260416163825.png]]
 - [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
 	![[Pasted image 20260309092112.png]]
-- [ ] [Washed Blue Jeans](https://www.boohooman.com/product/boohooman-tall-balloon-baggy-fit-jeans_cmm03627?colour=light+wash) 20gbp
-	![[Pasted image 20260403193529.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 	![[Pasted image 20260403193552.png]]
 - [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 31.50gbp
@@ -46,22 +49,25 @@ kanban-plugin: board
 
 - [ ] [GMK87 75% Mechanical Keyboard Kit](https://www.aliexpress.com/item/1005006904447893.html) 43.99gbp
 	![[Pasted image 20260413144624.png]]
-	[Outemu Silent Peach V3 90pcs](https://www.aliexpress.com/item/1005006905361113.html) 13.09gbp
-	[JCM Double Shot Keycaps 126pcs](https://www.aliexpress.com/item/1005006666891017.html) 11.63gbp
-	(Need to buy two pairs of red and two pairs of black so I can do main body red keys and supporting black keys, with red numpad on quiet keyboard and black numpad on loud keyboard)
+	[Outemu Silent Peach V3 100pcs](https://www.aliexpress.com/item/1005006905361113.html) 14.28gbp
 	[LEOBOG Ice Vein Key Switches 100pcs](https://www.aliexpress.com/item/1005008844799560.html) 25.59gbp
-	(for making a silent keyboard with the same above kit)
+	[JCM Double Shot Keycaps 126pcs](https://www.aliexpress.com/item/1005006666891017.html) 11.63gbp
+	[Misty Transparent Black OEM Keycaps](https://www.aliexpress.com/item/1005009943308792.html) 12.43gbp
+	^ buying a pair of red double shot and black misty transparent, going to use the red keycaps on the ice vein keyboard except for the navigation keys, arrows and function keys, vice versa for the silent peach keyboard
 	
 	Use https://caniusevia.com/ for changing up keyboard settings.
-- [ ] [Transparent DBZ Keycaps](https://www.aliexpress.com/item/1005009724983949.html) 10.87gbp for 4pcs + shipping
-	![[Pasted image 20260416154849.png]]
-- [ ] [Chunnibyou Rikka Keycap](https://www.aliexpress.com/item/1005011562267239.html) 6.79gbp
-	![[Pasted image 20260416155256.png]]
-- [ ] ^^^ may buy two of the anime keycaps to use on both keyboards
 - [ ] [Haute42 Hauteboard B16](https://www.aliexpress.com/item/1005006635383497.html) 32.69gbp
 	![[Pasted image 20260407124804.png]]
 	[20pcs Red Transparent Letterless Keycaps](https://www.aliexpress.com/item/1005009131978354.html) 5.04gbp
 	^ replacing the default keycaps with these
+	Also will replace the DPAD key switches with the Outemu Silent Peaches
+- [ ] [3D Printed Arcade Joystick Keycaps](https://www.aliexpress.com/item/1005011983021870.html) 6.41gbp
+	![[Pasted image 20260416172758.png]]
+	^ to use on my haute42 b16 pad
+	[visual playtest](https://www.youtube.com/watch?v=weMgIQ6Rx8c)
+- [ ] [Keychron B1 Pro Mechanical Keyboard](https://www.amazon.co.uk/Keychron-B1-Pro-Wireless-Keyboard/dp/B0F63C8CJZ?th=1) 39.99gbp
+	![[Pasted image 20260416214500.png]]
+	^ buying for use at libraries and other public, quiet spaces
 - [ ] [Smart Weight Scale](https://www.amazon.co.uk/dp/B0CQJJ8DN4) 14.98gbp
 	![[Pasted image 20260411135137.png]]
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
