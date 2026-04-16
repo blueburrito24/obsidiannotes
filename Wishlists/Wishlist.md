@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Street Fighter II Desk Mat](https://amzn.eu/d/0jcejppV) 23.89gbp
+	![[Pasted image 20260416161654.png]]
 - [ ] [Slim Messenger Bag](https://www.amazon.co.uk/dp/B079FCH95H) 21.99gbp
 	![[Pasted image 20260411135240.png]]
 - [ ] [Naruto Frog Wallet](https://www.amazon.co.uk/dp/B0CT39Q585) 13.30gbp
@@ -21,6 +23,7 @@ kanban-plugin: board
 
 - [ ] [How to make custom graphic tees](https://www.youtube.com/watch?v=t1QSgRSzoFY)
 	[Transfer Paper A4](https://amzn.eu/d/0f3YUdwo) 5.99gbp
+	[Heat Press](https://www.amazon.co.uk/dp/B0G146NPSJ/?th=1) 79.99gbp
 	I would do this on the white and black tees, need to make my own graphics using edited comic images etc.
 	For example I could have a collage of Spider-Man art by Angel Medina in pure black and white (med contrast) with some paint splatters, then on the back have a big Spider-Man logo.
 	[Thread of raw Spidey art scans 1](https://x.com/DariushSeif/status/2042377703475585170?s=20)
@@ -50,6 +53,15 @@ kanban-plugin: board
 	(for making a silent keyboard with the same above kit)
 	
 	Use https://caniusevia.com/ for changing up keyboard settings.
+- [ ] [Transparent DBZ Keycaps](https://www.aliexpress.com/item/1005009724983949.html) 10.87gbp for 4pcs + shipping
+	![[Pasted image 20260416154849.png]]
+- [ ] [Chunnibyou Rikka Keycap](https://www.aliexpress.com/item/1005011562267239.html) 6.79gbp
+	![[Pasted image 20260416155256.png]]
+- [ ] ^^^ may buy two of the anime keycaps to use on both keyboards
+- [ ] [Haute42 Hauteboard B16](https://www.aliexpress.com/item/1005006635383497.html) 32.69gbp
+	![[Pasted image 20260407124804.png]]
+	[20pcs Red Transparent Letterless Keycaps](https://www.aliexpress.com/item/1005009131978354.html) 5.04gbp
+	^ replacing the default keycaps with these
 - [ ] [Smart Weight Scale](https://www.amazon.co.uk/dp/B0CQJJ8DN4) 14.98gbp
 	![[Pasted image 20260411135137.png]]
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
@@ -58,8 +70,6 @@ kanban-plugin: board
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
 	GGPO (Fightcade clone) for online fg like SFIII3rd.
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
-- [ ] [Haute42 Hauteboard B16](https://www.aliexpress.com/item/1005006635383497.html) 32.69gbp
-	![[Pasted image 20260407124804.png]]
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 
