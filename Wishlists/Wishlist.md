@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] [Amazon Basics Adjustable Monitor Stand](https://amzn.eu/d/0fbZHiba) 16.78gbp
 	![[Pasted image 20260416202434.png]]
+- [ ] [3-Tier Keyboard Acrylic Stand](https://amzn.eu/d/05eUqZIW) 11.79gbp
+	![[Pasted image 20260417041624.png]]
 - [ ] [Street Fighter II Desk Mat](https://amzn.eu/d/0jcejppV) 23.89gbp
 	![[Pasted image 20260416161654.png]]
 - [ ] [Keyboard Dust Sweeper](https://www.amazon.co.uk/OXO-12246100UK-Laptop-Cleaner-Plastic/dp/B07W1L7TCF?th=1) 9.35gbp
