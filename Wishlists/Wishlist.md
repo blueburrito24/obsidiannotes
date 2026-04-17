@@ -6,15 +6,13 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Keyboard Dust Sweeper](https://www.amazon.co.uk/OXO-12246100UK-Laptop-Cleaner-Plastic/dp/B07W1L7TCF?th=1) 9.35gbp
 - [ ] [Amazon Basics Adjustable Monitor Stand](https://amzn.eu/d/0fbZHiba) 16.78gbp
 	![[Pasted image 20260416202434.png]]
 - [ ] [3-Tier + Tray Acrylic Keyboard Stand](https://amzn.eu/d/08Jamx68) 25.69gbp
 	![[Pasted image 20260417042054.png]]
 - [ ] [Street Fighter II Desk Mat](https://amzn.eu/d/0jcejppV) 23.89gbp
 	![[Pasted image 20260416161654.png]]
-- [ ] [Keyboard Dust Sweeper](https://www.amazon.co.uk/OXO-12246100UK-Laptop-Cleaner-Plastic/dp/B07W1L7TCF?th=1) 9.35gbp
-- [ ] [Naruto Frog Wallet](https://www.amazon.co.uk/dp/B0CT39Q585) 13.30gbp
-	![[Pasted image 20260411135034.png]]
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
@@ -48,8 +46,7 @@ kanban-plugin: board
 	[Outemu Silent Peach V3 100pcs](https://www.aliexpress.com/item/1005006905361113.html) 14.28gbp
 	[LEOBOG Ice Vein Key Switches 100pcs](https://www.aliexpress.com/item/1005008844799560.html) 25.59gbp
 	[JCM Double Shot Keycaps 126pcs](https://www.aliexpress.com/item/1005006666891017.html) 11.63gbp
-	[Misty Transparent Black OEM Keycaps](https://www.aliexpress.com/item/1005009943308792.html) 12.43gbp
-	^ buying a pair of red double shot and black misty transparent, going to use the red keycaps on the ice vein keyboard except for the navigation keys, arrows and function keys, vice versa for the silent peach keyboard
+	^ buying a pair of red and black, going to use the red keycaps on the ice vein keyboard except for the navigation keys, arrows and function keys, vice versa for the silent peach keyboard
 	
 	Use https://caniusevia.com/ for changing up keyboard settings.
 - [ ] [Haute42 Hauteboard B16](https://www.aliexpress.com/item/1005006635383497.html) 32.69gbp
