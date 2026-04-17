@@ -35,15 +35,10 @@ kanban-plugin: board
 	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
-- [ ] [Monkeytype Embroidered Hoodie](https://monkeytype.store/en-gbp/products/dark-wordmark-hoodie-embroidered) 36.21gbp
-	^ 3XL, gray
-	![[Pasted image 20260416163825.png]]
 - [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
 	![[Pasted image 20260309092112.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 	![[Pasted image 20260403193552.png]]
-- [ ] [boohooMAN fake timbs](https://www.boohooman.com/product/boohooman-worker-boots_bmm55573?colour=tan) 31.50gbp
-	![[Pasted image 20260222074204.png]]
 
 
 ## Tech
