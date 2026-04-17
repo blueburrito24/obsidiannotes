@@ -64,10 +64,6 @@ kanban-plugin: board
 	[20pcs Red Transparent Letterless Keycaps](https://www.aliexpress.com/item/1005009131978354.html) 5.04gbp
 	^ replacing the default keycaps with these
 	Also will replace the DPAD key switches with the Outemu Silent Peaches
-- [ ] [3D Printed Arcade Joystick Keycaps](https://www.aliexpress.com/item/1005011983021870.html) 6.41gbp
-	![[Pasted image 20260416172758.png]]
-	^ to use on my haute42 b16 pad
-	[visual playtest](https://www.youtube.com/watch?v=weMgIQ6Rx8c)
 - [ ] [Smart Weight Scale](https://www.amazon.co.uk/dp/B0CQJJ8DN4) 14.98gbp
 	![[Pasted image 20260411135137.png]]
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
