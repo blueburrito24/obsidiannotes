@@ -13,8 +13,6 @@ kanban-plugin: board
 - [ ] [Street Fighter II Desk Mat](https://amzn.eu/d/0jcejppV) 23.89gbp
 	![[Pasted image 20260416161654.png]]
 - [ ] [Keyboard Dust Sweeper](https://www.amazon.co.uk/OXO-12246100UK-Laptop-Cleaner-Plastic/dp/B07W1L7TCF?th=1) 9.35gbp
-- [ ] [Slim Messenger Bag](https://www.amazon.co.uk/dp/B079FCH95H) 21.99gbp
-	![[Pasted image 20260411135240.png]]
 - [ ] [Naruto Frog Wallet](https://www.amazon.co.uk/dp/B0CT39Q585) 13.30gbp
 	![[Pasted image 20260411135034.png]]
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
