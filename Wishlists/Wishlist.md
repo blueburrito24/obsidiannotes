@@ -32,6 +32,7 @@ kanban-plugin: board
 	For example I could have a collage of Spider-Man art by Angel Medina in pure black and white (med contrast) with some paint splatters, then on the back have a big Spider-Man logo.
 	[Thread of raw Spidey art scans 1](https://x.com/DariushSeif/status/2042377703475585170?s=20)
 	[Thread of raw Spidey art scans 2](https://x.com/DariushSeif/status/1766801419925950499?s=20)
+	[Funny Tee idea](https://x.com/SoleilTheHarpy/status/2044438686637707677/photo/1)
 - [ ] [White Tee](https://www.boohooman.com/product/boohooman-tall-basic-crew-neck-regular-fit-t-shirt_cmm20343?colour=white&size=XL) 8gbp
 	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
@@ -67,9 +68,6 @@ kanban-plugin: board
 	![[Pasted image 20260416172758.png]]
 	^ to use on my haute42 b16 pad
 	[visual playtest](https://www.youtube.com/watch?v=weMgIQ6Rx8c)
-- [ ] [Keychron B1 Pro Mechanical Keyboard](https://www.amazon.co.uk/Keychron-B1-Pro-Wireless-Keyboard/dp/B0F63C8CJZ?th=1) 39.99gbp
-	![[Pasted image 20260416214500.png]]
-	^ buying for use at libraries and other public, quiet spaces
 - [ ] [Smart Weight Scale](https://www.amazon.co.uk/dp/B0CQJJ8DN4) 14.98gbp
 	![[Pasted image 20260411135137.png]]
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
