@@ -74,6 +74,26 @@ kanban-plugin: board
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 
 
+## Figures
+
+- [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 83.61gbp
+	[SHF Super Saiyan Vegeta KO](https://www.aliexpress.com/item/1005009637249348.html) 15.29gbp
+	[Revoltech Eren Yaeger KO](https://www.aliexpress.com/item/1005011745797243.html) 15.29gbp
+	^ SHF Vegeta and KO Eren Yaegar are to [replace the torso structure](https://www.instagram.com/p/DW6vTDRCqc_/) and [replace the waist piece](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/) which needs repainting to match the main body
+	TOTAL without shipping; 114.19gbp
+	![[Pasted image 20260417060625.png]]
+	[Crocodile Clip Stand](https://amzn.eu/d/00iRyviu) 6.59gbp
+	^ need this to make painting the waist piece easier
+- [ ] [MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005010323713313.html) 32.89gbp
+	![[Pasted image 20260417060959.png]]
+- [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010274841103.html) 27.19gbp
+	![[Pasted image 20260417061207.png]]
+	^ can use accessories on MESS TOYS BSN
+- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	![[Pasted image 20260417061313.png]]
+	^ needs face removed with nail polish remover wipes
+
+
 ***
 
 ## Archive
@@ -84,6 +104,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
