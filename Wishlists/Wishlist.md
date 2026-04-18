@@ -57,6 +57,7 @@ kanban-plugin: board
 - [ ] [Smart Weight Scale](https://www.amazon.co.uk/dp/B0CQJJ8DN4) 14.98gbp
 	![[Pasted image 20260411135137.png]]
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
+	[CeX Link](https://uk.webuy.com/product-detail/?id=SHGPANBRG405MBB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=78C04C6DEF605A2FF320EF82F2AA19D4&position=2) 75gbp
 	![[Pasted image 20260330175530.png]]
 	[GammaOS is a must!](https://youtu.be/BD0ab1gr4gM?si=8l2qbJedmb3yZ7qA)
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
@@ -66,30 +67,40 @@ kanban-plugin: board
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 
 
-## Figures
+## Games
 
-- [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010274841103.html) 27.19gbp
-	![[Pasted image 20260417061207.png]]
-- [ ] [MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005010323713313.html) 32.99gbp
-	![[Pasted image 20260417060959.png]]
-	^ can drill in holes on the back to use Agent Venom's tendrils
-- [ ] [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005010313843872.html) 33.49gbp
-	![[Pasted image 20260417233101.png]]
-	^ want to remove hoodie for fun
+- [ ] [Phoenix Wright: Ace Attorney Trilogy](https://www.loaded.com/phoenix-wright-ace-attorney-trilogy-steam-pc-emea) 6.69gbp
+	[Hotshot Racing](https://www.loaded.com/hotshot-racing-pc-steam) 1.99gbp
+	[Yakuza 0](https://www.loaded.com/yakuza-0-director-s-cut-pc-steam) 20.99gbp
+	[Assetto Corsa](https://www.loaded.com/assetto-corsa-pc) 2.99gbp
+	[BeamNG.drive](https://www.loaded.com/beamng-drive-pc-steam) 17.49gbp
+	[Spelunky](https://store.steampowered.com/app/239350/Spelunky/) 10.99gbp
+	[SUPERHOT: MIND CONTROL DELETE](https://www.loaded.com/superhot-mind-control-delete-pc-steam) 7.39gbp
+	[Haste](https://www.loaded.com/haste-pc-steam) 6.99gbp
+	[UnMetal](https://store.steampowered.com/app/1203710/UnMetal/) 14.99bp
+	[Touhou Luna Nights](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) 13.99gbp
+	[Peggle Deluxe](https://store.steampowered.com/app/3480/Peggle_Deluxe/) 4.99gbp
+	[Peggle Nights](https://store.steampowered.com/app/3540/Peggle_Nights/) 4.99gbp
+	[Assassin's Creed](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/) 8.59gbp
+	[DEAD RISING](https://store.steampowered.com/app/427190/DEAD_RISING/) 8.98gbp
 
 
 ## Notes
 
 - [ ] 1,328.28gbp - 300 = 1,028.28gbp (300 for savings for America)
 	
-	177.21gbp to be spent on keyboards (gmk87 kits, fightpad)
-	93.17gbp to be spent on figures (mess toys sh, bsn, ct agent venom)
+	-75 for rg405m
+	-177.21gbp to be spent on keyboards (gmk87 kits, fightpad)
 	
-	757.90gbp after buying keyboards and figures
+	776.07gbp after buying keyboards
 	
-	61.39gbp to be spent on a few clothing items
+	-61.39gbp to be spent on a few clothing items
 	
-	696.51gbp after buying clothing items
+	714.68gbp after buying clothing items
+	
+	-132.05gbp on games
+	
+	582.65gbp after buying games
 
 
 ***
