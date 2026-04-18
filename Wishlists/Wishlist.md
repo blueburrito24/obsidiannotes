@@ -74,10 +74,8 @@ kanban-plugin: board
 	[Yakuza 0](https://www.loaded.com/yakuza-0-director-s-cut-pc-steam) 20.99gbp
 	[Assetto Corsa](https://www.loaded.com/assetto-corsa-pc) 2.99gbp
 	[BeamNG.drive](https://www.loaded.com/beamng-drive-pc-steam) 17.49gbp
-	[Spelunky](https://store.steampowered.com/app/239350/Spelunky/) 10.99gbp
 	[SUPERHOT: MIND CONTROL DELETE](https://www.loaded.com/superhot-mind-control-delete-pc-steam) 7.39gbp
 	[Haste](https://www.loaded.com/haste-pc-steam) 6.99gbp
-	[UnMetal](https://store.steampowered.com/app/1203710/UnMetal/) 14.99bp
 	[Touhou Luna Nights](https://store.steampowered.com/app/851100/Touhou_Luna_Nights/) 13.99gbp
 	[Peggle Deluxe](https://store.steampowered.com/app/3480/Peggle_Deluxe/) 4.99gbp
 	[Peggle Nights](https://store.steampowered.com/app/3540/Peggle_Nights/) 4.99gbp
@@ -98,9 +96,9 @@ kanban-plugin: board
 	
 	714.68gbp after buying clothing items
 	
-	-132.05gbp on games
+	-106.07gbp on games
 	
-	582.65gbp after buying games
+	608.61gbp after buying games
 
 
 ***
