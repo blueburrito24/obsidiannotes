@@ -68,22 +68,31 @@ kanban-plugin: board
 
 ## Figures
 
-- [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://www.nin-nin-game.com/en/shfiguarts/194482-shfiguarts-marvel-gamerverse-spider-man-bandai-spirits-.html) 83.61gbp
-	[SHF Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/167588-shfiguarts-dragon-ball-z-super-saiyan-vegeta-awakening-super-saiyan-blood-ver-reissue-bandai-spirits-.html) 25.29gbp
-	[Revoltech Eren Yaeger KO](https://www.aliexpress.com/item/1005011745797243.html) 15.29gbp
-	^ SHF Vegeta and KO Eren Yaegar are to [replace the torso structure](https://www.instagram.com/p/DW6vTDRCqc_/) and [replace the waist piece](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/) which needs repainting to match the main body
-	TOTAL without shipping; 124.19gbp
-	![[Pasted image 20260417060625.png]]
-	[Crocodile Clip Stand](https://amzn.eu/d/00iRyviu) 6.59gbp
-	^ need this to make painting the waist piece easier
-- [ ] [MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005010323713313.html) 32.89gbp
-	![[Pasted image 20260417060959.png]]
-	^ drill in holes in the lower back to plug in the tendrils from CT Agent Venom
 - [ ] [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010274841103.html) 27.19gbp
 	![[Pasted image 20260417061207.png]]
-- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	![[Pasted image 20260417061313.png]]
-	^ needs face removed with nail polish remover wipes
+- [ ] [MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005010323713313.html) 32.99gbp
+	![[Pasted image 20260417060959.png]]
+	^ can drill in holes on the back to use Agent Venom's tendrils
+- [ ] [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005010313843872.html) 33.49gbp
+	![[Pasted image 20260417233101.png]]
+	^ want to remove hoodie for fun
+- [ ] [MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005010151420341.html) 32.99gbp
+	![[Pasted image 20260418010756.png]]
+	^ swap lower half with Scarlet Hero
+
+
+## Notes
+
+- [ ] 1,328.28gbp - 300 = 1,028.28gbp (300 for savings for America)
+	
+	177.21gbp to be spent on keyboards (gmk87 kits, fightpad)
+	124.66gbp to be spent on figures (mess toys sh, sn bsn, ct agent venom)
+	
+	726.41gbp after buying keyboards and figures
+	
+	61.39gbp to be spent on a few clothing items
+	
+	665.02gbp after buying clothing items
 
 
 ***
@@ -96,6 +105,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
