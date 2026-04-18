@@ -76,9 +76,6 @@ kanban-plugin: board
 - [ ] [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005010313843872.html) 33.49gbp
 	![[Pasted image 20260417233101.png]]
 	^ want to remove hoodie for fun
-- [ ] [MESS TOYS Scarlet Neighbour](https://www.aliexpress.com/item/1005010151420341.html) 32.99gbp
-	![[Pasted image 20260418010756.png]]
-	^ swap lower half with Scarlet Hero
 
 
 ## Notes
@@ -86,13 +83,13 @@ kanban-plugin: board
 - [ ] 1,328.28gbp - 300 = 1,028.28gbp (300 for savings for America)
 	
 	177.21gbp to be spent on keyboards (gmk87 kits, fightpad)
-	124.66gbp to be spent on figures (mess toys sh, sn bsn, ct agent venom)
+	93.17gbp to be spent on figures (mess toys sh, bsn, ct agent venom)
 	
-	726.41gbp after buying keyboards and figures
+	757.90gbp after buying keyboards and figures
 	
 	61.39gbp to be spent on a few clothing items
 	
-	665.02gbp after buying clothing items
+	696.51gbp after buying clothing items
 
 
 ***
