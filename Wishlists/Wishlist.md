@@ -74,6 +74,7 @@ kanban-plugin: board
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
 - [ ] [Edifier R990BT Bookshelf Speakers](https://amzn.eu/d/02bvCf1O) 59.99gbp
 	![[Pasted image 20260419113525.png]]
+	[Desktop Speaker Stands](https://amzn.eu/d/0bDDsjlM) 29.99gbp
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 
@@ -99,21 +100,21 @@ kanban-plugin: board
 	
 	-75 for rg405m
 	-184.73gbp to be spent on keyboards (gmk87 kits, fightpad)
-	-59.99gbp for speakers
+	-89.98gbp for speakers and speaker stand
 	
-	808.56gbp after buying keyboards
+	778.57gbp after buying keyboards
 	
 	-61.39gbp to be spent on a few clothing items
 	
-	747.17gbp after buying clothing items
+	717.18gbp after buying clothing items
 	
 	-103.08gbp on games
 	
-	645.09gbp after buying games
+	614.10gbp after buying games
 	
 	-149.17gbp on figures
 	
-	494.92gbp after buying figures
+	464.93gbp after buying figures
 
 
 ***
