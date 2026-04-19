@@ -25,6 +25,11 @@ kanban-plugin: board
 	[Vallejo Andrea Blue](https://amzn.eu/d/03SKT6FO) 2.95gbp
 	^ for [waist mod](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/)
 	TOTAL COST: 116.22gbp
+- [ ] [SH FIGUARTS Across the Spider-Verse Miles Morales](https://www.amiami.com/eng/detail/?gcode=FIGURE-149634) 28.71gbp
+	![[Pasted image 20260419142004.png]]
+	[1/12 Grey Pants](https://www.aliexpress.com/item/1005007966254416.html) 6.25gbp
+	[Neck mod](https://www.youtube.com/shorts/KKpl-Fikcr4?app=desktop) and [Waist mod](https://www.youtube.com/shorts/r6RLkFKbc_E?app=desktop) NEEDED
+	TOTAL COST: 34.96gbp
 - [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	![[Pasted image 20260419013727.png]]
 	^ need to remove face with nail polish remover wipes
@@ -82,7 +87,8 @@ kanban-plugin: board
 
 ## Games
 
-- [ ] [Phoenix Wright: Ace Attorney Trilogy](https://www.loaded.com/phoenix-wright-ace-attorney-trilogy-steam-pc-emea) 6.69gbp
+- [ ] [Ultra Street Fighter IV](https://www.loaded.com/ultra-street-fighter-iv-pc-eu-steam) 2.69gbp
+	[Phoenix Wright: Ace Attorney Trilogy](https://www.loaded.com/phoenix-wright-ace-attorney-trilogy-steam-pc-emea) 6.69gbp
 	[Hotshot Racing](https://www.loaded.com/hotshot-racing-pc-steam) 1.99gbp
 	[Yakuza 0](https://www.loaded.com/yakuza-0-director-s-cut-pc-steam) 20.99gbp
 	[BeamNG.drive](https://www.loaded.com/beamng-drive-pc-steam) 17.49gbp
@@ -93,6 +99,7 @@ kanban-plugin: board
 	[Peggle Nights](https://store.steampowered.com/app/3540/Peggle_Nights/) 4.99gbp
 	[Assassin's Creed](https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/) 8.59gbp
 	[DEAD RISING](https://store.steampowered.com/app/427190/DEAD_RISING/) 8.98gbp
+	[HALO Master Chief Collection](https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/) 8.49gbp
 
 
 ## Notes
@@ -109,13 +116,13 @@ kanban-plugin: board
 	
 	717.18gbp after buying clothing items
 	
-	-103.08gbp on games
+	-114.26gbp on games
 	
-	614.10gbp after buying games
+	603.02gbp after buying games
 	
 	-149.17gbp on figures
 	
-	464.93gbp after buying figures
+	453.75gbp after buying figures
 
 
 ***
