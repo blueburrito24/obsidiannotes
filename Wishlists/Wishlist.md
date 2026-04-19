@@ -15,6 +15,7 @@ kanban-plugin: board
 	![[Pasted image 20260416161654.png]]
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
+- [ ] [BAGSMART Toiletry Bag](https://amzn.eu/d/03xkXNSH) 19.99gbp
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://zenmarket.jp/s/c_shop/6060458?id=43d670e8-57a8-4926-bd51-5cddb1597807) 74.77gbp
