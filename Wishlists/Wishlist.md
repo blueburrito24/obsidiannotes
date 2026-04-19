@@ -120,9 +120,9 @@ kanban-plugin: board
 	
 	603.02gbp after buying games
 	
-	-149.17gbp on figures
+	-184.13gbp on figures
 	
-	453.75gbp after buying figures
+	418.79gbp after buying figures
 
 
 ***
