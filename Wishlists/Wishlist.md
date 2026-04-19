@@ -53,7 +53,7 @@ kanban-plugin: board
 - [ ] [GMK87 75% Mechanical Keyboard Kit](https://www.aliexpress.com/item/1005006904447893.html) 43.99gbp
 	![[Pasted image 20260413144624.png]]
 	[Outemu Silent Peach V3 100pcs](https://www.aliexpress.com/item/1005006905361113.html) 14.28gbp
-	[LEOBOG Ice Vein Key Switches 100pcs](https://www.aliexpress.com/item/1005008844799560.html) 25.59gbp
+	[GATERON Milky Yellow 90pcs](https://www.aliexpress.com/item/1005008685972487.html) 21.48gbp
 	[JCM Double Shot Keycaps 126pcs](https://www.aliexpress.com/item/1005006666891017.html) 11.63gbp
 	^ buying a pair of red and black, going to use the red keycaps on the ice vein keyboard except for the navigation keys, arrows and function keys, vice versa for the silent peach keyboard
 	
@@ -93,24 +93,24 @@ kanban-plugin: board
 
 ## Notes
 
-- [ ] 1,328.28gbp - 200 = 1,028.28gbp (200 for savings for America)
+- [ ] 1,328.28gbp - 200 = 1,128.28gbp (200 for savings for America)
 	
 	-75 for rg405m
-	-177.21gbp to be spent on keyboards (gmk87 kits, fightpad)
+	-184.73gbp to be spent on keyboards (gmk87 kits, fightpad)
 	
-	876.07gbp after buying keyboards
+	868.55gbp after buying keyboards
 	
 	-61.39gbp to be spent on a few clothing items
 	
-	814.68gbp after buying clothing items
+	807.16gbp after buying clothing items
 	
 	-103.08gbp on games
 	
-	711.60gbp after buying games
+	704.08gbp after buying games
 	
 	-149.17gbp on figures
 	
-	562.43gbp after buying figures
+	554.91gbp after buying figures
 
 
 ***
