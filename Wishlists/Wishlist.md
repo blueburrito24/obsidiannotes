@@ -55,7 +55,7 @@ kanban-plugin: board
 	[Outemu Silent Peach V3 100pcs](https://www.aliexpress.com/item/1005006905361113.html) 14.28gbp
 	[GATERON Milky Yellow 90pcs](https://www.aliexpress.com/item/1005008685972487.html) 21.48gbp
 	[JCM Double Shot Keycaps 126pcs](https://www.aliexpress.com/item/1005006666891017.html) 11.63gbp
-	^ buying a pair of red and black, going to use the red keycaps on the ice vein keyboard except for the navigation keys, arrows and function keys, vice versa for the silent peach keyboard
+	^ buying a pair of red and black, going to use the red keycaps on the ice vein keyboard except for the navigation keys, arrows and function keys, vice versa for the silent peach keyboard (which i also want to buy a white kit for)
 	
 	Use https://caniusevia.com/ for changing up keyboard settings.
 - [ ] [Haute42 Hauteboard B16](https://www.aliexpress.com/item/1005006635383497.html) 32.69gbp
@@ -72,6 +72,8 @@ kanban-plugin: board
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
 	GGPO (Fightcade clone) for online fg like SFIII3rd.
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
+- [ ] [Edifier R990BT Bookshelf Speakers](https://amzn.eu/d/02bvCf1O) 59.99gbp
+	![[Pasted image 20260419113525.png]]
 - [ ] [Qibla watch](https://www.aliexpress.com/item/1005004987915492.html?pvid=5652dc25-4d2e-41c9-8c0e-3bde7d8c734e&_t=gps-id%3ApcJustForYou%2Cscm-url%3A1007.13562.416251.0%2Cpvid%3A5652dc25-4d2e-41c9-8c0e-3bde7d8c734e%2Ctpp_buckets%3A668%232846%238114%231999&utparam-url=scene%3ApcJustForYou%7Cquery_from%3A%7Cx_object_id%3A1005004987915492%7C_p_origin_prod%3A) 13.69
 	[20000mAh 45W Power Bank](https://www.amazon.co.uk/dp/B0D6378L2B/?coliid=I1WMKZ5LXDRE5P&colid=3QR68R4Q0W63Y&th=1) 25.49
 
@@ -97,20 +99,21 @@ kanban-plugin: board
 	
 	-75 for rg405m
 	-184.73gbp to be spent on keyboards (gmk87 kits, fightpad)
+	-59.99gbp for speakers
 	
-	868.55gbp after buying keyboards
+	808.56gbp after buying keyboards
 	
 	-61.39gbp to be spent on a few clothing items
 	
-	807.16gbp after buying clothing items
+	747.17gbp after buying clothing items
 	
 	-103.08gbp on games
 	
-	704.08gbp after buying games
+	645.09gbp after buying games
 	
 	-149.17gbp on figures
 	
-	554.91gbp after buying figures
+	494.92gbp after buying figures
 
 
 ***
