@@ -16,8 +16,17 @@ kanban-plugin: board
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
-- [ ] [Round Hairbrush](https://amzn.eu/d/0h5sQFpI) 5.39gbp
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
+- [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://zenmarket.jp/s/c_shop/6060458?id=43d670e8-57a8-4926-bd51-5cddb1597807) 74.77gbp
+	![[Pasted image 20260419005618.png]][SH FIGUARTS SSGSS Vegeta](https://zenmarket.jp/s/c_shop/fo-10362394?id=5f1c99fd-351f-489d-9451-a0c20dcb5978) 23.21gbp
+	^ for [torso mod](https://www.instagram.com/p/DW6vTDRCqc_/)
+	[ARKHAM FACTORY Eren Yaegar KO](https://www.aliexpress.com/item/1005011745797243.html) 15.29gbp
+	[Vallejo Andrea Blue](https://amzn.eu/d/03SKT6FO) 2.95gbp
+	^ for [waist mod](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/)
+	TOTAL COST: 116.22gbp
+- [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	![[Pasted image 20260419013727.png]]
+	^ need to remove face with nail polish remover wipes
 
 
 ## Clothes
@@ -72,7 +81,6 @@ kanban-plugin: board
 - [ ] [Phoenix Wright: Ace Attorney Trilogy](https://www.loaded.com/phoenix-wright-ace-attorney-trilogy-steam-pc-emea) 6.69gbp
 	[Hotshot Racing](https://www.loaded.com/hotshot-racing-pc-steam) 1.99gbp
 	[Yakuza 0](https://www.loaded.com/yakuza-0-director-s-cut-pc-steam) 20.99gbp
-	[Assetto Corsa](https://www.loaded.com/assetto-corsa-pc) 2.99gbp
 	[BeamNG.drive](https://www.loaded.com/beamng-drive-pc-steam) 17.49gbp
 	[SUPERHOT: MIND CONTROL DELETE](https://www.loaded.com/superhot-mind-control-delete-pc-steam) 7.39gbp
 	[Haste](https://www.loaded.com/haste-pc-steam) 6.99gbp
@@ -85,20 +93,24 @@ kanban-plugin: board
 
 ## Notes
 
-- [ ] 1,328.28gbp - 300 = 1,028.28gbp (300 for savings for America)
+- [ ] 1,328.28gbp - 200 = 1,028.28gbp (200 for savings for America)
 	
 	-75 for rg405m
 	-177.21gbp to be spent on keyboards (gmk87 kits, fightpad)
 	
-	776.07gbp after buying keyboards
+	876.07gbp after buying keyboards
 	
 	-61.39gbp to be spent on a few clothing items
 	
-	714.68gbp after buying clothing items
+	814.68gbp after buying clothing items
 	
-	-106.07gbp on games
+	-103.08gbp on games
 	
-	608.61gbp after buying games
+	711.60gbp after buying games
+	
+	-149.17gbp on figures
+	
+	562.43gbp after buying figures
 
 
 ***
