@@ -47,6 +47,7 @@ kanban-plugin: board
 	[Vallejo Skin Tone Set](https://amzn.eu/d/0387gcvt) 15.40gbp
 	[Vallejo Royal Blue](https://amzn.eu/d/0dJiQhzs) 2.95gbp
 	[Milliput Epoxy Putty](https://amzn.eu/d/08n9q1Xn) 6.99gbp
+	TOTAL: 49.06gbp
 	^ using the above tools and following tutorials to customise DP Vegeta into his Buu Saga outfit; repainting his upper body and resculpting it to look like his Buu Saga Outfit
 	[Pre-paint wash tut](https://figurerealm.com/customtutorial?action=view&id=21)
 	[Paint Rub tut](https://figurerealm.com/customtutorial?action=view&id=90)
