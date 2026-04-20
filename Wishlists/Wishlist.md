@@ -42,6 +42,17 @@ kanban-plugin: board
 	![[Pasted image 20260419013727.png]]
 	^ need to remove nose on faceplates with scuff pads
 	PURCHASED
+- [ ] [SH FIGUARTS Dangerous Pride Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 23.72gbp
+	![[Pasted image 20260421005254.png]]
+	[Vallejo Skin Tone Set](https://amzn.eu/d/0387gcvt) 15.40gbp
+	[Vallejo Royal Blue](https://amzn.eu/d/0dJiQhzs) 2.95gbp
+	[Milliput Epoxy Putty](https://amzn.eu/d/08n9q1Xn) 6.99gbp
+	^ using the above tools and following tutorials to customise DP Vegeta into his Buu Saga outfit; repainting his upper body and resculpting it to look like his Buu Saga Outfit
+	[Pre-paint wash tut](https://figurerealm.com/customtutorial?action=view&id=21)
+	[Paint Rub tut](https://figurerealm.com/customtutorial?action=view&id=90)
+	[Joint paint rub tut](https://figurerealm.com/customtutorial?action=view&id=35)
+	[Sculpting custom clothing tut](https://figurerealm.com/customtutorial?action=view&id=38)
+	[Shoulder protection tut](https://figurerealm.com/customtutorial?action=view&id=69)
 
 
 ## Clothes
