@@ -7,16 +7,22 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] [Keyboard Dust Sweeper](https://www.amazon.co.uk/OXO-12246100UK-Laptop-Cleaner-Plastic/dp/B07W1L7TCF?th=1) 9.35gbp
+	PURCHASED
 - [ ] [Amazon Basics Adjustable Monitor Stand](https://amzn.eu/d/0fbZHiba) 16.78gbp
 	![[Pasted image 20260416202434.png]]
+	PURCHASED
 - [ ] [3-Tier + Tray Acrylic Keyboard Stand](https://amzn.eu/d/08Jamx68) 25.69gbp
 	![[Pasted image 20260417042054.png]]
+	PURCHASED
 - [ ] [Street Fighter II Desk Mat](https://amzn.eu/d/0jcejppV) 23.89gbp
 	![[Pasted image 20260416161654.png]]
+	PURCHASED
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
 - [ ] [BAGSMART Toiletry Bag](https://amzn.eu/d/03xkXNSH) 19.99gbp
+	PURCHASED
 - [ ] [L'Oreal Collagen Shampoo](https://amzn.eu/d/05MrsaAX) 4.50gbp
+	PURCHASED
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [SH FIGUARTS GAMERVERSE Series Spider-Man](https://zenmarket.jp/s/c_shop/6060458?id=43d670e8-57a8-4926-bd51-5cddb1597807) 74.77gbp
 	![[Pasted image 20260419005618.png]][SH FIGUARTS SSGSS Vegeta](https://zenmarket.jp/s/c_shop/fo-10362394?id=5f1c99fd-351f-489d-9451-a0c20dcb5978) 23.21gbp
@@ -25,14 +31,17 @@ kanban-plugin: board
 	[Vallejo Andrea Blue](https://amzn.eu/d/03SKT6FO) 2.95gbp
 	^ for [waist mod](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/)
 	TOTAL COST: 116.22gbp
+	PURCHASED
 - [ ] [SH FIGUARTS Across the Spider-Verse Miles Morales](https://www.amiami.com/eng/detail/?gcode=FIGURE-149634) 28.71gbp
 	![[Pasted image 20260419142004.png]]
 	[1/12 Grey Pants](https://www.aliexpress.com/item/1005007966254416.html) 6.25gbp
 	[Neck mod](https://www.youtube.com/shorts/KKpl-Fikcr4?app=desktop) and [Waist mod](https://www.youtube.com/shorts/r6RLkFKbc_E?app=desktop) NEEDED
 	TOTAL COST: 34.96gbp
+	PURCHASED
 - [ ] [SH FIGUARTS The Games Begin Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	![[Pasted image 20260419013727.png]]
-	^ need to remove face with nail polish remover wipes
+	^ need to remove nose on faceplates with scuff pads
+	PURCHASED
 
 
 ## Clothes
@@ -64,12 +73,15 @@ kanban-plugin: board
 	^ buying a pair of red and black, going to use the red keycaps on the ice vein keyboard except for the navigation keys, arrows and function keys, vice versa for the silent peach keyboard (which i also want to buy a white kit for)
 	
 	Use https://caniusevia.com/ for changing up keyboard settings.
+	PURCHASED
 - [ ] [Haute42 Hauteboard B16](https://www.aliexpress.com/item/1005006635383497.html) 32.69gbp
 	![[Pasted image 20260407124804.png]]
 	[20pcs Red Transparent Letterless Keycaps](https://www.aliexpress.com/item/1005009131978354.html) 5.04gbp
 	^ replacing the default keycaps with these
 	Also will replace the DPAD key switches with the Outemu Silent Peaches
+	PURCHASED
 - [ ] [Smart Weight Scale](https://www.amazon.co.uk/dp/B0CQJJ8DN4) 14.98gbp
+	PURCHASED
 	![[Pasted image 20260411135137.png]]
 - [ ] [Anbernic RG405M](https://a.aliexpress.com/_EyZZaTI) 137.02gbp
 	[CeX Link](https://uk.webuy.com/product-detail/?id=SHGPANBRG405MBB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=78C04C6DEF605A2FF320EF82F2AA19D4&position=2) 75gbp
@@ -78,6 +90,7 @@ kanban-plugin: board
 	Will be using ES-DE with the XMB Menu Theme, alongside RetroArch for emulation.
 	GGPO (Fightcade clone) for online fg like SFIII3rd.
 	Android Apps will be listed under their section and GameHub Lite games will be included with an AI-generated game ID list.
+	PURCHASED
 - [ ] [Edifier R990BT Bookshelf Speakers](https://amzn.eu/d/02bvCf1O) 59.99gbp
 	![[Pasted image 20260419113525.png]]
 	[Desktop Speaker Stands](https://amzn.eu/d/0bDDsjlM) 29.99gbp
