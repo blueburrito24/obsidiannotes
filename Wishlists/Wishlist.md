@@ -16,12 +16,16 @@ kanban-plugin: board
 	[Milliput Epoxy Putty](https://amzn.eu/d/08n9q1Xn) 6.99gbp
 	TOTAL: 57.42gbp
 	^ using the above tools and following tutorials to customise DP Vegeta into his Buu Saga outfit; removing the armour's yellow support parts, smoothing out the torso armour and resculpting it to be a soft top, alongside repainting the upper torso bodysuit areas to be skin-coloured
+	Also would want to repaint heads to be base form (may buy second copy of Vegeta for SSJ?)
 	![[Pasted image 20260424103203.png]]
 	[Pre-paint wash tut](https://figurerealm.com/customtutorial?action=view&id=21) 
 	[Paint Rub tut](https://figurerealm.com/customtutorial?action=view&id=90) 
 	[Joint paint rub tut](https://figurerealm.com/customtutorial?action=view&id=35) 
 	[Sculpting custom clothing tut](https://figurerealm.com/customtutorial?action=view&id=38) 
 	[Shoulder protection tut](https://figurerealm.com/customtutorial?action=view&id=69)
+- [ ] [GMK87 Zaoya Keyboard Kit 75% White](https://www.aliexpress.com/item/1005006367831885.html) 46.29gbp
+	[Gateron Melodic Switches 90pcs](https://www.aliexpress.com/item/1005008904106530.html) 43.09gbp
+	["BOG" Gray PBT Keycaps](https://www.aliexpress.com/item/1005006666891017.html) 12.69
 
 
 ## Clothes
