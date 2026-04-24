@@ -9,17 +9,18 @@ kanban-plugin: board
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
-- [ ] [SH FIGUARTS Dangerous Pride Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 23.72gbp
-	![[Pasted image 20260421005254.png]]
-	[Vallejo Skin Tone Set](https://amzn.eu/d/0387gcvt) 15.40gbp
+- [ ] [SH FIGUARTS Dangerous Pride Super Saiyan Vegeta](https://www.nin-nin-game.com/en/dragon-ball/199618-shfiguarts-dragon-ball-z-super-saiyan-vegeta-dangerous-pride-bandai-spirits-.html) 23.72gbp 
+	![[Pasted image 20260424103104.png]] [Vallejo Skin Tone Set](https://amzn.eu/d/0387gcvt) 20.81gbp 
 	[Vallejo Royal Blue](https://amzn.eu/d/0dJiQhzs) 2.95gbp
+	[Vallejo Imperial Blue](https://amzn.eu/d/0d34ktqQ) 2.95gbp
 	[Milliput Epoxy Putty](https://amzn.eu/d/08n9q1Xn) 6.99gbp
-	TOTAL: 49.06gbp
-	^ using the above tools and following tutorials to customise DP Vegeta into his Buu Saga outfit; repainting his upper body and resculpting it to look like his Buu Saga Outfit
-	[Pre-paint wash tut](https://figurerealm.com/customtutorial?action=view&id=21)
-	[Paint Rub tut](https://figurerealm.com/customtutorial?action=view&id=90)
-	[Joint paint rub tut](https://figurerealm.com/customtutorial?action=view&id=35)
-	[Sculpting custom clothing tut](https://figurerealm.com/customtutorial?action=view&id=38)
+	TOTAL: 57.42gbp
+	^ using the above tools and following tutorials to customise DP Vegeta into his Buu Saga outfit; removing the armour's yellow support parts, smoothing out the torso armour and resculpting it to be a soft top, alongside repainting the upper torso bodysuit areas to be skin-coloured
+	![[Pasted image 20260424103203.png]]
+	[Pre-paint wash tut](https://figurerealm.com/customtutorial?action=view&id=21) 
+	[Paint Rub tut](https://figurerealm.com/customtutorial?action=view&id=90) 
+	[Joint paint rub tut](https://figurerealm.com/customtutorial?action=view&id=35) 
+	[Sculpting custom clothing tut](https://figurerealm.com/customtutorial?action=view&id=38) 
 	[Shoulder protection tut](https://figurerealm.com/customtutorial?action=view&id=69)
 
 
