@@ -8,6 +8,8 @@ kanban-plugin: board
 
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
+- [ ] [Steam Controller](https://store.steampowered.com/sale/steamcontroller) 85gbp
+	![[Pasted image 20260430125356.png]]
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [FocusAttack HAUTE42 B16 Transparent Flexi Plate](https://focusattack.com/blank-replacement-plexi-cover-for-haute42-b16/) 16.40usd
 	[FocusAttack HAUTE42 B16 Custom Artwork Plate](https://focusattack.com/artwork-print-and-cut-for-haute42-haute-board-b16/) 22.80usd
