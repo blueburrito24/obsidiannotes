@@ -20,6 +20,9 @@ kanban-plugin: board
 	![[Pasted image 20260429003146.png]]
 - [ ] [SH FIGUARTS "Sukuna's Vessel" Yuji Itadori](https://www.aliexpress.com/item/1005011854105167.html) 98.32gbp
 	![[Pasted image 20260429003235.png]]
+- [ ] [MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html) 41.39gbp
+	![[Pasted image 20260430011250.png]]
+	*Releases in June
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
