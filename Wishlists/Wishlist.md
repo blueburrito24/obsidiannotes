@@ -12,10 +12,13 @@ kanban-plugin: board
 - [ ] [FocusAttack HAUTE42 B16 Transparent Flexi Plate](https://focusattack.com/blank-replacement-plexi-cover-for-haute42-b16/) 16.40usd
 	[FocusAttack HAUTE42 B16 Custom Artwork Plate](https://focusattack.com/artwork-print-and-cut-for-haute42-haute-board-b16/) 22.80usd
 	[HOW TO INSTALL](https://www.youtube.com/watch?v=NIovyuGormg0)
-- [ ] [SH FIGUARTS Toji Fushiguro](https://zenmarket.jp/s/c_shop/5964803?id=35d2787b-7463-4d65-9902-bc9249523d63) 95.64gbp
+- [ ] [Trust Mydo Silent Mouse](https://amzn.eu/d/07iAzHRC) 9.99gbp
+- [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
+- [ ] [DEMONIACAL FIT Martialist Forever "Return from Beyond"](https://www.aliexpress.com/item/1005010054339433.html) 46.65gbp
+	![[Pasted image 20260430010951.png]]
+- [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
-	[Alt Link](https://zenmarket.jp/s/mmo-store/6010574?id=52b6638d-4ba3-43bb-bafc-75d3c630abee) 106.26gbp
-- [ ] [SH FIGUARTS "Sukuna's Vessel" Yuji Itadori](https://zenmarket.jp/s/c_shop/6010575?id=b4cdb685-fe28-4c35-a505-be4087bc4174) 63.76gbp
+- [ ] [SH FIGUARTS "Sukuna's Vessel" Yuji Itadori](https://www.aliexpress.com/item/1005011854105167.html) 98.32gbp
 	![[Pasted image 20260429003235.png]]
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
