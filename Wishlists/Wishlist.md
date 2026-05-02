@@ -17,8 +17,6 @@ kanban-plugin: board
 - [ ] [Key Switch Blockers](https://www.x-keys-uk.com/products/x-keys-single-key-cap-blockers-pack-of-10?variant=25130535883&country=GB&currency=GBP) 12gbp
 	^ for my haute42 b16
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
-- [ ] [DEMONIACAL FIT Martialist Forever "Return from Beyond"](https://www.aliexpress.com/item/1005010054339433.html) 46.65gbp
-	![[Pasted image 20260430010951.png]]
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2*
@@ -26,9 +24,6 @@ kanban-plugin: board
 	![[Pasted image 20260429003146.png]]
 - [ ] [SH FIGUARTS "Sukuna's Vessel" Yuji Itadori](https://www.aliexpress.com/item/1005011854105167.html) 98.32gbp
 	![[Pasted image 20260429003235.png]]
-- [ ] [MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html) 41.39gbp
-	![[Pasted image 20260430011250.png]]
-	*Releases in June
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
