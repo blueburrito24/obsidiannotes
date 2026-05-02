@@ -1,8 +1,8 @@
 NEED TO STUDY:
 https://www.youtube.com/watch?v=XMBJC5-AzOQ (combos)
-https://youtu.be/7ct0h9rUwbw?si=XwacJacYuaZhBWlM ("basic" combos)
 MOVELIST:
 https://wiki.supercombo.gg/w/Street_Fighter_3:_3rd_Strike/Akuma
+NEED TO PRACTICE PARRYING GOUKI SA1
 -------------------------------
 GOUKI notes; 
 lk, mk, mp are great connectors for supers,
@@ -22,9 +22,8 @@ air hadouken can also be good for starting a combo (such as air hadouken into mp
 624.p (red fireball) is a great pressure tool,
 
 a.214.k (air tatsu) is a great air tool that puts the opponent into a juggle state (meaning you can connect with light tatsu or dp),
-a.214.k (air tatsu) can be cancelled into sa1
-626.p (dp) can be cancelled into sa1
-sa1 in corner can be connected with 626.p (dp) into another sa1
+
+sa1 in corner can be connected with 623.p (dp) into another sa1
 
 214.mk (med tatsu) can connect with dp if done quickly,
 
@@ -42,19 +41,17 @@ GOUKI combos to practice:
 
 mp hp (target combo)
 2.lk 2.lp 2.lk (basic light combo)
-2.lk 214.lk 626.hp (bread and butter)
-a.214.hk 214.lk 626.hp (air tatsu into bread and butter)
-a.mk hp 626.hp (air kick confirm into dp)
+2.lk 214.lk 623.hp (bread and butter)
+a.mk hp 623.hp (air kick confirm into dp)
 
-626.lk.lk mp 214.lk (demon flip kick to mp into light tatsu)
-214.lk lp 214.hk (light tatsu to lp into fierce tatsu)
+623.lk.lk mp 214.lk (demon flip kick to mp into light tatsu)
+214.lk lp 214.hk (light tatsu to lp into fierce tatsu, good corner carry)
 ^^^^^^
 these are great combos to use after getting onto an opponent e.g., after an air hadouken, after a mp, etc
 You must wait to hit lp after you've landed so that it hits on time
 
 6.mp 2.mk 214.lk (grab punish combo with connector)
-
-214.lk 214.hk (corner carry using light and fierce tatsu)
+-------------------------------
 a.214.hk 214.hk 9.214.hk (jump-in fierce tatsu into neutral fierce tatsu into jump-forward fierce tatsu)
 ^^^^^^
 The opponent must be high above the ground before doing the second tatsu
@@ -62,5 +59,6 @@ ONLY WORKS MIDSCREEN ON STANDING OPPONENT except for Dudley, Q, Makoto, Urien, T
 SOME CHARACTERS CAN BE DONE IN THE CORNER such as Ryu, Ken, Gouki, Hugo
 for most characters except ELENA you can do this combo after a mid-air tatsu
 
-hp 214.lk hp 626.lk (hp tatsu hp demon flip)
-HARD COMBO HIGH STUN; hp 214.lk hp 626.lk.lk hp 214.lk 626.hp (hp tatsu hp demon flip divekick hp tatsu dp)
+hp 214.lk hp 623.lk (hp tatsu hp demon flip)
+
+HARD COMBO HIGH STUN; hp 214.lk hp 623.lk.lk hp 214.lk 623.hp (hp tatsu hp demon flip divekick hp tatsu dp)

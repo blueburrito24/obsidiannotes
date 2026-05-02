@@ -16,17 +16,21 @@ kanban-plugin: board
 	^ for my haute42 b16
 - [ ] [Trust Mydo Silent Mouse](https://amzn.eu/d/07iAzHRC) 9.99gbp
 - [ ] [nuphy Air75 V3 Low Profile Blush Nano Switches](https://amzn.eu/d/0eywShOe) 149.99gbp
+- [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
+- [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
+- [ ] [KO MARVEL LEGENDS Maximum Spider-Man](https://www.aliexpress.com/item/1005010535732213.html) 30.59gbp
+	![[Pasted image 20260502192719.png]]
+	^ Buying mainly for accessories but also a good figure
+- [ ] [JADA TOYS STREET FIGHTER II Akuma](https://www.aliexpress.com/item/1005011601454545.html) 34.64gbp
+	![[Pasted image 20260502192925.png]]
+- [ ] [STORM COLLECTIBLES STREET FIGHTER ALPHA 3 Sagat](https://www.aliexpress.com/item/1005010775809408.html) 50.39gbp
+	![[Pasted image 20260502193615.png]]
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2*
-- [ ] [NS STUDIO Saiyan Saga Goku](https://www.aliexpress.com/item/1005012213738544.html) 59.79gbp
-	![[Pasted image 20260502082816.png]]
-	*Releases in October
 - [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
-- [ ] [SH FIGUARTS "Sukuna's Vessel" Yuji Itadori](https://www.aliexpress.com/item/1005011854105167.html) 98.32gbp
-	![[Pasted image 20260429003235.png]]
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
