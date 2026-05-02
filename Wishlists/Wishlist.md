@@ -12,10 +12,10 @@ kanban-plugin: board
 - [ ] [FocusAttack HAUTE42 B16 Transparent Flexi Plate](https://focusattack.com/blank-replacement-plexi-cover-for-haute42-b16/) 16.40usd
 	[FocusAttack HAUTE42 B16 Custom Artwork Plate](https://focusattack.com/artwork-print-and-cut-for-haute42-haute-board-b16/) 22.80usd
 	[HOW TO INSTALL](https://www.youtube.com/watch?v=NIovyuGormg0)
-- [ ] [Trust Mydo Silent Mouse](https://amzn.eu/d/07iAzHRC) 9.99gbp
-- [ ] [nuphy Air75 V3 Low Profile Blush Nano Switches](https://amzn.eu/d/0eywShOe) 149.99gbp
 - [ ] [Key Switch Blockers](https://www.x-keys-uk.com/products/x-keys-single-key-cap-blockers-pack-of-10?variant=25130535883&country=GB&currency=GBP) 12gbp
 	^ for my haute42 b16
+- [ ] [Trust Mydo Silent Mouse](https://amzn.eu/d/07iAzHRC) 9.99gbp
+- [ ] [nuphy Air75 V3 Low Profile Blush Nano Switches](https://amzn.eu/d/0eywShOe) 149.99gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
