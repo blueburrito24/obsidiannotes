@@ -20,6 +20,9 @@ kanban-plugin: board
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2*
+- [ ] [NS STUDIO Saiyan Saga Goku](https://www.aliexpress.com/item/1005012213738544.html) 59.79gbp
+	![[Pasted image 20260502082816.png]]
+	*Releases in October
 - [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
 - [ ] [SH FIGUARTS "Sukuna's Vessel" Yuji Itadori](https://www.aliexpress.com/item/1005011854105167.html) 98.32gbp
