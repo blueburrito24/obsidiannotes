@@ -14,7 +14,6 @@ kanban-plugin: board
 	[HOW TO INSTALL](https://www.youtube.com/watch?v=NIovyuGormg0)
 - [ ] [Key Switch Blockers](https://www.x-keys-uk.com/products/x-keys-single-key-cap-blockers-pack-of-10?variant=25130535883&country=GB&currency=GBP) 12gbp
 	^ for my haute42 b16
-- [ ] [Trust Mydo Silent Mouse](https://amzn.eu/d/07iAzHRC) 9.99gbp
 - [ ] [nuphy Air75 V3 Low Profile Blush Nano Switches](https://amzn.eu/d/0eywShOe) 149.99gbp
 - [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
