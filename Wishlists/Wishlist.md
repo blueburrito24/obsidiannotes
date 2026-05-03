@@ -12,11 +12,12 @@ kanban-plugin: board
 - [ ] [FocusAttack HAUTE42 B16 Transparent Flexi Plate](https://focusattack.com/blank-replacement-plexi-cover-for-haute42-b16/) 16.40usd
 	[FocusAttack HAUTE42 B16 Custom Artwork Plate](https://focusattack.com/artwork-print-and-cut-for-haute42-haute-board-b16/) 22.80usd
 	[HOW TO INSTALL](https://www.youtube.com/watch?v=NIovyuGormg0)
-- [ ] [Key Switch Blockers](https://www.x-keys-uk.com/products/x-keys-single-key-cap-blockers-pack-of-10?variant=25130535883&country=GB&currency=GBP) 12gbp
-	^ for my haute42 b16
 - [ ] [nuphy Air75 V3 Low Profile Blush Nano Switches](https://amzn.eu/d/0eywShOe) 149.99gbp
 - [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
+- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
+- [ ] [Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
+- [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 - [ ] [KO MARVEL LEGENDS Maximum Spider-Man](https://www.aliexpress.com/item/1005010535732213.html) 30.59gbp
 	![[Pasted image 20260502192719.png]]
