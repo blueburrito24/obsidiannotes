@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] [Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
+	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
 - [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
 - [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
 - [ ] [Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
@@ -51,7 +52,7 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Figures Term #1<br>336.98gbp total
+## Figures Term #1<br>293.67gbp total
 
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
 	![[Pasted image 20260504183441.png]]
@@ -71,8 +72,6 @@ kanban-plugin: board
 	*Could make paper cut-out stands of fire sprites from SF3S or SFA2
 - [ ] [SH FIGUARTS ONE PIECE Fire Fist Ace](https://jctoyscollectibles.co.uk/products/s-h-figuarts-one-piece-portgas-d-ace-fire-fist-tamashii-nations-bandai?variant=56399208644943&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) 89.55gbp
 	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
-- [ ] [MAFEX 298 Venom Blue Ver.](https://www.nin-nin-game.com/en/mafex/213993-mafex-no298-venom-comic-blue-ver-medicom-toy-.html) 43.31gbp
-	![[Pasted image 20260505071523.png]]
 
 
 ## Figures Term #2<br>326.65gbp total
