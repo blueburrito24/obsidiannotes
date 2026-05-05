@@ -72,6 +72,7 @@ kanban-plugin: board
 	*Need to modify waist piece for more leg range and remove back-piece to improve articulation
 - [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
 	![[Pasted image 20260505230942.png]]
+	*Need to remove nose
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2, likely around 50gbp~
