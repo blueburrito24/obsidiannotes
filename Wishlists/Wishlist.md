@@ -70,8 +70,10 @@ kanban-plugin: board
 	![[Pasted image 20260429003146.png]]
 
 
-## Figures Term #2<br>179.33gbp total
+## Figures Term #2<br>268.88gbp total
 
+- [ ] [SH FIGUARTS ONE PIECE Fire Fist Ace](https://jctoyscollectibles.co.uk/products/s-h-figuarts-one-piece-portgas-d-ace-fire-fist-tamashii-nations-bandai?variant=56399208644943&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) 89.55gbp
+	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
 	![[684869848_18096367916140918_3283397154776735651_n.jpg]]
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215285-shfiguarts-one-piece-monkey-d-luffy-romance-dawn-ver-2nd-reissue-bandai-spirits-.html) 19.40gbp
