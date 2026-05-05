@@ -11,7 +11,11 @@ kanban-plugin: board
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
-- [ ] [nuphy Air75 V3 Low Profile Blush Nano Switches](https://amzn.eu/d/0eywShOe) 149.99gbp
+- [ ] [Zuoya GMK81 75% Keyboard Kit](https://www.aliexpress.com/item/1005007064533595.html?) 46.59gbp
+	[PBT Black keycaps](https://www.aliexpress.com/item/1005008592015032.html?) 9.19gbp
+	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
+	TOTAL 70.10gbp
+	*Would also like to buy another Trust Mydo Silent mouse to take to university
 - [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
@@ -74,8 +78,11 @@ kanban-plugin: board
 	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
 
 
-## Figures Term #2<br>326.65gbp total
+## Figures Term #2<br>383.21gbp total
 
+- [ ] [MAFEX 302 Negative Zone Spider-Man](https://www.nin-nin-game.com/en/mafex/223581-mafex-no302-negative-zone-spider-man-medicom-toy-.html) 56.56gbp
+	![[Pasted image 20260505070805.png]]
+	*Releases in December
 - [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
