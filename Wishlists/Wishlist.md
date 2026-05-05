@@ -12,7 +12,7 @@ kanban-plugin: board
 	![[Pasted image 20260408230944.png]]
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
 - [ ] [Zuoya GMK81 75% Keyboard Kit](https://www.aliexpress.com/item/1005007064533595.html?) 46.59gbp
-	[PBT Black keycaps](https://www.aliexpress.com/item/1005008592015032.html?) 9.19gbp
+	[PBT Red keycaps](https://www.aliexpress.com/item/1005008592015032.html?) 9.19gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
 	TOTAL 70.10gbp
 	*Would also like to buy another Trust Mydo Silent mouse to take to university
