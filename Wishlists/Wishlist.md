@@ -31,9 +31,6 @@ kanban-plugin: board
 - [ ] [KO MARVEL LEGENDS Maximum Spider-Man](https://www.aliexpress.com/item/1005010535732213.html) 30.59gbp
 	![[Pasted image 20260502192719.png]]
 	^ Buying mainly for accessories but also a good figure
-- [ ] [Tiger Toy HM KO Gohan headsculpts](https://www.aliexpress.com/item/1005010248780550.html?) 32.79gbp
-	![[Pasted image 20260505211129.png]]
-	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 - [ ] BSMBLACKSHARK Goku Angel Kit
 	![[image.png]]
 	*Repaint base Goku faces to match Genkidamatsuri body with [Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
