@@ -60,7 +60,7 @@ kanban-plugin: board
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>393.27gbp total
+## Figures Term #1<br>343.65gbp total
 
 - [ ] [MARVEL LEGENDS MAXIMUM SERIES Spider-Man Accessories](https://www.ebay.co.uk/itm/358515244381?) 19.64gbp
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
@@ -70,9 +70,6 @@ kanban-plugin: board
 	[1/12 Scale Chambered Gun 2023S-01](https://www.aliexpress.com/item/1005006120486435.html?) 4.27gbp
 	TOTAL 81.99gbp
 	*Need to modify waist piece for more leg range and remove back-piece to improve articulation
-- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
-	![[Pasted image 20260505230942.png]]
-	*Need to remove nose
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2, likely around 50gbp~
@@ -91,29 +88,31 @@ kanban-plugin: board
 	*Need to paint all eyes black
 
 
-## Figures Term #2<br>450.76gbp total
+## Figures Term #2<br>394.20gbp total
 
 - [ ] [SH FIGUARTS STREET FIGHTER Gouki](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m44147388116) 67.55gbp
 	![[496146109_18065275604478883_102852367707547583_n.jpg]]
 	*Need to paint all eyes black
-- [ ] [MAFEX 302 Negative Zone Spider-Man](https://www.nin-nin-game.com/en/mafex/223581-mafex-no302-negative-zone-spider-man-medicom-toy-.html) 56.56gbp
-	![[Pasted image 20260505070805.png]]
-	*Releases in December
 - [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
-	*Buy from this listing if still available pn [ZenMarket](https://zenmarket.jp/s/mmo-store/6010574?id=52b6638d-4ba3-43bb-bafc-75d3c630abee) 104.30gbp
+	*Buy from this listing if still available on [ZenMarket](https://zenmarket.jp/s/mmo-store/6010574?id=52b6638d-4ba3-43bb-bafc-75d3c630abee) 104.30gbp
 	*Need to remove nose
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
 	![[684869848_18096367916140918_3283397154776735651_n.jpg]]
 	*Need to remove nose
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215285-shfiguarts-one-piece-monkey-d-luffy-romance-dawn-ver-2nd-reissue-bandai-spirits-.html) 19.40gbp
 	^ buy for more accessories
-- [ ] [SH FIGUARTS ONE PIECE Roronoa Zoro (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215283-shfiguarts-one-piece-roronoa-zoro-romance-dawn-ver-with-bonus-2nd-reissue-bandai-spirits-.html) 35.84gbp
-	![[481785764_18057524210014551_8059975592692691774_n.webp]]
-	*Need to remove nose
+- [ ] [SH FIGUARTS ONE PIECE Roronoa Zoro (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215283-shfiguarts-one-piece-roronoa-zoro-romance-dawn-ver-with-bonus-2nd-reissue-bandai-spirits-.html) 35.84gbp ![[481785764_18057524210014551_8059975592692691774_n.webp]]
 - [ ] [AMAZING YAMAGUCHI Reverse Flash](https://www.nin-nin-game.com/en/marvel-dc-comics/131838-amazing-yamaguchi-revoltech-the-flash-reverse-flash-reissue-limited-bonus-kaiyodo-.html) 97.93gbp
 	![[540262963_17918998491156451_1223181677473961305_n.jpg]]
 	*Need to paint all faceplates' eyes black
+	*Need to remove nose
+
+
+## Figures Term #3<br>(basically unsure)
+
+- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
+	![[Pasted image 20260505230942.png]]
 	*Need to remove nose
 
 
@@ -127,6 +126,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
