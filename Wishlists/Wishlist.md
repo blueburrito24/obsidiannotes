@@ -6,20 +6,13 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] DURING TERM 1
+	I would have 381.05gbp available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
 - [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
-- [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
-	[PBT Red keycaps](https://www.aliexpress.com/item/1005008592015032.html?) 9.19gbp
-	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
-	TOTAL 59.17gbp
-	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
-- [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
-- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
-- [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
-	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
 	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
 - [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
@@ -56,6 +49,19 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
+## Tech Term #1<br>265.32gbp total
+
+- [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
+	[PBT Red keycaps](https://www.aliexpress.com/item/1005008592015032.html?) 9.19gbp
+	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
+	TOTAL 59.17gbp
+	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
+- [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
+- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
+- [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
+	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
+
+
 ## Figures Term #1<br>373.63gbp total
 
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
@@ -90,6 +96,7 @@ kanban-plugin: board
 	*Releases in December
 - [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
+	*Buy from this listing if still available pn [ZenMarket](https://zenmarket.jp/s/mmo-store/6010574?id=52b6638d-4ba3-43bb-bafc-75d3c630abee) 104.30gbp
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
 	![[684869848_18096367916140918_3283397154776735651_n.jpg]]
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215285-shfiguarts-one-piece-monkey-d-luffy-romance-dawn-ver-2nd-reissue-bandai-spirits-.html) 19.40gbp
@@ -111,6 +118,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
