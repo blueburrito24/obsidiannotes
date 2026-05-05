@@ -38,8 +38,6 @@ kanban-plugin: board
 	![[image.png]]
 	*Repaint base Goku faces to match Genkidamatsuri body with [Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
 	I'll use this body with the GB SSJ Goku heads
-- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
-	![[Pasted image 20260505230942.png]]
 
 
 ## Clothes
@@ -61,7 +59,7 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Figures Term #1<br>324.01gbp total
+## Figures Term #1<br>373.63gbp total
 
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
 	![[Pasted image 20260504183441.png]]
@@ -70,6 +68,8 @@ kanban-plugin: board
 	[1/12 Scale Chambered Gun 2023S-01](https://www.aliexpress.com/item/1005006120486435.html?) 4.27gbp
 	TOTAL 81.99gbp
 	*Need to modify waist piece for more leg range and remove back-piece to improve articulation
+- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
+	![[Pasted image 20260505230942.png]]
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2*
