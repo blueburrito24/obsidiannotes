@@ -17,8 +17,11 @@ kanban-plugin: board
 - [ ] [Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
-- [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
+- [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
+- [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
+- [ ] [Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
 - [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
+- [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 - [ ] [KO MARVEL LEGENDS Maximum Spider-Man](https://www.aliexpress.com/item/1005010535732213.html) 30.59gbp
 	![[Pasted image 20260502192719.png]]
 	^ Buying mainly for accessories but also a good figure
@@ -27,6 +30,8 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
+- [ ] [MAFEX 298 Venom Blue Ver.](https://www.nin-nin-game.com/en/mafex/213993-mafex-no298-venom-comic-blue-ver-medicom-toy-.html) 43.31gbp
+	![[Pasted image 20260505071523.png]]
 
 
 ## Clothes
@@ -77,7 +82,7 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
 	![[684869848_18096367916140918_3283397154776735651_n.jpg]]
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215285-shfiguarts-one-piece-monkey-d-luffy-romance-dawn-ver-2nd-reissue-bandai-spirits-.html) 19.40gbp
-	^ Could buy for more accessories
+	^ buy for more accessories
 - [ ] [SH FIGUARTS ONE PIECE Roronoa Zoro (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215283-shfiguarts-one-piece-roronoa-zoro-romance-dawn-ver-with-bonus-2nd-reissue-bandai-spirits-.html) 35.84gbp
 	![[481785764_18057524210014551_8059975592692691774_n.webp]]
 - [ ] [AMAZING YAMAGUCHI Reverse Flash](https://www.nin-nin-game.com/en/marvel-dc-comics/131838-amazing-yamaguchi-revoltech-the-flash-reverse-flash-reissue-limited-bonus-kaiyodo-.html) 97.93gbp
