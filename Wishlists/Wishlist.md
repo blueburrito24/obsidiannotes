@@ -21,9 +21,6 @@ kanban-plugin: board
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
 - [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
-- [ ] [KO MARVEL LEGENDS Maximum Spider-Man](https://www.aliexpress.com/item/1005010535732213.html) 30.59gbp
-	![[Pasted image 20260502192719.png]]
-	^ Buying mainly for accessories but also a good figure
 - [ ] BSMBLACKSHARK Goku Angel Kit
 	![[image.png]]
 	*Repaint base Goku faces to match Genkidamatsuri body with [Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
@@ -62,8 +59,9 @@ kanban-plugin: board
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>373.63gbp total
+## Figures Term #1<br>393.27gbp total
 
+- [ ] [MARVEL LEGENDS MAXIMUM SERIES Spider-Man Accessories](https://www.ebay.co.uk/itm/358515244381?) 19.64gbp
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
 	![[Pasted image 20260504183441.png]]
 	*Keep in mind that there will be conversion rate fees*
