@@ -48,7 +48,7 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Figures Term #1<br>302.05gbp total
+## Figures Term #1<br>351.44gbp total
 
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
 	![[Pasted image 20260504183441.png]]
@@ -66,12 +66,11 @@ kanban-plugin: board
 - [ ] [JADA TOYS STREET FIGHTER II Akuma](https://www.aliexpress.com/item/1005011601454545.html) 34.64gbp
 	![[Pasted image 20260502192925.png]]
 	*Could make paper cut-out stands of fire sprites from SF3S or SFA2
-- [ ] [AMAZING YAMAGUCHI Reverse Flash](https://www.nin-nin-game.com/en/marvel-dc-comics/131838-amazing-yamaguchi-revoltech-the-flash-reverse-flash-reissue-limited-bonus-kaiyodo-.html) 97.93gbp
-	![[540262963_17918998491156451_1223181677473961305_n.jpg]]
-	*Need to paint all faceplates' eyes black
+- [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
+	![[Pasted image 20260429003146.png]]
 
 
-## Figures Term #2<br>228.72gbp total
+## Figures Term #2<br>179.33gbp total
 
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
 	![[684869848_18096367916140918_3283397154776735651_n.jpg]]
@@ -79,8 +78,9 @@ kanban-plugin: board
 	^ Could buy for more accessories
 - [ ] [SH FIGUARTS ONE PIECE Roronoa Zoro (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215283-shfiguarts-one-piece-roronoa-zoro-romance-dawn-ver-with-bonus-2nd-reissue-bandai-spirits-.html) 35.84gbp
 	![[481785764_18057524210014551_8059975592692691774_n.webp]]
-- [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
-	![[Pasted image 20260429003146.png]]
+- [ ] [AMAZING YAMAGUCHI Reverse Flash](https://www.nin-nin-game.com/en/marvel-dc-comics/131838-amazing-yamaguchi-revoltech-the-flash-reverse-flash-reissue-limited-bonus-kaiyodo-.html) 97.93gbp
+	![[540262963_17918998491156451_1223181677473961305_n.jpg]]
+	*Need to paint all faceplates' eyes black
 
 
 ***
