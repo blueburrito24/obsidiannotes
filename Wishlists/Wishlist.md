@@ -31,6 +31,15 @@ kanban-plugin: board
 - [ ] [KO MARVEL LEGENDS Maximum Spider-Man](https://www.aliexpress.com/item/1005010535732213.html) 30.59gbp
 	![[Pasted image 20260502192719.png]]
 	^ Buying mainly for accessories but also a good figure
+- [ ] [Tiger Toy HM KO Gohan headsculpts](https://www.aliexpress.com/item/1005010248780550.html?) 32.79gbp
+	![[Pasted image 20260505211129.png]]
+	[SH FIGUARTS "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+- [ ] BSMBLACKSHARK Goku Angel Kit
+	![[image.png]]
+	*Repaint base Goku faces to match Genkidamatsuri body with [Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
+	I'll use this body with the GB SSJ Goku heads
+- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
+	![[Pasted image 20260505230942.png]]
 
 
 ## Clothes
@@ -52,7 +61,7 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Figures Term #1<br>349.14gbp total
+## Figures Term #1<br>324.01gbp total
 
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
 	![[Pasted image 20260504183441.png]]
@@ -64,12 +73,10 @@ kanban-plugin: board
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2*
-- [ ] [Base Form Vegeta Headsculpt Set](https://www.aliexpress.com/item/1005012220924985.html?) 37.49gbp
-	![[683543811_17888622423496676_234129126279536372_n.jpg]]
-	*Releases in July
-- [ ] [JADA TOYS STREET FIGHTER II Akuma](https://www.aliexpress.com/item/1005011601454545.html) 34.64gbp
-	![[Pasted image 20260502192925.png]]
-	*Could make paper cut-out stands of fire sprites from SF3S or SFA2
+- [ ] [SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.aliexpress.com/item/1005012056542557.html?) 38.32gbp
+	![[Pasted image 20260505203641.png]]
+	*Need to repaint faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
+	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
 - [ ] [SH FIGUARTS ONE PIECE Fire Fist Ace](https://jctoyscollectibles.co.uk/products/s-h-figuarts-one-piece-portgas-d-ace-fire-fist-tamashii-nations-bandai?variant=56399208644943&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) 89.55gbp
 	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
@@ -77,8 +84,10 @@ kanban-plugin: board
 	*Releases in October
 
 
-## Figures Term #2<br>383.21gbp total
+## Figures Term #2<br>450.76gbp total
 
+- [ ] [SH FIGUARTS STREET FIGHTER Gouki](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m44147388116) 67.55gbp
+	![[496146109_18065275604478883_102852367707547583_n.jpg]]
 - [ ] [MAFEX 302 Negative Zone Spider-Man](https://www.nin-nin-game.com/en/mafex/223581-mafex-no302-negative-zone-spider-man-medicom-toy-.html) 56.56gbp
 	![[Pasted image 20260505070805.png]]
 	*Releases in December
