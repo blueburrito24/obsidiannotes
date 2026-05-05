@@ -75,7 +75,7 @@ kanban-plugin: board
 	![[Pasted image 20260505230942.png]]
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
-	*Releases in Q2*
+	*Releases in Q2, likely around 50gbp~
 - [ ] [SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.aliexpress.com/item/1005012056542557.html?) 38.32gbp
 	![[Pasted image 20260505203641.png]]
 	*Need to repaint faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
