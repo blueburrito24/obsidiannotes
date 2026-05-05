@@ -30,11 +30,6 @@ kanban-plugin: board
 - [ ] [KO MARVEL LEGENDS Maximum Spider-Man](https://www.aliexpress.com/item/1005010535732213.html) 30.59gbp
 	![[Pasted image 20260502192719.png]]
 	^ Buying mainly for accessories but also a good figure
-- [ ] [STORM COLLECTIBLES STREET FIGHTER ALPHA 3 Sagat](https://www.aliexpress.com/item/1005010775809408.html) 50.39gbp
-	![[Pasted image 20260502193615.png]]
-- [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
-	![[Pasted image 20260429003255.png]]
-	*Releases in October
 
 
 ## Clothes
@@ -56,7 +51,7 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Figures Term #1<br>293.67gbp total
+## Figures Term #1<br>349.14gbp total
 
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
 	![[Pasted image 20260504183441.png]]
@@ -76,6 +71,9 @@ kanban-plugin: board
 	*Could make paper cut-out stands of fire sprites from SF3S or SFA2
 - [ ] [SH FIGUARTS ONE PIECE Fire Fist Ace](https://jctoyscollectibles.co.uk/products/s-h-figuarts-one-piece-portgas-d-ace-fire-fist-tamashii-nations-bandai?variant=56399208644943&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) 89.55gbp
 	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
+- [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
+	![[Pasted image 20260429003255.png]]
+	*Releases in October
 
 
 ## Figures Term #2<br>383.21gbp total
