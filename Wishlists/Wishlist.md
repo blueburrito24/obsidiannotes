@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/lor%C3%A9al-paris-elvive-collagen-and-lifter-fibre-densifying-conditioner-for-flat-hair-300ml-10374913) 4gbp for daily use
 - [ ] DURING TERM 1
 	I would have 381.05gbp available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
@@ -69,7 +70,7 @@ kanban-plugin: board
 	[1/12 Scale Chambered Gun 2023S-01](https://www.aliexpress.com/item/1005006120486435.html?) 4.27gbp
 	TOTAL 81.99gbp
 	*Need to modify waist piece for more leg range and remove back-piece to improve articulation
-- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
+- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
 	![[Pasted image 20260505230942.png]]
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
@@ -86,6 +87,7 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
+	*Need to paint all eyes black
 
 
 ## Figures Term #2<br>450.76gbp total
