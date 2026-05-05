@@ -74,12 +74,15 @@ kanban-plugin: board
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2, likely around 50gbp~
+	*Need to remove nose
 - [ ] [SH FIGUARTS "Dangerous Pride" Super Saiyan Vegeta](https://www.aliexpress.com/item/1005012056542557.html?) 38.32gbp
 	![[Pasted image 20260505203641.png]]
 	*Need to repaint faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
 	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
+	*Need to remove nose
 - [ ] [SH FIGUARTS ONE PIECE Fire Fist Ace](https://jctoyscollectibles.co.uk/products/s-h-figuarts-one-piece-portgas-d-ace-fire-fist-tamashii-nations-bandai?variant=56399208644943&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) 89.55gbp
 	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
+	*Need to remove nose
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
@@ -89,21 +92,26 @@ kanban-plugin: board
 
 - [ ] [SH FIGUARTS STREET FIGHTER Gouki](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m44147388116) 67.55gbp
 	![[496146109_18065275604478883_102852367707547583_n.jpg]]
+	*Need to paint all eyes black
 - [ ] [MAFEX 302 Negative Zone Spider-Man](https://www.nin-nin-game.com/en/mafex/223581-mafex-no302-negative-zone-spider-man-medicom-toy-.html) 56.56gbp
 	![[Pasted image 20260505070805.png]]
 	*Releases in December
 - [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
 	*Buy from this listing if still available pn [ZenMarket](https://zenmarket.jp/s/mmo-store/6010574?id=52b6638d-4ba3-43bb-bafc-75d3c630abee) 104.30gbp
+	*Need to remove nose
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
 	![[684869848_18096367916140918_3283397154776735651_n.jpg]]
+	*Need to remove nose
 - [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215285-shfiguarts-one-piece-monkey-d-luffy-romance-dawn-ver-2nd-reissue-bandai-spirits-.html) 19.40gbp
 	^ buy for more accessories
 - [ ] [SH FIGUARTS ONE PIECE Roronoa Zoro (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215283-shfiguarts-one-piece-roronoa-zoro-romance-dawn-ver-with-bonus-2nd-reissue-bandai-spirits-.html) 35.84gbp
 	![[481785764_18057524210014551_8059975592692691774_n.webp]]
+	*Need to remove nose
 - [ ] [AMAZING YAMAGUCHI Reverse Flash](https://www.nin-nin-game.com/en/marvel-dc-comics/131838-amazing-yamaguchi-revoltech-the-flash-reverse-flash-reissue-limited-bonus-kaiyodo-.html) 97.93gbp
 	![[540262963_17918998491156451_1223181677473961305_n.jpg]]
 	*Need to paint all faceplates' eyes black
+	*Need to remove nose
 
 
 ***
