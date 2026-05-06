@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
 - [ ] DURING TERM 1
-	I would have 381.05gbp available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
+	I would have 398.95gbp~ available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
@@ -56,7 +56,7 @@ kanban-plugin: board
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>343.65gbp total
+## Figures Term #1<br>355.73gbp total
 
 - [ ] [MARVEL LEGENDS MAXIMUM SERIES Spider-Man Accessories](https://www.ebay.co.uk/itm/358515244381?) 19.64gbp
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
@@ -75,19 +75,19 @@ kanban-plugin: board
 	*Need to repaint faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
 	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
 	*Need to remove nose
+- [ ] [SH FIGUARTS STREET FIGHTER Gouki](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m44147388116) 67.55gbp
+	![[496146109_18065275604478883_102852367707547583_n.jpg]]
+	*Need to paint all eyes black
 - [ ] [SH FIGUARTS ONE PIECE Fire Fist Ace](https://jctoyscollectibles.co.uk/products/s-h-figuarts-one-piece-portgas-d-ace-fire-fist-tamashii-nations-bandai?variant=56399208644943&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) 89.55gbp
 	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
 	*Need to remove nose
+
+
+## Figures Term #2<br>382.12gbp total
+
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
-	*Need to paint all eyes black
-
-
-## Figures Term #2<br>394.20gbp total
-
-- [ ] [SH FIGUARTS STREET FIGHTER Gouki](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m44147388116) 67.55gbp
-	![[496146109_18065275604478883_102852367707547583_n.jpg]]
 	*Need to paint all eyes black
 - [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
 	![[Pasted image 20260429003146.png]]
