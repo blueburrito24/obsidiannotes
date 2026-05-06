@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
 - [ ] DURING TERM 1
-	I would have 398.95gbp~ available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
+	I would have 406.05gbp~ available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
@@ -43,12 +43,12 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Tech Term #1<br>265.32gbp total
+## Tech Term #1<br>258.22gbp total
 
 - [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
-	[PBT Red keycaps](https://www.aliexpress.com/item/1005008592015032.html?) 9.19gbp
+	[WOMIER Low Profile White keycaps](https://amzn.eu/d/0ayml1D1) 18.92gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
-	TOTAL 59.17gbp
+	TOTAL 68.90gbp
 	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
 - [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
