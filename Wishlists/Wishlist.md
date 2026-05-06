@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/lor%C3%A9al-paris-elvive-collagen-and-lifter-fibre-densifying-conditioner-for-flat-hair-300ml-10374913) 4gbp for daily use
+- [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
 - [ ] DURING TERM 1
 	I would have 381.05gbp available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
@@ -22,10 +22,6 @@ kanban-plugin: board
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
 - [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
-- [ ] BSMBLACKSHARK Goku Angel Kit
-	![[image.png]]
-	*Repaint base Goku faces to match Genkidamatsuri body with [Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
-	I'll use this body with the GB SSJ Goku heads
 
 
 ## Clothes
@@ -114,6 +110,12 @@ kanban-plugin: board
 - [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
 	![[Pasted image 20260505230942.png]]
 	*Need to remove nose
+- [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
+	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
+- [ ] BSMBLACKSHARK Goku Angel Kit
+	![[image.png]]
+	*Repaint base Goku faces to match Genkidamatsuri body with [Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
+	I'll use this body with the GB SSJ Goku heads
 
 
 ***
