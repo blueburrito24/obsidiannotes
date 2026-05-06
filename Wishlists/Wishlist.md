@@ -114,8 +114,12 @@ kanban-plugin: board
 	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
 - [ ] BSMBLACKSHARK Goku Angel Kit
 	![[image.png]]
-	*Repaint base Goku faces to match Genkidamatsuri body with [Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
-	I'll use this body with the GB SSJ Goku heads
+	*I'll use this body with the GB SSJ Goku heads
+	[Blood water decals](https://www.aliexpress.com/item/1005008826344489.html?) 6.27gbp
+	[Goku face water decals](https://www.aliexpress.com/item/1005009506264154.html?) 6.27gbp
+	[Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
+	Would repaint my GB Goku body and the BSM heads to match the tan skin of the Genkidamatsuri Goku.
+	Also would repaint GB SSJ heads to match.
 
 
 ***
