@@ -56,9 +56,14 @@ kanban-plugin: board
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>317.41gbp total
+## Figures Term #1<br>351.41gbp total
 
 - [ ] [MARVEL LEGENDS MAXIMUM SERIES Spider-Man Accessories](https://www.ebay.co.uk/itm/358515244381?) 19.64gbp
+- [ ] [POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
+	[POP! Elements: Lightning](https://amzn.eu/d/00ti8AOe) 5gbp
+	[POP! Elements: Earth](https://amzn.eu/d/07rnmFPZ) 7gbp
+	[POP! Elements: Fire](https://amzn.eu/d/0i0vBonz) 7gbp
+	*For display and photography
 - [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
 	![[Pasted image 20260504183441.png]]
 	*Keep in mind that there will be conversion rate fees*
@@ -81,7 +86,7 @@ kanban-plugin: board
 	*Need to remove nose
 
 
-## Figures Term #2<br>382.12gbp total
+## Figures Term #2<br>257.70gbp total
 
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
@@ -91,12 +96,6 @@ kanban-plugin: board
 	![[Pasted image 20260429003146.png]]
 	*Buy from this listing if still available on [ZenMarket](https://zenmarket.jp/s/mmo-store/6010574?id=52b6638d-4ba3-43bb-bafc-75d3c630abee) 104.30gbp
 	*Need to remove nose
-- [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Marineford Ver.)](https://www.nin-nin-game.com/en/shfiguarts/194481-shfiguarts-one-piece-monkey-d-luffy-marineford-arc-ver-bandai-spirits-.html) 26.16gbp
-	![[684869848_18096367916140918_3283397154776735651_n.jpg]]
-	*Need to remove nose
-- [ ] [SH FIGUARTS ONE PIECE Monkey D. Luffy (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215285-shfiguarts-one-piece-monkey-d-luffy-romance-dawn-ver-2nd-reissue-bandai-spirits-.html) 19.40gbp
-	^ buy for more accessories
-- [ ] [SH FIGUARTS ONE PIECE Roronoa Zoro (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215283-shfiguarts-one-piece-roronoa-zoro-romance-dawn-ver-with-bonus-2nd-reissue-bandai-spirits-.html) 35.84gbp ![[481785764_18057524210014551_8059975592692691774_n.webp]]
 - [ ] [AMAZING YAMAGUCHI Reverse Flash](https://www.nin-nin-game.com/en/marvel-dc-comics/131838-amazing-yamaguchi-revoltech-the-flash-reverse-flash-reissue-limited-bonus-kaiyodo-.html) 97.93gbp
 	![[540262963_17918998491156451_1223181677473961305_n.jpg]]
 	*Need to paint all faceplates' eyes black
