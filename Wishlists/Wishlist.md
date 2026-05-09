@@ -56,21 +56,25 @@ kanban-plugin: board
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>351.41gbp total
+## Figures Term #1<br>272.06gbp total
 
-- [ ] [MARVEL LEGENDS MAXIMUM SERIES Spider-Man Accessories](https://www.ebay.co.uk/itm/358515244381?) 19.64gbp
 - [ ] [POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
-	[POP! Elements: Lightning](https://amzn.eu/d/00ti8AOe) 5gbp
-	[POP! Elements: Earth](https://amzn.eu/d/07rnmFPZ) 7gbp
-	[POP! Elements: Fire](https://amzn.eu/d/0i0vBonz) 7gbp
 	*For display and photography
-- [ ] [SH FIGUARTS ACROSS THE SPIDER-VERSE Spider-Man Noir](https://zenmarket.jp/s/c_shop/6078018?id=9f1c0544-0535-42f8-ab50-2c6a53528399) 64.63gbp
-	![[Pasted image 20260504183441.png]]
+- [ ] [MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010151080515.html) 38.29gbp
+	![[684876674_18011650145894116_4737903262510797933_n.webp]]
+	^ Need to sand down knee pokes with sandpaper
+- [ ] #### REPLACEMENT COPY
+	[SH FIGUARTS GAMERVERSE Spider-Man](https://zenmarket.jp/s/c_shop/6060458?id=43d670e8-57a8-4926-bd51-5cddb1597807) 75.11gbp
+	Also need to use acetone and remove the chest joint parts from my modded broken copy for [this mod](https://www.instagram.com/p/DW6vTDRCqc_/)
 	*Keep in mind that there will be conversion rate fees*
-	[1/12 Trenchcoat](https://www.aliexpress.com/item/1005005399953836.html?) 13.99gbp
-	[1/12 Scale Chambered Gun 2023S-01](https://www.aliexpress.com/item/1005006120486435.html?) 4.27gbp
-	TOTAL 81.99gbp
-	*Need to modify waist piece for more leg range and remove back-piece to improve articulation
+	[CT TOYS 185 Classic Costume Spider-Man](https://www.aliexpress.com/item/1005010162801006.html) 22.79gbp
+	^ for crotch replacement piece
+	![[656491745_18319635235253215_195156506188399158_n.jpg]]
+	TOTAL 87.90gbp
+	*I could repurpose my broken copy's spare hands to make new ones e.g., choppy hands, pointer hands, phone holding hands
+- [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
+	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
+	*Need to remove nose
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2, likely around 50gbp~
@@ -78,24 +82,14 @@ kanban-plugin: board
 - [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
 	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
 	*Need to remove nose on BHT faceplates too
-- [ ] [SH FIGUARTS STREET FIGHTER Gouki](https://zenmarket.jp/en/mercariproduct.aspx?itemCode=m44147388116) 67.55gbp
-	![[496146109_18065275604478883_102852367707547583_n.jpg]]
-	*Need to paint Gouki's eyes black
-- [ ] [SH FIGUARTS ONE PIECE Fire Fist Ace](https://jctoyscollectibles.co.uk/products/s-h-figuarts-one-piece-portgas-d-ace-fire-fist-tamashii-nations-bandai?variant=56399208644943&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic) 89.55gbp
-	![[491442013_18059120780143790_8547421097129778669_n.jpg]]
-	*Need to remove nose
 
 
-## Figures Term #2<br>257.70gbp total
+## Figures Term #2<br>153.40gbp total
 
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
 	*Need to paint all eyes black
-- [ ] [SH FIGUARTS Toji Fushiguro](https://www.aliexpress.com/item/1005011633149794.html) 147.32gbp
-	![[Pasted image 20260429003146.png]]
-	*Buy from this listing if still available on [ZenMarket](https://zenmarket.jp/s/mmo-store/6010574?id=52b6638d-4ba3-43bb-bafc-75d3c630abee) 104.30gbp
-	*Need to remove nose
 - [ ] [AMAZING YAMAGUCHI Reverse Flash](https://www.nin-nin-game.com/en/marvel-dc-comics/131838-amazing-yamaguchi-revoltech-the-flash-reverse-flash-reissue-limited-bonus-kaiyodo-.html) 97.93gbp
 	![[540262963_17918998491156451_1223181677473961305_n.jpg]]
 	*Need to paint all faceplates' eyes black
@@ -107,8 +101,6 @@ kanban-plugin: board
 - [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
 	![[Pasted image 20260505230942.png]]
 	*Need to remove nose
-- [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
-	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
 - [ ] BSMBLACKSHARK Goku Angel Kit
 	![[image.png]]
 	*I'll use this body with the GB SSJ Goku heads
@@ -117,6 +109,11 @@ kanban-plugin: board
 	[Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
 	Would repaint my GB Goku body and the BSM heads to match the tan skin of the Genkidamatsuri Goku.
 	Also would repaint GB SSJ heads to match.
+- [ ] [Whale Works 1/12 Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.32gbp
+	![[Pasted image 20260509060426.png]]
+- [ ] [MESS TOYS Black Suit Neighbor](https://www.aliexpress.com/item/1005010151548170.html?) 33.89gbp
+	![[660865962_18197974747356610_3876114684984679837_n.webp]]
+	^ Need to sand down knee pokes with sandpaper
 
 
 ***
