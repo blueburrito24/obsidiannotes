@@ -56,7 +56,7 @@ kanban-plugin: board
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>272.06gbp total
+## Figures Term #1<br>304.01gbp total
 
 - [ ] [POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	*For display and photography
@@ -72,6 +72,8 @@ kanban-plugin: board
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	TOTAL 87.90gbp
 	*I could repurpose my broken copy's spare hands to make new ones e.g., choppy hands, pointer hands, phone holding hands
+- [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	![[689224739_17909612049401813_50872217311216390_n.jpg]]
 - [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
 	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
 	*Need to remove nose
