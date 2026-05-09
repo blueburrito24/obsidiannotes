@@ -86,8 +86,11 @@ kanban-plugin: board
 	*Need to remove nose on BHT faceplates too
 
 
-## Figures Term #2<br>153.40gbp total
+## Figures Term #2<br>203.02gbp total
 
+- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
+	![[Pasted image 20260505230942.png]]
+	*Need to remove nose
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
@@ -100,9 +103,6 @@ kanban-plugin: board
 
 ## Figures Term #3<br>(basically unsure)
 
-- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
-	![[Pasted image 20260505230942.png]]
-	*Need to remove nose
 - [ ] BSMBLACKSHARK Goku Angel Kit
 	![[image.png]]
 	*I'll use this body with the GB SSJ Goku heads
