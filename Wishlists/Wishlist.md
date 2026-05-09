@@ -7,8 +7,6 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
-- [ ] DURING TERM 1
-	I would have 444.37gbp~ available after buying this tech, these figures, and accounting for 180gbp spent on travel costs during the term.
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
