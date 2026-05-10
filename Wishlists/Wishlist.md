@@ -7,7 +7,7 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
-- [ ] [ROG ALLY X 1TB Black model](https://uk.webuy.com/product-detail?id=SHGPARC72LANH007W1BB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=CAE4C2D5455630E5237CFB95E894EC38&position=1) 580gbp
+- [ ] Lenovo Legion Z1 Extreme 400~
 	*Want to get this at a later date
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
