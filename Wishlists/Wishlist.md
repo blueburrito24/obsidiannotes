@@ -18,6 +18,16 @@ kanban-plugin: board
 - [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
 	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
+	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
+- [ ] #### EFFECT PIECES
+	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
+	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
+	[SH_FIGUPOSES Sparkle Effect Set](https://www.ebay.co.uk/itm/317993970225?) 8.37gbp
+	[SH_FIGUPOSES Transparent Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 9.36gbp
+	[SH_FIGUPOSES Bakugo Explosion Effect](https://www.ebay.co.uk/itm/318202142286?) 12.37gbp
+	[AC Factory Transparent Wind Effect Kit](https://www.aliexpress.com/item/1005009722974079.html?) 7.29gbp
+	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
+	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
 - [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 
@@ -41,23 +51,20 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Tech Term #1<br>258.22gbp total
+## Tech Term #1<br>194.17gbp total
 
 - [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
 	[WOMIER Low Profile White keycaps](https://amzn.eu/d/0ayml1D1) 18.92gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
 	TOTAL 68.90gbp
 	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
-- [ ] [Hori Real Arcade Pro 3 Arcade Stick](https://www.ebay.co.uk/itm/167920243414) 64.05gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>281.22gbp total
+## Figures Term #1<br>276.22gbp total
 
-- [ ] [POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
-	*For display and photography
 - [ ] [MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010151080515.html) 38.29gbp
 	![[684876674_18011650145894116_4737903262510797933_n.webp]]
 	^ Need to sand down knee pokes with sandpaper
@@ -98,14 +105,14 @@ kanban-plugin: board
 
 ## Figures Term #3<br>(basically unsure)
 
-- [ ] BSMBLACKSHARK Goku Angel Kit
-	![[image.png]]
-	*I'll use this body with the GB SSJ Goku heads
-	[Blood water decals](https://www.aliexpress.com/item/1005008826344489.html?) 6.27gbp
-	[Goku face water decals](https://www.aliexpress.com/item/1005009506264154.html?) 6.27gbp
-	[Vallejo Skin and Face paint set](https://amzn.eu/d/0fWVi9Ux) 20.13gbp
-	Would repaint my GB Goku body and the BSM heads to match the tan skin of the Genkidamatsuri Goku.
-	Also would repaint GB SSJ heads to match.
+- [ ] BSMBLACKSHARK Goku "Battle Damage Shark" BSM 02A
+	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
+	*Releases in the Summer, more details to be revealed later.
+	I would use the Games Begin headsculpt on this, then use the Games Begin body with the TK Gohan headsculpt.
+- [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
+	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 8.59gbp
+	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
+	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 - [ ] [Whale Works 1/12 Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.32gbp
 	![[Pasted image 20260509060426.png]]
 - [ ] [MESS TOYS Black Suit Neighbor](https://www.aliexpress.com/item/1005010151548170.html?) 33.89gbp
