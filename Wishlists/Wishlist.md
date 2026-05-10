@@ -20,6 +20,7 @@ kanban-plugin: board
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
 	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
 - [ ] #### EFFECT PIECES
+	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
 	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
 	[SH_FIGUPOSES Sparkle Effect Set](https://www.ebay.co.uk/itm/317993970225?) 4.99gbp
@@ -68,7 +69,7 @@ kanban-plugin: board
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
-## Figures Term #1<br>276.22gbp total
+## Figures Term #1<br>325.40gbp total
 
 - [ ] [MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010151080515.html) 38.29gbp
 	![[684876674_18011650145894116_4737903262510797933_n.webp]]
@@ -84,17 +85,29 @@ kanban-plugin: board
 - [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
 	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
 	*Need to remove nose
+- [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
+	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
+	*Need to remove nose on BHT faceplates too
+- [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
+	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 8.59gbp
+	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
+- [ ] BSMBLACKSHARK Goku "Battle Damage Shark" BSM 02A
+	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
+	*Releases in the Summer, more details to be revealed later.
+	I would use the Games Begin headsculpt on this, then use the Games Begin body with the TK Gohan headsculpt.
+	Likely around 50gbp~
+
+
+## Figures Term #2<br>313.21gbp total
+
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2, likely around 50gbp~
 	*Need to remove nose
-- [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
-	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
-	*Need to remove nose on BHT faceplates too
-
-
-## Figures Term #2<br>203.02gbp total
-
+- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
+	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
+	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
+	TOTAL 60.19
 - [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
 	![[Pasted image 20260505230942.png]]
 	*Need to remove nose
@@ -110,14 +123,6 @@ kanban-plugin: board
 
 ## Figures Term #3<br>(basically unsure)
 
-- [ ] BSMBLACKSHARK Goku "Battle Damage Shark" BSM 02A
-	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
-	*Releases in the Summer, more details to be revealed later.
-	I would use the Games Begin headsculpt on this, then use the Games Begin body with the TK Gohan headsculpt.
-- [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
-	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 8.59gbp
-	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
-	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 - [ ] [Whale Works 1/12 Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.32gbp
 	![[Pasted image 20260509060426.png]]
 - [ ] [MESS TOYS Black Suit Neighbor](https://www.aliexpress.com/item/1005010151548170.html?) 33.89gbp
