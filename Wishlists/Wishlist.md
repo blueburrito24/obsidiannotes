@@ -88,17 +88,18 @@ kanban-plugin: board
 - [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
 	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
 	*Need to remove nose on BHT faceplates too
-- [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
-	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 8.59gbp
-	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
 - [ ] BSMBLACKSHARK Goku "Battle Damage Shark" BSM 02A
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Releases in the Summer, more details to be revealed later.
 	I would use the Games Begin headsculpt on this, then use the Games Begin body with the TK Gohan headsculpt.
 	Likely around 50gbp~
+- [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
+	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 8.59gbp
+	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
+	*Need to remove nose
 
 
-## Figures Term #2<br>313.21gbp total
+## Figures Term #2<br>263.59gbp total
 
 - [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
 	![[Pasted image 20260430164851.png]]
@@ -108,9 +109,6 @@ kanban-plugin: board
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
 	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
 	TOTAL 60.19
-- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005012213738544.html) 49.62gbp
-	![[Pasted image 20260505230942.png]]
-	*Need to remove nose
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
