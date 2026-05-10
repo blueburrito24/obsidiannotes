@@ -94,7 +94,6 @@ kanban-plugin: board
 	[KAMIONE Goku headsculpts](https://www.aliexpress.com/item/1005010193009454.html?) 40.64gbp
 	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[693272783_17938549371230269_4602225785881506406_n.webp]]
-	![[671029440_18431802835139003_6000676286838953184_n.jpg]]
 	TOTAL 115gbp
 	*Would use with my Games Begin Goku body and sell SSJ Future Gohan to Musa
 - [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
