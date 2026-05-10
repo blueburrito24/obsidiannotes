@@ -22,9 +22,14 @@ kanban-plugin: board
 - [ ] #### EFFECT PIECES
 	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
 	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
-	[SH_FIGUPOSES Sparkle Effect Set](https://www.ebay.co.uk/itm/317993970225?) 8.37gbp
-	[SH_FIGUPOSES Transparent Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 9.36gbp
-	[SH_FIGUPOSES Bakugo Explosion Effect](https://www.ebay.co.uk/itm/318202142286?) 12.37gbp
+	[SH_FIGUPOSES Sparkle Effect Set](https://www.ebay.co.uk/itm/317993970225?) 4.99gbp
+	[SH_FIGUPOSES Transparent Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp
+	[SH_FIGUPOSES Bakugo Explosion Effect](https://www.ebay.co.uk/itm/318202142286?) 8.99gbp
+	[SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
+	[SH_FIGUPOSES Ki Beam Effect](https://www.ebay.co.uk/itm/317872776622?) 8.99gbp
+	[SH_FIGUPOSES BOOOM Text Effect](https://www.ebay.co.uk/itm/318063759041?) 4.99gbp
+	[SH_FIGUPOSES SMAASH!! Text Effect](https://www.ebay.co.uk/itm/318064047907?) 4.99gbp
+	[SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
 	[AC Factory Transparent Wind Effect Kit](https://www.aliexpress.com/item/1005009722974079.html?) 7.29gbp
 	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
