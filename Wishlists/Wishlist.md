@@ -90,7 +90,7 @@ kanban-plugin: board
 - [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
 	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
 	*Need to remove nose on BHT faceplates too
-- [ ] [HATOYS Future Gohan](https://www.aliexpress.com/item/1005011766128796.html?) 68.39gbp
+- [ ] [HATOYS Future Gohan](https://www.aliexpress.com/item/1005011766128796.html?) 68.39gbp *release in June*
 	[KAMIONE Goku headsculpts](https://www.aliexpress.com/item/1005010193009454.html?) 40.64gbp
 	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[693272783_17938549371230269_4602225785881506406_n.webp]]
@@ -103,8 +103,10 @@ kanban-plugin: board
 	*Need to remove nose
 
 
-## Figures Term #2<br>237.64gbp total
+## Figures Term #2<br>282.07gbp total
 
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 42.43gbp
+	![[640406169_17942318850129327_4779743658611164652_n.jpg]]
 - [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
 	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
 	*Need to remove nose
@@ -122,15 +124,6 @@ kanban-plugin: board
 	*Need to paint all eyes black
 
 
-## Figures Term #3<br>(basically unsure)
-
-- [ ] [Whale Works 1/12 Male Body](https://www.aliexpress.com/item/1005011748464686.html) 47.32gbp
-	![[Pasted image 20260509060426.png]]
-- [ ] [MESS TOYS Black Suit Neighbor](https://www.aliexpress.com/item/1005010151548170.html?) 33.89gbp
-	![[660865962_18197974747356610_3876114684984679837_n.webp]]
-	^ Need to sand down knee pokes with sandpaper
-
-
 ***
 
 ## Archive
@@ -141,6 +134,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
