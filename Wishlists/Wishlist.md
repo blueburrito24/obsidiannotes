@@ -7,7 +7,8 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
-- [ ] Lenovo Legion Z1 Extreme 400~
+- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
+	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	*Want to get this at a later date
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
@@ -21,6 +22,7 @@ kanban-plugin: board
 	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
 	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
+- [ ] [Crocodile Clamp Stand for painting](https://amzn.eu/d/03MXpbDU) 6.96gbp
 - [ ] #### EFFECT PIECES
 	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
@@ -36,6 +38,10 @@ kanban-plugin: board
 	[AC Factory Transparent Wind Effect Kit](https://www.aliexpress.com/item/1005009722974079.html?) 7.29gbp
 	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
+	TOTAL 130.92gbp
+- [ ] [Vallejo Matt Varnish](https://amzn.eu/d/08UhFBUX) 5.45gbp
+	[Vallejo Game Colour White](https://amzn.eu/d/03moYDzX) 5.58gbp
+	^ to repaint the Yellow Impact effects into white, apply 2 coats of matt varnish to the Yellow Impact effects, then 2 coats of game colour white ink
 - [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 
@@ -69,6 +75,8 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
+- [ ] [EasySMX S15 Split Pad](https://www.aliexpress.com/item/1005008223590820.html?) 44.69gbp
+	^ for lazy bed gaming
 
 
 ## Figures Term #1<br>427.35gbp total
@@ -107,7 +115,7 @@ kanban-plugin: board
 	Likely around 40
 
 
-## Figures Term #2<br>282.07gbp total
+## Figures Term #2<br>345.28gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 42.43gbp
 	![[640406169_17942318850129327_4779743658611164652_n.jpg]]
@@ -126,6 +134,8 @@ kanban-plugin: board
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
 	*Need to paint all eyes black
+- [ ] [SH FIGUARTS JUJUTSU KAISEN "Sukuna's Vessel" Yuji Itadori](https://zenmarket.jp/s/c_shop/6010575?id=b4cdb685-fe28-4c35-a505-be4087bc4174) 63.21gbp
+	![[670528009_18148754536468326_8322481288530242143_n.jpg]]
 
 
 ***
