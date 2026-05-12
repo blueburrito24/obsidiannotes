@@ -80,7 +80,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>427.35gbp total
+## Figures Term #1<br>439.14gbp total
 
 - [ ] [MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010151080515.html) 38.29gbp
 	![[684876674_18011650145894116_4737903262510797933_n.webp]]
@@ -110,10 +110,9 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
 	*Need to remove nose
-- [ ] BSM BLACK SHARK Damaged Body
+- [ ] [BSM BLACK SHARK Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 51.79gbp
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Would use with Games Begin headsculpt
-	Likely around 40
 
 
 ## Figures Term #2<br>345.28gbp total
