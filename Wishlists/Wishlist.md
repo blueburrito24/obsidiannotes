@@ -9,12 +9,13 @@ kanban-plugin: board
 - [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
+	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 	*Want to get this at a later date
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
 - [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
 	![[Pasted image 20260408230944.png]]
-- [ ] [AQA GCSE English Language: Student Book 1](https://global.oup.com/education/product/9780198340744/?region=uk) 23.99
+- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
 	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
 - [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
@@ -136,6 +137,7 @@ kanban-plugin: board
 	*Need to paint all eyes black
 - [ ] [SH FIGUARTS JUJUTSU KAISEN "Sukuna's Vessel" Yuji Itadori](https://zenmarket.jp/s/c_shop/6010575?id=b4cdb685-fe28-4c35-a505-be4087bc4174) 63.21gbp
 	![[670528009_18148754536468326_8322481288530242143_n.jpg]]
+	[Alt Link](https://www.nin-nin-game.com/en/jujutsu-kaisen/206207-shfiguarts-jujutsu-kaisen-itadori-yuji-sukuna-s-vessel-bandai-spirits-.html) 71gbp
 
 
 ***
