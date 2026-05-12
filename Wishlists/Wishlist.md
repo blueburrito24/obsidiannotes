@@ -104,7 +104,8 @@ kanban-plugin: board
 	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[693272783_17938549371230269_4602225785881506406_n.webp]]
 	TOTAL 115gbp
-	*Would use with my Games Begin Goku body and sell SSJ Future Gohan to Musa
+	*Need to remove nose
+	Would use with my Games Begin Goku body and sell SSJ Future Gohan to Musa
 - [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
 	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
@@ -113,12 +114,14 @@ kanban-plugin: board
 - [ ] [BSM BLACK SHARK Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 51.79gbp
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Would use with Games Begin headsculpt
+	Releases in September*
 
 
 ## Figures Term #2<br>345.28gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 42.43gbp
 	![[640406169_17942318850129327_4779743658611164652_n.jpg]]
+	*Need to remove nose
 - [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
 	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
 	*Need to remove nose
@@ -137,6 +140,7 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS JUJUTSU KAISEN "Sukuna's Vessel" Yuji Itadori](https://zenmarket.jp/s/c_shop/6010575?id=b4cdb685-fe28-4c35-a505-be4087bc4174) 63.21gbp
 	![[670528009_18148754536468326_8322481288530242143_n.jpg]]
 	[Alt Link](https://www.nin-nin-game.com/en/jujutsu-kaisen/206207-shfiguarts-jujutsu-kaisen-itadori-yuji-sukuna-s-vessel-bandai-spirits-.html) 71gbp
+	*Need to remove nose
 
 
 ***
