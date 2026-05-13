@@ -80,37 +80,31 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>439.14gbp total
+## Figures Term #1<br>320.26gbp total
 
+- [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
+	![[656491745_18319635235253215_195156506188399158_n.jpg]]
+	*Releases in Q3 (June-September)
 - [ ] [MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010151080515.html) 38.29gbp
 	![[684876674_18011650145894116_4737903262510797933_n.webp]]
 	^ Need to sand down knee pokes with sandpaper
 - [ ] [MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 42.19gbp
 	![[HDrf6MBbQAALDC6.jpg]]
-- [ ] #### REPLACEMENT COPY
-	[SH FIGUARTS GAMERVERSE Spider-Man](https://zenmarket.jp/s/c_shop/6060458?id=43d670e8-57a8-4926-bd51-5cddb1597807) 75.11gbp
-	Also need to use acetone and remove the chest joint parts from my modded broken copy for [this mod](https://www.instagram.com/p/DW6vTDRCqc_/) + Need to [replace crotch](https://www.reddit.com/r/SHFiguarts/comments/1sk8xds/gamerverse_spiderman_diaper_mod/#lightbox) with my spare Revoltech KO crotch piece
-	*Keep in mind that there will be conversion rate fees*
-	![[656491745_18319635235253215_195156506188399158_n.jpg]]
-	*I could repurpose my broken copy's spare hands to make new ones e.g., choppy hands, pointer hands, phone holding hands
 - [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	![[689224739_17909612049401813_50872217311216390_n.jpg]]
 	*Need to remove nose
 - [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
 	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
+	[BHT-2.0 Vegeta Adapter Joint](https://www.ebay.co.uk/itm/317520962986?) 5.97gbp
 	*Need to remove nose on BHT faceplates too
-- [ ] [HATOYS Future Gohan](https://www.aliexpress.com/item/1005011766128796.html?) 68.39gbp *release in June*
-	[KAMIONE Goku headsculpts](https://www.aliexpress.com/item/1005010193009454.html?) 40.64gbp
-	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
-	![[693272783_17938549371230269_4602225785881506406_n.webp]]
-	TOTAL 115gbp
-	*Need to remove nose
-	Would use with my Games Begin Goku body and sell SSJ Future Gohan to Musa
 - [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
 	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
+	TOTAL 78.51gbp
 	*Need to remove nose
+- [ ] [HATOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 33.49gbp *release in June*
+	*Will use faceplates with the headsculpts from KHS Goku on the Games Begin Body
 - [ ] [BSM BLACK SHARK Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 51.79gbp
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Would use with Games Begin headsculpt
