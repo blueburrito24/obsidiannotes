@@ -73,7 +73,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>350.21gbp total
+## Figures Term #1<br>337.32gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -100,7 +100,6 @@ kanban-plugin: board
 	![[Pasted image 20260514103119.png]]*release in June*
 	*Will use base form faceplates with the headsculpts from KHS Goku on the Games Begin Body, alongside the SSJ faceplates on the Games Begin headsculpts on the BSM body.*
 	*Needs nose removed and scar removed using [GSI Creos Gundam Marker Eraser](https://amzn.eu/d/077sS9De) 7.95gbp
-- [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
 - [ ] #### EFFECT PIECES
 	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
@@ -109,8 +108,10 @@ kanban-plugin: board
 	TOTAL 60.90gbp
 
 
-## Figures Term #2<br>273.09gbp total
+## Figures Term #2<br>177.40gbp total
 
+- [ ] [SH FIGUARTS DRAGON BALL Z "Universe's Bottomless Power" Freeza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.31gbp
+	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 - [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
 	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
@@ -122,10 +123,6 @@ kanban-plugin: board
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
 	*Need to paint all eyes black
-- [ ] [SH FIGUARTS JUJUTSU KAISEN "Sukuna's Vessel" Yuji Itadori](https://zenmarket.jp/s/c_shop/6010575?id=b4cdb685-fe28-4c35-a505-be4087bc4174) 63.21gbp
-	![[670528009_18148754536468326_8322481288530242143_n.jpg]]
-	[Alt Link](https://www.nin-nin-game.com/en/jujutsu-kaisen/206207-shfiguarts-jujutsu-kaisen-itadori-yuji-sukuna-s-vessel-bandai-spirits-.html) 71gbp
-	*Need to remove nose
 
 
 ***
