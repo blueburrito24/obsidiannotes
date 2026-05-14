@@ -13,9 +13,8 @@ kanban-plugin: board
 	*Want to get this at a later date
 - [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
 	*Want to get this at a later date
-- [ ] [Spider-Man LEGO Keychain](https://www.ebay.co.uk/itm/267523158074) 6.05gbp
-	![[Pasted image 20260408230944.png]]
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
+	[10m Ethernet Cable](https://amzn.eu/d/04SMa7bO) 6.99gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
 	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
 - [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
@@ -73,6 +72,8 @@ kanban-plugin: board
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
 	TOTAL 68.90gbp
 	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
+- [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/0gu4BzTN) 55.99gbp
+	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
@@ -104,7 +105,8 @@ kanban-plugin: board
 	TOTAL 78.51gbp
 	*Need to remove nose
 - [ ] [HATOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 33.49gbp *release in June*
-	*Will use faceplates with the headsculpts from KHS Goku on the Games Begin Body
+	*Will use base form faceplates with the headsculpts from KHS Goku on the Games Begin Body, alongside the SSJ faceplates on the Games Begin headsculpts on the BSM body.*
+	*Needs nose removed and scar removed using nail polish remover
 - [ ] [BSM BLACK SHARK Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 51.79gbp
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Would use with Games Begin headsculpt
@@ -113,6 +115,10 @@ kanban-plugin: board
 
 ## Figures Term #2<br>345.28gbp total
 
+- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
+	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
+	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
+	TOTAL 60.19
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 42.43gbp
 	![[640406169_17942318850129327_4779743658611164652_n.jpg]]
 	*Need to remove nose
@@ -123,10 +129,7 @@ kanban-plugin: board
 	![[Pasted image 20260430164851.png]]
 	*Releases in Q2, likely around 50gbp~
 	*Need to remove nose
-- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
-	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
-	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
-	TOTAL 60.19
+	[Catch this official PO if possible](https://www.nin-nin-game.com/en/shfiguarts/218446-shfiguarts-dragon-ball-z-super-saiyan-son-goku-legendary-super-saiyan-genkidamatsuri-ver-limited-edition-bandai-.html) 47.26gbp
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
