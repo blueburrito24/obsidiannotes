@@ -73,7 +73,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>413.07gbp total
+## Figures Term #1<br>404.08gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -108,11 +108,10 @@ kanban-plugin: board
 	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
 	[SH_FIGUPOSES Sparkle Effect Set](https://www.ebay.co.uk/itm/317993970225?) 4.99gbp
 	[SH_FIGUPOSES Transparent Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
-	[SH_FIGUPOSES Bakugo Explosion Effect](https://www.ebay.co.uk/itm/318202142286?) 8.99gbp
 	[SH_FIGUPOSES BOOOM Text Effect](https://www.ebay.co.uk/itm/318063759041?) 4.99gbp
 	[SH_FIGUPOSES SMAASH!! Text Effect](https://www.ebay.co.uk/itm/318064047907?) 4.99gbp
 	[AC Factory Transparent Wind Effect Kit](https://www.aliexpress.com/item/1005009722974079.html?) 7.29gbp
-	TOTAL 84.86gbp
+	TOTAL 75.87gbp
 
 
 ## Figures Term #2<br>273.09gbp total
