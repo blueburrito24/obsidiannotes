@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] take note 180 per term for train fare on avg 3x a week
 - [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
@@ -22,7 +23,11 @@ kanban-plugin: board
 	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
 	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
+- [ ] [Vallejo Matt Varnish](https://amzn.eu/d/08UhFBUX) 5.45gbp
+	[Vallejo Game Colour White](https://amzn.eu/d/03moYDzX) 5.58gbp
+	^ to repaint the Yellow Impact effects into white, apply 2 coats of matt varnish to the Yellow Impact effects, then 2 coats of game colour white ink
 - [ ] [Crocodile Clamp Stand for painting](https://amzn.eu/d/03MXpbDU) 6.96gbp
+- [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 - [ ] #### EFFECT PIECES
 	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
 	[SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
@@ -30,11 +35,6 @@ kanban-plugin: board
 	[SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
 	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
-- [ ] [Vallejo Matt Varnish](https://amzn.eu/d/08UhFBUX) 5.45gbp
-	[Vallejo Game Colour White](https://amzn.eu/d/03moYDzX) 5.58gbp
-	^ to repaint the Yellow Impact effects into white, apply 2 coats of matt varnish to the Yellow Impact effects, then 2 coats of game colour white ink
-- [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
-- [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 
 
 ## Clothes
@@ -73,7 +73,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>404.08gbp total
+## Figures Term #1<br>417.97gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -103,6 +103,7 @@ kanban-plugin: board
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Would use with Games Begin headsculpt
 	Releases in September*
+- [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
 - [ ] #### EFFECT PIECES
 	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
