@@ -65,7 +65,7 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Tech Term #1<br>194.17gbp total
+## Tech Term #1<br>263.05gbp total
 
 - [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
 	[WOMIER Low Profile White keycaps](https://amzn.eu/d/0ayml1D1) 18.92gbp
@@ -74,6 +74,7 @@ kanban-plugin: board
 	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
 - [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/0gu4BzTN) 55.99gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
+	TOTAL 83.47gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
@@ -81,7 +82,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>320.26gbp total
+## Figures Term #1<br>328.21gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -106,14 +107,14 @@ kanban-plugin: board
 	*Need to remove nose
 - [ ] [HATOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 33.49gbp *release in June*
 	*Will use base form faceplates with the headsculpts from KHS Goku on the Games Begin Body, alongside the SSJ faceplates on the Games Begin headsculpts on the BSM body.*
-	*Needs nose removed and scar removed using nail polish remover
+	*Needs nose removed and scar removed using [GSI Creos Gundam Marker Eraser](https://amzn.eu/d/077sS9De) 7.95gbp
 - [ ] [BSM BLACK SHARK Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 51.79gbp
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Would use with Games Begin headsculpt
 	Releases in September*
 
 
-## Figures Term #2<br>223.09gbp total
+## Figures Term #2<br>273.09gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
