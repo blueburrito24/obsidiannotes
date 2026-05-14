@@ -73,7 +73,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>417.97gbp total
+## Figures Term #1<br>366.18gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -96,13 +96,10 @@ kanban-plugin: board
 	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
 	TOTAL 78.51gbp
 	*Need to remove nose
-- [ ] [HATOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 33.49gbp *release in June*
+- [ ] [HATOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 33.49gbp
+	![[Pasted image 20260514103119.png]]*release in June*
 	*Will use base form faceplates with the headsculpts from KHS Goku on the Games Begin Body, alongside the SSJ faceplates on the Games Begin headsculpts on the BSM body.*
 	*Needs nose removed and scar removed using [GSI Creos Gundam Marker Eraser](https://amzn.eu/d/077sS9De) 7.95gbp
-- [ ] [BSM BLACK SHARK Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 51.79gbp
-	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
-	*Would use with Games Begin headsculpt
-	Releases in September*
 - [ ] [1/12 Sofa](https://www.aliexpress.com/item/1005008394952044.html?) 13.89gbp
 - [ ] #### EFFECT PIECES
 	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
