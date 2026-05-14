@@ -24,21 +24,12 @@ kanban-plugin: board
 	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
 - [ ] [Crocodile Clamp Stand for painting](https://amzn.eu/d/03MXpbDU) 6.96gbp
 - [ ] #### EFFECT PIECES
-	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
-	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
-	[SH_FIGUPOSES Sparkle Effect Set](https://www.ebay.co.uk/itm/317993970225?) 4.99gbp
-	[SH_FIGUPOSES Transparent Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp
-	[SH_FIGUPOSES Bakugo Explosion Effect](https://www.ebay.co.uk/itm/318202142286?) 8.99gbp
 	[SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
 	[SH_FIGUPOSES Ki Beam Effect](https://www.ebay.co.uk/itm/317872776622?) 8.99gbp
-	[SH_FIGUPOSES BOOOM Text Effect](https://www.ebay.co.uk/itm/318063759041?) 4.99gbp
-	[SH_FIGUPOSES SMAASH!! Text Effect](https://www.ebay.co.uk/itm/318064047907?) 4.99gbp
 	[SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
-	[AC Factory Transparent Wind Effect Kit](https://www.aliexpress.com/item/1005009722974079.html?) 7.29gbp
 	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
-	TOTAL 130.92gbp
 - [ ] [Vallejo Matt Varnish](https://amzn.eu/d/08UhFBUX) 5.45gbp
 	[Vallejo Game Colour White](https://amzn.eu/d/03moYDzX) 5.58gbp
 	^ to repaint the Yellow Impact effects into white, apply 2 coats of matt varnish to the Yellow Impact effects, then 2 coats of game colour white ink
@@ -82,7 +73,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>328.21gbp total
+## Figures Term #1<br>413.07gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -112,6 +103,16 @@ kanban-plugin: board
 	![[687702766_17890101252496676_5827394201011869955_n.jpg]]
 	*Would use with Games Begin headsculpt
 	Releases in September*
+- [ ] #### EFFECT PIECES
+	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
+	[TAMASHII EFFECT SERIES Yellow Shock Impact](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 18.16gbp
+	[SH_FIGUPOSES Sparkle Effect Set](https://www.ebay.co.uk/itm/317993970225?) 4.99gbp
+	[SH_FIGUPOSES Transparent Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
+	[SH_FIGUPOSES Bakugo Explosion Effect](https://www.ebay.co.uk/itm/318202142286?) 8.99gbp
+	[SH_FIGUPOSES BOOOM Text Effect](https://www.ebay.co.uk/itm/318063759041?) 4.99gbp
+	[SH_FIGUPOSES SMAASH!! Text Effect](https://www.ebay.co.uk/itm/318064047907?) 4.99gbp
+	[AC Factory Transparent Wind Effect Kit](https://www.aliexpress.com/item/1005009722974079.html?) 7.29gbp
+	TOTAL 84.86gbp
 
 
 ## Figures Term #2<br>273.09gbp total
