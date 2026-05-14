@@ -113,7 +113,7 @@ kanban-plugin: board
 	Releases in September*
 
 
-## Figures Term #2<br>345.28gbp total
+## Figures Term #2<br>223.09gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
@@ -122,14 +122,6 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 42.43gbp
 	![[640406169_17942318850129327_4779743658611164652_n.jpg]]
 	*Need to remove nose
-- [ ] [DEMONIACAL FIT "Dragon Blaster" SSJ3 Goku](https://www.aliexpress.com/item/1005011619922194.html) 72.19gbp
-	![[684118471_18086715746600737_4911591209519802809_n.jpg]]
-	*Need to remove nose
-- [ ] DEMONIACAL FIT "Avenged Wrath" EE Goku
-	![[Pasted image 20260430164851.png]]
-	*Releases in Q2, likely around 50gbp~
-	*Need to remove nose
-	[Catch this official PO if possible](https://www.nin-nin-game.com/en/shfiguarts/218446-shfiguarts-dragon-ball-z-super-saiyan-son-goku-legendary-super-saiyan-genkidamatsuri-ver-limited-edition-bandai-.html) 47.26gbp
 - [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
 	![[Pasted image 20260429003255.png]]
 	*Releases in October
