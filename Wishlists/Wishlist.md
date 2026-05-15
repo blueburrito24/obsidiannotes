@@ -56,13 +56,12 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Tech Term #1<br>271.05gbp total
+## Tech Term #1<br>270.06gbp total
 
 - [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
 	[WOMIER Low Profile White keycaps](https://amzn.eu/d/0ayml1D1) 18.92gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
 	TOTAL 68.90gbp
-	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
 - [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/003RqORD) 55.99gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
@@ -74,36 +73,17 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>325.80gbp total
+## Figures Term #1<br>131.47gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
-- [ ] [MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010151080515.html) 38.29gbp
-	![[684876674_18011650145894116_4737903262510797933_n.webp]]
-	^ Need to sand down knee pokes with sandpaper
 - [ ] [MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 42.19gbp
 	![[HDrf6MBbQAALDC6.jpg]]
 - [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	![[689224739_17909612049401813_50872217311216390_n.jpg]]
 	*Need to remove nose
-- [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
-	Also need [sandpaper](https://amzn.eu/d/03jNXYhV) 3.99gbp to remove BHT Vegeta's veins
-	[BHT-2.0 Vegeta Adapter Joint](https://www.ebay.co.uk/itm/317520962986?) 5.97gbp
-	[SH_FIGUPOSES 2.0-4.0 Vegeta Adapter](https://www.ebay.co.uk/itm/318296075611?) 5.99gbp if I want to use the headsculpts on the DP body
-	*Need to remove nose on BHT faceplates too
-- [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
-	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
-	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
-	![[694461037_17910076107401813_4222571928851625785_n.jpg]]
-	TOTAL 78.51gbp
-	*Need to remove nose
-- [ ] [HATOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 33.49gbp
-	![[Pasted image 20260514103119.png]]*release in June*
-	*Will use base form faceplates with the headsculpts from KHS Goku on the Games Begin Body, alongside the SSJ faceplates on the Games Begin headsculpts on the BSM body.*
-	*Needs nose removed and scar removed using [GSI Creos Gundam Marker Eraser](https://amzn.eu/d/077sS9De) 7.95gbp
 - [ ] #### EFFECT PIECES
-	[SHF Killua KO for electricity effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.49gbp
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
 	[SH_FIGUPOSES Wind Effects](https://www.ebay.co.uk/itm/317797817958?) 7.99gbp x2
