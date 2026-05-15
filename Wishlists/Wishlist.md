@@ -56,16 +56,17 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Tech Term #1<br>263.05gbp total
+## Tech Term #1<br>271.05gbp total
 
 - [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
 	[WOMIER Low Profile White keycaps](https://amzn.eu/d/0ayml1D1) 18.92gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
 	TOTAL 68.90gbp
 	*Would also like to buy another [Trust Mydo Silent](https://amzn.eu/d/066Tf0M9) 14.59 to take to university
-- [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/0gu4BzTN) 55.99gbp
+- [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/003RqORD) 55.99gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
-	TOTAL 83.47gbp
+	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
+	TOTAL 91.47gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
@@ -73,7 +74,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>337.32gbp total
+## Figures Term #1<br>343.31gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -87,8 +88,9 @@ kanban-plugin: board
 	![[689224739_17909612049401813_50872217311216390_n.jpg]]
 	*Need to remove nose
 - [ ] *Need to repaint SSGSS Vegeta faces and hairsculpts to be base form with [Acrylic Markers](https://amzn.eu/d/0h8kvfS5) 4.69gbp
-	Also need [1500 GRIT sandpaper](https://amzn.eu/d/008iPbhC) 3.99gbp to remove BHT Vegeta's veins
+	Also need [sandpaper](https://amzn.eu/d/03jNXYhV) 3.99gbp to remove BHT Vegeta's veins
 	[BHT-2.0 Vegeta Adapter Joint](https://www.ebay.co.uk/itm/317520962986?) 5.97gbp
+	[SH_FIGUPOSES 2.0-4.0 Vegeta Adapter](https://www.ebay.co.uk/itm/318296075611?) 5.99gbp if I want to use the headsculpts on the DP body
 	*Need to remove nose on BHT faceplates too
 - [ ] [TK CUSTOM Gohan headsculpt set](https://www.aliexpress.com/item/1005008188390778.html) 40.59gbp
 	[Games Begin 3.0 Adapter peg](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
