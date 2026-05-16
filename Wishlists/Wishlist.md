@@ -73,7 +73,7 @@ kanban-plugin: board
 	^ for lazy bed gaming
 
 
-## Figures Term #1<br>131.47gbp total
+## Figures Term #1<br>336.99gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -83,17 +83,11 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	![[689224739_17909612049401813_50872217311216390_n.jpg]]
 	*Need to remove nose
-- [ ] #### EFFECT PIECES
-	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
-	(white, yellow)
-	[SH_FIGUPOSES Wind Effects](https://www.ebay.co.uk/itm/317797817958?) 7.99gbp x2
-	(white, blue)
-
-
-## Figures Term #2<br>177.40gbp total
-
-- [ ] [SH FIGUARTS DRAGON BALL Z "Universe's Bottomless Power" Freeza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.31gbp
-	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
+- [ ] [BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 41.19gbp
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
+	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
+	![[584385230_18541237792024694_630355050730542654_n.jpg]]
+	*Need to remove nose, will use on KHS body
 - [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
 	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
@@ -101,10 +95,12 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 42.43gbp
 	![[640406169_17942318850129327_4779743658611164652_n.jpg]]
 	*Need to remove nose
-- [ ] [SH FIGUARTS All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.47gbp
-	![[Pasted image 20260429003255.png]]
-	*Releases in October
-	*Need to paint all eyes black
+- [ ] #### EFFECT PIECES
+	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
+	(white, yellow)
+	[SH_FIGUPOSES Wind Effects](https://www.ebay.co.uk/itm/317797817958?) 7.99gbp x2
+	(white, blue)
+	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
 ***
@@ -117,6 +113,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
