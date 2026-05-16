@@ -7,7 +7,6 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] take note 180 per term for train fare on avg 3x a week
-- [ ] need to buy [L'Oreal collagen hair conditioner](https://www.boots.com/loreal-elvive-dream-length-no-cut-cream-200ml-10241716?traffic=paid.shopping) 8gbp for daily use
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
@@ -23,10 +22,6 @@ kanban-plugin: board
 	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
 	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
-- [ ] [Vallejo Matt Varnish](https://amzn.eu/d/08UhFBUX) 5.45gbp
-	[Vallejo Game Colour White](https://amzn.eu/d/03moYDzX) 5.58gbp
-	^ to repaint the Yellow Impact effects into white, apply 2 coats of matt varnish to the Yellow Impact effects, then 2 coats of game colour white ink
-- [ ] [Crocodile Clamp Stand for painting](https://amzn.eu/d/03MXpbDU) 6.96gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 - [ ] #### EFFECT PIECES
 	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
@@ -113,6 +108,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
