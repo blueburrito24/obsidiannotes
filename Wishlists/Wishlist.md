@@ -94,10 +94,8 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>256.12gbp total
+## Figures Term #2<br>203.53gbp total
 
-- [ ] [BSM BLACK SHARK Battle-damaged Goku body](https://www.aliexpress.com/item/1005009065552055.html?) 52.59gbp
-	*Will use with KHS Goku headsculpts/GB Goku headsculpts
 - [ ] [NS STUDIO 003 Saiyan Saga Goku](https://www.aliexpress.com/item/1005008229657477.html?) 60.39gbp
 	![[Pasted image 20260516214113.png]]
 	*Need to remove nose
