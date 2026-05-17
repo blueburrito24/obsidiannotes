@@ -45,18 +45,16 @@ kanban-plugin: board
 	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 	![[Pasted image 20260223194831.png]]
-- [ ] [Zip-up Knitted Hoodie](https://www.boohooman.com/product/boohooman-boxy-fit-ribbed-zip-thru-knitted-hoodie_cmm21055?colour=light+grey) 22.40gbp
-	![[Pasted image 20260309092112.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 	![[Pasted image 20260403193552.png]]
 
 
-## Tech Term #1<br>224.37gbp total
+## Tech Term #1<br>214.45gbp total
 
-- [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
-	[WOMIER Low Profile White keycaps](https://amzn.eu/d/0ayml1D1) 18.92gbp
+- [ ] [GMK67 Keyboard Kit White](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
+	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
-	TOTAL 68.90gbp
+	TOTAL 57.98gbp
 - [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/003RqORD) 55.99gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
@@ -94,7 +92,7 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>262.71gbp total
+## Figures Term #2<br>181.71gbp total
 
 - [ ] [BSM BLACK SHARK Battle-damaged Goku body](https://www.aliexpress.com/item/1005009065552055.html?) 52.59gbp
 	*Will use with KHS Goku headsculpts/GB Goku headsculpts
@@ -107,8 +105,6 @@ kanban-plugin: board
 	[Vallejo Model Colour Metal Medium](https://amzn.eu/d/03RpY4ug) 5.89gbp
 	TOTAL 95.23gbp
 	*Need to remove noses and repaint LSSJ powered up hairsculpt with the darker purple and metal medium to match the other NS Goku hairsculpts
-- [ ] [SH DRAGON BALL Z Final Form Cooler 40th Anniversary](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 81gbp
-	![[475734828_17897822475129327_1238791579437737987_n.jpg]]
 
 
 ***
