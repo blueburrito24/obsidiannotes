@@ -94,17 +94,13 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>147.22gbp total
+## Figures Term #2<br>112.98gbp total
 
 - [ ] [BSM BLACK SHARK Battle-damaged Goku body](https://www.aliexpress.com/item/1005009065552055.html?) 52.59gbp
 	*Will use with KHS Goku headsculpts/GB Goku headsculpts
-- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005008229657477.html?) 58.39gbp
+- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005008229657477.html?) 60.39gbp
 	![[Pasted image 20260516214113.png]]
-	[KO SHF LSSJ Goku for powered up hairsculpt](https://www.aliexpress.com/item/1005007211388879.html?) 19.30gbp
-	[Vallejo AV Game Colour Purple set](https://amzn.eu/d/003HR4J7) 11.65gbp
-	[Vallejo Model Colour Metal Medium](https://amzn.eu/d/03RpY4ug) 5.89gbp
-	TOTAL 95.23gbp
-	*Need to remove noses and repaint LSSJ powered up hairsculpt with the darker purple and metal medium to match the other NS Goku hairsculpts
+	*Need to remove nose
 
 
 ***
