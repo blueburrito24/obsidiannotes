@@ -51,7 +51,7 @@ kanban-plugin: board
 	![[Pasted image 20260403193552.png]]
 
 
-## Tech Term #1<br>270.06gbp total
+## Tech Term #1<br>270.05gbp total
 
 - [ ] [GMK67 Keyboard Kit](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
 	[WOMIER Low Profile White keycaps](https://amzn.eu/d/0ayml1D1) 18.92gbp
@@ -64,8 +64,6 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
 	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
-- [ ] [EasySMX S15 Split Pad](https://www.aliexpress.com/item/1005008223590820.html?) 44.69gbp
-	^ for lazy bed gaming
 
 
 ## Figures Term #1<br>336.99gbp total
@@ -98,6 +96,23 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
+## Figures Term #2<br>262.71gbp total
+
+- [ ] [BSM BLACK SHARK Battle-damaged Goku body](https://www.aliexpress.com/item/1005009065552055.html?) 52.59gbp
+	*Will use with KHS Goku headsculpts/GB Goku headsculpts
+- [ ] [HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html) 33.89gbp
+	*Use with KHS Goku hairsculpt, need to remove nose
+- [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005008229657477.html?) 58.39gbp
+	![[Pasted image 20260516214113.png]]
+	[KO SHF LSSJ Goku for powered up hairsculpt](https://www.aliexpress.com/item/1005007211388879.html?) 19.30gbp
+	[Vallejo AV Game Colour Purple set](https://amzn.eu/d/003HR4J7) 11.65gbp
+	[Vallejo Model Colour Metal Medium](https://amzn.eu/d/03RpY4ug) 5.89gbp
+	TOTAL 95.23gbp
+	*Need to remove noses and repaint LSSJ powered up hairsculpt with the darker purple and metal medium to match the other NS Goku hairsculpts
+- [ ] [SH DRAGON BALL Z Final Form Cooler 40th Anniversary](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 81gbp
+	![[475734828_17897822475129327_1238791579437737987_n.jpg]]
+
+
 ***
 
 ## Archive
@@ -108,6 +123,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
