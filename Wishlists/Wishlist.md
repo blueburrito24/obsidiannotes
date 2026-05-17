@@ -94,11 +94,8 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>203.53gbp total
+## Figures Term #2<br>143.14gbp total
 
-- [ ] [NS STUDIO 003 Saiyan Saga Goku](https://www.aliexpress.com/item/1005008229657477.html?) 60.39gbp
-	![[Pasted image 20260516214113.png]]
-	*Need to remove nose
 - [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
 	*Releases in January
