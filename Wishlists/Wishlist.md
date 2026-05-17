@@ -62,8 +62,6 @@ kanban-plugin: board
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	TOTAL 91.47gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
-- [ ] [FANTEC NOVA II WGP16 Black](https://www.aliexpress.com/item/1005010228744786.html?) 25.69gbp
-	[Dualsense Charging Station](https://www.argos.co.uk/product/9542387?) 19.99gbp
 
 
 ## Figures Term #1<br>336.99gbp total
