@@ -62,7 +62,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>336.99gbp total
+## Figures Term #1<br>370.88gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -77,6 +77,8 @@ kanban-plugin: board
 	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[584385230_18541237792024694_630355050730542654_n.jpg]]
 	*Need to remove nose, will use on KHS body
+- [ ] [HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html) 33.89gbp
+	*Use with KHS Goku hairsculpt, need to remove nose
 - [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://www.nin-nin-game.com/en/dragon-ball/206189-shfiguarts-dragon-ball-z-piccolo-the-proud-namekian-ver-2nd-reissue-bandai-spirits-.html) 38.27gbp
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
 	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
@@ -92,12 +94,10 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>181.71gbp total
+## Figures Term #2<br>147.22gbp total
 
 - [ ] [BSM BLACK SHARK Battle-damaged Goku body](https://www.aliexpress.com/item/1005009065552055.html?) 52.59gbp
 	*Will use with KHS Goku headsculpts/GB Goku headsculpts
-- [ ] [HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html) 33.89gbp
-	*Use with KHS Goku hairsculpt, need to remove nose
 - [ ] [NS STUDIO 003 Kaioken Goku](https://www.aliexpress.com/item/1005008229657477.html?) 58.39gbp
 	![[Pasted image 20260516214113.png]]
 	[KO SHF LSSJ Goku for powered up hairsculpt](https://www.aliexpress.com/item/1005007211388879.html?) 19.30gbp
