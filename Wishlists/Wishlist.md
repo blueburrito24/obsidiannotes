@@ -11,7 +11,7 @@ kanban-plugin: board
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 	*Want to get this at a later date
-- [ ] [AOC OLED Monitor 27"](https://amzn.eu/d/07dVLJ9P) 378.97gbp
+- [ ] [MSI MAG QD-OLED 26.5in 1440p 240hz Monitor](https://amzn.eu/d/0g7aPswY) 369gbp
 	*Want to get this at a later date
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[10m Ethernet Cable](https://amzn.eu/d/04SMa7bO) 6.99gbp
@@ -62,7 +62,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>370.88gbp total
+## Figures Term #1<br>328.45gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -83,9 +83,6 @@ kanban-plugin: board
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
 	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
 	TOTAL 60.19
-- [ ] [SH FIGUARTS DRAGON BALL Z "The Boy From The Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 42.43gbp
-	![[640406169_17942318850129327_4779743658611164652_n.jpg]]
-	*Need to remove nose
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
@@ -94,14 +91,17 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>143.14gbp total
+## Figures Term #2<br>106.79gbp total
 
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in January
-- [ ] [ZOOMRIG Omni-Man](https://www.aliexpress.com/item/1005009602518898.html?) 75.19gbp
-	![[Pasted image 20260517113222.png]]
-	*Releases in June
+- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
+	![[Pasted image 20260518052405.png]]
+	[SHF KO LSSJ Goku for powered-up hairsculpt](https://www.aliexpress.com/item/1005007211388879.html?) 18.73gbp
+	[Vallejo Metal Medium](https://amzn.eu/d/0dc7YSQ6) 5.59gbp
+	[Vallejo Purple](https://amzn.eu/d/09S9iyoS) 4.69gbp
+	TOTAL 87.34gbp
+	*Need to remove nose, repaint alternate hairsculpt from LSSJ Goku KO to match the dark metallic purple on the NS figure
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
+	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 
 
 ***
