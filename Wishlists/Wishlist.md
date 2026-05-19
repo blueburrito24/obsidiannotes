@@ -47,6 +47,7 @@ kanban-plugin: board
 	![[Pasted image 20260223194831.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 	![[Pasted image 20260403193552.png]]
+- [ ] [SHOEZONE fake crocs](https://www.shoezone.com/Products/Adults-Navy-Slip-On-EVA-Clog-Sandal-59812) 7.99gbp
 
 
 ## Tech Term #1<br>214.45gbp total
@@ -62,7 +63,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>342.13gbp total
+## Figures Term #1<br>361.58gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -85,6 +86,9 @@ kanban-plugin: board
 	*Need to remove nose, will use on KHS body
 - [ ] [HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html) 33.89gbp
 	*Use with KHS Goku hairsculpt, need to remove nose
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
+	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
+	*Releases in October
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
@@ -93,7 +97,7 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>269.02gbp total
+## Figures Term #2<br>302.10gbp total
 
 - [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
 	![[Pasted image 20260518052405.png]]
@@ -107,29 +111,27 @@ kanban-plugin: board
 	[SH FIGUARTS DAIMA Vegeta for swaps](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be) 19.53gbp
 	TOTAL 73.22gbp
 	*Need to remove nose and swap out arms and legs from SHF DAIMA Vegeta for 3.0 style + swap out feet from SHF DP Vegeta and apply skirt from DF Scarlet Fighter
-- [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-s-h-figuarts-action-figure-frieza-4th-form-universe-bottomless-power-12cm) 27.95gbp
-	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in January
-	need to repaint all eyes pure black
-
-
-## Other Stuff
-
-- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
-	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
-	*Need to remove nose
-- [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
-	![[649235931_18062435297671867_2983460130395110354_n.webp]]
-	*Need to remove nose
 - [ ] [SH FIGUARTS NARUTOP99 Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.47gbp
 	[SH FIGUARTS NARUTOP99 Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 41.16gbp
 	[SH FIGUARTS NARUTO "Jinchuriki Entrusted with Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.45gbp
 	![[image.png]]
 	*Need to remove noses, second Naruto is for shadow clone and more expressions
-- [ ] [SH FIGUARTS NARUTO "Solitary Shinobi"](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.90gbp
+- [ ] [SH FIGUARTS NARUTO "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.90gbp
 	![[shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.jpg]]
+	*Need to remove nose
+
+
+## Figures Term #3<br>195.19gbp
+
+- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
+	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
+	*Releases in January
+	need to repaint all eyes pure black
+- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
+	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
+	*Need to remove nose
+- [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
+	![[649235931_18062435297671867_2983460130395110354_n.webp]]
 	*Need to remove nose
 
 
