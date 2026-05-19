@@ -11,8 +11,6 @@ kanban-plugin: board
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 	*Want to get this at a later date
-- [ ] [MSI MAG QD-OLED 26.5in 1440p 240hz Monitor](https://amzn.eu/d/0g7aPswY) 369gbp
-	*Want to get this at a later date
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
@@ -30,6 +28,7 @@ kanban-plugin: board
 	[SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
 	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
+	[CanOfBeans Shockwave Set](https://canofbeams.com/products/shockwave-combo-bundle) 21gbp
 
 
 ## Clothes
