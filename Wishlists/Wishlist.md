@@ -14,7 +14,7 @@ kanban-plugin: board
 - [ ] [MSI MAG QD-OLED 26.5in 1440p 240hz Monitor](https://amzn.eu/d/0g7aPswY) 369gbp
 	*Want to get this at a later date
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
-	[10m Ethernet Cable](https://amzn.eu/d/04SMa7bO) 6.99gbp
+	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
 	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
 - [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
@@ -73,6 +73,11 @@ kanban-plugin: board
 	![[689224739_17909612049401813_50872217311216390_n.jpg]]
 	*Releases mid-October
 	Need to remove nose
+- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
+	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
+	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
+	TOTAL 73.87gbp
+	*Releases mid-October
 - [ ] [BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 41.19gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
@@ -80,11 +85,6 @@ kanban-plugin: board
 	*Need to remove nose, will use on KHS body
 - [ ] [HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html) 33.89gbp
 	*Use with KHS Goku hairsculpt, need to remove nose
-- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
-	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
-	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
-	TOTAL 73.87gbp
-	*Releases mid-October
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
@@ -93,21 +93,44 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>183.24gbp total
+## Figures Term #2<br>269.02gbp total
 
 - [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
 	![[Pasted image 20260518052405.png]]
-	[SHF KO LSSJ Goku for powered-up hairsculpt](https://www.aliexpress.com/item/1005007211388879.html?) 18.73gbp
+	[DEMONIACAL FIT Scarlet Fighter for powered up hairsculpt](https://www.aliexpress.com/item/1005011560810764.html?) 31.29gbp
 	[Vallejo Metal Medium](https://amzn.eu/d/0dc7YSQ6) 5.59gbp
 	[Vallejo Purple](https://amzn.eu/d/09S9iyoS) 4.69gbp
-	TOTAL 87.34gbp
-	*Need to remove nose, repaint alternate hairsculpt from LSSJ Goku KO to match the dark metallic purple on the NS figure
+	TOTAL 99.90gbp
+	*Need to remove nose, repaint alternate hairsculpt from DF Scarlet Fighter to match the dark metallic purple on the NS figure
+- [ ] [SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/s/c_shop/5932364?id=9c2197a8-9a20-4c4c-8ac6-7631861cd80b) 53.69gbp
+	![[582835359_17944246302075794_3382889372446482038_n.jpg]]
+	[SH FIGUARTS DAIMA Vegeta for swaps](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be) 19.53gbp
+	TOTAL 73.22gbp
+	*Need to remove nose and swap out arms and legs from SHF DAIMA Vegeta for 3.0 style + swap out feet from SHF DP Vegeta and apply skirt from DF Scarlet Fighter
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-s-h-figuarts-action-figure-frieza-4th-form-universe-bottomless-power-12cm) 27.95gbp
 	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 - [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
 	*Releases in January
 	need to repaint all eyes pure black
+
+
+## Other Stuff
+
+- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
+	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
+	*Need to remove nose
+- [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
+	![[649235931_18062435297671867_2983460130395110354_n.webp]]
+	*Need to remove nose
+- [ ] [SH FIGUARTS NARUTOP99 Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.47gbp
+	[SH FIGUARTS NARUTOP99 Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 41.16gbp
+	[SH FIGUARTS NARUTO "Jinchuriki Entrusted with Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.45gbp
+	![[image.png]]
+	*Need to remove noses, second Naruto is for shadow clone and more expressions
+- [ ] [SH FIGUARTS NARUTO "Solitary Shinobi"](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.90gbp
+	![[shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.jpg]]
+	*Need to remove nose
 
 
 ***
@@ -120,6 +143,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%

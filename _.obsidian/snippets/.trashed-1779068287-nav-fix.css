@@ -1,9 +1,0 @@
-/* Fix for Obsidian UI bleeding under the Android Nav Bar */
-.is-mobile .workspace {
-    padding-bottom: var(--safe-area-inset-bottom) !important;
-}
-
-/* If the "Add a card" button is still obscured */
-.mobile-navbar {
-    bottom: var(--safe-area-inset-bottom) !important;
-}
