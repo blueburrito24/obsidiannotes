@@ -54,12 +54,12 @@ kanban-plugin: board
 - [ ] [SHOEZONE fake crocs](https://www.shoezone.com/Products/Adults-Navy-Slip-On-EVA-Clog-Sandal-59812) 7.99gbp
 
 
-## Tech Term #1<br>229.44gbp total
+## Tech Term #1<br>214.45gbp total
 
 - [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
-	[Translucent Black Keycaps 114pcs](https://amzn.eu/d/0aOicbAV) 22.99gbp
+	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
-	TOTAL 72.97gbp
+	TOTAL 57.98gbp
 - [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/00VUOMKv) 55.99gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
@@ -67,7 +67,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>394.53gbp total
+## Figures Term #1<br>360.64gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -88,8 +88,6 @@ kanban-plugin: board
 	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[584385230_18541237792024694_630355050730542654_n.jpg]]
 	*Need to remove nose, will use on KHS body
-- [ ] [HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html) 33.89gbp
-	*Use with KHS Goku hairsculpt, need to remove nose
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
 	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 	*Releases in October
@@ -104,8 +102,11 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>302.10gbp total
+## Figures Term #2<br>365.15gbp total
 
+- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
+	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
+	*Need to remove nose
 - [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
 	![[Pasted image 20260518052405.png]]
 	[DEMONIACAL FIT Scarlet Fighter for powered up hairsculpt](https://www.aliexpress.com/item/1005011560810764.html?) 31.29gbp
@@ -128,15 +129,12 @@ kanban-plugin: board
 	*Need to remove nose
 
 
-## Figures Term #3<br>195.19gbp
+## Figures Term #3<br>XXXgbp
 
 - [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
 	*Releases in January
 	need to repaint all eyes pure black
-- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
-	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
-	*Need to remove nose
 - [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
 	![[649235931_18062435297671867_2983460130395110354_n.webp]]
 	*Need to remove nose
