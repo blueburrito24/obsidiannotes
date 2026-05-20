@@ -16,6 +16,11 @@ kanban-plugin: board
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
 	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
 - [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
+- [ ] [SKADIS IKEA Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
+	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
+	[SKADIS IKEA Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
+	[SKADIS IKEA Display Shelf](https://www.ikea.com/gb/en/p/skadis-display-shelf-white-20591841/) 2gbp
+	^ use hooks for keyboards and display shelves for figure boxes
 - [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
 	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
@@ -49,20 +54,20 @@ kanban-plugin: board
 - [ ] [SHOEZONE fake crocs](https://www.shoezone.com/Products/Adults-Navy-Slip-On-EVA-Clog-Sandal-59812) 7.99gbp
 
 
-## Tech Term #1<br>214.45gbp total
+## Tech Term #1<br>229.44gbp total
 
 - [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
-	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
+	[Translucent Black Keycaps 114pcs](https://amzn.eu/d/0aOicbAV) 22.99gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
-	TOTAL 57.98gbp
-- [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/003RqORD) 55.99gbp
+	TOTAL 72.97gbp
+- [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/00VUOMKv) 55.99gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	TOTAL 91.47gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>361.58gbp total
+## Figures Term #1<br>394.53gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -88,6 +93,9 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
 	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 	*Releases in October
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	![[Pasted image 20260520194323.png]]
+	^ reissue replacement for my cruddy copy
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
