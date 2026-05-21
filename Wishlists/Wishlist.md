@@ -85,7 +85,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>318.74gbp total
+## Figures Term #1<br>374.92gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying bsm blackshark body through taobao only
@@ -111,6 +111,10 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
 	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 	*Releases in October
+- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
+	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
+	*Releases in October
+	need to repaint all eyes pure black
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
@@ -159,10 +163,6 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS NARUTO Uchiha Itachi (NARUTOP99 VER.)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m31083904017) 82.93gbp
 	![[shfiguarts-naruto-shippuuden-uchiha-itachi-narutop99-edition-ver-bandai-spirits-.jpg]]
 	*Need to remove nose
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in October
-	need to repaint all eyes pure black
 - [ ] [SH FIGUARTS DRAGON BALL Z Cooler Final Form](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 80.59gbp
 	![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg]]
 
