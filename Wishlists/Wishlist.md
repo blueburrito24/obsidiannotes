@@ -44,6 +44,7 @@ kanban-plugin: board
 	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus)
 	demoniacal fit the coming one (jacketless trunks) ==37gbp==
 	ha toys future gohan ==33gbp==
+	--------------------------
 	gmk67 keyboard kit black 19gbp
 	outemu silent peach switches 100pcs 3.45gbp
 	==(65% keyboard total 30.45gbp==)
@@ -115,7 +116,7 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>365.15gbp total
+## Figures Term #2<br>448.18gbp total
 
 - [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
 	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
@@ -132,6 +133,9 @@ kanban-plugin: board
 	[SH FIGUARTS DAIMA Vegeta for swaps](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be) 19.53gbp
 	TOTAL 73.22gbp
 	*Need to remove nose and swap out arms and legs from SHF DAIMA Vegeta for 3.0 style + swap out feet from SHF DP Vegeta and apply skirt from DF Scarlet Fighter
+- [ ] [SH FIGUARTS NARUTO "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 83.03gbp
+	![[shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.jpg]]
+	*Need to remove nose
 - [ ] [SH FIGUARTS NARUTOP99 Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.47gbp
 	[SH FIGUARTS NARUTOP99 Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 41.16gbp
 	[SH FIGUARTS NARUTO "Jinchuriki Entrusted with Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.45gbp
@@ -150,9 +154,6 @@ kanban-plugin: board
 	need to repaint all eyes pure black
 - [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
 	![[649235931_18062435297671867_2983460130395110354_n.webp]]
-	*Need to remove nose
-- [ ] [SH FIGUARTS NARUTO "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 83.03gbp
-	![[shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.jpg]]
 	*Need to remove nose
 - [ ] [SH FIGUARTS NARUTO Uchiha Itachi (NARUTOP99 VER.)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m31083904017) 82.93gbp
 	![[shfiguarts-naruto-shippuuden-uchiha-itachi-narutop99-edition-ver-bandai-spirits-.jpg]]
