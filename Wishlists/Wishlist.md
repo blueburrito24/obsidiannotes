@@ -142,7 +142,7 @@ kanban-plugin: board
 	*Need to remove nose
 
 
-## Figures Term #3<br>XXXgbp
+## OTHER
 
 - [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
@@ -151,6 +151,17 @@ kanban-plugin: board
 - [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
 	![[649235931_18062435297671867_2983460130395110354_n.webp]]
 	*Need to remove nose
+- [ ] [SH FIGUARTS NARUTO "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 83.03gbp
+	![[shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.jpg]]
+	*Need to remove nose
+- [ ] [SH FIGUARTS NARUTO Uchiha Itachi (NARUTOP99 VER.)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m31083904017) 82.93gbp
+	![[shfiguarts-naruto-shippuuden-uchiha-itachi-narutop99-edition-ver-bandai-spirits-.jpg]]
+	*Need to remove nose
+- [ ] [SH FIGUARTS DRAGON BALL Z Super Android 13](https://www.nin-nin-game.com/en/shfiguarts/220317-shfiguarts-dragon-ball-z-super-android-no13-limited-edition-bandai-spirits-.html) 58.11gbp
+	![[shfiguarts-dragon-ball-z-super-android-no13-limited-edition-bandai-spirits-.jpg]]
+	*Need to remove nose
+- [ ] [SH FIGUARTS DRAGON BALL Z Cooler Final Form](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 80.59gbp
+	![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg]]
 
 
 ***
