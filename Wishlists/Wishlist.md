@@ -6,6 +6,10 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
+	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
+	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
+	*Want to get this at a later date
 - [ ] take note 180 per term for train fare on avg 3x a week
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
@@ -40,18 +44,16 @@ kanban-plugin: board
 	demoniacal fit the coming one (jacketless trunks) ==37gbp==
 	ha toys future gohan ==33gbp==
 	kong studios b008 clone goku ==47.50gbp==
+	demoniacal fit dragon blaster ==37.60gbp==
+	black hole toys ssj4 goku ==26.4gbp==
 	bsm black shark body ==23.30gbp==
 	--------------------------
 	gmk67 keyboard kit black 19gbp
 	outemu silent peach switches 100pcs 3.45gbp
 	==(65% keyboard total 30.45gbp==)
-	akko 3108 v3 100% keyboard 12.30gbp
+	gmk104 keyboard kit 21gbp
 	leobog graywood v4 switches 3.66gbp
-	==(100% keyboard total 23.96gbp==)
-- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
-	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
-	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-	*Want to get this at a later date
+	(==100% keyboard total 24.66gbp==)
 
 
 ## Clothes
@@ -72,17 +74,17 @@ kanban-plugin: board
 - [ ] [SHOEZONE fake crocs](https://www.shoezone.com/Products/Adults-Navy-Slip-On-EVA-Clog-Sandal-59812) 7.99gbp
 
 
-## Tech Term #1<br>135.41gbp total
+## Tech Term #1<br>136.11gbp total
 
 - [ ] total price has been summed up using taobao prices
 - [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
 	TOTAL 57.98gbp
-- [ ] [Akko 3108 V3 100% Keyboard](https://amzn.eu/d/00VUOMKv) 55.99gbp
+- [ ] [Keychron KJ5](https://a.co/d/04i6OUjA) 55.91gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
-	TOTAL 91.47gbp
+	TOTAL 91.39gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
