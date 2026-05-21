@@ -40,12 +40,13 @@ kanban-plugin: board
 	black hole toys gohan headsculpts
 	dimension workshop the god rebel (goku black, also known as dimensionia rather than dimension)
 	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp==
+	^ saiyan saga is 31gbp
 	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus) ==22gbp==
 	demoniacal fit the coming one (jacketless trunks) ==37gbp==
 	ha toys future gohan ==33gbp==
 	kong studios b008 clone goku ==47.50gbp==
 	demoniacal fit dragon blaster ==37.60gbp==
-	black hole toys ssj4 goku ==26.4gbp==
+	black hole toys ssj4 goku ==26.40gbp==
 	kamione gogeta ==48gbp==
 	bsm black shark body ==23.30gbp==
 	--------------------------
@@ -89,11 +90,13 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>366.35gbp total
+## Figures Term #1<br>461.35gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying kong studios clone goku through taobao only
 	+buying bsm blackshark body through taobao only
+	+buying df ssj3 and bht ssj4 through taobao only
+	+buying ns studio saiyan saga goku through taobao only
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
