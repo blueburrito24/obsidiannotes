@@ -82,17 +82,18 @@ kanban-plugin: board
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
 	TOTAL 57.98gbp
-- [ ] [Keychron KJ5](https://a.co/d/04i6OUjA) 55.91gbp
+- [ ] [GMK104 Keyboard Kit White](https://amzn.eu/d/08MKlSEj) 69.99gbp
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
-	TOTAL 91.39gbp
+	TOTAL 105.47gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>342.94gbp total
+## Figures Term #1<br>366.35gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying kong studios clone goku through taobao only
+	+buying bsm blackshark body through taobao only
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
