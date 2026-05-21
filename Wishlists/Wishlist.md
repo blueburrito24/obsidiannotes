@@ -85,10 +85,9 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>351.74gbp total
+## Figures Term #1<br>318.74gbp total
 
 - [ ] total price has been summed up using taobao prices
-	+buying ha toys future gohan through taobao only
 	+buying bsm blackshark body through taobao only
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -120,9 +119,13 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>417.85gbp total
+## Figures Term #2<br>452.85gbp total
 
 - [ ] total price has been summed up using taobao prices
+	+buying demoniacal fit trunks through taobao only
+- [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
+	![[649235931_18062435297671867_2983460130395110354_n.webp]]
+	*Need to remove nose
 - [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
 	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
 	*Need to remove nose
@@ -153,9 +156,6 @@ kanban-plugin: board
 
 ## OTHER
 
-- [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
-	![[649235931_18062435297671867_2983460130395110354_n.webp]]
-	*Need to remove nose
 - [ ] [SH FIGUARTS NARUTO Uchiha Itachi (NARUTOP99 VER.)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m31083904017) 82.93gbp
 	![[shfiguarts-naruto-shippuuden-uchiha-itachi-narutop99-edition-ver-bandai-spirits-.jpg]]
 	*Need to remove nose
