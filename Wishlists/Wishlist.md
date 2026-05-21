@@ -40,12 +40,13 @@ kanban-plugin: board
 	black hole toys gohan headsculpts
 	dimension workshop the god rebel (goku black, also known as dimensionia rather than dimension)
 	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp==
-	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus)
+	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus) ==22gbp==
 	demoniacal fit the coming one (jacketless trunks) ==37gbp==
 	ha toys future gohan ==33gbp==
 	kong studios b008 clone goku ==47.50gbp==
 	demoniacal fit dragon blaster ==37.60gbp==
 	black hole toys ssj4 goku ==26.4gbp==
+	kamione gogeta ==48gbp==
 	bsm black shark body ==23.30gbp==
 	--------------------------
 	gmk67 keyboard kit black 19gbp
@@ -88,10 +89,9 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>422.42gbp total
+## Figures Term #1<br>342.94gbp total
 
 - [ ] total price has been summed up using taobao prices
-	+buying bsm blackshark body through taobao only
 	+buying kong studios clone goku through taobao only
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -115,10 +115,6 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
 	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 	*Releases in October
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in October
-	need to repaint all eyes pure black
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
@@ -127,7 +123,7 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>452.85gbp total
+## Figures Term #2<br>443.56gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying demoniacal fit trunks through taobao only
@@ -164,6 +160,10 @@ kanban-plugin: board
 
 ## OTHER
 
+- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
+	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
+	*Releases in October
+	need to repaint all eyes pure black
 - [ ] [SH FIGUARTS NARUTO Uchiha Itachi (NARUTOP99 VER.)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m31083904017) 82.93gbp
 	![[shfiguarts-naruto-shippuuden-uchiha-itachi-narutop99-edition-ver-bandai-spirits-.jpg]]
 	*Need to remove nose
