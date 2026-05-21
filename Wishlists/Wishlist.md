@@ -71,8 +71,9 @@ kanban-plugin: board
 - [ ] [SHOEZONE fake crocs](https://www.shoezone.com/Products/Adults-Navy-Slip-On-EVA-Clog-Sandal-59812) 7.99gbp
 
 
-## Tech Term #1<br>214.45gbp total
+## Tech Term #1<br>135.41gbp total
 
+- [ ] total price has been summed up using taobao prices
 - [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
@@ -84,8 +85,9 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>321.48gbp total
+## Figures Term #1<br>351.62gbp total
 
+- [ ] total price has been summed up using taobao prices
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
@@ -108,6 +110,10 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
 	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 	*Releases in October
+- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
+	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
+	*Releases in October
+	need to repaint all eyes pure black
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
@@ -116,8 +122,9 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>448.18gbp total
+## Figures Term #2<br>417.85gbp total
 
+- [ ] total price has been summed up using taobao prices
 - [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
 	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
 	*Need to remove nose
@@ -148,10 +155,6 @@ kanban-plugin: board
 
 ## OTHER
 
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in January
-	need to repaint all eyes pure black
 - [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
 	![[649235931_18062435297671867_2983460130395110354_n.webp]]
 	*Need to remove nose
