@@ -16,10 +16,10 @@ kanban-plugin: board
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
 	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
 - [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
-- [ ] [SKADIS IKEA Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
+- [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
-	[SKADIS IKEA Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
-	[SKADIS IKEA Display Shelf](https://www.ikea.com/gb/en/p/skadis-display-shelf-white-20591841/) 2gbp
+	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
+	[SKADIS IKEA Black Display Shelf](https://www.ikea.com/gb/en/p/skadis-display-shelf-white-20591841/) 2gbp
 	^ use hooks for keyboards and display shelves for figure boxes
 - [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
 	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
@@ -34,6 +34,17 @@ kanban-plugin: board
 	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
 	[CanOfBeans Shockwave Set](https://canofbeams.com/products/shockwave-combo-bundle) 21gbp
+- [ ] #### TAOBAO WISHLIST
+	##### will give this list to pickel chan in september and gather price info for purchase
+	mustang toyz spider-man
+	mess toys lethal neighbor (venom)
+	black hole toys gohan headsculpts
+	dimension workshop the god rebel (goku black, also known as dimensionia rather than dimension)
+	ns studio ns003 (shiny kaioken 4.0 goku)
+	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus)
+	demoniacal fit the coming one (jacketless trunks)
+	gmk67 keyboard kit black, outemu silent peach switches 100pcs
+	akko 3108 v3 100% keyboard, leobog graywood v4 switches
 
 
 ## Clothes
@@ -67,7 +78,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>360.64gbp total
+## Figures Term #1<br>354.63gbp total
 
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
@@ -83,7 +94,7 @@ kanban-plugin: board
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
 	TOTAL 73.87gbp
 	*Releases mid-October
-- [ ] [BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005008188390778.html?) 41.19gbp
+- [ ] [BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.09gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[584385230_18541237792024694_630355050730542654_n.jpg]]
