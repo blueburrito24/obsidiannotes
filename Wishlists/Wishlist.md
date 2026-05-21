@@ -37,14 +37,19 @@ kanban-plugin: board
 - [ ] #### TAOBAO WISHLIST
 	##### will give this list to pickel chan in september and gather price info for purchase
 	mustang toyz spider-man
-	mess toys lethal neighbor (venom)
+	mess toys lethal neighbor (venom) ==16.15gbp==
 	black hole toys gohan headsculpts
 	dimension workshop the god rebel (goku black, also known as dimensionia rather than dimension)
-	ns studio ns003 (shiny kaioken 4.0 goku)
+	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp==
 	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus)
-	demoniacal fit the coming one (jacketless trunks)
-	gmk67 keyboard kit black, outemu silent peach switches 100pcs
-	akko 3108 v3 100% keyboard, leobog graywood v4 switches
+	demoniacal fit the coming one (jacketless trunks) ==37gbp==
+	ha toys future gohan ==33gbp==
+	gmk67 keyboard kit black 19gbp
+	outemu silent peach switches 100pcs 3.45gbp
+	==(65% keyboard total 30.45gbp==)
+	akko 3108 v3 100% keyboard 12.30gbp
+	leobog graywood v4 switches 3.66gbp
+	==(100% keyboard total 23.96gbp==)
 
 
 ## Clothes
