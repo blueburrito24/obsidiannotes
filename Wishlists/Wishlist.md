@@ -27,7 +27,6 @@ kanban-plugin: board
 	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
 - [ ] #### EFFECT PIECES
-	[TAMASHII EFFECT SERIES Thunder Effects](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.95gbp
 	[SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
 	[SH_FIGUPOSES Ki Beam Effect](https://www.ebay.co.uk/itm/317872776622?) 8.99gbp
 	[SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
@@ -44,6 +43,7 @@ kanban-plugin: board
 	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus)
 	demoniacal fit the coming one (jacketless trunks) ==37gbp==
 	ha toys future gohan ==33gbp==
+	bsm black shark body ==23.30gbp==
 	--------------------------
 	gmk67 keyboard kit black 19gbp
 	outemu silent peach switches 100pcs 3.45gbp
@@ -85,9 +85,11 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>351.62gbp total
+## Figures Term #1<br>351.74gbp total
 
 - [ ] total price has been summed up using taobao prices
+	+buying ha toys future gohan through taobao only
+	+buying bsm blackshark body through taobao only
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
@@ -110,10 +112,6 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
 	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 	*Releases in October
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in October
-	need to repaint all eyes pure black
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
@@ -161,9 +159,10 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS NARUTO Uchiha Itachi (NARUTOP99 VER.)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m31083904017) 82.93gbp
 	![[shfiguarts-naruto-shippuuden-uchiha-itachi-narutop99-edition-ver-bandai-spirits-.jpg]]
 	*Need to remove nose
-- [ ] [SH FIGUARTS DRAGON BALL Z Super Android 13](https://www.nin-nin-game.com/en/shfiguarts/220317-shfiguarts-dragon-ball-z-super-android-no13-limited-edition-bandai-spirits-.html) 58.11gbp
-	![[shfiguarts-dragon-ball-z-super-android-no13-limited-edition-bandai-spirits-.jpg]]
-	*Need to remove nose
+- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
+	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
+	*Releases in October
+	need to repaint all eyes pure black
 - [ ] [SH FIGUARTS DRAGON BALL Z Cooler Final Form](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 80.59gbp
 	![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg]]
 
