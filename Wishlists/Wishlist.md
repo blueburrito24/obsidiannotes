@@ -36,26 +36,25 @@ kanban-plugin: board
 - [ ] #### TAOBAO WISHLIST
 	##### will give this list to pickel chan in september and gather price info for purchase
 	mustang toyz spider-man
-	mess toys lethal neighbor (venom) ==16.15gbp==
-	black hole toys gohan headsculpts
+	mess toys lethal neighbor (venom) ==16.15gbp== ✅
 	dimension workshop the god rebel (goku black, also known as dimensionia rather than dimension)
-	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp==
-	^ saiyan saga is 31gbp
-	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus) ==22gbp==
-	demoniacal fit the coming one (jacketless trunks) ==37gbp==
+	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp== ✅
+	^ saiyan saga is 31gbp ✅
+	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus) ==22gbp== ✅
+	demoniacal fit the coming one (jacketless trunks) ==37gbp== ✅
 	ha toys future gohan ==33gbp==
 	kong studios b008 clone goku ==47.50gbp==
-	demoniacal fit dragon blaster ==37.60gbp==
-	black hole toys ssj4 goku ==26.40gbp==
+	demoniacal fit dragon blaster ==37.60gbp== ✅
+	black hole toys ssj4 goku ==26.40gbp== ✅
 	kamione gogeta ==48gbp==
-	bsm black shark body ==23.30gbp==
+	bsm black shark body ==23.30gbp== ✅
 	--------------------------
 	gmk67 keyboard kit black 19gbp
 	outemu silent peach switches 100pcs 3.45gbp
-	==(65% keyboard total 30.45gbp==)
+	==(65% keyboard total 30.45gbp==) ✅
 	gmk104 keyboard kit 21gbp
 	leobog graywood v4 switches 3.66gbp
-	(==100% keyboard total 24.66gbp==)
+	(==100% keyboard total 24.66gbp==) ✅
 
 
 ## Clothes
@@ -90,10 +89,9 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>461.35gbp total
+## Figures Term #1<br>413.85gbp total
 
 - [ ] total price has been summed up using taobao prices
-	+buying kong studios clone goku through taobao only
 	+buying bsm blackshark body through taobao only
 	+buying df ssj3 and bht ssj4 through taobao only
 	+buying ns studio saiyan saga goku through taobao only
