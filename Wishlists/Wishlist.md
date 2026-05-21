@@ -39,6 +39,7 @@ kanban-plugin: board
 	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus)
 	demoniacal fit the coming one (jacketless trunks) ==37gbp==
 	ha toys future gohan ==33gbp==
+	kong studios b008 clone goku ==47.50gbp==
 	bsm black shark body ==23.30gbp==
 	--------------------------
 	gmk67 keyboard kit black 19gbp
@@ -85,10 +86,11 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>374.92gbp total
+## Figures Term #1<br>422.42gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying bsm blackshark body through taobao only
+	+buying kong studios clone goku through taobao only
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
