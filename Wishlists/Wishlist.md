@@ -7,10 +7,6 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] take note 180 per term for train fare on avg 3x a week
-- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
-	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
-	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-	*Want to get this at a later date
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
@@ -51,6 +47,10 @@ kanban-plugin: board
 	akko 3108 v3 100% keyboard 12.30gbp
 	leobog graywood v4 switches 3.66gbp
 	==(100% keyboard total 23.96gbp==)
+- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
+	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
+	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
+	*Want to get this at a later date
 
 
 ## Clothes
