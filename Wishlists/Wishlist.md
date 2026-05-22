@@ -125,7 +125,7 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>443.56gbp total
+## Figures Term #2<br>447.56gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying demoniacal fit trunks through taobao only
@@ -173,6 +173,26 @@ kanban-plugin: board
 	![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg]]
 - [ ] [SH FIGUARTS NARUTO Ichiraku Ramen Set](https://www.nin-nin-game.com/en/naruto/129530-shfiguarts-naruto-ichiraku-ramen-set-bandai-spirits-.html) 32.25gbp
 	![[shfiguarts-naruto-ichiraku-ramen-set-bandai-spirits-.jpg]]
+- [ ] [SH FIGUARTS DRAGON BALL Z Super Buu](https://hobbyfigures.co.uk/products/dragonball-z-s-h-figuarts-action-figure-majin-boo-evil-19cm-preorder) 53.95gbp
+	![[655017440_18098452718490112_2411814919918481231_n.webp]]
+- [ ] ### BUU SAGA VEGETA CUSTOM
+	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]]
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	[Vallejo Basic Skintone](https://amzn.eu/d/0j8axbIY) 5.70gbp
+	[Vallejo Dark Blue](https://amzn.eu/d/073r7WEx) 5.57gbp
+	[Painting clamp stand](https://amzn.eu/d/09QpUwTn) 6.79gbp
+	[12pcs sandpaper of various grits](https://amzn.eu/d/0cnKx7By) 3.99gbp
+	[Acrylic Markers](https://amzn.eu/d/0bCssIg6) 4.69gbp
+	TOTAL 58.69gbp
+	> [!CUSTOM PROCESS]-
+	> 1. soften the upper body with hot water and disassemble
+	> 2. sand down the shoulders, inside of the bicep connector socket, inside of the forearm connector socket, to reduce paint rub - going from low to high grit sandpaper
+	> 3. repaint arms with basic skintone
+	> 4. resculpt torso and abdomen to match the soft leotard look and sand down the abdomen piece to reduce paint rub, alongside keeping the abdomen the same width at all ends so it goes into the hip piece
+	> 5. make sure to remove the trap supports and sculpt leotard wraps onto the traps
+	> 6. sand down suitline on the neck and repaint upper torso with basic skintone, then repaint the leotard sections with dark blue
+	> 7. sand down muscle definition on thighs so that it only has the shape and no lines, the only muscle definition on the leotard should be the chest and lower legs
+	> 8. repaint all faces and hairsculpts with black acrylic markers
 
 
 ***
