@@ -6,11 +6,12 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] take note 180 per term for train fare on avg 3x a week
+	+i want to save 200 per term
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 	*Want to get this at a later date
-- [ ] take note 180 per term for train fare on avg 3x a week
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
@@ -35,19 +36,9 @@ kanban-plugin: board
 	[CanOfBeans Shockwave Set](https://canofbeams.com/products/shockwave-combo-bundle) 21gbp
 - [ ] #### TAOBAO WISHLIST
 	##### will give this list to pickel chan in september and gather price info for purchase
-	mustang toyz spider-man
 	mess toys lethal neighbor (venom) ==16.15gbp== ✅
-	dimension workshop the god rebel (goku black, also known as dimensionia rather than dimension)
 	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp== ✅
-	^ saiyan saga is 31gbp ✅
 	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus) ==22gbp== ✅
-	demoniacal fit the coming one (jacketless trunks) ==37gbp== ✅
-	ha toys future gohan ==33gbp==
-	kong studios b008 clone goku ==47.50gbp==
-	demoniacal fit dragon blaster ==37.60gbp== ✅
-	black hole toys ssj4 goku ==26.40gbp== ✅
-	kamione gogeta ==48gbp==
-	bsm black shark body ==23.30gbp== ✅
 	--------------------------
 	gmk67 keyboard kit black 19gbp
 	outemu silent peach switches 100pcs 3.45gbp
@@ -89,92 +80,28 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>413.85gbp total
+## Figures Term #1<br>333.79gbp total
 
 - [ ] total price has been summed up using taobao prices
-	+buying bsm blackshark body through taobao only
-	+buying df ssj3 and bht ssj4 through taobao only
-	+buying ns studio saiyan saga goku through taobao only
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
 - [ ] [MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 42.19gbp
 	![[HDrf6MBbQAALDC6.jpg]]
-- [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-	![[689224739_17909612049401813_50872217311216390_n.jpg]]
-	*Releases mid-October
-	Need to remove nose
 - [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
 	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
 	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
 	TOTAL 73.87gbp
 	*Releases mid-October
+- [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	![[689224739_17909612049401813_50872217311216390_n.jpg]]
+	*Releases mid-October
+	Need to remove nose
 - [ ] [BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.09gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[584385230_18541237792024694_630355050730542654_n.jpg]]
 	*Need to remove nose, will use on KHS body
-- [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.45gbp
-	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
-	*Releases in October
-- [ ] #### EFFECT PIECES
-	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
-	(white, yellow)
-	[SH_FIGUPOSES Wind Effects](https://www.ebay.co.uk/itm/317797817958?) 7.99gbp x2
-	(white, blue)
-	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
-
-
-## Figures Term #2<br>447.56gbp total
-
-- [ ] total price has been summed up using taobao prices
-	+buying demoniacal fit trunks through taobao only
-- [ ] [DEMONIACAL FIT THE COMING ONE (Trunks](https://www.aliexpress.com/item/1005011593522254.html?) 64.19gbp
-	![[649235931_18062435297671867_2983460130395110354_n.webp]]
-	*Need to remove nose
-- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
-	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
-	*Need to remove nose
-- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
-	![[Pasted image 20260518052405.png]]
-	[DEMONIACAL FIT Scarlet Fighter for powered up hairsculpt](https://www.aliexpress.com/item/1005011560810764.html?) 31.29gbp
-	[Vallejo Metal Medium](https://amzn.eu/d/0dc7YSQ6) 5.59gbp
-	[Vallejo Purple](https://amzn.eu/d/09S9iyoS) 4.69gbp
-	TOTAL 99.90gbp
-	*Need to remove nose, repaint alternate hairsculpt from DF Scarlet Fighter to match the dark metallic purple on the NS figure
-- [ ] [SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/s/c_shop/5932364?id=9c2197a8-9a20-4c4c-8ac6-7631861cd80b) 53.69gbp
-	![[582835359_17944246302075794_3382889372446482038_n.jpg]]
-	[SH FIGUARTS DAIMA Vegeta for swaps](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be) 19.53gbp
-	TOTAL 73.22gbp
-	*Need to remove nose and swap out arms and legs from SHF DAIMA Vegeta for 3.0 style + swap out feet from SHF DP Vegeta and apply skirt from DF Scarlet Fighter
-- [ ] [SH FIGUARTS NARUTO "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 83.03gbp
-	![[shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.jpg]]
-	*Need to remove nose
-- [ ] [SH FIGUARTS NARUTOP99 Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.47gbp
-	[SH FIGUARTS NARUTOP99 Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 41.16gbp
-	[SH FIGUARTS NARUTO "Jinchuriki Entrusted with Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.45gbp
-	![[image.png]]
-	*Need to remove noses, second Naruto is for shadow clone and more expressions
-- [ ] [SH FIGUARTS NARUTO "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.90gbp
-	![[shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.jpg]]
-	*Need to remove nose
-
-
-## OTHER
-
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in October
-	need to repaint all eyes pure black
-- [ ] [SH FIGUARTS NARUTO Uchiha Itachi (NARUTOP99 VER.)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m31083904017) 82.93gbp
-	![[shfiguarts-naruto-shippuuden-uchiha-itachi-narutop99-edition-ver-bandai-spirits-.jpg]]
-	*Need to remove nose
-- [ ] [SH FIGUARTS DRAGON BALL Z Cooler Final Form](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 80.59gbp
-	![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg]]
-- [ ] [SH FIGUARTS NARUTO Ichiraku Ramen Set](https://www.nin-nin-game.com/en/naruto/129530-shfiguarts-naruto-ichiraku-ramen-set-bandai-spirits-.html) 32.25gbp
-	![[shfiguarts-naruto-ichiraku-ramen-set-bandai-spirits-.jpg]]
-- [ ] [SH FIGUARTS DRAGON BALL Z Super Buu](https://hobbyfigures.co.uk/products/dragonball-z-s-h-figuarts-action-figure-majin-boo-evil-19cm-preorder) 53.95gbp
-	![[655017440_18098452718490112_2411814919918481231_n.webp]]
 - [ ] ### BUU SAGA VEGETA CUSTOM
 	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]]
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
@@ -193,6 +120,42 @@ kanban-plugin: board
 	> 6. sand down suitline on the neck and repaint upper torso with basic skintone, then repaint the leotard sections with dark blue
 	> 7. sand down muscle definition on thighs so that it only has the shape and no lines, the only muscle definition on the leotard should be the chest and lower legs
 	> 8. repaint all faces and hairsculpts with black acrylic markers
+- [ ] #### EFFECT PIECES
+	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
+	(white, yellow)
+	[SH_FIGUPOSES Wind Effects](https://www.ebay.co.uk/itm/317797817958?) 7.99gbp x2
+	(white, blue)
+	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
+
+
+## Figures Term #2<br>254.73gbp total
+
+- [ ] total price has been summed up using taobao prices
+- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
+	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
+	*Need to remove nose
+- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
+	![[Pasted image 20260518052405.png]]
+	[DEMONIACAL FIT Scarlet Fighter for powered up hairsculpt](https://www.aliexpress.com/item/1005011560810764.html?) 31.29gbp
+	[Vallejo Metal Medium](https://amzn.eu/d/0dc7YSQ6) 5.59gbp
+	[Vallejo Purple](https://amzn.eu/d/09S9iyoS) 4.69gbp
+	TOTAL 99.90gbp
+	*Need to remove nose, repaint alternate hairsculpt from DF Scarlet Fighter to match the dark metallic purple on the NS figure
+- [ ] [SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/s/c_shop/5932364?id=9c2197a8-9a20-4c4c-8ac6-7631861cd80b) 53.69gbp
+	![[582835359_17944246302075794_3382889372446482038_n.jpg]]
+	[SH FIGUARTS DAIMA Vegeta for swaps](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be) 19.53gbp
+	TOTAL 73.22gbp
+	*Need to remove nose and swap out arms and legs from SHF DAIMA Vegeta for 3.0 style + swap out feet from SHF DP Vegeta and apply skirt from DF Scarlet Fighter
+- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
+	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
+	*Releases in October
+	need to repaint all eyes pure black
+
+
+## OTHER
+
+- [ ] [SH FIGUARTS DRAGON BALL Z Cooler Final Form](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 80.59gbp
+	![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg]]
 
 
 ***
