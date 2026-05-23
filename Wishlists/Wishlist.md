@@ -8,10 +8,12 @@ kanban-plugin: board
 
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 200 per term
+- [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp
+	*Want to buy this during third term
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-	*Want to get this at a later date
+	*Want to buy this at a later date
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
 - [ ] > [!EFFECT PIECES]-
@@ -79,7 +81,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>333.79gbp total
+## Figures Term #1<br>323.59gbp total
 
 - [ ] total price has been summed up using taobao prices
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
@@ -87,20 +89,18 @@ kanban-plugin: board
 	*Releases in Q3 (June-September)
 - [ ] [MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 42.19gbp
 	![[HDrf6MBbQAALDC6.jpg]]
-- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
-	![[572882535_17943384558336791_5674864537069043115_n.jpg]]
-	[Cloth cape](https://www.aliexpress.com/item/1005008109291722.html?) 21.92gbp
-	TOTAL 73.87gbp
-	*Releases mid-October
-- [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-	![[689224739_17909612049401813_50872217311216390_n.jpg]]
-	*Releases mid-October
-	Need to remove nose
+- [ ] [SH FIGUARTS NARUTO SHIPPUDEN "The Power To Unite" Naruto Uzumaki](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-naruto-uzumaki-the-power-to-unite-15cm) 46.95gbp
+	![[shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.jpg]]
+	*Need to remove nose
+- [ ] [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.32gbp
+	![[shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.jpg]]
+	*Need to remove nose
 - [ ] [BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.09gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[584385230_18541237792024694_630355050730542654_n.jpg]]
 	*Need to remove nose, will use on KHS body
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku Reissue](https://www.nin-nin-game.com/en/shfiguarts/224457-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-games-begin-reissue-bandai-spirits-.html) 19.35gbp
 - [ ] ### BUU SAGA VEGETA CUSTOM
 	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]]
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
@@ -115,7 +115,7 @@ kanban-plugin: board
 	> 2. sand down the shoulders, inside of the bicep connector socket, inside of the forearm connector socket, to reduce paint rub - going from low to high grit sandpaper
 	> 3. repaint arms with basic skintone
 	> 4. resculpt torso and abdomen to match the soft leotard look and sand down the abdomen piece to reduce paint rub, alongside keeping the abdomen the same width at all ends so it goes into the hip piece
-	> 5. resculpt trap armour into leotard wrapping around the traps
+	> 5. pull out the supporting shoulder armour and resculpt the traps to have a leotard look
 	> 6. sand down suitline on the neck and repaint upper torso with basic skintone, then repaint the leotard sections with dark blue
 	> 7. sand down muscle definition on thighs so that it only has the shape and no lines, the only muscle definition on the leotard should be the chest and lower legs
 	> 8. repaint all faces and hairsculpts with black acrylic markers
@@ -127,11 +127,14 @@ kanban-plugin: board
 	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
 
 
-## Figures Term #2<br>254.73gbp total
+## Figures Term #2<br>315.66gbp total
 
 - [ ] total price has been summed up using taobao prices
-- [ ] [DIMENSION WORKSHOP Goku Black](https://www.aliexpress.com/item/1005011669099788.html?) 63.05gbp
-	![[627357930_18042910139769069_5461920783132529723_n.jpg]]
+- [ ] [SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 83.03gbp
+	![[shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.jpg]]
+	*Need to remove nose
+- [ ] [SH FIGUARTS NARUTO SHIPPUDEN Sakura Haruno (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 40.95gbp
+	![[shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.jpg]]
 	*Need to remove nose
 - [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
 	![[Pasted image 20260518052405.png]]
