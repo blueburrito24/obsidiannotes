@@ -14,8 +14,6 @@ kanban-plugin: board
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 	*Want to buy this during third term
-- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
-	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
 - [ ] > [!EFFECT PIECES]-
 	> [SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
 	> [SH_FIGUPOSES Ki Beam Effect](https://www.ebay.co.uk/itm/317872776622?) 8.99gbp
@@ -23,8 +21,6 @@ kanban-plugin: board
 	> [POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
 	> [POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
 	> [CanOfBeans Shockwave Set](https://canofbeams.com/products/shockwave-combo-bundle) 21gbp
-- [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
-	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
 - [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
 	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
 	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
@@ -67,7 +63,7 @@ kanban-plugin: board
 - [ ] [SHOEZONE fake crocs](https://www.shoezone.com/Products/Adults-Navy-Slip-On-EVA-Clog-Sandal-59812) 7.99gbp
 
 
-## Tech Term #1<br>136.11gbp total
+## Tech Term #1<br>219.80gbp total
 
 - [ ] total price has been summed up using taobao prices
 - [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
@@ -79,6 +75,10 @@ kanban-plugin: board
 	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
 	TOTAL 105.47gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
+- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
+	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
+- [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
+	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
 
 
 ## Figures Term #1<br>323.59gbp total
