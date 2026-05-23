@@ -14,26 +14,25 @@ kanban-plugin: board
 	*Want to get this at a later date
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
+- [ ] > [!EFFECT PIECES]-
+	> [SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
+	> [SH_FIGUPOSES Ki Beam Effect](https://www.ebay.co.uk/itm/317872776622?) 8.99gbp
+	> [SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
+	> [POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
+	> [POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
+	> [CanOfBeans Shockwave Set](https://canofbeams.com/products/shockwave-combo-bundle) 21gbp
 - [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
-	[Coloured foil sheets for photography](https://amzn.eu/d/0f9vGX7c) 3.09gbp
-- [ ] [Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
+	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
+- [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
+	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
+	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
+	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
 - [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
 	[SKADIS IKEA Black Display Shelf](https://www.ikea.com/gb/en/p/skadis-display-shelf-white-20591841/) 2gbp
 	^ use hooks for keyboards and display shelves for figure boxes
-- [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
-	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
-	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
-	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
 - [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
-- [ ] #### EFFECT PIECES
-	[SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
-	[SH_FIGUPOSES Ki Beam Effect](https://www.ebay.co.uk/itm/317872776622?) 8.99gbp
-	[SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
-	[POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
-	[POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
-	[CanOfBeans Shockwave Set](https://canofbeams.com/products/shockwave-combo-bundle) 21gbp
 - [ ] #### TAOBAO WISHLIST
 	##### will give this list to pickel chan in september and gather price info for purchase
 	mess toys lethal neighbor (venom) ==16.15gbp== ✅
@@ -116,7 +115,7 @@ kanban-plugin: board
 	> 2. sand down the shoulders, inside of the bicep connector socket, inside of the forearm connector socket, to reduce paint rub - going from low to high grit sandpaper
 	> 3. repaint arms with basic skintone
 	> 4. resculpt torso and abdomen to match the soft leotard look and sand down the abdomen piece to reduce paint rub, alongside keeping the abdomen the same width at all ends so it goes into the hip piece
-	> 5. make sure to remove the trap supports and sculpt leotard wraps onto the traps
+	> 5. resculpt trap armour into leotard wrapping around the traps
 	> 6. sand down suitline on the neck and repaint upper torso with basic skintone, then repaint the leotard sections with dark blue
 	> 7. sand down muscle definition on thighs so that it only has the shape and no lines, the only muscle definition on the leotard should be the chest and lower legs
 	> 8. repaint all faces and hairsculpts with black acrylic markers
