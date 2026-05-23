@@ -79,7 +79,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 
 
-## Figures Term #1<br>333.79gbp total
+## Figures Term #1<br>353.14gbp total
 
 - [ ] total price has been summed up using taobao prices
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
@@ -119,6 +119,8 @@ kanban-plugin: board
 	> 6. sand down suitline on the neck and repaint upper torso with basic skintone, then repaint the leotard sections with dark blue
 	> 7. sand down muscle definition on thighs so that it only has the shape and no lines, the only muscle definition on the leotard should be the chest and lower legs
 	> 8. repaint all faces and hairsculpts with black acrylic markers
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.35gbp
+	![[shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.jpg]]
 - [ ] #### EFFECT PIECES
 	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
 	(white, yellow)
