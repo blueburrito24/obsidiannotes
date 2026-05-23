@@ -151,12 +151,6 @@ kanban-plugin: board
 	need to repaint all eyes pure black
 
 
-## OTHER
-
-- [ ] [SH FIGUARTS DRAGON BALL Z Cooler Final Form](https://www.nin-nin-game.com/en/dragon-ball/163877-shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.html) 80.59gbp
-	![[shfiguarts-dragon-ball-z-cooler-final-form-40th-anniversary-reissue-limited-edition-bandai-spirits-.jpg]]
-
-
 ***
 
 ## Archive
@@ -167,6 +161,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
