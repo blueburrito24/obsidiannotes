@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-	*Want to buy this at a later date
+	*Want to buy this during third term
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf)22.99gbp
 - [ ] > [!EFFECT PIECES]-
