@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 200 per term
 - [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp
@@ -17,36 +18,19 @@ kanban-plugin: board
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 	*Want to buy this during third term
-- [ ] > [!EFFECT PIECES]-
-	> [SH_FIGUPOSES Final Flash effect piece](https://www.ebay.co.uk/itm/317928631391?) 5.50gbp
-	> [SH_FIGUPOSES Ki Beam Effect](https://www.ebay.co.uk/itm/317872776622?) 8.99gbp
-	> [SH_FIGUPOSES FWOOSH Text Effect](https://www.ebay.co.uk/itm/318064063735?) 4.99gbp
-	> [POP! Elements: Power-Up effect](https://amzn.eu/d/05TXH36X) 5gbp
-	> [POP! Elements: Lightning](https://amzn.eu/d/0h5zfCgu) 5gbp
-	> [CanOfBeans Shockwave Set](https://canofbeams.com/products/shockwave-combo-bundle) 21gbp
-- [ ] [Ziploc bags for figures](https://amzn.eu/d/06pjsbI9) 6.49gbp
-	[Two-tier riser stand for figures](https://amzn.eu/d/0hrnv7d7) 8.99gbp
-	[Wired Action figure stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.45gbp
-	[SH FIGUARTS style stands](https://www.aliexpress.com/item/1005009139862471.html?) 1.11gbp
 - [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
 	[SKADIS IKEA Black Display Shelf](https://www.ikea.com/gb/en/p/skadis-display-shelf-white-20591841/) 2gbp
 	^ use hooks for keyboards and display shelves for figure boxes
-- [ ] [kiki Loose Joint Solution](https://www.ebay.co.uk/itm/203110858945) 15.60gbp
-- [ ] #### TAOBAO WISHLIST
-	##### will give this list to pickel chan in september and gather price info for purchase
-	mess toys lethal neighbor (venom) ==16.15gbp== ✅
-	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp== ✅
-	bsm blackshark body 23.30gbp ✅
-	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus) ==22gbp== ✅
-	--------------------------
-	gmk67 keyboard kit black 19gbp
-	outemu silent peach switches 100pcs 3.45gbp
-	==(65% keyboard total 30.45gbp==) ✅
-	gmk104 keyboard kit 21gbp
+- [ ] >[!TAOBAO WISHLIST]-
+	>##### will give this list to pickel chan in september and gather price info for purchase
+	>gmk67 keyboard kit black 19gbp
+	>outemu silent peach switches 100pcs 3.45gbp
+	>==(65% keyboard total 30.45gbp==) ✅
+	>gmk104 keyboard kit 21gbp
 	leobog graywood v4 switches 3.66gbp
-	(==100% keyboard total 24.66gbp==) ✅
+	>(==100% keyboard total 24.66gbp==) ✅
 
 
 ## Clothes
@@ -86,74 +70,6 @@ kanban-plugin: board
 	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
 
 
-## Figures Term #1<br>254.55gbp total
-
-- [ ] total price has been summed up using taobao prices
-	+buying bsm blackshark body through taobao
-- [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
-	![[656491745_18319635235253215_195156506188399158_n.jpg]]
-	*Releases in Q3 (June-September)
-- [ ] [MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 42.19gbp
-	![[HDrf6MBbQAALDC6.jpg]]
-- [ ] [SH FIGUARTS NARUTO SHIPPUDEN "The Power To Unite" Naruto Uzumaki](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-naruto-uzumaki-the-power-to-unite-15cm) 46.95gbp
-	![[shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.jpg]]
-	*Need to remove nose
-- [ ] [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.32gbp
-	![[shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.jpg]]
-	*Need to remove nose
-- [ ] ### BUU SAGA VEGETA CUSTOM 
-	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp 
-	[Vallejo Basic Skintone](https://amzn.eu/d/0j8axbIY) 5.70gbp 
-	[Vallejo Dark Blue](https://amzn.eu/d/073r7WEx) 5.57gbp 
-	[Painting clamp stand](https://amzn.eu/d/09QpUwTn) 6.79gbp 
-	[12pcs sandpaper of various grits](https://amzn.eu/d/0cnKx7By) 3.99gbp 
-	[Acrylic Markers](https://amzn.eu/d/0bCssIg6) 4.69gbp 
-	TOTAL 58.69gbp
-	> [!CUSTOM PROCESS]-
-	> 
-	> 1. soften the upper body with hot water and disassemble
-	> 2. sand down the shoulders, inside of the bicep connector socket, inside of the forearm connector socket, to reduce paint rub - going from low to high grit sandpaper
-	> 3. repaint arms with basic skintone
-	> 4. resculpt torso and abdomen to match the soft leotard look and sand down the abdomen piece to reduce paint rub, alongside keeping the abdomen the same width at all ends so it goes into the hip piece
-	> 5. pull out the supporting shoulder armour and resculpt the traps to have a leotard look
-	> 6. sand down suitline on the neck and repaint upper torso with basic skintone, then repaint the leotard sections with dark blue
-	> 7. sand down muscle definition on thighs so that it only has the shape and no lines, the only muscle definition on the leotard should be the chest and lower legs
-	> 8. repaint all faces and hairsculpts with black acrylic markers
-- [ ] #### EFFECT PIECES
-	[SH_FIGUPOSES Aura Effect](https://www.ebay.co.uk/itm/318044652403?) 5.98gbp x2
-	(white, yellow)
-	[SH_FIGUPOSES Wind Effects](https://www.ebay.co.uk/itm/317797817958?) 7.99gbp x2
-	(white, blue)
-	[KO SHF Killua for Electricity Effects](https://www.aliexpress.com/item/1005010741590247.html?) 23.79gbp
-
-
-## Figures Term #2<br>315.66gbp total
-
-- [ ] total price has been summed up using taobao prices
-- [ ] [SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 83.03gbp
-	![[shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.jpg]]
-	*Need to remove nose
-- [ ] [SH FIGUARTS NARUTO SHIPPUDEN Sakura Haruno (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 40.95gbp
-	![[shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.jpg]]
-	*Need to remove nose
-- [ ] [NS STUDIO Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.33gbp
-	![[Pasted image 20260518052405.png]]
-	[DEMONIACAL FIT Scarlet Fighter for powered up hairsculpt](https://www.aliexpress.com/item/1005011560810764.html?) 31.29gbp
-	[Vallejo Metal Medium](https://amzn.eu/d/0dc7YSQ6) 5.59gbp
-	[Vallejo Purple](https://amzn.eu/d/09S9iyoS) 4.69gbp
-	TOTAL 99.90gbp
-	*Need to remove nose, repaint alternate hairsculpt from DF Scarlet Fighter to match the dark metallic purple on the NS figure
-- [ ] [SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/s/c_shop/5932364?id=9c2197a8-9a20-4c4c-8ac6-7631861cd80b) 53.69gbp
-	![[582835359_17944246302075794_3382889372446482038_n.jpg]]
-	[SH FIGUARTS DAIMA Vegeta for swaps](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be) 19.53gbp
-	TOTAL 73.22gbp
-	*Need to remove nose and swap out arms and legs from SHF DAIMA Vegeta for 3.0 style + swap out feet from SHF DP Vegeta and apply skirt from DF Scarlet Fighter
-- [ ] [SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 56.18gbp
-	![[shfiguarts-my-hero-academia-all-might-bandai-spirits-.webp]]
-	*Releases in October
-	need to repaint all eyes pure black
-
-
 ***
 
 ## Archive
@@ -164,6 +80,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
