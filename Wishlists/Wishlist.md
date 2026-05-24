@@ -86,7 +86,7 @@ kanban-plugin: board
 	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
 
 
-## Figures Term #1<br>327.54gbp total
+## Figures Term #1<br>254.55gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying bsm blackshark body through taobao
@@ -101,11 +101,6 @@ kanban-plugin: board
 - [ ] [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.32gbp
 	![[shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.jpg]]
 	*Need to remove nose
-- [ ] [BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.09gbp
-	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
-	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
-	![[584385230_18541237792024694_630355050730542654_n.jpg]]
-	*Need to remove nose, will use on KHS body
 - [ ] ### BUU SAGA VEGETA CUSTOM 
 	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp 
 	[Vallejo Basic Skintone](https://amzn.eu/d/0j8axbIY) 5.70gbp 
