@@ -9,7 +9,10 @@ kanban-plugin: board
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 200 per term
 - [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp
-	*Want to buy this during third term
+	[Outemu Silent Peach Magnetic switches 90pcs](https://amzn.eu/d/069tl7ye) 22.99gbp
+	Holy80 Case 15gbp (through taobao)
+	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd
+	*Want to buy this during second or third term
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
@@ -35,6 +38,7 @@ kanban-plugin: board
 	##### will give this list to pickel chan in september and gather price info for purchase
 	mess toys lethal neighbor (venom) ==16.15gbp== ✅
 	ns studio ns003 (shiny kaioken 4.0 goku) ==30~ gbp== ✅
+	bsm blackshark body 23.30gbp ✅
 	demoniacal fit scarlet fighter (matte 2.0 kaioken goku with vegeta skirt bonus) ==22gbp== ✅
 	--------------------------
 	gmk67 keyboard kit black 19gbp
@@ -60,7 +64,8 @@ kanban-plugin: board
 	![[Pasted image 20260223194831.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 	![[Pasted image 20260403193552.png]]
-- [ ] [SHOEZONE fake crocs](https://www.shoezone.com/Products/Adults-Navy-Slip-On-EVA-Clog-Sandal-59812) 7.99gbp
+- [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
+	![[HJBW1edagAEhapa.jpg]]
 
 
 ## Tech Term #1<br>219.80gbp total
@@ -81,9 +86,10 @@ kanban-plugin: board
 	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
 
 
-## Figures Term #1<br>323.59gbp total
+## Figures Term #1<br>300.80gbp total
 
 - [ ] total price has been summed up using taobao prices
+	+buying bsm blackshark body through taobao
 - [ ] [Mustang Toyz Gamerverse Spider-Man](https://www.aliexpress.com/item/1005012031347919.html?) 29.39gbp
 	![[656491745_18319635235253215_195156506188399158_n.jpg]]
 	*Releases in Q3 (June-September)
@@ -100,17 +106,11 @@ kanban-plugin: board
 	[3.0 Adapter](https://www.ebay.co.uk/itm/317560487217?) 5.97gbp
 	![[584385230_18541237792024694_630355050730542654_n.jpg]]
 	*Need to remove nose, will use on KHS body
-- [ ] [SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku Reissue](https://www.nin-nin-game.com/en/shfiguarts/224457-shfiguarts-dragon-ball-z-super-saiyan-son-goku-the-games-begin-reissue-bandai-spirits-.html) 19.35gbp
-- [ ] ### BUU SAGA VEGETA CUSTOM
-	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]]
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-	[Vallejo Basic Skintone](https://amzn.eu/d/0j8axbIY) 5.70gbp
-	[Vallejo Dark Blue](https://amzn.eu/d/073r7WEx) 5.57gbp
-	[Painting clamp stand](https://amzn.eu/d/09QpUwTn) 6.79gbp
-	[12pcs sandpaper of various grits](https://amzn.eu/d/0cnKx7By) 3.99gbp
-	[Acrylic Markers](https://amzn.eu/d/0bCssIg6) 4.69gbp
-	TOTAL 58.69gbp
+- [ ] ### BUU SAGA VEGETA CUSTOM 
+	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp [Vallejo Basic Skintone](https://amzn.eu/d/0j8axbIY) 5.70gbp [Vallejo Dark Blue](https://amzn.eu/d/073r7WEx) 5.57gbp [Painting clamp stand](https://amzn.eu/d/09QpUwTn) 6.79gbp [12pcs sandpaper of various grits](https://amzn.eu/d/0cnKx7By) 3.99gbp [Acrylic Markers](https://amzn.eu/d/0bCssIg6) 4.69gbp TOTAL 58.69gbp
+	
 	> [!CUSTOM PROCESS]-
+	> 
 	> 1. soften the upper body with hot water and disassemble
 	> 2. sand down the shoulders, inside of the bicep connector socket, inside of the forearm connector socket, to reduce paint rub - going from low to high grit sandpaper
 	> 3. repaint arms with basic skintone
