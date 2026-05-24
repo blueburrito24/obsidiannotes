@@ -86,7 +86,7 @@ kanban-plugin: board
 	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
 
 
-## Figures Term #1<br>300.80gbp total
+## Figures Term #1<br>327.54gbp total
 
 - [ ] total price has been summed up using taobao prices
 	+buying bsm blackshark body through taobao
@@ -107,8 +107,13 @@ kanban-plugin: board
 	![[584385230_18541237792024694_630355050730542654_n.jpg]]
 	*Need to remove nose, will use on KHS body
 - [ ] ### BUU SAGA VEGETA CUSTOM 
-	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp [Vallejo Basic Skintone](https://amzn.eu/d/0j8axbIY) 5.70gbp [Vallejo Dark Blue](https://amzn.eu/d/073r7WEx) 5.57gbp [Painting clamp stand](https://amzn.eu/d/09QpUwTn) 6.79gbp [12pcs sandpaper of various grits](https://amzn.eu/d/0cnKx7By) 3.99gbp [Acrylic Markers](https://amzn.eu/d/0bCssIg6) 4.69gbp TOTAL 58.69gbp
-	
+	![[which-vegeta-is-your-favorite-v0-qsa6f73ua3ff1.png]] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp 
+	[Vallejo Basic Skintone](https://amzn.eu/d/0j8axbIY) 5.70gbp 
+	[Vallejo Dark Blue](https://amzn.eu/d/073r7WEx) 5.57gbp 
+	[Painting clamp stand](https://amzn.eu/d/09QpUwTn) 6.79gbp 
+	[12pcs sandpaper of various grits](https://amzn.eu/d/0cnKx7By) 3.99gbp 
+	[Acrylic Markers](https://amzn.eu/d/0bCssIg6) 4.69gbp 
+	TOTAL 58.69gbp
 	> [!CUSTOM PROCESS]-
 	> 
 	> 1. soften the upper body with hot water and disassemble
