@@ -44,6 +44,7 @@ kanban-plugin: board
 ## Tech Term #1<br>453.18gbp total
 
 - [ ] total price has been summed up using taobao prices
+	anything marked with " is not bought via taobao
 - [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 19gbp
 	[GMK SAMURAI KEYCAPS](https://www.aliexpress.com/item/1005009119030347.html?) 4gbp
 	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 3.45gbp
@@ -52,14 +53,14 @@ kanban-plugin: board
 	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 3.66gbp
 	[KBDFANS Ichiraku Ramen Keycaps](https://kbdfans.com/collections/keycaps/products/fbb-ichiraku-ramen-r2-cherry-profile-keycaps?_pos=25&_fid=3d4715daa&_ss=c) 20gbp
 	TOTAL 44.66gbp
-- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
-- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
-	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
-- [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp
-	[Outemu Silent Peach Magnetic switches 90pcs](https://amzn.eu/d/069tl7ye) 22.99gbp
+- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp"
+- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp"
+	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp"
+- [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp"
+	[Outemu Silent Peach Magnetic switches 90pcs](https://amzn.eu/d/069tl7ye) 22.99gbp"
 	[Holy80 Case](https://kbdfans.com/products/holy80-case) 15gbp
-	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd
-	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd
+	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd"
+	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
 	TOTAL 268.02gbp
 
 
@@ -73,6 +74,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false}
 ```
 %%
