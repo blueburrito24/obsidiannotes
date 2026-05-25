@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 200 per term
+- [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
@@ -18,16 +19,7 @@ kanban-plugin: board
 - [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
-	[SKADIS IKEA Black Display Shelf](https://www.ikea.com/gb/en/p/skadis-display-shelf-white-20591841/) 2gbp
 	^ use hooks for keyboards
-- [ ] >[!TAOBAO WISHLIST]-
-	>##### will give this list to pickel chan in september and gather price info for purchase
-	>gmk67 keyboard kit black 19gbp
-	>outemu silent peach switches 100pcs 3.45gbp
-	>==(65% keyboard total 30.45gbp==) ✅
-	>gmk104 keyboard kit 21gbp
-	leobog graywood v4 switches 3.66gbp
-	>(==100% keyboard total 24.66gbp==) ✅
 
 
 ## Clothes
@@ -49,24 +41,26 @@ kanban-plugin: board
 	![[HJBW1edagAEhapa.jpg]]
 
 
-## Tech Term #1<br>438.63gbp total
+## Tech Term #1<br>453.18gbp total
 
 - [ ] total price has been summed up using taobao prices
-- [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
-	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
-	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 14.32gbp
-	TOTAL 57.98gbp
-- [ ] [GMK104 Keyboard Kit White](https://amzn.eu/d/08MKlSEj) 69.99gbp
-	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 27.48gbp
-	[HyperX PBT Keycaps - Pink, 100%, 104pcs](https://amzn.eu/d/0fQRh6F4) 8gbp
-	TOTAL 105.47gbp
+- [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 19gbp
+	[GMK SAMURAI KEYCAPS](https://www.aliexpress.com/item/1005009119030347.html?) 4gbp
+	[Outemu Silent Peach Switches 100pcs](https://www.aliexpress.com/item/1005006905361113.html?) 3.45gbp
+	TOTAL 34.45gbp
+- [ ] [GMK104 Keyboard Kit White](https://amzn.eu/d/08MKlSEj) 21gbp
+	[LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 3.66gbp
+	[KBDFANS Ichiraku Ramen Keycaps](https://kbdfans.com/collections/keycaps/products/fbb-ichiraku-ramen-r2-cherry-profile-keycaps?_pos=25&_fid=3d4715daa&_ss=c) 20gbp
+	TOTAL 44.66gbp
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
 - [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp
 	[Outemu Silent Peach Magnetic switches 90pcs](https://amzn.eu/d/069tl7ye) 22.99gbp
-	Holy80 Case 15gbp (through taobao)
+	[Holy80 Case](https://kbdfans.com/products/holy80-case) 15gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd
+	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd
+	TOTAL 268.02gbp
 
 
 ***
