@@ -9,20 +9,17 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 200 per term
-- [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp
-	[Outemu Silent Peach Magnetic switches 90pcs](https://amzn.eu/d/069tl7ye) 22.99gbp
-	Holy80 Case 15gbp (through taobao)
-	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd
-	*Want to buy this during second or third term
 - [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-	*Want to buy this during third term
+	*Want to buy this during second term
+- [ ] [AOC QD-OLED 26.5" monitor](https://amzn.eu/d/09JHshG2) 378.97gbp
+	*Want to buy during third term
 - [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
 	[SKADIS IKEA Black Display Shelf](https://www.ikea.com/gb/en/p/skadis-display-shelf-white-20591841/) 2gbp
-	^ use hooks for keyboards and display shelves for figure boxes
+	^ use hooks for keyboards
 - [ ] >[!TAOBAO WISHLIST]-
 	>##### will give this list to pickel chan in september and gather price info for purchase
 	>gmk67 keyboard kit black 19gbp
@@ -52,7 +49,7 @@ kanban-plugin: board
 	![[HJBW1edagAEhapa.jpg]]
 
 
-## Tech Term #1<br>219.80gbp total
+## Tech Term #1<br>438.63gbp total
 
 - [ ] total price has been summed up using taobao prices
 - [ ] [GMK67 Keyboard Kit Black](https://www.aliexpress.com/item/1005005989586531.html?) 35.66gbp
@@ -66,8 +63,10 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
-- [ ] [Desk Lamp](https://amzn.eu/d/0b74df9s) 18.99gbp
-	[Amazon Basics Flexible Phone Tripod](https://amzn.eu/d/03vKkDYz) 11.72gbp
+- [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp
+	[Outemu Silent Peach Magnetic switches 90pcs](https://amzn.eu/d/069tl7ye) 22.99gbp
+	Holy80 Case 15gbp (through taobao)
+	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd
 
 
 ***
