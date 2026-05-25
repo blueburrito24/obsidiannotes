@@ -41,7 +41,7 @@ kanban-plugin: board
 	![[HJBW1edagAEhapa.jpg]]
 
 
-## Tech Term #1<br>453.18gbp total
+## Tech Term #1<br>474.19gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -57,11 +57,11 @@ kanban-plugin: board
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp"
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp"
 - [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp"
-	[Outemu Silent Peach Magnetic switches 90pcs](https://amzn.eu/d/069tl7ye) 22.99gbp"
+	[Lekker Tikken Medium 90pcs](https://wooting.io/product/wooting-lekker-tikken-medium-switch?Size=90+pack) 44gbp"
 	[Holy80 Case](https://kbdfans.com/products/holy80-case) 15gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd"
 	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
-	TOTAL 268.02gbp
+	TOTAL 289.03gbp
 
 
 ***
