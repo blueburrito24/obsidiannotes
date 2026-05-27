@@ -59,7 +59,7 @@ kanban-plugin: board
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd"
 	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
 	TOTAL 289.03gbp
-- [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp
+- [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
 
 
 ***
