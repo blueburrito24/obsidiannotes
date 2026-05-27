@@ -45,7 +45,7 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>502.54gbp total
+## Tech Term #1<br>490.54gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -64,7 +64,6 @@ kanban-plugin: board
 	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
 	TOTAL 289.03gbp
 - [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
-- [ ] Cherry G80-3000 100% Keyboard 12gbp
 
 
 ***
