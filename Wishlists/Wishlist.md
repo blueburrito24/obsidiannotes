@@ -41,13 +41,13 @@ kanban-plugin: board
 	![[HJBW1edagAEhapa.jpg]]
 
 
-## Tech Term #1<br>469.15gbp total
+## Tech Term #1<br>490.54gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
-- [ ] [GMK67 Keyboard Kit White](https://www.aliexpress.com/item/1005005989586531.html?) 19gbp
+- [ ] [GMK67 Keyboard Kit White](https://www.aliexpress.com/item/1005005989586531.html?) 40.39gbp"
 	[KBDFANS Ichiraku Ramen Keycaps](https://kbdfans.com/collections/keycaps/products/fbb-ichiraku-ramen-r2-cherry-profile-keycaps?_pos=25&_fid=3d4715daa&_ss=c) 20gbp
-	TOTAL 47gbp
+	TOTAL 68.39gbp
 - [ ] [LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 3.66gbp
 	*Using for my 75%, will use my silent peaches on the 65%
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp"
