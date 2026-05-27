@@ -67,16 +67,6 @@ kanban-plugin: board
 - [ ] Cherry G80-3000 100% Keyboard 12gbp
 
 
-## Figures Term #1<br>175.02gbp total
-
-- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
-	[SHANGI Cape](https://www.aliexpress.com/item/1005008109291722.html?) 22.20gbp
-- [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-- [ ] [BSM BLACKSHARK Battle Damaged Goku Body](https://www.aliexpress.com/item/1005009065552055.html?) 52.39gbp
-	[DKO & RE "The Last Duel" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005008236317538.html?) 57.39gbp
-	[Nonou Custom 3.0-GB Adapter Peg 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp
-
-
 ***
 
 ## Archive
@@ -87,6 +77,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false}
 ```
 %%
