@@ -40,13 +40,9 @@ kanban-plugin: board
 	[Thread of raw Spidey art scans 2](https://x.com/DariushSeif/status/1766801419925950499?s=20)
 	[Funny Tee idea](https://x.com/SoleilTheHarpy/status/2044438686637707677/photo/1)
 - [ ] [White Tee](https://www.boohooman.com/product/boohooman-tall-basic-crew-neck-regular-fit-t-shirt_cmm20343?colour=white&size=XL) 8gbp
-	![[Pasted image 20260403194901.png]]
 - [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
-	![[Pasted image 20260223194831.png]]
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
-	![[Pasted image 20260403193552.png]]
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
-	![[HJBW1edagAEhapa.jpg]]
 
 
 ## Tech Term #1<br>490.54gbp total
@@ -70,6 +66,16 @@ kanban-plugin: board
 - [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
 
 
+## Figures Term #1<br>175.02gbp total
+
+- [ ] [SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
+	[SHANGI Cape](https://www.aliexpress.com/item/1005008109291722.html?) 22.20gbp
+- [ ] [SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+- [ ] [BSM BLACKSHARK Battle Damaged Goku Body](https://www.aliexpress.com/item/1005009065552055.html?) 52.39gbp
+	[DKO & RE "The Last Duel" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005008236317538.html?) 57.39gbp
+	[Nonou Custom 3.0-GB Adapter Peg 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp
+
+
 ***
 
 ## Archive
@@ -80,6 +86,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
