@@ -45,7 +45,7 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>575.49gbp total
+## Tech Term #1<br>599.10gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -64,7 +64,8 @@ kanban-plugin: board
 	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
 	TOTAL 289.03gbp
 - [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
-- [ ] [ENDGAME GEAR XM2w mouse](https://amzn.eu/d/04WOXR17) 84.95gbp"
+- [ ] [Ninjutsu Sora V2 mouse](https://www.aliexpress.com/item/1005008571426495.html?) 98.59gbp"
+- [ ] [Black Deskmat 80x30cm](https://amzn.eu/d/047s05Ni) 9.97gbp
 
 
 ***
