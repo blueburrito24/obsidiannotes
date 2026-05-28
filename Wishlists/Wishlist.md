@@ -9,18 +9,12 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 200 per term
-- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
-	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
-	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-	*Want to buy this during second term
 - [ ] [AOC QD-OLED 26.5" monitor](https://amzn.eu/d/09JHshG2) 378.97gbp
 	*Want to buy during third term
 - [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
-	^ use hooks for keyboards
-- [ ] ------------------------------
-	### Books
+- [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] [NARUTO: Naruto's Story "Naruto Uzumaki and the Spiral Destiny"](https://www.amazon.co.uk/Naruto-Narutos-Story-Uzumaki-Spiral-Destiny/dp/1974732592?crid=1OI24G85GLASU&dib=eyJ2IjoiMSJ9.Z1VCOoq4tWKxJqZyyAWn0-2kvDY8KVJAcyoXkVyfQq-3-m2Xe6p6s39NDdFLOLZ6zzsijQstISdDZ7ET_12O6FgoDla5yWFhp9rgjs1oq_a4G_efcBKPUVJ1052w4PvB_Vruyt7Yk8n-WoKgU9aOTUjyNXdLsUFXxBn_MalDlnDMMgM73ebsPO91uLfbLvlwVNDk6t-ktjKxx1aS4hAYY2FOtygDSBntxdkJ9BW8hrs.lYRCI8DHjasD3YtJIIcpBh5ExZOlItX15oVCVZ9ybP8&dib_tag=se&keywords=Naruto+novel&qid=1779867163&sprefix=narut+novel%2Caps%2C188&sr=8-2) 7.99gbp
 	[NARUTO: Sasuke's Story "The Uchiha and the Heavenly Stardust"](https://www.amazon.co.uk/Naruto-Sasukes-Story-Heavenly-Stardust/dp/1974732584?crid=3SAXN5CQ36PPN&dib=eyJ2IjoiMSJ9.r34mvrzToADdathENjurLFrEpyZ9qgVzXnP292mHIAE7MKY8hTK7RPYslZxq4ch-jYKRTYKyyTf3OTFw3C1kV6qEzbK_6sFDVq7mkemdyhtRj-paj_LITMp9nuufk8HEn-Q7CE56eYVHlJmipjuN03QtFnzdbXW2yf4ERE_0ltKOARW-tGLm0Kks--qrJ39fq_9wN5CYi3AmwMTYyndUnPledAYCiFwvWDsKY6U1GF4.-Jwy2pgKOz-LDon-bt9SvRJCwTRTFalHn9zPdH5ytaY&dib_tag=se&keywords=Sasuke+novel&qid=1779867143&sprefix=sasuk+novel%2Caps%2C186&sr=8-1) 7.99gbp
@@ -45,7 +39,7 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>599.10gbp total
+## Tech Term #1<br>495.38gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -63,9 +57,16 @@ kanban-plugin: board
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd"
 	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
 	TOTAL 289.03gbp
+- [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
+
+
+## Tech Term #2<br>642.40gbp total
+
+- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
+	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
+	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 - [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
 - [ ] [Ninjutsu Sora V2 mouse](https://www.aliexpress.com/item/1005008571426495.html?) 98.59gbp"
-- [ ] [Black Deskmat 80x30cm](https://amzn.eu/d/047s05Ni) 9.97gbp
 
 
 ***
@@ -78,6 +79,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
