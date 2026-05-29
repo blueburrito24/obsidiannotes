@@ -9,11 +9,10 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 200 per term
-- [ ] [AOC QD-OLED 26.5" monitor](https://amzn.eu/d/09JHshG2) 378.97gbp
-	*Want to buy during third term
 - [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
+- [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] [NARUTO: Naruto's Story "Naruto Uzumaki and the Spiral Destiny"](https://www.amazon.co.uk/Naruto-Narutos-Story-Uzumaki-Spiral-Destiny/dp/1974732592?crid=1OI24G85GLASU&dib=eyJ2IjoiMSJ9.Z1VCOoq4tWKxJqZyyAWn0-2kvDY8KVJAcyoXkVyfQq-3-m2Xe6p6s39NDdFLOLZ6zzsijQstISdDZ7ET_12O6FgoDla5yWFhp9rgjs1oq_a4G_efcBKPUVJ1052w4PvB_Vruyt7Yk8n-WoKgU9aOTUjyNXdLsUFXxBn_MalDlnDMMgM73ebsPO91uLfbLvlwVNDk6t-ktjKxx1aS4hAYY2FOtygDSBntxdkJ9BW8hrs.lYRCI8DHjasD3YtJIIcpBh5ExZOlItX15oVCVZ9ybP8&dib_tag=se&keywords=Naruto+novel&qid=1779867163&sprefix=narut+novel%2Caps%2C188&sr=8-2) 7.99gbp
@@ -60,13 +59,58 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Tech Term #2<br>642.40gbp total
+## Tech Term #2<br>573.81gbp total
 
-- [ ] [Lenovo Legion Go Z1 Extreme](https://www.facebook.com/marketplace/item/958288993801567/) 399gbp
+- [ ] [ROG Ally](https://uk.webuy.com/product-detail?id=SHGPARARC71LNH001WB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=3C073C4700BB437ACEA2524787DFF67F&position=1) 340gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 - [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
-- [ ] [Ninjutsu Sora V2 mouse](https://www.aliexpress.com/item/1005008571426495.html?) 98.59gbp"
+- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
+	*Want to buy during third term
+
+
+## wip
+
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 57.59gbp
+	
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
+	*May buy two to have both Gohan and Goku
+	[NONO CUSTOM 3.0-GB Adapters 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp
+	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.29gbp
+	
+	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
+	[SHANGI CUSTOMISATION Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 14.89gbp
+	
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	
+	[SH FIGUARTS DRAGON BALL Z "Son Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95gbp
+	
+	[Acrylic Marker Set for Customising, 36pcs](https://www.aliexpress.com/item/1005008365305510.html?) 12.99gbp
+	[TAMIYA PEARL CLEAR TS-65 ACRYLIC COAT](https://amzn.eu/d/0cmd8kE2) 5.89gbp
+	
+	[BSM BLACKSHARK Battle-Damaged Son Goku X2 Bundle](https://www.aliexpress.com/item/1005009672994117.html?) 105.79gbp
+	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp
+- [ ] [SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JRgrJA2zKgCfEYoUmyfTw&q=sh+figuarts+vegeta&p=3&pos=404) 77.52gbp
+	[DEMONIACAL FIT Scarlet Fighter Add-On for Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+vegeta+24000&p=1&pos=5) 37.81gbp
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta Fodder](https://zenmarket.jp/mercariproduct.aspx?itemCode=m24653401930&q=sh+figuarts+vegeta&p=1&pos=1) 15.06gbp
+	
+	[NS STUDIO "Orange Mechanical Puppet" NS003 (Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.19gbp
+- [ ] [SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26
+	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
+	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
+	
+	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp
+	
+	[SH FIGUARTS NARUTOP99 Ver. Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 40.70gbp
+	
+	[FIGMA Satoru Gojo](https://www.ebay.co.uk/itm/188373674883?) 138.75gbp
+	
+	[SH FIGUARTS GINTAMA Sakata Gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm) 61.95gbp
+	
+	[REVOLTECH ONE PUNCH MAN Saitama](https://www.nin-nin-game.com/en/one-punch-man/196210-amazing-yamaguchi-revoltech-one-punch-man-saitama-limited-bonus-reissue-kaiyodo-.html) 59.21gbp
+	
+	[REVOLTECH ONE PUNCH MAN Boros](https://www.nin-nin-game.com/en/one-punch-man/232871-amazing-yamaguchi-revoltech-one-punch-man-boros-limited-bonus-reissue-kaiyodo-.html) 59.21gbp
 
 
 ***
@@ -79,6 +123,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
