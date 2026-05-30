@@ -71,39 +71,43 @@ kanban-plugin: board
 
 ## wip
 
-- [ ] [SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+- [ ] ##### SSJ Goku
+	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 57.59gbp
-	
+- [ ] ##### Mystic Gohan
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
-	*May buy two to have both Gohan and Goku
 	[NONO CUSTOM 3.0-GB Adapters 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp
 	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.29gbp
+- [ ] ##### Goku
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
+	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp
+	[BSM BLACKSHARK Battle-Damaged Son Goku X2 Bundle](https://www.aliexpress.com/item/1005009672994117.html?) 105.79gbp
+	^ bundle comes with base form hairsculpts, can use bodies for photos
+- [ ] ##### Saiyan Saga; Vegeta & Goku
+	[SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JRgrJA2zKgCfEYoUmyfTw&q=sh+figuarts+vegeta&p=3&pos=404) 77.52gbp
+	[DEMONIACAL FIT Scarlet Fighter Add-On for Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+vegeta+24000&p=1&pos=5) 37.81gbp
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta Fodder](https://zenmarket.jp/mercariproduct.aspx?itemCode=m24653401930&q=sh+figuarts+vegeta&p=1&pos=1) 15.06gbp
 	
+	[NS STUDIO "Orange Mechanical Puppet" NS003 (Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.19gbp
+- [ ] ##### Other Z-Fighters
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp
 	[SHANGI CUSTOMISATION Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 14.89gbp
 	
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	
 	[SH FIGUARTS DRAGON BALL Z "Son Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95gbp
-	
-	[Acrylic Marker Set for Customising, 36pcs](https://www.aliexpress.com/item/1005008365305510.html?) 12.99gbp
+- [ ] [Acrylic Marker Set for Customising, 36pcs](https://www.aliexpress.com/item/1005008365305510.html?) 12.99gbp
 	[TAMIYA PEARL CLEAR TS-65 ACRYLIC COAT](https://amzn.eu/d/0cmd8kE2) 5.89gbp
-	
-	[BSM BLACKSHARK Battle-Damaged Son Goku X2 Bundle](https://www.aliexpress.com/item/1005009672994117.html?) 105.79gbp
-	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp
-- [ ] [SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JRgrJA2zKgCfEYoUmyfTw&q=sh+figuarts+vegeta&p=3&pos=404) 77.52gbp
-	[DEMONIACAL FIT Scarlet Fighter Add-On for Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+vegeta+24000&p=1&pos=5) 37.81gbp
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta Fodder](https://zenmarket.jp/mercariproduct.aspx?itemCode=m24653401930&q=sh+figuarts+vegeta&p=1&pos=1) 15.06gbp
-	
-	[NS STUDIO "Orange Mechanical Puppet" NS003 (Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.19gbp
-- [ ] [SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26
+	^ use to make hair pearlescent like ssj or mystic
+- [ ] ##### NARUTO
+	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
 	
 	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp
 	
 	[SH FIGUARTS NARUTOP99 Ver. Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 40.70gbp
-	
+- [ ] ##### MISCELLANEOUS ANIME
 	[FIGMA Satoru Gojo](https://www.ebay.co.uk/itm/188373674883?) 138.75gbp
 	
 	[SH FIGUARTS GINTAMA Sakata Gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm) 61.95gbp
