@@ -45,6 +45,7 @@ kanban-plugin: board
 - [ ] [GMK67 Keyboard Kit White](https://www.aliexpress.com/item/1005005989586531.html?) 40.39gbp"
 	[KBDFANS Ichiraku Ramen Keycaps](https://kbdfans.com/collections/keycaps/products/fbb-ichiraku-ramen-r2-cherry-profile-keycaps?_pos=25&_fid=3d4715daa&_ss=c) 20gbp
 	TOTAL 68.39gbp
+- [ ] [DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?)
 - [ ] [LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 3.66gbp
 	*Using for my 75%, will use my silent peaches on the 65%
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp"
@@ -59,17 +60,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Tech Term #2<br>573.81gbp total
-
-- [ ] [ROG Ally](https://uk.webuy.com/product-detail?id=SHGPARARC71LNH001WB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=3C073C4700BB437ACEA2524787DFF67F&position=1) 340gbp
-	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
-	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-- [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
-- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
-	*Want to buy during third term
-
-
-## wip
+## Figures Term #1<br>376.68gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -85,7 +76,7 @@ kanban-plugin: board
 	[NONO CUSTOM 3.0-GB Adapters 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp"
 	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.29gbp"
 	**TOTAL 78.33gbp**
-- [ ] ##### The World's Strongest Goku
+- [ ] ##### The World's Strongest; Goku
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	*I will have extra faces due to the copy I bought for Gohan, so I can repaint those to have angled eyes*
 - [ ] ##### Ultimate Namekian Piccolo
@@ -101,6 +92,7 @@ kanban-plugin: board
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
 	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp"
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp"
+	**TOTAL 46.21gbp**
 	*Should use the official base-form Vegeta if it is available*
 	>[!Custom Details]+
 	> - Remove trap supports from Vegeta
@@ -109,12 +101,22 @@ kanban-plugin: board
 	> - disassemble arms and sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue
 	> - repaint headsculpts to be base-form
-- [ ] ##### Other Z-Fighters
-	
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
-	*Need to repaint Vegeta's hairsculpt with acrylic marker 321
-	
+- [ ] ##### The Strongest Human
 	[SH FIGUARTS DRAGON BALL Z "Son Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95gbp"
+
+
+## Tech Term #2<br>573.81gbp total
+
+- [ ] [ROG Ally](https://uk.webuy.com/product-detail?id=SHGPARARC71LNH001WB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=3C073C4700BB437ACEA2524787DFF67F&position=1) 340gbp
+	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
+	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
+- [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
+- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
+	*Want to buy during third term
+
+
+## Figures Term #2<br>333.99gbp total
+
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
@@ -125,6 +127,17 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp"
 	
 	[SH FIGUARTS NARUTOP99 Ver. Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 40.70gbp"
+- [ ] ##### Symbol of Peace
+	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
+- [ ] ##### Necessary Evil
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
+	*Need to repaint Vegeta's hairsculpt with acrylic marker 321
+
+
+## wip
+
+- [ ] total price has been summed up using taobao prices
+	anything marked with " is not bought via taobao
 - [ ] ##### MISCELLANEOUS ANIME
 	[FIGMA Satoru Gojo](https://www.ebay.co.uk/itm/188373674883?) 138.75gbp"
 	
@@ -145,6 +158,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
