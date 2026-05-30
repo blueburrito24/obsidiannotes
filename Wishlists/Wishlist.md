@@ -79,6 +79,7 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp"
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
 	**TOTAL 44.95gbp**
+	*Need to repaint all hairsculpts with acrylic marker 321*
 - [ ] ##### Mystic Gohan
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[NONO CUSTOM 3.0-GB Adapters 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp"
@@ -86,18 +87,28 @@ kanban-plugin: board
 	**TOTAL 78.33gbp**
 - [ ] ##### The World's Strongest Goku
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
-	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
-	[Gundam Eraser Marker](https://amzn.eu/d/04m8d6wd) 7.95gbp"
-	**TOTAL 69.99gbp**
-	*I am buying the headsculpts for more varied facesculpt options, I need to erase the scars using the Gundam Eraser Marker*
+	*I will have extra faces due to the copy I bought for Gohan, so I can repaint those to have angled eyes*
 - [ ] ##### Ultimate Namekian Piccolo
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS Nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m93603752851&q=sh+figuarts+nail&p=1&pos=28) 53.45gbp"
 	[SHANGI CUSTOMISATION Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 14.89gbp"
 	**TOTAL 120.29gbp**
-	*Need to repaint the arms on Piccolo to have yellow sections instead of pink using acrylic marker 321
+	*Need to swap out the arms from the bicep from Nail to Piccolo and repaint the arms to have yellow sections instead of pink using acrylic marker 321
 	I can then use Nail's headsculpts on Piccolo
 	Also need to swap out boots from Nail onto Piccolo*
+- [ ] ##### Earth's Reluctant Defender
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
+	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
+	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp"
+	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp"
+	*Should use the official base-form Vegeta if it is available*
+	>[!Custom Details]+
+	> - Remove trap supports from Vegeta
+	 > - shave down torso sides for V-taper look
+	> - resculpt the torso to have a leotard look
+	> - disassemble arms and sand down for paint-rub prevention
+	> - repaint arms and torso with basic skintone and dark blue
+	> - repaint headsculpts to be base-form
 - [ ] ##### Other Z-Fighters
 	
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
@@ -114,12 +125,6 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp"
 	
 	[SH FIGUARTS NARUTOP99 Ver. Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 40.70gbp"
-- [ ] ##### Saiyan Saga; Vegeta & Goku
-	[SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JRgrJA2zKgCfEYoUmyfTw&q=sh+figuarts+vegeta&p=3&pos=404) 77.52gbp"
-	[DEMONIACAL FIT Scarlet Fighter Add-On for Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+vegeta+24000&p=1&pos=5) 37.81gbp"
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta Fodder](https://zenmarket.jp/mercariproduct.aspx?itemCode=m24653401930&q=sh+figuarts+vegeta&p=1&pos=1) 15.06gbp"
-	
-	[NS STUDIO "Orange Mechanical Puppet" NS003 (Kaioken Goku)](https://www.aliexpress.com/item/1005012216352298.html?) 58.19gbp"
 - [ ] ##### MISCELLANEOUS ANIME
 	[FIGMA Satoru Gojo](https://www.ebay.co.uk/itm/188373674883?) 138.75gbp"
 	
