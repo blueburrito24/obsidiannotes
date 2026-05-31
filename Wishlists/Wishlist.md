@@ -59,7 +59,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>286.44gbp total
+## Figures Term #1<br>364.67gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -74,6 +74,10 @@ kanban-plugin: board
 	**TOTAL 74.99gbp**
 	*I need to erase the scars on the Gohan facesculpts then I can use them for Goku
 	I await the BSM BLACKSHARK Angel Goku kit for some happy Goku faces and manga-style hairsculpts*
+- [ ] [BLACK HOLE TOYS Gohan Headsculpts](https://www.aliexpress.com/item/1005009435654506.html) 35.19gbp
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
+	[Nono Custom 3.0-GB Adapter 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp
+	**TOTAL 78.23gbp**
 - [ ] ##### Ultimate Namekian Piccolo
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS Nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m93603752851&q=sh+figuarts+nail&p=1&pos=28) 53.45gbp"
