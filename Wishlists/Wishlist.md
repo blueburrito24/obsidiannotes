@@ -45,7 +45,6 @@ kanban-plugin: board
 - [ ] [GMK67 Keyboard Kit White](https://www.aliexpress.com/item/1005005989586531.html?) 40.39gbp"
 	[KBDFANS Ichiraku Ramen Keycaps](https://kbdfans.com/collections/keycaps/products/fbb-ichiraku-ramen-r2-cherry-profile-keycaps?_pos=25&_fid=3d4715daa&_ss=c) 20gbp
 	TOTAL 68.39gbp
-- [ ] [DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?)
 - [ ] [LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 3.66gbp
 	*Using for my 75%, will use my silent peaches on the 65%
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp"
@@ -60,7 +59,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>325.58gbp total
+## Figures Term #1<br>304.49gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -68,14 +67,14 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp"
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
 	**TOTAL 44.95gbp**
-	*Need to repaint all hairsculpts with acrylic marker 321*
-- [ ] ##### Mystic Gohan
+- [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
-	[NONO CUSTOM 3.0-GB Adapters 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp"
-	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005009435654506.html?) 35.29gbp"
-	**TOTAL 78.33gbp**
-- [ ] ##### The World's Strongest; Goku
-	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
+	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
+	[BSM BLACKSHARK Battle-Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 26gbp
+	**TOTAL 93.04gbp**
+	*Will use happy faces from Future Gohan set and alongside choppy hands from BSM BLACKSHARK
+	I may swap the BSM BLACKSHARK rotating bicep arms onto my GB or KHS Goku
+	I await the BSM BLACKSHARK Angel Goku kit for some happy Goku faces and manga-style hairsculpts*
 - [ ] ##### Ultimate Namekian Piccolo
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS Nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m93603752851&q=sh+figuarts+nail&p=1&pos=28) 53.45gbp"
@@ -98,8 +97,6 @@ kanban-plugin: board
 	> - disassemble arms and sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue
 	> - repaint headsculpts to be base-form
-- [ ] [Kamehameha effect](https://www.aliexpress.com/item/1005006604769729.html?) 3.45gbp
-	[Wind effect kit](https://www.aliexpress.com/item/1005009274410682.html?) 13.39gbp
 
 
 ## Tech Term #2<br>573.81gbp total
@@ -112,7 +109,7 @@ kanban-plugin: board
 	*Want to buy during third term
 
 
-## Figures Term #2<br>274.14gbp total
+## Figures Term #2<br>312.61gbp total
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
@@ -120,6 +117,8 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp"
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted With Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.32gbp"
 	**TOTAL 174.24gbp**
+- [ ] ##### The Avenger Uchiha
+	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### Necessary Evil
