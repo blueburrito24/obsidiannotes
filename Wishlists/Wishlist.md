@@ -59,7 +59,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>304.49gbp total
+## Figures Term #1<br>278.49gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -70,10 +70,8 @@ kanban-plugin: board
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
-	[BSM BLACKSHARK Battle-Damaged Body](https://www.aliexpress.com/item/1005009065552055.html?) 26gbp
-	**TOTAL 93.04gbp**
-	*Will use happy faces from Future Gohan set and alongside choppy hands from BSM BLACKSHARK
-	I may swap the BSM BLACKSHARK rotating bicep arms onto my GB or KHS Goku
+	**TOTAL 67.04gbp**
+	*Will use happy faces from Future Gohan set
 	I await the BSM BLACKSHARK Angel Goku kit for some happy Goku faces and manga-style hairsculpts*
 - [ ] ##### Ultimate Namekian Piccolo
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
