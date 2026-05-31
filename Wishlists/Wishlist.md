@@ -60,12 +60,10 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>376.68gbp total
+## Figures Term #1<br>325.58gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
-- [ ] [Acrylic Marker Set for Customising, 36pcs](https://www.aliexpress.com/item/1005008365305510.html?) 12.99gbp
-	*also note to remove noses on all figures*
 - [ ] ##### Super Saiyan Goku
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp"
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
@@ -78,7 +76,6 @@ kanban-plugin: board
 	**TOTAL 78.33gbp**
 - [ ] ##### The World's Strongest; Goku
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
-	*I will have extra faces due to the copy I bought for Gohan, so I can repaint those to have angled eyes*
 - [ ] ##### Ultimate Namekian Piccolo
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS Nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m93603752851&q=sh+figuarts+nail&p=1&pos=28) 53.45gbp"
@@ -101,8 +98,8 @@ kanban-plugin: board
 	> - disassemble arms and sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue
 	> - repaint headsculpts to be base-form
-- [ ] ##### The Strongest Human
-	[SH FIGUARTS DRAGON BALL Z "Son Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) 54.95gbp"
+- [ ] [Kamehameha effect](https://www.aliexpress.com/item/1005006604769729.html?) 3.45gbp
+	[Wind effect kit](https://www.aliexpress.com/item/1005009274410682.html?) 13.39gbp
 
 
 ## Tech Term #2<br>573.81gbp total
@@ -115,37 +112,18 @@ kanban-plugin: board
 	*Want to buy during third term
 
 
-## Figures Term #2<br>333.99gbp total
+## Figures Term #2<br>274.14gbp total
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp"
-	**TOTAL 154.92gbp**
-- [ ] ##### Allies of the Leaf
-	
-	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp"
-	
-	[SH FIGUARTS NARUTOP99 Ver. Sakura Haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 40.70gbp"
+	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted With Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.32gbp"
+	**TOTAL 174.24gbp**
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### Necessary Evil
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
-	*Need to repaint Vegeta's hairsculpt with acrylic marker 321
-
-
-## wip
-
-- [ ] total price has been summed up using taobao prices
-	anything marked with " is not bought via taobao
-- [ ] ##### MISCELLANEOUS ANIME
-	[FIGMA Satoru Gojo](https://www.ebay.co.uk/itm/188373674883?) 138.75gbp"
-	
-	[SH FIGUARTS GINTAMA Sakata Gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm) 61.95gbp"
-	
-	[REVOLTECH ONE PUNCH MAN Saitama](https://www.nin-nin-game.com/en/one-punch-man/196210-amazing-yamaguchi-revoltech-one-punch-man-saitama-limited-bonus-reissue-kaiyodo-.html) 59.21gbp"
-	
-	[REVOLTECH ONE PUNCH MAN Boros](https://www.nin-nin-game.com/en/one-punch-man/232871-amazing-yamaguchi-revoltech-one-punch-man-boros-limited-bonus-reissue-kaiyodo-.html) 59.21gbp
 
 
 ***
@@ -158,6 +136,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
