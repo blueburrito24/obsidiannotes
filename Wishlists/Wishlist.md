@@ -60,7 +60,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>371.17gbp total
+## Figures Term #1<br>403.12gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -99,9 +99,11 @@ kanban-plugin: board
 	> - Remove trap supports from Vegeta
 	 > - shave down torso sides for V-taper look
 	> - resculpt the torso to have a leotard look
-	> - disassemble arms and sand down for paint-rub prevention
+	> - disassemble arms and torso to sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue
 	> - repaint headsculpts to be base-form
+- [ ] ##### The Ascended Prince
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
 
 
 ## Tech Term #2<br>573.81gbp total
@@ -111,10 +113,9 @@ kanban-plugin: board
 	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 - [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
-	*Want to buy during third term
 
 
-## Figures Term #2<br>312.61gbp total
+## Figures Term #2<br>426.20gbp total
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
@@ -126,8 +127,16 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-- [ ] ##### Necessary Evil
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
+- [ ] ##### Fire Fist Ace
+	[SH FIGUARTS ONE PIECE (Marineford Ver.) Portgas D. Ace](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-portgas-d-ace-marineford-16cm) 59.96gbp
+	[SHF KO Fire Fist Ace](https://www.aliexpress.com/item/1005010073572111.html?) 21.39gbp
+	**TOTAL 81.34gbp**
+	*Using the KO SHF Fire Fist Ace for accessories*
+- [ ] ##### King of the Pirates
+	[SH FIGUARTS ONE PIECE (Marineford Ver.) Monkey D. Luffy](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-monkey-d-luffy-marineford-15cm) 29.25gbp
+	[SH FIGUARTS ONE PIECE (Romance Dawn Ver.) Monkey D. Luffy](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-monkey-d-ruffy-romance-dawn-15cm) 34.95gbp
+	**TOTAL 64.20gbp**
+	*Using the Romance Dawn Ver. for accessories*
 
 
 ***
