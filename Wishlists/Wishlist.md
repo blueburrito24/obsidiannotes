@@ -139,7 +139,7 @@ kanban-plugin: board
 	*Using the Romance Dawn Ver. for accessories*
 
 
-## Figures Term #3<br>244.20gbp total
+## Figures Term #3<br>385.97gbp total
 
 - [ ] ##### Sage Novice Naruto Custom
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-naruto-uzumaki-the-power-to-unite-15cm) 46.95gbp
@@ -168,6 +168,11 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp
 - [ ] ##### Warrior of Hope
 	[SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp
+- [ ] ##### Stand-in Soul Reaper
+	[SH FIGUARTS BLEACH Ichigo Kurosaki (Getsuga Tensho Ver.](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 85.48gbp
+	[SH FIGUARTS BLEACH THOUSAND-YEAR BLOOD WAR Ichigo Kurosaki (Dual Zangetsu Ver.)](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html) 56.29gbp
+	**TOTAL 141.77gbp**
+	*Dual Zangetsu Ver. will be fodder for more regular Ichigo faceplates, but I will keep the body for when I catch up on Bleach and can fully enjoy it*
 
 
 ***
