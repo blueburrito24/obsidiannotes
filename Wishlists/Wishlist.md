@@ -139,6 +139,31 @@ kanban-plugin: board
 	*Using the Romance Dawn Ver. for accessories*
 
 
+## Figures Term #3
+
+- [ ] ##### Sage Novice Naruto Custom
+	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-naruto-uzumaki-the-power-to-unite-15cm) 46.95gbp
+	[SH FIGUARTS ONE PIECE (Marineford Ver.) Monkey D. Luffy](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-monkey-d-luffy-marineford-15cm) 29.95gbp
+	[BASR.COLLECTS Ninja Hair Yellow](https://basrcollects.com/product/ninja-hair-yellow/) 20usd/14.85gbp
+	[Sandpaper](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
+	[Vallejo Mecha Light Flesh](https://amzn.eu/d/08LI3ukT) 7.30gbp
+	[Vallejo Metal Medium](https://amzn.eu/d/02M9pOIC) 5.56gbp
+	[0.5mm thick string](https://amzn.eu/d/0hRRZART) 6.99gbp
+	**TOTAL 115.59gbp**
+	
+	>[!Custom details]-
+	> - remove arms and legs from luffy
+	> - sand down the sandles on luffy's feet
+	> - sand down fluffy ends on luffy's shorts
+	> - remove naruto's torso/upper body
+	> - sand own chainmail texture on naruto's body
+	> - resculpt butterfly joints on naruto's body so that luffy's arms work naturally
+	> - disassemble luffy's legs and arms
+	> - sand down luffy's legs and arms, then repaint with mecha light flesh and a mix of black, white and blue for the shorts
+	> - repaint naruto's body with mecha light flesh
+	> - sculpt a pendant with a hole for a string and paint it with a mix of royal blue and white alongside the metal medium, then tie it with string
+
+
 ***
 
 ## Archive
@@ -149,6 +174,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
