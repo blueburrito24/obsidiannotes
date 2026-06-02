@@ -139,7 +139,7 @@ kanban-plugin: board
 	*Using the Romance Dawn Ver. for accessories*
 
 
-## Figures Term #3
+## Figures Term #3<br>244.20gbp total
 
 - [ ] ##### Sage Novice Naruto Custom
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-naruto-uzumaki-the-power-to-unite-15cm) 46.95gbp
@@ -162,6 +162,12 @@ kanban-plugin: board
 	> - sand down luffy's legs and arms, then repaint with mecha light flesh and a mix of black, white and blue for the shorts
 	> - repaint naruto's body with mecha light flesh
 	> - sculpt a pendant with a hole for a string and paint it with a mix of royal blue and white alongside the metal medium, then tie it with string
+- [ ] [MFX-100 Hand kit](https://melmekcustoms.square.site/product/mfx-100/JM7ALH57CVYRYHIHIXCJKJJU?cp=true&sa=true&sbp=false&q=false) 29.71gbp
+	*these are for 4.0 figures like Goku*
+- [ ] ##### Future Warrior
+	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp
+- [ ] ##### Warrior of Hope
+	[SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp
 
 
 ***
