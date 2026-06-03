@@ -60,7 +60,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>456.12gbp total
+## Figures Term #1<br>429.12gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -80,8 +80,7 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[Nono Custom 3.0-GB Adapter 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp
 	**TOTAL 78.23gbp**
-- [ ] [BSM BLACKSHARK Goku Battle-Damaged Body X2 bundle](https://www.aliexpress.com/item/1005009672994117.html?) 53gbp
-	*I will use these bodies but swap the necks with the necks from my copies of Kind-Hearted Saiyan so those have better neck range, but I can still use the figures*
+- [ ] [BSM BLACKSHARK Goku Battle-Damaged Body](https://www.aliexpress.com/item/1005009672994117.html?) 26gbp
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
@@ -117,7 +116,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>426.20gbp total
+## Figures Term #2<br>448.20gbp total
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
@@ -139,6 +138,8 @@ kanban-plugin: board
 	[SH FIGUARTS ONE PIECE (Romance Dawn Ver.) Monkey D. Luffy](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-monkey-d-ruffy-romance-dawn-15cm) 34.95gbp
 	**TOTAL 64.20gbp**
 	*Using the Romance Dawn Ver. for accessories*
+- [ ] ##### Forbidden Technique User
+	[NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
 
 
 ## Figures Term #3<br>385.97gbp total
