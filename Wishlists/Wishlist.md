@@ -60,7 +60,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>403.12gbp total
+## Figures Term #1<br>456.12gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -80,6 +80,8 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[Nono Custom 3.0-GB Adapter 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp
 	**TOTAL 78.23gbp**
+- [ ] [BSM BLACKSHARK Goku Battle-Damaged Body X2 bundle](https://www.aliexpress.com/item/1005009672994117.html?) 53gbp
+	*I will use these bodies but swap the necks with the necks from my copies of Kind-Hearted Saiyan so those have better neck range, but I can still use the figures*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
@@ -150,18 +152,18 @@ kanban-plugin: board
 	[Vallejo Metal Medium](https://amzn.eu/d/02M9pOIC) 5.56gbp
 	[0.5mm thick string](https://amzn.eu/d/0hRRZART) 6.99gbp
 	**TOTAL 115.59gbp**
-	
 	>[!Custom details]-
 	> - remove arms and legs from luffy
 	> - sand down the sandles on luffy's feet
 	> - sand down fluffy ends on luffy's shorts
 	> - remove naruto's torso/upper body
-	> - sand own chainmail texture on naruto's body
+	> - sand down chainmail texture on naruto's body
 	> - resculpt butterfly joints on naruto's body so that luffy's arms work naturally
 	> - disassemble luffy's legs and arms
 	> - sand down luffy's legs and arms, then repaint with mecha light flesh and a mix of black, white and blue for the shorts
 	> - repaint naruto's body with mecha light flesh
 	> - sculpt a pendant with a hole for a string and paint it with a mix of royal blue and white alongside the metal medium, then tie it with string
+	> - assemble luffy's arms and legs with naruto's torso and neck alongside the custom necklace
 - [ ] [MFX-100 Hand kit](https://melmekcustoms.square.site/product/mfx-100/JM7ALH57CVYRYHIHIXCJKJJU?cp=true&sa=true&sbp=false&q=false) 29.71gbp
 	*these are for 4.0 figures like Goku*
 - [ ] ##### Future Warrior
