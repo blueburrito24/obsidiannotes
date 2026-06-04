@@ -57,10 +57,11 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>486.16gbp total
+## Figures Term #1<br>444.80gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
+- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
 - [ ] ##### Super Saiyan Goku
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp"
@@ -73,11 +74,6 @@ kanban-plugin: board
 	**TOTAL 74.99gbp**
 	*I need to erase the scars on the Gohan facesculpts then I can use them for Goku
 	I await the BSM BLACKSHARK Angel Goku kit for some happy Goku faces and manga-style hairsculpts*
-- [ ] ##### Mystic Son of Prophecy
-	[BLACK HOLE TOYS Gohan Headsculpts](https://www.aliexpress.com/item/1005009435654506.html) 35.19gbp"
-	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
-	[Nono Custom 3.0-GB Adapter 6pcs](https://www.aliexpress.com/item/1005010687235775.html?) 11.09gbp"
-	**TOTAL 78.23gbp**
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
@@ -105,7 +101,10 @@ kanban-plugin: board
 - [ ] ##### Read, Write, Control
 	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp
 	[Cell Games cloth jacket](https://www.aliexpress.com/item/1005009467282418.html?) 18.69gbp
-	**TOTAL 78.55gbp**
+	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp
+	[Vallejo Flat Flesh](https://amzn.eu/d/03xWuwzY) 3.10gbp
+	**TOTAL 104.33gbp**
+	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the cloth goods jacket and power pole accessories, which needs repainting and sanding down as the hands are sculpted as gloves*
 
 
 ## Tech Term #2<br>573.81gbp total
