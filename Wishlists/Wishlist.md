@@ -57,16 +57,20 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>444.80gbp total
+## Figures Term #1<br>460.30gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
-- [ ] ##### Super Saiyan Goku
-	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp"
+- [ ] ##### Read, Write, Control
+	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Nan&T Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp
+	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp
+	[Vallejo Flat Flesh](https://amzn.eu/d/03xWuwzY) 3.10gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
-	**TOTAL 44.95gbp**
+	**TOTAL 97.64gbp**
+	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the cloth goods jacket and power pole accessories, which needs repainting and sanding down as the hands are sculpted as gloves
+	This will also be my main SSJ Goku figure, so I will use the DKO heads interchangeably on the same body*
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
@@ -74,6 +78,11 @@ kanban-plugin: board
 	**TOTAL 74.99gbp**
 	*I need to erase the scars on the Gohan facesculpts then I can use them for Goku
 	I await the BSM BLACKSHARK Angel Goku kit for some happy Goku faces and manga-style hairsculpts*
+- [ ] ##### Mystic Son of Prophecy
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
+	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005009435654506.html) 35.19gbp
+	**TOTAL 67.14gbp**
+	*Will use Nono Custom headjoint*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
@@ -98,13 +107,6 @@ kanban-plugin: board
 	> - repaint headsculpts to be base-form
 - [ ] ##### The Ascended Prince
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
-- [ ] ##### Read, Write, Control
-	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp
-	[Cell Games cloth jacket](https://www.aliexpress.com/item/1005009467282418.html?) 18.69gbp
-	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp
-	[Vallejo Flat Flesh](https://amzn.eu/d/03xWuwzY) 3.10gbp
-	**TOTAL 104.33gbp**
-	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the cloth goods jacket and power pole accessories, which needs repainting and sanding down as the hands are sculpted as gloves*
 
 
 ## Tech Term #2<br>573.81gbp total
@@ -116,67 +118,33 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>448.20gbp total
+## Figures Term #2<br>356.29gbp total
 
+- [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp"
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted With Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.32gbp"
 	**TOTAL 174.24gbp**
+- [ ] [BASR.COLLECTS Ninja Hair Yellow](https://basrcollects.com/product/ninja-hair-yellow/) 20usd/14.85gbp"
 - [ ] ##### The Avenger Uchiha
 	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp"
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp"
-- [ ] ##### Fire Fist Ace
-	[SH FIGUARTS ONE PIECE (Marineford Ver.) Portgas D. Ace](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-portgas-d-ace-marineford-16cm) 59.96gbp"
-	[SHF KO Fire Fist Ace](https://www.aliexpress.com/item/1005010073572111.html?) 21.39gbp"
-	**TOTAL 81.34gbp**
-	*Using the KO SHF Fire Fist Ace for accessories*
-- [ ] ##### King of the Pirates
-	[SH FIGUARTS ONE PIECE (Marineford Ver.) Monkey D. Luffy](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-monkey-d-luffy-marineford-15cm) 29.25gbp"
-	[SH FIGUARTS ONE PIECE (Romance Dawn Ver.) Monkey D. Luffy](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-monkey-d-ruffy-romance-dawn-15cm) 34.95gbp"
-	**TOTAL 64.20gbp**
-	*Using the Romance Dawn Ver. for accessories*
 - [ ] ##### Forbidden Technique User
 	[NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp"
 
 
-## Figures Term #3<br>411.97gbp total
+## Figures Term #3<br>186.55gbp total
 
-- [ ] ##### Sage Novice Naruto Custom
-	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-naruto-uzumaki-the-power-to-unite-15cm) 46.95gbp"
-	[SH FIGUARTS ONE PIECE (Marineford Ver.) Monkey D. Luffy](https://hobbyfigures.co.uk/products/one-piece-s-h-figuarts-action-figure-monkey-d-luffy-marineford-15cm) 29.95gbp"
-	[BASR.COLLECTS Ninja Hair Yellow](https://basrcollects.com/product/ninja-hair-yellow/) 20usd/14.85gbp"
-	[Sandpaper](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp"
-	[Vallejo Mecha Light Flesh](https://amzn.eu/d/08LI3ukT) 7.30gbp"
-	[Vallejo Metal Medium](https://amzn.eu/d/02M9pOIC) 5.56gbp"
-	[0.5mm thick string](https://amzn.eu/d/0hRRZART) 6.99gbp"
-	**TOTAL 115.59gbp**
-	>[!Custom details]-
-	> - remove arms and legs from luffy
-	> - sand down the sandles on luffy's feet
-	> - sand down fluffy ends on luffy's shorts
-	> - remove naruto's torso/upper body
-	> - sand down chainmail texture on naruto's body
-	> - resculpt butterfly joints on naruto's body so that luffy's arms work naturally
-	> - disassemble luffy's legs and arms
-	> - sand down luffy's legs and arms, then repaint with mecha light flesh and a mix of black, white and blue for the shorts
-	> - repaint naruto's body with mecha light flesh
-	> - sculpt a pendant with a hole for a string and paint it with a mix of royal blue and white alongside the metal medium, then tie it with string
-	> - assemble luffy's arms and legs with naruto's torso and neck alongside the custom necklace
-- [ ] [BSM BLACKSHARK Goku Battle-Damaged Body](https://www.aliexpress.com/item/1005009672994117.html?) 26gbp"
-- [ ] [MFX-100 Hand kit](https://melmekcustoms.square.site/product/mfx-100/JM7ALH57CVYRYHIHIXCJKJJU?cp=true&sa=true&sbp=false&q=false) 29.71gbp"
-	*these are for 4.0 figures like Goku*
+- [ ] [SH FIGUARTS NARUTO Ichiraku Ramen Set](https://www.nin-nin-game.com/en/naruto/129530-shfiguarts-naruto-ichiraku-ramen-set-bandai-spirits-.html) 32.06gbp"
 - [ ] ##### Future Warrior
 	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp"
 - [ ] ##### Warrior of Hope
 	[SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp"
-- [ ] ##### Stand-in Soul Reaper
-	[SH FIGUARTS BLEACH Ichigo Kurosaki (Getsuga Tensho Ver.](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 85.48gbp"
-	[SH FIGUARTS BLEACH THOUSAND-YEAR BLOOD WAR Ichigo Kurosaki (Dual Zangetsu Ver.)](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html) 56.29gbp"
-	**TOTAL 141.77gbp**
-	*Dual Zangetsu Ver. will be fodder for more regular Ichigo faceplates, but I will keep the body for when I catch up on Bleach and can fully enjoy it*
+- [ ] ##### Revered Hypocrite
+	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
 
 
 ***
