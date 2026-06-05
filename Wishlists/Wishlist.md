@@ -55,27 +55,30 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>549.47gbp total
+## Figures Term #1<br>559.42gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
-- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
+- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp"
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
 - [ ] ##### Super Saiyan Author of Legend
-	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Nan&T Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp
-	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp
-	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
+	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Nan&T Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp"
+	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp"
+	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp"
 	**TOTAL 94.54gbp**
 	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the cloth goods jacket and power pole accessories
 	This will also be my main SSJ Goku figure, so I will use the DKO heads interchangeably on the same body*
+- [ ] ##### Monkey King
+	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
+	[Blue Stuff](https://amzn.eu/d/049OrCel) 9.95gbp"
+	[Blue Stuff Tutorial](https://www.youtube.com/watch?v=FOMwKVAJEfY)
+	*I intend to recast the belt wrap pieces for my Toribot Goku, I could also recast BTAS Goku's facesculpts to experiment with how I can use them on the other 4.0 releases*
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
 	[GSI Creos Gundam Marker Eraser](https://amzn.eu/d/06wJNArT) 7.95gbp"
 	**TOTAL 74.99gbp**
 	*I need to erase the scars on the Gohan facesculpts then I can use them for Goku*
-- [ ] ##### Monkey King
-	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
 - [ ] ##### Mystic Son of Prophecy
 	[LS STUDIO "Die Hard" Beast Gohan](https://www.aliexpress.com/item/1005012412400027.html?) 74.02gbp"
 	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 34.53gbp"
