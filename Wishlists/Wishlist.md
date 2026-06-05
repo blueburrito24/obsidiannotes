@@ -39,12 +39,10 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>427.23gbp total
+## Tech Term #1<br>423.57gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
-- [ ] [LEOBOG Graywood V4 Key Switches 110pcs](https://amzn.eu/d/01vq2SAD) 3.66gbp
-	*Using for my 75%, will use my silent peaches on the 65%
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp"
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp"
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp"
