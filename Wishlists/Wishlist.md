@@ -72,8 +72,8 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
 	[Blue Stuff](https://amzn.eu/d/049OrCel) 9.95gbp"
 	[Blue Stuff Tutorial](https://www.youtube.com/watch?v=FOMwKVAJEfY)
-	*I intend to recast the belt wrap pieces for my Toribot Goku, I could also recast BTAS Goku's facesculpts to experiment with how I can use them on the other 4.0 releases
-	I could dremel in holes in each faceplate after having removed one set of the connector pegs, then gluing them halfway into the headsculpt of BTAS Goku, I can easily fit them onto the headsculpt while keeping the forehead flat so I can add 4.0 connector pegs*
+	*I intend to recast the belt wrap pieces and ascot pieces for my Toribot Goku
+	for using the faceplates on other Gokus, I could dremel in holes in each faceplate after having removed one set of the connector pegs, then gluing them halfway into the headsculpt of BTAS Goku, I can easily fit them onto the headsculpt while keeping the forehead flat so I can add 4.0 connector pegs*
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
