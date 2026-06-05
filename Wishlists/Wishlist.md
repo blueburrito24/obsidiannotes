@@ -55,7 +55,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>501.28gbp total
+## Figures Term #1<br>549.47gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -64,45 +64,29 @@ kanban-plugin: board
 - [ ] ##### Super Saiyan Author of Legend
 	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Nan&T Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp
 	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp
-	[Vallejo Flat Flesh](https://amzn.eu/d/03xWuwzY) 3.10gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
-	**TOTAL 97.64gbp**
-	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the cloth goods jacket and power pole accessories, which needs repainting and sanding down as the hands are sculpted as gloves
+	**TOTAL 94.54gbp**
+	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the cloth goods jacket and power pole accessories
 	This will also be my main SSJ Goku figure, so I will use the DKO heads interchangeably on the same body*
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
 	[GSI Creos Gundam Marker Eraser](https://amzn.eu/d/06wJNArT) 7.95gbp"
 	**TOTAL 74.99gbp**
-	*I need to erase the scars on the Gohan facesculpts then I can use them for Goku
-	I await the BSM BLACKSHARK Angel Goku kit for some happy Goku faces and manga-style hairsculpts*
-- [ ] ##### Big Brother Gohan
-	[SHF DBZ KHS Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
-	[MelmekFX Whis Gi Goku Kit](https://melmekcustoms.square.site/product/mfx-008-presale/OLQTCGSTO4OSTAAXSNQBL3JD?cp=true&sa=false&sbp=false&q=false&category_id=R36GIBV4YAZORMPJFXC5D2SI) 55.83gbp
-	[Nan&T Turtle Hermit Gi Kit](https://www.aliexpress.com/item/1005010776189222.html?) 11.69gbp
-	[Vallejo Royal Purple](https://amzn.eu/d/09vKxj2E) 5.70gbp
-	[Vallejo Light Orange](https://amzn.eu/d/084N7XsJ) 2.95gbp
-	**TOTAL 108.12gbp**
-	>[!Custom details]-
-	> - Disassemble KHS Goku (including legs and removing the boots)
-	> - take the nan&t abdomen piece and remove the connector for the wrap and move it to the right side of the abdomen piece
-	> - wash and sand down the orange gi parts to avoid paint rub
-	> - repaint orange gi with royal purple
-	> - repaint the nan&t abdomen piece with royal purple and light orange
-	> - resculpt and repaint the whis gi boots to look like Gohan's boots with light orange, black and white
-	> - repaint wrist wraps with light orange
-	> - apply mr hobby semi gloss coat to all parts before assembly
-	> - resculpt Future Gohan hairsculpt I previously bought to match Gohan's hairstyle in base
-	> - resculpt Future Gohan SSJ hairsculpt I previously bought to match Gohan's hairstyle in SSJ1
-	
-	[Reference Image for Base Form](https://i.redd.it/kqkpau6itzud1.jpeg)
-	[Reference Image for SSJ](https://preview.redd.it/do-you-wish-gohan-was-the-protagonist-of-the-entire-buu-v0-830ukl54aw3b1.jpg?width=433&format=pjpg&auto=webp&s=a5ca62169a79f266ae0e791736ff8cf0b3d783cb)
-	*for this custom, I'm reusing the Future Gohan face and hairsculpts I bought previously, in the same way I can reuse other facesculpts from KHS Goku or DKO SSJ Goku*
+	*I need to erase the scars on the Gohan facesculpts then I can use them for Goku*
+- [ ] ##### Monkey King
+	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
+- [ ] ##### Mystic Son of Prophecy
+	[LS STUDIO "Die Hard" Beast Gohan](https://www.aliexpress.com/item/1005012412400027.html?) 74.02gbp"
+	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 34.53gbp"
+	**TOTAL 108.55gbp**
+	*I can use the base form facesculpts on Goku and I will throw away the Pan statuette*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
 	[SHANGI CUSTOMISATION Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 14.89gbp"
-	**TOTAL 126.79gbp**
+	[Acrylic Markers 32pcs](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
+	**TOTAL 138.88gbp**
 	*Need to swap out the arms from the bicep from Nail to Piccolo and repaint the arms to have yellow sections instead of pink using acrylic marker 321
 	I can then use Nail's headsculpts on Piccolo
 	Also need to swap out boots from Nail onto Piccolo*
@@ -120,8 +104,9 @@ kanban-plugin: board
 	> - disassemble arms and torso to wash and sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue
 	> - repaint headsculpts to be base-form
-- [ ] ##### The Ascended Prince
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
+	
+	[Reference image for Buu Saga Outfit](https://static.wikia.nocookie.net/dragonball/images/a/a5/DBFCM_456.jpg/revision/latest?cb=20131214112501)
+	[Reference Image for Buu Saga Outfit 2](https://preview.redd.it/am-i-the-only-one-who-likes-vegetas-buu-saga-outfit-more-v0-7p7q9ljg9f8d1.jpeg?width=352&format=pjpg&auto=webp&s=ec5d608d24f43a265791ded4a5813ac83830ebae)
 
 
 ## Tech Term #2<br>573.81gbp total
@@ -133,9 +118,12 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>445.84gbp total
+## Figures Term #2<br>414.88gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp
+- [ ] ##### Revered Hypocrite
+	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
+- [ ] [NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
@@ -147,24 +135,16 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp"
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp"
-- [ ] ##### Mystic Son of Prophecy
-	[LS STUDIO "Die Hard" Beast Gohan](https://www.aliexpress.com/item/1005012412400027.html?) 74.02gbp"
-	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 34.53gbp"
-	**TOTAL 108.55gbp**
-	*I can use the base form facesculpts on Goku and I will throw away the Pan statuette*
 
 
-## Figures Term #3<br>302.50gbp total
+## Figures Term #3<br>224.91gbp total
 
 - [ ] [SH FIGUARTS NARUTO Ichiraku Ramen Set](https://www.nin-nin-game.com/en/naruto/129530-shfiguarts-naruto-ichiraku-ramen-set-bandai-spirits-.html) 32.06gbp"
 - [ ] ##### Future Warrior
 	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp"
 - [ ] ##### Warrior of Hope
 	[SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp"
-- [ ] [NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
 - [ ] [BSM BLACKSHARK Battle-Damaged Body](https://www.aliexpress.com/item/1005009065552055.html) 26gbp
-- [ ] ##### Revered Hypocrite
-	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
 
 
 ***
