@@ -123,7 +123,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>440.70gbp total
+## Figures Term #2<br>344.65gbp total
 
 - [ ] ##### Royal Elite of the Saiyans
 	[SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JS4ACHZCfr8NsfbrnnYQU&q=sh+figuarts+24000+vegeta&p=1&pos=4) 77.67gbp
@@ -131,15 +131,12 @@ kanban-plugin: board
 	[DEMONIACAL FIT Vegeta Waist Armour Piece](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+24000+vegeta&p=1&pos=14) 37.89gbp
 	**TOTAL 135.04gbp**
 	*I would need to remove the articulation limiter on the torso of 24000 Vegeta, then I want to swap out the arms and lower body from that of DAIMA Vegeta, however I will use the boots from my existing Dangerous Pride Vegeta.*
-- [ ] [NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
+- [ ] ##### Earth's Last Hope
+	[NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
-	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp"
-	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted With Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.32gbp"
-	**TOTAL 174.24gbp**
-- [ ] ##### The Avenger Uchiha
-	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp"
+	**TOTAL 114.66gbp**
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp"
 
