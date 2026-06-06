@@ -55,7 +55,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>559.42gbp total
+## Figures Term #1<br>562.52gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -71,8 +71,9 @@ kanban-plugin: board
 - [ ] ##### Monkey King
 	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
 	[Blue Stuff](https://amzn.eu/d/049OrCel) 9.95gbp"
+	[Vallejo Blue](https://amzn.eu/d/0cyzMo1O) 3.10gbp"
 	[Blue Stuff Tutorial](https://www.youtube.com/watch?v=FOMwKVAJEfY)
-	*I intend to recast the belt wrap pieces and ascot pieces for my Toribot Goku
+	*I intend to recast the belt wrap pieces and ascot pieces for my Toribot Goku, repainting them with vallejo blue
 	for using the faceplates on other Gokus, I could dremel in holes in each faceplate after having removed one set of the connector pegs, then gluing them halfway into the headsculpt of BTAS Goku, I can easily fit them onto the headsculpt while keeping the forehead flat so I can add 4.0 connector pegs*
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
@@ -122,13 +123,15 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>488.38gbp total
+## Figures Term #2<br>494.33gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp
-- [ ] ##### Revered Hypocrite
-	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
-- [ ] ##### The Pride of Universe 11
-	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
+- [ ] ##### Royal Elite of the Saiyans
+	[SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JS4ACHZCfr8NsfbrnnYQU&q=sh+figuarts+24000+vegeta&p=1&pos=4) 77.67gbp
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be&q=sh+figuarts+daima+vegeta&p=1&pos=1) 19.48gbp
+	[DEMONIACAL FIT Vegeta Waist Armour Piece](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+24000+vegeta&p=1&pos=14) 37.89gbp
+	**TOTAL 135.04gbp**
+	*I would need to remove the articulation limiter on the torso of 24000 Vegeta, then I want to swap out the arms and lower body from that of DAIMA Vegeta, however I will use the boots from my existing Dangerous Pride Vegeta.*
 - [ ] [NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
@@ -143,9 +146,13 @@ kanban-plugin: board
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp"
 
 
-## Figures Term #3<br>224.91gbp total
+## Figures Term #3<br>354gbp total
 
 - [ ] [SH FIGUARTS NARUTO Ichiraku Ramen Set](https://www.nin-nin-game.com/en/naruto/129530-shfiguarts-naruto-ichiraku-ramen-set-bandai-spirits-.html) 32.06gbp"
+- [ ] ##### Revered Hypocrite
+	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
+- [ ] ##### The Pride of Universe 11
+	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
 - [ ] ##### Future Warrior
 	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp"
 - [ ] ##### Warrior of Hope
