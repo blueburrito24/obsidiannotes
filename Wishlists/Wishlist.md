@@ -126,9 +126,9 @@ kanban-plugin: board
 ## Figures Term #2<br>344.65gbp total
 
 - [ ] ##### Royal Elite of the Saiyans
-	[SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JS4ACHZCfr8NsfbrnnYQU&q=sh+figuarts+24000+vegeta&p=1&pos=4) 77.67gbp
-	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be&q=sh+figuarts+daima+vegeta&p=1&pos=1) 19.48gbp
-	[DEMONIACAL FIT Vegeta Waist Armour Piece](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+24000+vegeta&p=1&pos=14) 37.89gbp
+	[SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JS4ACHZCfr8NsfbrnnYQU&q=sh+figuarts+24000+vegeta&p=1&pos=4) 77.67gbp"
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be&q=sh+figuarts+daima+vegeta&p=1&pos=1) 19.48gbp"
+	[DEMONIACAL FIT Vegeta Waist Armour Piece](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+24000+vegeta&p=1&pos=14) 37.89gbp"
 	**TOTAL 135.04gbp**
 	*I would need to remove the articulation limiter on the torso of 24000 Vegeta, then I want to swap out the arms and lower body from that of DAIMA Vegeta, however I will use the boots from my existing Dangerous Pride Vegeta.*
 - [ ] ##### Earth's Last Hope
