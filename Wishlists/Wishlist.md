@@ -122,11 +122,13 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>414.88gbp total
+## Figures Term #2<br>488.38gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
+- [ ] ##### The Pride of Universe 11
+	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
 - [ ] [NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Power to Unite" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) 40.26"
