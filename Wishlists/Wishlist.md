@@ -123,7 +123,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>455.55gbp total
+## Figures Term #2<br>440.70gbp total
 
 - [ ] ##### Royal Elite of the Saiyans
 	[SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JS4ACHZCfr8NsfbrnnYQU&q=sh+figuarts+24000+vegeta&p=1&pos=4) 77.67gbp
@@ -138,7 +138,6 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp"
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted With Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.32gbp"
 	**TOTAL 174.24gbp**
-- [ ] [BASR.COLLECTS Ninja Hair Yellow](https://basrcollects.com/product/ninja-hair-yellow/) 20usd/14.85gbp"
 - [ ] ##### The Avenger Uchiha
 	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) 38.47gbp"
 - [ ] ##### Symbol of Peace
