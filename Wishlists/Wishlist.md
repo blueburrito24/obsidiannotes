@@ -73,7 +73,7 @@ kanban-plugin: board
 	[Blue Stuff](https://amzn.eu/d/049OrCel) 9.95gbp"
 	[Vallejo Blue](https://amzn.eu/d/0cyzMo1O) 3.10gbp"
 	[Blue Stuff Tutorial](https://www.youtube.com/watch?v=FOMwKVAJEfY)
-	*I intend to recast the belt wrap pieces and ascot pieces for my Toribot Goku, repainting them with vallejo blue
+	*I intend to recast the belt wrap pieces for my Toribot Goku, repainting them with vallejo blue
 	for using the faceplates on other Gokus, I could dremel in holes in each faceplate after having removed one set of the connector pegs, then gluing them halfway into the headsculpt of BTAS Goku, I can easily fit them onto the headsculpt while keeping the forehead flat so I can add 4.0 connector pegs*
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
