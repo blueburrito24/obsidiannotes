@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
+	[SKADIS IKEA Black Pegboard Shelf](https://www.ikea.com/gb/en/p/skadis-shelf-black-80569941/#content) 4gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [Keyboard Desk Tray](https://amzn.eu/d/02NGrzUg) 32.56gbp
 - [ ] ### Books
