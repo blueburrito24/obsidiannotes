@@ -108,7 +108,7 @@ kanban-plugin: board
 	> - resculpt the torso to have a leotard look
 	> - disassemble arms and torso to wash and sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue
-	> - repaint headsculpts to be base-form
+	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 	
 	[Reference image for Buu Saga Outfit](https://static.wikia.nocookie.net/dragonball/images/a/a5/DBFCM_456.jpg/revision/latest?cb=20131214112501)
 	[Reference Image for Buu Saga Outfit 2](https://preview.redd.it/am-i-the-only-one-who-likes-vegetas-buu-saga-outfit-more-v0-7p7q9ljg9f8d1.jpeg?width=352&format=pjpg&auto=webp&s=ec5d608d24f43a265791ded4a5813ac83830ebae)
