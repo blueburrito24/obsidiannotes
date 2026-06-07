@@ -69,7 +69,7 @@ kanban-plugin: board
 	**TOTAL 94.54gbp**
 	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the power pole accessories
 	This will also be my main SSJ Goku figure, so I will use the DKO heads interchangeably on the same body
-	I could repaint the WORM SSJ hairsculpt with the 321 marker from the acrylic marker set, alongside repainting the calm face from the original Games Begin headsculpts with black for base form*
+	I could repaint the WORM SSJ hairsculpt with the 321 marker from the acrylic marker set, alongside repainting the happy face from the DKO set headsculpts with black for base form*
 - [ ] ##### Monkey King
 	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
 	[Blue Stuff](https://amzn.eu/d/049OrCel) 9.95gbp"
@@ -149,17 +149,7 @@ kanban-plugin: board
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp"
 
 
-## Tech Term #3<br>717.51gbp total
-
-- [ ] [Lenovo LOQ 15 Laptop i5-12450H, RTX 3050, 16GB RAM, 512GB SSD](https://www.ebay.co.uk/itm/168437584604?) 567.70gbp
-	*gift for Ayaan*
-- [ ] [Koss KSC21 Sport Clip-On Headphones](https://amzn.eu/d/01zo7Sf8) 9.82gbp
-	*gift for Ayaan*
-- [ ] [Netac 2TB Portable SSD](https://amzn.eu/d/06BmLwFJ) 139.99gbp
-	*gift for Ayaan, price may change based on storage market*
-
-
-## Figures Term #3<br>287.22gbp total
+## Figures Term #3<br>320.91gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp
 - [ ] ##### Revered Hypocrite
@@ -183,6 +173,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,true,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
