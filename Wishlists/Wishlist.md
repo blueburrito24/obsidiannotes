@@ -55,7 +55,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>562.52gbp total
+## Figures Term #1<br>525.22gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -64,10 +64,11 @@ kanban-plugin: board
 - [ ] ##### Super Saiyan Author of Legend
 	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Nan&T Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp"
 	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp"
-	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp"
+	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
 	**TOTAL 94.54gbp**
-	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the cloth goods jacket and power pole accessories
-	This will also be my main SSJ Goku figure, so I will use the DKO heads interchangeably on the same body*
+	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the power pole accessories
+	This will also be my main SSJ Goku figure, so I will use the DKO heads interchangeably on the same body
+	I could repaint the WORM SSJ hairsculpt with the 321 marker from the acrylic marker set, alongside repainting the calm face from the original Games Begin headsculpts with black for base form*
 - [ ] ##### Monkey King
 	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
 	[Blue Stuff](https://amzn.eu/d/049OrCel) 9.95gbp"
@@ -77,24 +78,23 @@ kanban-plugin: board
 	for using the faceplates on other Gokus, I could dremel in holes in each faceplate after having removed one set of the connector pegs, then gluing them halfway into the headsculpt of BTAS Goku, I can easily fit them onto the headsculpt while keeping the forehead flat so I can add 4.0 connector pegs*
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
-	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 30.09gbp"
-	[GSI Creos Gundam Marker Eraser](https://amzn.eu/d/06wJNArT) 7.95gbp"
-	**TOTAL 74.99gbp**
-	*I need to erase the scars on the Gohan facesculpts then I can use them for Goku*
+	[Vegito/Goku Black Spirit Sword Accessory](https://www.aliexpress.com/item/1005008258003040.html?) 5.69gbp"
+	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 28.99gbp"
+	[Gundam Eraser Marker](https://amzn.eu/d/0fNqNnPP) 7.95gbp"
+	**TOTAL 74.58gbp**
+	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg
+	The happy and shouting faces from Future Gohan's headsculpts are great for Goku, just needs the scars erased*
 - [ ] ##### Mystic Son of Prophecy
 	[LS STUDIO "Die Hard" Beast Gohan](https://www.aliexpress.com/item/1005012412400027.html?) 74.02gbp"
 	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 34.53gbp"
 	**TOTAL 108.55gbp**
 	*I can use the base form facesculpts on Goku and I will throw away the Pan statuette*
 - [ ] ##### The Namekian With No Name
-	[SH FIGUARTS DRAGON BALL Z "Proud Namekian" Piccolo](https://hobbyfigures.co.uk/collections/dragon-ball/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm) 51.95gbp"
+	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
-	[SHANGI CUSTOMISATION Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 14.89gbp"
-	[Acrylic Markers 32pcs](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
-	**TOTAL 138.88gbp**
-	*Need to swap out the arms from the bicep from Nail to Piccolo and repaint the arms to have yellow sections instead of pink using acrylic marker 321
-	I can then use Nail's headsculpts on Piccolo
-	Also need to swap out boots from Nail onto Piccolo*
+	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
+	**TOTAL 101.99gbp**
+	*I need to swap the arms from the bicep down, feet and heads from Nail onto Piccolo, alongside repainting the accented areas on the swapped arm to be yellow and not pink using the 321 marker*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
