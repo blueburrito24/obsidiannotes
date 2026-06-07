@@ -56,7 +56,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>525.22gbp total
+## Figures Term #1<br>563.26gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -94,8 +94,13 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
 	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
-	**TOTAL 101.99gbp**
-	*I need to swap the arms from the bicep down, feet and heads from Nail onto Piccolo, alongside repainting the accented areas on the swapped arm to be yellow and not pink using the 321 marker*
+	[Racing Red Rit Synthetic Dye](https://amzn.eu/d/0dWsuF02) 8.39gbp"
+	[Royal Purple Rit Synthetic Dye](https://amzn.eu/d/0eLSJaOx) 8.65gbp"
+	[Stainless Steel pot for dyeing](https://www.argos.co.uk/product/8370828?clickSR=slp:term:stainless%20steel%20pot:1:6:1) 21gbp"
+	[Dyeing Tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs)
+	**TOTAL 140.03gbp**
+	*I need to swap the arms from the bicep down, feet and heads from Nail onto Piccolo, alongside repainting the accented areas on the swapped arm to be yellow and not pink using the 321 marker
+	Also need to dye the legs from Nail to be purple, using 2 tbsp of Royal Purple with 2 drops of Racing Red*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
