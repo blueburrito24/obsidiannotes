@@ -168,6 +168,8 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp"
 - [ ] ##### Warrior of Hope
 	[SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp"
+- [ ] ##### Desperate Emperor
+	[DB TOYS Frieza Full Power](https://www.aliexpress.com/item/1005008720727183.html?) 33.69gbp
 - [ ] [BSM BLACKSHARK Battle-Damaged Body](https://www.aliexpress.com/item/1005009065552055.html) 26gbp
 
 
