@@ -56,7 +56,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>563.26gbp total
+## Figures Term #1<br>557.15gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -85,11 +85,32 @@ kanban-plugin: board
 	**TOTAL 74.58gbp**
 	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg
 	The happy and shouting faces from Future Gohan's headsculpts are great for Goku, just needs the scars erased*
-- [ ] ##### Mystic Son of Prophecy
-	[LS STUDIO "Die Hard" Beast Gohan](https://www.aliexpress.com/item/1005012412400027.html?) 74.02gbp"
-	[BLACK HOLE TOYS Son Gohan Headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 34.53gbp"
-	**TOTAL 108.55gbp**
-	*I can use the base form facesculpts on Goku and I will throw away the Pan statuette*
+- [ ] ##### Big Brother Gohan
+	[SHF KHS Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
+	[Melmek Whis Gi Kit](https://melmekcustoms.square.site/product/mfx-008-presale/OLQTCGSTO4OSTAAXSNQBL3JD?cp=true&sa=true&sbp=false&q=false) 56.24gbp"
+	[Vallejo Flat Red](https://amzn.eu/d/0gMPpkrL) 3.10gbp"
+	[Vallejo Flat Yellow](https://amzn.eu/d/08tV3dkJ) 2.95gbp"
+	[Charcoal Rit Synthetic Dye](https://amzn.eu/d/074TFJ1t) 8.20gbp"
+	**TOTAL 102.44gbp**
+	
+	>[!Custom details]-
+	> - I already have the dyes, paints and other materials I need to complete this custom
+	> - disassemble KHS Goku with hot water, down to disassembling the knees and the butterfly cups on the upper body
+	> - sand down the insides of the upper body parts and the inside of the lower leg to prep for painting
+	> - repaint the orange gi parts with prussian blue
+	> - dye the boots in charcoal until they turn black
+	> - resculpt the upper boots to match the style seen in Gohan's gi
+	> - recast the belt wrap piece from BTAS Goku using blue stuff and remove the extra wrap pieces so it matches his design
+	> - sculpt a connector onto the belt-wrap on the abdomen piece so the recasted belt wrap can connect
+	> - repaint the belt wrap, belt-wrap piece, wristbands with flat red. plus white for the upper boots
+	> - repaint the rims and bottom of the boots to be white
+	> - take the HA TOYS Future Gohan headsculpts and resculpt them to match Gohan's base form and ssj1 hairstyles (use flat yellow for ssj1, should also repaint eyebrows on faces); 
+	> - remove the existing bangs on the hairsculpts and create that trapezium-like shape on the back of Gohan's head, then sculpt bangs onto the head (with base having a smooth transition to the shape while ssj1 keeps its sharp and tight flow), while sculpting as the epoxy putty dries I should use my exacto knife to carve in some hatching lines (following reference image and referencing KHS and GB Goku's style of hatching)
+	
+	[[Reference Collage for Gohan's hairstyles.png]]
+	[(View in browser)](https://i.pinimg.com/736x/36/cc/c6/36ccc67e1ba22ad779dae4e5ee9948db.jpg)
+	*Note that I will likely use a lot of facesculpts from the DKO Last Duel Goku set on SSJ1 alongside HA TOYS Future Gohan's faces, for base form I will mainly use HA TOYS Future Gohan
+	If I can make it in good quality, I want to customise the KHS box so it reflects the Gohan figure in its promotional images alongside replacing the accessories inside the box*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
