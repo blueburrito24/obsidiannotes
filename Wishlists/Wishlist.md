@@ -110,7 +110,7 @@ kanban-plugin: board
 	[[Reference Collage for Gohan's hairstyles.png]]
 	[(View in browser)](https://i.pinimg.com/736x/36/cc/c6/36ccc67e1ba22ad779dae4e5ee9948db.jpg)
 	*Note that I will likely use a lot of facesculpts from the DKO Last Duel Goku set on SSJ1 alongside HA TOYS Future Gohan's faces, for base form I will mainly use HA TOYS Future Gohan
-	I would like to disassemble the KHS box, scan it and design my own custom box with my own photos of the custom figure*
+	I would like to disassemble the KHS box, scan it and design my own custom box with my own photos of the custom figure, using raw edited images with greenscreen and printing on cardstock*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp"
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
