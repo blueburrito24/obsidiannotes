@@ -53,7 +53,7 @@ kanban-plugin: board
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd"
 	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
 	TOTAL 289.27gbp
-- [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
+- [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp"
 
 
 ## Figures Term #1<br>611.15gbp total
