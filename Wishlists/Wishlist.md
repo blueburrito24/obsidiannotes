@@ -56,12 +56,17 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>557.15gbp total
+## Figures Term #1<br>611.15gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp"
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
+- [ ] ##### Webs of Fear
+	[MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005010313843872.html?) 16gbp
+	[MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010305567474.html?) 19gbp
+	[MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 19gbp
+	**TOTAL 54gbp**
 - [ ] ##### Super Saiyan Author of Legend
 	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Nan&T Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp"
 	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp"
@@ -150,7 +155,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>418.15gbp total
+## Figures Term #2<br>444.94gbp total
 
 - [ ] ##### Royal Elite of the Saiyans
 	[SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JS4ACHZCfr8NsfbrnnYQU&q=sh+figuarts+24000+vegeta&p=1&pos=4) 77.67gbp"
@@ -168,6 +173,7 @@ kanban-plugin: board
 	**TOTAL 114.66gbp**
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp"
+- [ ] [Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
 ## Figures Term #3<br>320.91gbp total
