@@ -56,10 +56,11 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp"
 
 
-## Figures Term #1<br>359.40gbp total
+## Figures Term #1<br>398.18gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
+- [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp"
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp"
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
 - [ ] ##### Super Saiyan of Legend
@@ -131,9 +132,8 @@ kanban-plugin: board
 - [ ] [Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
-## Figures Term #3<br>294.91gbp total
+## Figures Term #3<br>256.13gbp total
 
-- [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
 - [ ] ##### Future Warrior
