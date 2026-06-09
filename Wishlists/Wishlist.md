@@ -56,17 +56,12 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp"
 
 
-## Figures Term #1<br>383.69gbp total
+## Figures Term #1<br>359.40gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp"
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
-- [ ] ##### Web of Fear
-	[MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005010313843872.html?) 16gbp
-	[MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010305567474.html?) 19gbp
-	[MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 19gbp
-	**TOTAL 54gbp**
 - [ ] ##### Super Saiyan of Legend
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
@@ -74,9 +69,11 @@ kanban-plugin: board
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[Vegito/Goku Black Spirit Sword Accessory](https://www.aliexpress.com/item/1005008258003040.html?) 5.69gbp"
-	[Air Recast Goku Smiling Face](https://www.aliexpress.com/item/1005009692305338.html?) 10.42gbp"
-	**TOTAL 48.06gbp**
-	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg, also need to repaint Air Recast facesculpt to be base form*
+	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005008741018809.html?) 32.18gbp"
+	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp"
+	**TOTAL 87.77gbp**
+	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg, also need to repaint Air Recast facesculpt to be base form
+	I need to remove the scars on the Future Gohan faces so I can use it on Goku*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
