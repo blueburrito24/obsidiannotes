@@ -56,77 +56,27 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp"
 
 
-## Figures Term #1<br>611.15gbp total
+## Figures Term #1<br>383.69gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp"
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
-- [ ] ##### Webs of Fear
+- [ ] ##### Web of Fear
 	[MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005010313843872.html?) 16gbp
 	[MESS TOYS Superior Neighbor](https://www.aliexpress.com/item/1005010305567474.html?) 19gbp
 	[MESS TOYS Lethal Neighbor](https://www.aliexpress.com/item/1005010323602046.html?) 19gbp
 	**TOTAL 54gbp**
-- [ ] ##### Super Saiyan Author of Legend
-	[SH FIGUARTS DBZ Super Saiyan Goku; Toribot facesculpt, WORM SSJ headsculpt, Nan&T Torn Gi parts](https://zenmarket.jp/mercariproduct.aspx?itemCode=m70472346953&q=sh+figuarts+goku&p=11&pos=2032) 59.86gbp"
-	[KAMIONE Baseball Boy (Bike Goku) Power Pole & hands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m72129793909&q=sh+figuarts+goku&p=5&pos=812) 22.68gbp"
+- [ ] ##### Super Saiyan of Legend
+	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
-	**TOTAL 94.54gbp**
-	*I will use this body with the included Nan&T torn gi kit and custom hair and facesculpt, alongside the power pole accessories
-	This will also be my main SSJ Goku figure, so I will use the DKO heads interchangeably on the same body
-	I could repaint the WORM SSJ hairsculpt with the 321 marker from the acrylic marker set, alongside repainting the happy face from the DKO set headsculpts with black for base form*
-- [ ] ##### Monkey King
-	[SH FIGUARTS DRAGON BALL "Beyond The Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) 70.72gbp"
-	[Blue Stuff](https://amzn.eu/d/049OrCel) 9.95gbp"
-	[Vallejo Blue](https://amzn.eu/d/0cyzMo1O) 3.10gbp"
-	[Blue Stuff Tutorial](https://www.youtube.com/watch?v=FOMwKVAJEfY)
-	*I intend to recast the belt wrap pieces for my Toribot Goku, repainting them with vallejo blue
-	for using the faceplates on other Gokus, I could dremel in holes in each faceplate after having removed one set of the connector pegs, then gluing them halfway into the headsculpt of BTAS Goku, I can easily fit them onto the headsculpt while keeping the forehead flat so I can add 4.0 connector pegs*
+	**TOTAL 44.95gbp**
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
 	[Vegito/Goku Black Spirit Sword Accessory](https://www.aliexpress.com/item/1005008258003040.html?) 5.69gbp"
-	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005011682927144.html?) 28.99gbp"
-	[Gundam Eraser Marker](https://amzn.eu/d/0fNqNnPP) 7.95gbp"
-	**TOTAL 74.58gbp**
-	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg
-	The happy and shouting faces from Future Gohan's headsculpts are great for Goku, just needs the scars erased*
-- [ ] ##### Big Brother Gohan
-	[SHF KHS Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
-	[Melmek Whis Gi Kit](https://melmekcustoms.square.site/product/mfx-008-presale/OLQTCGSTO4OSTAAXSNQBL3JD?cp=true&sa=true&sbp=false&q=false) 56.24gbp"
-	[Vallejo Flat Red](https://amzn.eu/d/0gMPpkrL) 3.10gbp"
-	[Vallejo Flat Yellow](https://amzn.eu/d/08tV3dkJ) 2.95gbp"
-	[Charcoal Rit Synthetic Dye](https://amzn.eu/d/074TFJ1t) 8.20gbp"
-	**TOTAL 102.44gbp**
-	
-	>[!Custom details]-
-	> - I already have the dyes, paints and other materials I need to complete this custom
-	> - disassemble KHS Goku with hot water, down to disassembling the knees and the butterfly cups on the upper body
-	> - sand down the insides of the upper body parts and the inside of the lower leg to prep for painting
-	> - repaint the orange gi parts with prussian blue
-	> - dye the boots in charcoal until they turn black
-	> - resculpt the upper boots to match the style seen in Gohan's gi
-	> - recast the belt wrap piece from BTAS Goku using blue stuff and remove the extra wrap pieces so it matches his design
-	> - sculpt a connector onto the belt-wrap on the abdomen piece so the recasted belt wrap can connect
-	> - repaint the belt wrap, belt-wrap piece, wristbands with flat red. plus white for the upper boots
-	> - repaint the rims and bottom of the boots to be white
-	> - take the HA TOYS Future Gohan headsculpts and resculpt them to match Gohan's base form and ssj1 hairstyles (use flat yellow for ssj1, should also repaint eyebrows on faces); 
-	> - remove the existing bangs on the hairsculpts and create that trapezium-like shape on the back of Gohan's head, then sculpt bangs onto the head (with base having a smooth transition to the shape while ssj1 keeps its sharp and tight flow), while sculpting as the epoxy putty dries I should use my exacto knife to carve in some hatching lines (following reference image and referencing KHS and GB Goku's style of hatching)
-	
-	[[Reference Collage for Gohan's hairstyles.png]]
-	[(View in browser)](https://i.pinimg.com/736x/36/cc/c6/36ccc67e1ba22ad779dae4e5ee9948db.jpg)
-	*Note that I will likely use a lot of facesculpts from the DKO Last Duel Goku set on SSJ1 alongside HA TOYS Future Gohan's faces, for base form I will mainly use HA TOYS Future Gohan
-	I would like to disassemble the KHS box, scan it and design my own custom box with my own photos of the custom figure, using raw edited images with greenscreen and printing on cardstock*
-- [ ] ##### The Namekian With No Name
-	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp"
-	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
-	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
-	[Racing Red Rit Synthetic Dye](https://amzn.eu/d/0dWsuF02) 8.39gbp"
-	[Royal Purple Rit Synthetic Dye](https://amzn.eu/d/0eLSJaOx) 8.65gbp"
-	[Stainless Steel pot for dyeing](https://www.argos.co.uk/product/8370828?clickSR=slp:term:stainless%20steel%20pot:1:6:1) 21gbp"
-	[Dyeing Tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs)
-	**TOTAL 140.03gbp**
-	*I need to swap the arms from the bicep down, feet and heads from Nail onto Piccolo, alongside repainting the accented areas on the swapped arm to be yellow and not pink using the 321 marker
-	Also need to dye the legs from Nail to be purple, using 2 tbsp of Royal Purple with 2 drops of Racing Red*
+	[Air Recast Goku Smiling Face](https://www.aliexpress.com/item/1005009692305338.html?) 10.42gbp"
+	**TOTAL 48.06gbp**
+	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg, also need to repaint Air Recast facesculpt to be base form*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
@@ -134,16 +84,27 @@ kanban-plugin: board
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp"
 	**TOTAL 46.21gbp**
 	*Should use the official base-form Vegeta if it is available*
+	
+	[[Reference Collage for Vegeta's Suit.png]]
+	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
+	
 	>[!Custom Details]+
 	> - Remove trap supports from Vegeta
 	 > - shave down torso sides for V-taper look
-	> - resculpt the torso to have a leotard look
+	> - resculpt the torso to have a leotard look (make sure the shoulder area is wide like the reference)
 	> - disassemble arms and torso to wash and sand down for paint-rub prevention
-	> - repaint arms and torso with basic skintone and dark blue
+	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
-	
-	[Reference image for Buu Saga Outfit](https://static.wikia.nocookie.net/dragonball/images/a/a5/DBFCM_456.jpg/revision/latest?cb=20131214112501)
-	[Reference Image for Buu Saga Outfit 2](https://preview.redd.it/am-i-the-only-one-who-likes-vegetas-buu-saga-outfit-more-v0-7p7q9ljg9f8d1.jpeg?width=352&format=pjpg&auto=webp&s=ec5d608d24f43a265791ded4a5813ac83830ebae)
+- [ ] ##### The Namekian With No Name
+	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp"
+	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
+	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
+	**TOTAL 101.99gbp**
+	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo*
+- [ ] ##### Big Brother Gohan
+	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50184522224&q=sh+figuarts+super+hero+gohan&p=1&pos=12) 37.85gbp"
+	[BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 35.05"
+	**TOTAL 72.90gbp**
 
 
 ## Tech Term #2<br>573.81gbp total
@@ -155,18 +116,15 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>444.94gbp total
+## Figures Term #2<br>419.67gbp total
 
-- [ ] ##### Royal Elite of the Saiyans
-	[SH FIGUARTS DRAGON BALL Z "24000 Power Level" Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JS4ACHZCfr8NsfbrnnYQU&q=sh+figuarts+24000+vegeta&p=1&pos=4) 77.67gbp"
-	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/s/toys-zero/bf00198?id=cee34a39-f668-4d84-8523-8c4f622159be&q=sh+figuarts+daima+vegeta&p=1&pos=1) 19.48gbp"
-	[DEMONIACAL FIT Vegeta Waist Armour Piece](https://zenmarket.jp/mercariproduct.aspx?itemCode=m62918412189&q=sh+figuarts+24000+vegeta&p=1&pos=14) 37.89gbp"
-	**TOTAL 135.04gbp**
-	*I would need to remove the articulation limiter on the torso of 24000 Vegeta, then I want to swap out the arms and lower body from that of DAIMA Vegeta, however I will use the boots from my existing Dangerous Pride Vegeta.*
-- [ ] ##### Earth's Last Hope
-	[NS STUDIO "Orange Puppet" Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 22gbp
 - [ ] ##### The Pride of Universe 11
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
+- [ ] ##### Stand-in Soul Reaper
+	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 80.18gbp
+	[SH FIGUARTS BLEACH THOUSAND YEAR BLOOD WAR "Dual Zangetsu Ver." Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html) 56.59gbp
+	**TOTAL 136.77gbp**
+	*I haven't caught up so I will keep the second Ichigo body, but I mainly am buying it for more headsculpts and accessories*
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp"
@@ -176,7 +134,7 @@ kanban-plugin: board
 - [ ] [Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
-## Figures Term #3<br>320.91gbp total
+## Figures Term #3<br>294.91gbp total
 
 - [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp
 - [ ] ##### Revered Hypocrite
@@ -187,7 +145,6 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp"
 - [ ] ##### Desperate Emperor
 	[DB TOYS Frieza Full Power](https://www.aliexpress.com/item/1005008720727183.html?) 33.69gbp
-- [ ] [BSM BLACKSHARK Battle-Damaged Body](https://www.aliexpress.com/item/1005009065552055.html) 26gbp
 
 
 ***
