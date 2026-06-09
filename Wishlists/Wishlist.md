@@ -101,7 +101,7 @@ kanban-plugin: board
 	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
 	**TOTAL 101.99gbp**
 	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo*
-- [ ] ##### Big Brother Gohan
+- [ ] ##### Mystic Gohan
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50184522224&q=sh+figuarts+super+hero+gohan&p=1&pos=12) 37.85gbp"
 	[BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 35.05"
 	**TOTAL 72.90gbp**
