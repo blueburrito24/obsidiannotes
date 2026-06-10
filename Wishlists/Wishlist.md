@@ -56,7 +56,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp"
 
 
-## Figures Term #1<br>359.40gbp total
+## Figures Term #1<br>444.39gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
@@ -99,6 +99,11 @@ kanban-plugin: board
 	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
 	**TOTAL 101.99gbp**
 	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo*
+- [ ] ##### Future Warrior
+	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 44.99gbp"
+	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 40gbp
+	**TOTAL 84.99gbp**
+	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
 - [ ] ##### Mystic Gohan
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50184522224&q=sh+figuarts+super+hero+gohan&p=1&pos=12) 37.85gbp"
 	[BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 35.05"
@@ -137,11 +142,6 @@ kanban-plugin: board
 
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
-- [ ] ##### Future Warrior
-	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 44.99gbp"
-	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 68.99gbp"
-	**TOTAL 113.98**
-	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
 
 
 ***
