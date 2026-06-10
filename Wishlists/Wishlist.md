@@ -56,14 +56,21 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp"
 
 
-## Figures Term #1<br>398.18gbp total
+## Figures Term #1<br>533.68gbp total
 
 - [ ] total price has been summed up using taobao prices
 	anything marked with " is not bought via taobao
-- [ ] [SH FIGUARTS DRAGON BALL Z Set of 7 "Tamashii Stage" Dragon Ball Stands](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36730144090&q=sh+figuarts+goku&p=3&pos=430) 38.78gbp"
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp"
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
-- [ ] ##### Super Saiyan of Legend
+- [ ] ##### Legendary Super Saiyan Son Goku
+	[Mythos Anime M001 Goku](https://www.aliexpress.com/item/1005011751702155.html?) 68.39gbp"
+	[DCG SSJ Goku Headsculpts](https://www.aliexpress.com/item/1005009851974387.html?) 24gbp
+	[SHF LSSJ Goku KO](https://www.aliexpress.com/item/1005008122258377.html?) 21.89gbp"
+	**TOTAL 114.28gbp**
+	[[Reference Image for Kitbash.jpg]]
+- [ ] ##### The Perfect Life-Form
+	[KW STUDIO Perfect Cell (Deluxe, Manga Colours Ver.](https://www.aliexpress.com/item/1005011842894158.html?) 60gbp (will need fixing for qc issues with gluing and such)
+- [ ] ##### Kind-Hearted Super Saiyan
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
 	**TOTAL 44.95gbp**
@@ -74,7 +81,8 @@ kanban-plugin: board
 	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp"
 	**TOTAL 87.77gbp**
 	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg, also need to repaint Air Recast facesculpt to be base form
-	I need to remove the scars on the Future Gohan faces so I can use it on Goku*
+	I need to remove the scars on the Future Gohan faces so I can use it on Goku
+	Also I want to repaint the wide-eyed happy face from DKO SSJ Goku for base form*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
@@ -132,14 +140,12 @@ kanban-plugin: board
 - [ ] [Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
-## Figures Term #3<br>256.13gbp total
+## Figures Term #3<br>209.18gbp total
 
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
 - [ ] ##### Future Warrior
 	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp"
-- [ ] ##### Warrior of Hope
-	[SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp"
 - [ ] ##### Desperate Emperor
 	[DB TOYS Frieza Full Power](https://www.aliexpress.com/item/1005008720727183.html?) 33.69gbp
 
