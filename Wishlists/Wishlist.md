@@ -15,7 +15,7 @@ kanban-plugin: board
 	[SKADIS IKEA Black Pegboard Shelf](https://www.ikea.com/gb/en/p/skadis-shelf-black-80569941/#content) 4gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [KURIPAN Umamusume Oguri Cap Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04808204) 18.45gbp
-	[KURIPAN Umamusume Tamamo Cross Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-048082050) 18.45gbp
+	[KURIPAN Umamusume Tamamo Cross Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04691705) 19.48gbp
 - [ ] [Keyboard Desk Tray](https://amzn.eu/d/02NGrzUg) 32.56gbp
 - [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
@@ -42,46 +42,38 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>423.57gbp total
+## Tech Term #1
 
-- [ ] total price has been summed up using taobao prices
-	anything marked with " is not bought via taobao
-- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp"
-- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp"
-	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp"
-- [ ] [Wooting 80HE](https://wooting.io/configurator/wooting-80he?keycaps=none) 193gbp"
-	[Lekker Tikken Medium 90pcs](https://wooting.io/product/wooting-lekker-tikken-medium-switch?Size=90+pack) 44gbp"
-	[Holy80 Case](https://kbdfans.com/products/holy80-case) 15gbp
-	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 25usd"
-	[Hollow Star Keycaps (Gray)](https://kbdfans.com/collections/keycaps/products/hollow-star-key-cherry-profile-metal-keycaps?_pos=38&_fid=d732e4e53&_ss=c) 25usd"
-	TOTAL 289.27gbp
-- [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp"
+- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
+- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
+	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
+- [ ] [Keychron C1 Pro 80% Keyboard](https://amzn.eu/d/0h4DpRxT) 59.99gbp
+	[LEOBOG GRAYWOOD V4 Key switches 100pcs](https://www.aliexpress.com/item/1005009607951741.html) 16.31gbp
+	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from USD)
+	**TOTAL 94.98gbp**
+- [ ] [NARUTO Ichiraku Ramen Keycaps](https://kbdfans.com/collections/keycaps/products/fbb-ichiraku-ramen-r2-cherry-profile-keycaps?_pos=25&_fid=3d4715daa&_ss=c) 26.15gbp (converted from USD)
+	^ use with my GMK87
+- [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>444.39gbp total
+## Figures Term #1
 
-- [ ] total price has been summed up using taobao prices
-	anything marked with " is not bought via taobao
-- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp"
-- [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp"
-- [ ] ##### Kind-Hearted Super Saiyan
-	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 12gbp
-	**TOTAL 44.95gbp**
+- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
+- [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 - [ ] ##### The World's Strongest
-	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp"
-	[Vegito/Goku Black Spirit Sword Accessory](https://www.aliexpress.com/item/1005008258003040.html?) 5.69gbp"
-	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005008741018809.html?) 32.18gbp"
-	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp"
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
+	[Vegito/Goku Black Spirit Sword Accessory](https://www.aliexpress.com/item/1005008258003040.html?) 5.69gbp
+	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005008741018809.html?) 32.18gbp
+	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp
 	**TOTAL 87.77gbp**
 	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg, also need to repaint Air Recast facesculpt to be base form
 	I need to remove the scars on the Future Gohan faces so I can use it on Goku
 	Also I want to repaint the wide-eyed happy face from DKO SSJ Goku for base form*
 - [ ] ##### Earth's Reluctant Defender
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp"
-	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp"
-	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp"
-	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp"
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
+	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
+	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
 	**TOTAL 46.21gbp**
 	*Should use the official base-form Vegeta if it is available*
 	
@@ -96,32 +88,35 @@ kanban-plugin: board
 	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 - [ ] ##### The Namekian With No Name
-	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp"
-	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp"
-	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp"
+	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp
+	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
+	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp
 	**TOTAL 101.99gbp**
 	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo*
 - [ ] ##### Future Warrior
-	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 44.99gbp"
-	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 40gbp
+	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 44.99gbp
+	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 68.85gbp
 	**TOTAL 84.99gbp**
 	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
+- [ ] ##### Kind-Hearted Super Saiyan
+	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
 - [ ] ##### Mystic Gohan
-	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50184522224&q=sh+figuarts+super+hero+gohan&p=1&pos=12) 37.85gbp"
-	[BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 35.05"
+	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50184522224&q=sh+figuarts+super+hero+gohan&p=1&pos=12) 37.85gbp
+	[BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 35.05
 	**TOTAL 72.90gbp**
 
 
-## Tech Term #2<br>573.81gbp total
+## Tech Term #2
 
-- [ ] [ROG Ally](https://uk.webuy.com/product-detail?id=SHGPARARC71LNH001WB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=3C073C4700BB437ACEA2524787DFF67F&position=1) 340gbp"
-	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp"
-	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp"
-- [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp"
-- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
+- [ ] [ROG Ally](https://uk.webuy.com/product-detail?id=SHGPARARC71LNH001WB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=3C073C4700BB437ACEA2524787DFF67F&position=1) 340gbp
+	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
+	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
+- [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp
+- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>406.15gbp total
+## Figures Term #2
 
 - [ ] ##### The Pride of Universe 11
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
@@ -140,22 +135,16 @@ kanban-plugin: board
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
-## Figures Term #3<br>55.59gbp total
+## Figures Term #3
 
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
 
 
-***
 
-## Archive
-
-- [x] ![[photo 2.jpg]]
-	[MARVEL LEGENDS Retro Card Spider-Man 2099](https://forbiddenplanet.com/477215-spider-man-marvel-legends-retro-action-figure-spider-man-2099/) 24.99
-	(releases end of february)
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
