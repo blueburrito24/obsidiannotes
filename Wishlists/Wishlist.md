@@ -122,14 +122,14 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp"
 
 
-## Figures Term #2<br>419.67gbp total
+## Figures Term #2<br>406.15gbp total
 
 - [ ] ##### The Pride of Universe 11
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
 - [ ] ##### Stand-in Soul Reaper
 	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 80.18gbp
-	[SH FIGUARTS BLEACH THOUSAND YEAR BLOOD WAR "Dual Zangetsu Ver." Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html) 56.59gbp
-	**TOTAL 136.77gbp**
+	[SH FIGUARTS BLEACH THOUSAND YEAR BLOOD WAR (Bankai Tensazangetsu Ver.) Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/87261-shfiguarts-bleach-thousand-year-blood-war-ichigo-kurosaki-bankai-tensazangetsu-ver-bandai-spirits-.html) 43.07gbp
+	**TOTAL 123.25gbp**
 	*I haven't caught up so I will keep the second Ichigo body, but I mainly am buying it for more headsculpts and accessories*
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
