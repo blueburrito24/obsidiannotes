@@ -147,6 +147,9 @@ kanban-plugin: board
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
 - [ ] ##### Future Warrior
 	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp"
+	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 68.99gbp"
+	**TOTAL 120.94**
+	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
 - [ ] ##### Desperate Emperor
 	[DB TOYS Frieza Full Power](https://www.aliexpress.com/item/1005008720727183.html?) 33.69gbp"
 
