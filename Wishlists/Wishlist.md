@@ -133,14 +133,14 @@ kanban-plugin: board
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
-## Figures Term #3<br>176.48gbp total
+## Figures Term #3<br>169.52gbp total
 
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
 - [ ] ##### Future Warrior
-	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-trunks-future-16cm) 51.95gbp"
+	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 44.99gbp"
 	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 68.99gbp"
-	**TOTAL 120.94**
+	**TOTAL 113.98**
 	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
 
 
