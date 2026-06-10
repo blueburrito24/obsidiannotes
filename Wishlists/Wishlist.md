@@ -141,7 +141,7 @@ kanban-plugin: board
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
-## Figures Term #3<br>141.23gbp total
+## Figures Term #3<br>176.48gbp total
 
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
@@ -150,8 +150,6 @@ kanban-plugin: board
 	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 68.99gbp"
 	**TOTAL 120.94**
 	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
-- [ ] ##### Desperate Emperor
-	[DB TOYS Frieza Full Power](https://www.aliexpress.com/item/1005008720727183.html?) 33.69gbp"
 
 
 ***
