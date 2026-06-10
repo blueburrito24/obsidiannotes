@@ -14,6 +14,8 @@ kanban-plugin: board
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
 	[SKADIS IKEA Black Pegboard Shelf](https://www.ikea.com/gb/en/p/skadis-shelf-black-80569941/#content) 4gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
+- [ ] [KURIPAN Umamusume Oguri Cap Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04808204) 18.45gbp
+	[KURIPAN Umamusume Tamamo Cross Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-048082050) 18.45gbp
 - [ ] [Keyboard Desk Tray](https://amzn.eu/d/02NGrzUg) 32.56gbp
 - [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
@@ -138,7 +140,7 @@ kanban-plugin: board
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp"
 
 
-## Figures Term #3<br>169.52gbp total
+## Figures Term #3<br>55.59gbp total
 
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01C" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp"
