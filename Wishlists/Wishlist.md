@@ -69,6 +69,8 @@ kanban-plugin: board
 	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg, also need to repaint Air Recast facesculpt to be base form
 	I need to remove the scars on the Future Gohan faces so I can use it on Goku
 	Also I want to repaint the wide-eyed happy face from DKO SSJ Goku for base form*
+- [ ] ##### Master of Martial Arts Son Goku
+	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
@@ -101,10 +103,7 @@ kanban-plugin: board
 - [ ] ##### Kind-Hearted Super Saiyan
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
-- [ ] ##### Mystic Gohan
-	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50184522224&q=sh+figuarts+super+hero+gohan&p=1&pos=12) 37.85gbp
-	[BLACK HOLE TOYS Gohan headsculpts](https://www.aliexpress.com/item/1005010302160099.html?) 35.05
-	**TOTAL 72.90gbp**
+	**TOTAL 98.58**
 
 
 ## Tech Term #2
