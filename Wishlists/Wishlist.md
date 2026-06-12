@@ -100,11 +100,6 @@ kanban-plugin: board
 	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp
 	**TOTAL 101.99gbp**
 	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo*
-- [ ] ##### Future Warrior
-	[SH FIGUARTS DRAGON BALL Z "The Boy From the Future" Super Saiyan Trunks](https://www.nin-nin-game.com/en/dragon-ball/206197-shfiguarts-dragon-ball-z-super-saiyan-trunks-the-boy-from-the-future-2nd-reissue-bandai-spirits-.html) 44.99gbp
-	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 68.85gbp
-	**TOTAL 84.99gbp**
-	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
 
 
 ## Tech Term #2
