@@ -71,6 +71,10 @@ kanban-plugin: board
 	Also I want to repaint the wide-eyed happy face from DKO SSJ Goku for base form*
 - [ ] ##### Master of Martial Arts Son Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
+- [ ] ##### Kind-Hearted Super Saiyan
+	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
+	**TOTAL 98.58**
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
@@ -100,10 +104,6 @@ kanban-plugin: board
 	[TONSENARTTOYS "Warped Vengeance" Trunks 05B](https://www.aliexpress.com/item/1005010396951908.html?) 68.85gbp
 	**TOTAL 84.99gbp**
 	*Will use the TONSENARTTOYS upper body with the SHF headsculpts and lower body for a more size-accurate look*
-- [ ] ##### Kind-Hearted Super Saiyan
-	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
-	**TOTAL 98.58**
 
 
 ## Tech Term #2
