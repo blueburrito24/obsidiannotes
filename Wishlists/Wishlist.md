@@ -47,7 +47,7 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
-- [ ] [GMK87](https://www.aliexpress.com/item/1005006367831885.html?) 48.19gbp
+- [ ] [GMK87 White](https://www.aliexpress.com/item/1005006367831885.html?) 48.19gbp
 	[LEOBOG GRAYWOOD V4 Key switches 100pcs](https://www.aliexpress.com/item/1005009607951741.html) 16.31gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from USD)
 	**TOTAL 83.18gbp**
