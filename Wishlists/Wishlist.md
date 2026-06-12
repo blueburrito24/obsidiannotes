@@ -71,6 +71,7 @@ kanban-plugin: board
 	Also I want to repaint the wide-eyed happy face from DKO SSJ Goku for base form*
 - [ ] ##### Master of Martial Arts Son Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
+	*I will use the happy faces on the KHS Goku while the hairsculpt I'm not too fussed about, I can use the body with any Goku headsculpts I have*
 - [ ] ##### Kind-Hearted Super Saiyan
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
