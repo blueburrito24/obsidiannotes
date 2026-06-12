@@ -125,7 +125,7 @@ kanban-plugin: board
 	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 80.18gbp
 	[SH FIGUARTS BLEACH THOUSAND YEAR BLOOD WAR (Bankai Tensazangetsu Ver.) Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/87261-shfiguarts-bleach-thousand-year-blood-war-ichigo-kurosaki-bankai-tensazangetsu-ver-bandai-spirits-.html) 43.07gbp
 	**TOTAL 123.25gbp**
-	*I haven't caught up so I will keep the second Ichigo body, but I mainly am buying it for more headsculpts and accessories*
+	*I will use the Tensa Zangetsu headsculpts on the Getsuga Tensho body but I will keep both figures*
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp"
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp"
