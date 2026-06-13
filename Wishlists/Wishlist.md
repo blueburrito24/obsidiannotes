@@ -42,7 +42,7 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1
+## Tech Term #1<br>TOTAL 383.23GBP
 
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
@@ -59,7 +59,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1
+## Figures Term #1<br>TOTAL 577.73GBP
 
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
@@ -67,10 +67,14 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005008741018809.html?) 32.18gbp
 	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp
+	**TOTAL 72.08GBP**
+	[[Goku HA + SHF Kitbash.jpg]]
 	*I need to remove the scars on the Future Gohan faces so I can use it on Goku*
 - [ ] ##### Master of Martial Arts Son Goku
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
+	**TOTAL 118.64GBP**
+	[[Goku DKO + SHF Kitbash.png]]
 	*I will use the happy faces on the KHS Goku while the hairsculpt I'm not too fussed about, I can use the body with any Goku headsculpts I have
 	I can also use this figure's accessories interchangeably with KHS, plus the DKO heads*
 - [ ] ##### Earth's Reluctant Defender
@@ -78,6 +82,7 @@ kanban-plugin: board
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
 	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
+	**TOTAL 47.21GBP**
 	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body*
 	
 	[[Reference Collage for Vegeta's Suit.png]]
@@ -91,19 +96,30 @@ kanban-plugin: board
 	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 - [ ] ##### The Namekian With No Name
-	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-super-super-hero-s-h-figuarts-action-figure-piccolo-16cm-preorder) 29.95gbp
+	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
 	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp
-	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo*
+	[GSI Creos Ultra Fine Marker](https://amzn.eu/d/0flNqTbs) 6.95gbp
+	[Shangi Customisation Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 24.49gbp
+	**TOTAL 155.43GBP**
+	[[Piccolo + Nail Headsculpt.jpg]]
+	[[Piccolo + Shangi Cape.png]]
+	[[Piccolo + Nail Feet.png]]
+	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo
+	Also need to repaint the nails black on Nail's hands
+	I need to use the Ultra Fine marker to make the eyes face forward on Nail's shouting headsculpt
+	The cloth cape will replace the plastic cape and swap-out attachments included with Piccolo*
 - [ ] ##### The Hero From The Future
 	[TONSENARTTOYS "Warped Vengeance 05B" Trunks](https://www.aliexpress.com/item/1005011646960812.html?) 63.99gbp
 	[DEMONIACAL FIT "Free the Future" Trunks](https://www.aliexpress.com/item/1005010438867079.html?) 63.19gbp
 	[AIR STUDIO Trunks Headsculpts](https://www.aliexpress.com/item/1005011821417681.html?) 57.19gbp
+	**TOTAL 184.37GBP**
+	[[Trunks AIR + TONSENARTTOYS Kitbash.png]]
 	*I would use the AIR STUDIO and DF headsculpts on the Warped Vengeance body, but also if possible I would use the DF legs on the Warped Vengeance torso
 	Could also do with buying the SHF jacket torso loose for a swappable outfit*
 
 
-## Tech Term #2
+## Tech Term #2<br>TOTAL 573.81GBP
 
 - [ ] [ROG Ally](https://uk.webuy.com/product-detail?id=SHGPARARC71LNH001WB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=3C073C4700BB437ACEA2524787DFF67F&position=1) 340gbp
 	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
@@ -112,7 +128,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2
+## Figures Term #2<br>TOTAL 458.74GBP
 
 - [ ] ##### The Pride of Universe 11
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
@@ -121,10 +137,12 @@ kanban-plugin: board
 - [ ] ##### Stand-in Soul Reaper
 	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 80.18gbp
 	[SH FIGUARTS BLEACH THOUSAND YEAR BLOOD WAR (Bankai Tensazangetsu Ver.) Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/87261-shfiguarts-bleach-thousand-year-blood-war-ichigo-kurosaki-bankai-tensazangetsu-ver-bandai-spirits-.html) 43.07gbp
+	**TOTAL 123.25GBP**
 	*I will use the Tensa Zangetsu headsculpts on the Getsuga Tensho body but I will keep both figures*
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
+	**TOTAL 111.66GBP**
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### Street-Level Menace
