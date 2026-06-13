@@ -16,10 +16,10 @@ kanban-plugin: board
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [KURIPAN Umamusume Oguri Cap Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04808204) 18.45gbp
 	[KURIPAN Umamusume Tamamo Cross Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04691705) 19.48gbp
+- [ ] [Keyboard Desk Tray](https://amzn.eu/d/02NGrzUg) 32.56gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
-- [ ] [Keyboard Desk Tray](https://amzn.eu/d/02NGrzUg) 32.56gbp
 - [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] [NARUTO: Naruto's Story "Naruto Uzumaki and the Spiral Destiny"](https://www.amazon.co.uk/Naruto-Narutos-Story-Uzumaki-Spiral-Destiny/dp/1974732592?crid=1OI24G85GLASU&dib=eyJ2IjoiMSJ9.Z1VCOoq4tWKxJqZyyAWn0-2kvDY8KVJAcyoXkVyfQq-3-m2Xe6p6s39NDdFLOLZ6zzsijQstISdDZ7ET_12O6FgoDla5yWFhp9rgjs1oq_a4G_efcBKPUVJ1052w4PvB_Vruyt7Yk8n-WoKgU9aOTUjyNXdLsUFXxBn_MalDlnDMMgM73ebsPO91uLfbLvlwVNDk6t-ktjKxx1aS4hAYY2FOtygDSBntxdkJ9BW8hrs.lYRCI8DHjasD3YtJIIcpBh5ExZOlItX15oVCVZ9ybP8&dib_tag=se&keywords=Naruto+novel&qid=1779867163&sprefix=narut+novel%2Caps%2C188&sr=8-2) 7.99gbp
