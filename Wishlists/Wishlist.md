@@ -54,6 +54,8 @@ kanban-plugin: board
 	18.68gbp (converted from 25USD)
 	[LEOBOG GRAYWOOD V4 Key switches 100pcs](https://www.aliexpress.com/item/1005009607951741.html) 16.31gbp
 	^ use on my GMK87 White
+- [ ] [GMK67 White](https://www.aliexpress.com/item/1005005989586531.html) 43.59gbp
+	^ use my Silent Peach V3 switches and Akko keycaps
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
@@ -63,27 +65,21 @@ kanban-plugin: board
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
-	[Vegito/Goku Black Spirit Sword Accessory](https://www.aliexpress.com/item/1005008258003040.html?) 5.69gbp
 	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005008741018809.html?) 32.18gbp
 	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp
-	**TOTAL 87.77gbp**
-	*Sword accessory comes with a good greeting hand, just needs removing of the little ring and possible modification to fit on 4.0 hand peg, also need to repaint Air Recast facesculpt to be base form
-	I need to remove the scars on the Future Gohan faces so I can use it on Goku
-	Also I want to repaint the wide-eyed happy face from DKO SSJ Goku for base form*
+	*I need to remove the scars on the Future Gohan faces so I can use it on Goku*
 - [ ] ##### Master of Martial Arts Son Goku
-	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
-	*I will use the happy faces on the KHS Goku while the hairsculpt I'm not too fussed about, I can use the body with any Goku headsculpts I have*
-- [ ] ##### Kind-Hearted Super Saiyan
-	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
-	**TOTAL 98.58**
+	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
+	*I will use the happy faces on the KHS Goku while the hairsculpt I'm not too fussed about, I can use the body with any Goku headsculpts I have
+	I can also use this figure's accessories interchangeably with KHS, plus the DKO heads*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
 	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
 	**TOTAL 46.21gbp**
-	*Should use the official base-form Vegeta if it is available*
+	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body*
 	
 	[[Reference Collage for Vegeta's Suit.png]]
 	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
