@@ -47,12 +47,13 @@ kanban-plugin: board
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
-- [ ] [GMK87 White](https://www.aliexpress.com/item/1005006367831885.html?) 48.19gbp
+- [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
+	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
+	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
+- [ ] [Shadow White Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720474763)
+	18.68gbp (converted from 25USD)
 	[LEOBOG GRAYWOOD V4 Key switches 100pcs](https://www.aliexpress.com/item/1005009607951741.html) 16.31gbp
-	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from USD)
-	**TOTAL 83.18gbp**
-- [ ] [Shadow White Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720474763) 18.68gbp (converted from USD)
-	^ use on my GMK87
+	^ use on my GMK87 White
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
