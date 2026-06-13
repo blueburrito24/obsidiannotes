@@ -115,7 +115,7 @@ kanban-plugin: board
 	[AIR STUDIO Trunks Headsculpts](https://www.aliexpress.com/item/1005011821417681.html?) 57.19gbp
 	**TOTAL 184.37GBP**
 	[[Trunks AIR + TONSENARTTOYS Kitbash.png]]
-	*I would use the AIR STUDIO and DF headsculpts on the Warped Vengeance body, but also if possible I would use the DF legs on the Warped Vengeance torso
+	*I would use the AIR STUDIO and DF headsculpts on the Warped Vengeance body, but I also want to attempt to swap the TONSENARTTOYS and Demoniacal Fit legs from the thighs down, note that the Demoniacal Fit has smaller connectors so some adjusting will be needed with pliers
 	Could also do with buying the SHF jacket torso loose for a swappable outfit*
 
 
