@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [KURIPAN Umamusume Oguri Cap Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04808204) 18.45gbp
 	[KURIPAN Umamusume Tamamo Cross Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04691705) 19.48gbp
+- [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 - [ ] [Keyboard Desk Tray](https://amzn.eu/d/02NGrzUg) 32.56gbp
 - [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
