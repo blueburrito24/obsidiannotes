@@ -118,7 +118,8 @@ kanban-plugin: board
 	[AIR STUDIO Trunks Headsculpts](https://www.aliexpress.com/item/1005011821417681.html?) 57.19gbp
 	**TOTAL 184.37GBP**
 	[[Trunks AIR + TONSENARTTOYS Kitbash.png]]
-	*I would use the AIR STUDIO and DF headsculpts on the Warped Vengeance body, but I also want to attempt to swap the TONSENARTTOYS and Demoniacal Fit legs from the thighs down, note that the Demoniacal Fit has smaller connectors so some adjusting will be needed with pliers
+	[[TONSENARTTOYS Trunks + DF Legs.jpg]]
+	*I would use the AIR STUDIO and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height
 	Could also do with buying the SHF jacket torso loose for a swappable outfit
 	The leftover Demoniacal Fit torso may be good for my custom Vegeta, it has more range and if it fits I just need to resculpt it to have wider parts on the traps and repaint it to match the body*
 
