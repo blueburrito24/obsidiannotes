@@ -122,7 +122,7 @@ kanban-plugin: board
 	[[Trunks AIR + TONSENARTTOYS Kitbash.png]]
 	[[TONSENARTTOYS Trunks + DF Legs.jpg]]
 	[[TONSENARTTOYS Trunks 06B Torso.jpg]]
-	*I would use the AIR STUDIO and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height
+	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height
 	Would use the 06B torso piece as a swappable accessory for my Trunks, the arms would be good for my Buu Saga Vegeta custom (I would saw off the gloves from the Dangerous Pride arms and saw off part of the TONSENARTTOYS arms and attach them together) alongside the Demoniacal Fit leftover torso*
 
 
