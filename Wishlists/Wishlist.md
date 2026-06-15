@@ -123,7 +123,7 @@ kanban-plugin: board
 	The leftover Demoniacal Fit torso may be good for my custom Vegeta, it has more range and if it fits I just need to resculpt it to have wider parts on the traps and repaint it to match the body*
 - [ ] ###### Undecided
 	[TONSENARTTOYS 06B "Warped Vengeance" Bojack Movie Trunks](https://www.mercari.com/us/item/m53618295123/?ref=search_results) 35.91GBP
-	^ Would use the torso piece as a swappable accessory for my Trunks, the arms would be good for my Buu Saga Vegeta custom (I would saw off the gloves from the Dangerous Pride arms and make them into floating pieces for these arms)
+	^ Would use the torso piece as a swappable accessory for my Trunks, the arms would be good for my Buu Saga Vegeta custom (I would saw off the gloves from the Dangerous Pride arms and saw off part of the TONSENARTTOYS arms and attach them together)
 
 
 ## Tech Term #2<br>TOTAL 573.81GBP
