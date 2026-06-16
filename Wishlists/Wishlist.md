@@ -81,27 +81,9 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	**TOTAL 149.75GBP**
 	[[Goku DKO + SHF Kitbash.png]]
-	[[Goku GB.jpg]]
+	[[Goku DKO + GB.jpg]]
 	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside the DKO SSJ headsculpts on KHS and the BSM body
 	DKO SSJ looks good on both the KHS and GB bodies so I want to use both*
-- [ ] ##### Earth's Reluctant Defender
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
-	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
-	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
-	**TOTAL 47.21GBP**
-	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body*
-	
-	[[Reference Collage for Vegeta's Suit.png]]
-	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
-	
-	>[!Custom Details]+
-	> - Remove trap supports from Vegeta
-	 > - shave down torso sides for V-taper look
-	> - resculpt the torso to have a leotard look (make sure the shoulder area is wide like the reference)
-	> - disassemble arms and torso to wash and sand down for paint-rub prevention
-	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
-	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
@@ -127,7 +109,32 @@ kanban-plugin: board
 	[[TONSENARTTOYS Trunks + DF Legs.jpg]]
 	[[TONSENARTTOYS Trunks 06B Torso.jpg]]
 	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed with eraser marker) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height
-	Would use the 06B torso piece as a swappable accessory for my Trunks, the arms would be good for my Buu Saga Vegeta custom (I would saw off the gloves from the Dangerous Pride arms and saw off part of the TONSENARTTOYS arms and attach them together) alongside the Demoniacal Fit leftover torso*
+	Would use the 06B torso piece as a swappable accessory for my Trunks, the arms would be good for my Buu Saga Vegeta custom*
+- [ ] ##### Earth's Reluctant Defender
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
+	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
+	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
+	**TOTAL 47.21GBP**
+	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body*
+	
+	[[Reference Collage for Vegeta's Suit.png]]
+	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
+	
+	>[!Custom details]-
+	> - Saw off part of the forearms from the TONSENARTTOYS 06B Trunks arms and saw off the gloves from the DP Vegeta arms, attach them together with superglue
+	> - Attach TONSENARTTOYS 06B Trunks arms to DF Trunks torso, check if it fits on DP Vegeta legs
+	> - Repaint DF Trunks torso to match the blue of the DP Vegeta legs, resculpt traps if necessary
+	> - Heat up neck and remove DF Trunks neck-joint, replace with neck-joint from DP Vegeta
+	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
+	
+	>[!What to do without Trunks parts]-
+	> - Remove trap supports from Vegeta
+	 > - shave down torso sides for V-taper look
+	> - resculpt the torso to have a leotard look (make sure the shoulder area is wide like the reference)
+	> - disassemble arms and torso to wash and sand down for paint-rub prevention
+	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
+	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 
 
 ## Tech Term #2<br>TOTAL 573.81GBP
