@@ -62,23 +62,19 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 662.17GBP
+## Figures Term #1<br>TOTAL 628.15GBP
 
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
-	[HA TOYS Future Gohan Headsculpts](https://www.aliexpress.com/item/1005008741018809.html?) 32.18gbp
-	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp
-	**TOTAL 72.08GBP**
-	[[Goku HA + SHF Kitbash.jpg]]
-	*I need to remove the scars on the Future Gohan faces so I can use it on Goku*
 - [ ] ##### Master of Martial Arts Son Goku
-	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005008236317538.html?) 65.63gbp
+	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005012142574050.html?) 63.79gbp
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	**TOTAL 151.59GBP**
+	**TOTAL 149.75GBP**
 	[[Goku DKO + SHF Kitbash.png]]
+	[[Goku GB.jpg]]
 	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside the DKO SSJ headsculpts on KHS and the BSM body
 	DKO SSJ looks good on both the KHS and GB bodies so I want to use both*
 - [ ] ##### Earth's Reluctant Defender
@@ -118,11 +114,12 @@ kanban-plugin: board
 	[DEMONIACAL FIT "Free the Future" Trunks](https://www.aliexpress.com/item/1005010438867079.html?) 63.19gbp
 	[AIR STUDIO Trunks Headsculpts](https://www.aliexpress.com/item/1005011821417681.html?) 57.19gbp
 	[TONSENARTTOYS 06B "Unbound Wrath" Bojack Movie Trunks](https://www.mercari.com/us/item/m53618295123/?ref=search_results) 35.91GBP
-	**TOTAL 220.28GBP**
+	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp
+	**TOTAL 228.23GBP**
 	[[Trunks AIR + TONSENARTTOYS Kitbash.png]]
 	[[TONSENARTTOYS Trunks + DF Legs.jpg]]
 	[[TONSENARTTOYS Trunks 06B Torso.jpg]]
-	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height
+	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed with eraser marker) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height
 	Would use the 06B torso piece as a swappable accessory for my Trunks, the arms would be good for my Buu Saga Vegeta custom (I would saw off the gloves from the Dangerous Pride arms and saw off part of the TONSENARTTOYS arms and attach them together) alongside the Demoniacal Fit leftover torso*
 
 
@@ -135,17 +132,14 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 458.74GBP
+## Figures Term #2<br>TOTAL 363.44GBP
 
 - [ ] ##### The Pride of Universe 11
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01B" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp
-- [ ] ##### Stand-in Soul Reaper
-	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 80.18gbp
-	[SH FIGUARTS BLEACH THOUSAND YEAR BLOOD WAR (Bankai Tensazangetsu Ver.) Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/87261-shfiguarts-bleach-thousand-year-blood-war-ichigo-kurosaki-bankai-tensazangetsu-ver-bandai-spirits-.html) 43.07gbp
-	**TOTAL 123.25GBP**
-	*I will use the Tensa Zangetsu headsculpts on the Getsuga Tensho body but I will keep both figures*
+- [ ] ##### Lowly Emperor
+	[SH FIGUARTS DRAGON BALL Z "Universe's Bottomless Power" Frieza](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-frieza-4th-form-universe-bottomless-power-12cm) 27.95gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
