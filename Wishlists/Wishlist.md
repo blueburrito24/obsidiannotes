@@ -64,7 +64,6 @@ kanban-plugin: board
 
 ## Figures Term #1<br>TOTAL 651.13GBP
 
-- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
 	*^ for these boxes, I would make use of the black foam I have in my wardrobe for cushioning
@@ -73,6 +72,7 @@ kanban-plugin: board
 	I will still keep all my figure boxes though for safekeeping*
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 	*^ just like the boxes, I would use foam to cushion these, however I will use the pencil case when I need a lighter storage option e.g., if I'm not going out with a big bag*
+- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 - [ ] ##### Master of Martial Arts Son Goku
@@ -146,7 +146,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 363.44GBP
+## Figures Term #2<br>TOTAL 501.16GBP
 
 - [ ] ##### The Pride of Universe 11
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
@@ -162,6 +162,16 @@ kanban-plugin: board
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### Street-Level Menace
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
+- [ ] [GM STUDIO SSJ Broly](https://www.aliexpress.com/item/1005010671316604.html?) 75.59gbp
+	[MP STUDIO Broly Headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 49.07gbp
+	[Vallejo Black Wash](https://amzn.eu/d/0gOrmL9j) 6.86gbp
+	[Vallejo Violet Wash](https://amzn.eu/d/03RTgZ8f) 3.10gbp
+	[Vallejo Flesh Wash](https://amzn.eu/d/0f9I574U) 3.10gbp
+	**TOTAL 137.72GBP**
+	[[Broly MP + GM.jpg]]
+	*^ I will shade the skin with flesh wash, skirt with violet wash and pants with black wash*
+	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
+	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
 
 
 
