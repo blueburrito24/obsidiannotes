@@ -45,9 +45,10 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>TOTAL 383.23GBP
+## Tech Term #1<br>TOTAL 403.72GBP
 
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
+	[Headphone DAC](https://www.aliexpress.com/item/1005007575076036.html?) 20.49gbp
 - [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
 	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
@@ -62,7 +63,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 654.52GBP
+## Figures Term #1<br>TOTAL 659.54GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -73,6 +74,7 @@ kanban-plugin: board
 	I will still keep all my figure boxes though for safekeeping*
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 	*^ just like the boxes, I would use foam to cushion these, however I will use the pencil case when I need a lighter storage option e.g., if I'm not going out with a big bag*
+- [ ] [Painting clamp stand](https://amzn.eu/d/0bjDQKJK) 5.02gbp
 - [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
@@ -179,10 +181,17 @@ kanban-plugin: board
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 
 
+## Tech Term #3<br>TOTAL 1,439.99GBP
+
+- [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
+	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
+- [ ] [MacBook Air 13-Inch M2, Midnight, 16GB, 512GB](https://www.hoxtonmacs.co.uk/products/macbook-air-13-inch-m2-midnight-2022-good?variant=45599961415996) 675gbp
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,true,false,false],"show-checkboxes":false}
 ```
 %%
