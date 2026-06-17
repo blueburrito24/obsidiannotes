@@ -62,10 +62,11 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 651.13GBP
+## Figures Term #1<br>TOTAL 654.52GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
+	[Small containers for accessories](https://amzn.eu/d/0aiK5t2b) 3.39gbp
 	*^ for these boxes, I would make use of the black foam I have in my wardrobe for cushioning
 	I will likely use these boxes to store my custom Trunks, Goku with all his accessories and Vegeta
 	I could also make custom graphics and print them off to stick onto the boxes
@@ -146,8 +147,10 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 506.61GBP
+## Figures Term #2<br>TOTAL 561.56GBP
 
+- [ ] ##### Strongest Earthling
+	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
 - [ ] ##### The Pride of Universe 11
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
 - [ ] ##### Revered Hypocrite
