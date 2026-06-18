@@ -45,7 +45,7 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>TOTAL 403.72GBP
+## Tech Term #1<br>TOTAL 422.40GBP
 
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 	[Headphone DAC](https://www.aliexpress.com/item/1005007575076036.html?) 20.49gbp
@@ -59,7 +59,8 @@ kanban-plugin: board
 	[LEOBOG GRAYWOOD V4 Key switches 100pcs](https://www.aliexpress.com/item/1005009607951741.html) 16.31gbp
 	^ use on my GMK87 White
 - [ ] [GMK67 White](https://www.aliexpress.com/item/1005005989586531.html) 43.59gbp
-	^ use my Silent Peach V3 switches and Akko keycaps
+	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
+	^ use my Silent Peach V3 switches
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
@@ -146,12 +147,10 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 533.41GBP
+## Figures Term #2<br>TOTAL 459.91GBP
 
 - [ ] ##### Strongest Earthling
 	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
-- [ ] ##### The Pride of Universe 11
-	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01B" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp
 - [ ] ##### Legendary Sage of Wrath Broly
@@ -187,6 +186,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,true,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,false,true,false,false],"show-checkboxes":false}
 ```
 %%
