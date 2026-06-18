@@ -64,7 +64,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 626.59GBP
+## Figures Term #1<br>TOTAL 657.70GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -80,11 +80,11 @@ kanban-plugin: board
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 - [ ] ##### Master of Martial Arts Son Goku
-	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005012142574050.html?) 63.79gbp
+	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
+	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
-	**TOTAL 116.80GBP**
-	[[Goku DKO + SHF Kitbash.png]]
-	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside the DKO SSJ headsculpts on KHS and the BSM body*
+	**TOTAL 147.91GBP**
+	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
