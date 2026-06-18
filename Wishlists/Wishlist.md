@@ -149,7 +149,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 561.56GBP
+## Figures Term #2<br>TOTAL 533.41GBP
 
 - [ ] ##### Strongest Earthling
 	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
@@ -157,8 +157,6 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL SUPER Jiren](https://www.ebay.co.uk/itm/157968007774?) 73.50gbp
 - [ ] ##### Revered Hypocrite
 	[DIMENSIONIA WORKS "God Rebel 01B" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp
-- [ ] ##### Lowly Emperor
-	[SH FIGUARTS DRAGON BALL Z "Universe's Bottomless Power" Frieza](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-frieza-4th-form-universe-bottomless-power-12cm) 27.95gbp
 - [ ] ##### Legendary Sage of Wrath Broly
 	[GM STUDIO SSJ Broly](https://www.aliexpress.com/item/1005010671316604.html?) 75.59gbp
 	[MP STUDIO Broly Headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 49.07gbp
@@ -168,7 +166,7 @@ kanban-plugin: board
 	[Vallejo Flesh Wash](https://amzn.eu/d/0f9I574U) 3.10gbp
 	**TOTAL 143.17GBP**
 	[[Broly MP + GM.jpg]]
-	*^ I will shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
+	*^ I will wash and scrub the figure then shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
