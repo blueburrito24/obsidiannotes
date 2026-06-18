@@ -64,7 +64,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 659.54GBP
+## Figures Term #1<br>TOTAL 626.59GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -82,12 +82,9 @@ kanban-plugin: board
 - [ ] ##### Master of Martial Arts Son Goku
 	[DKO X RE "The Last Duel" Super Saiyan Son Goku Headsculpts](https://www.aliexpress.com/item/1005012142574050.html?) 63.79gbp
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
-	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	**TOTAL 149.75GBP**
+	**TOTAL 116.80GBP**
 	[[Goku DKO + SHF Kitbash.png]]
-	[[Goku DKO + GB.jpg]]
-	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside the DKO SSJ headsculpts on KHS and the BSM body
-	DKO SSJ looks good on both the KHS and GB bodies so I want to use both*
+	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside the DKO SSJ headsculpts on KHS and the BSM body*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
@@ -106,22 +103,21 @@ kanban-plugin: board
 	[TONSENARTTOYS "Warped Vengeance 05B" Trunks](https://www.aliexpress.com/item/1005011646960812.html?) 63.99gbp
 	[DEMONIACAL FIT "Free the Future" Trunks](https://www.aliexpress.com/item/1005010438867079.html?) 63.19gbp
 	[AIR STUDIO Trunks Headsculpts](https://www.aliexpress.com/item/1005011821417681.html?) 57.19gbp
-	[TONSENARTTOYS 06B "Unbound Wrath" Bojack Movie Trunks](https://www.mercari.com/us/item/m53618295123/?ref=search_results) 35.91GBP
 	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp
-	**TOTAL 228.23GBP**
+	**TOTAL 192.32GBP**
 	[[Trunks AIR + TONSENARTTOYS Kitbash.png]]
 	[[TONSENARTTOYS Trunks + DF Legs.jpg]]
-	[[TONSENARTTOYS Trunks 06B Torso.jpg]]
-	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed with eraser marker) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height
-	Would use the 06B torso piece as a swappable accessory for my Trunks, the arms would be good for my Buu Saga Vegeta custom*
+	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed with eraser marker) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	[TONSENARTTOYS 06B "Unbound Wrath" Bojack Movie Trunks](https://www.mercari.com/us/item/m53618295123/?ref=search_results) 35.91GBP
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
 	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
-	**TOTAL 47.21GBP**
-	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body*
+	**TOTAL 83.12GBP**
+	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body, also I would use the torso with my Trunks custom as a swappable piece*
 	
+	[[TONSENARTTOYS Trunks 06B Torso.jpg]]
 	[[Reference Collage for Vegeta's Suit.png]]
 	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
 	
