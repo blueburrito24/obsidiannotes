@@ -140,12 +140,9 @@ kanban-plugin: board
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 
 
-## Tech Term #2<br>TOTAL 573.81GBP
+## Tech Term #2<br>TOTAL 103.34GBP
 
-- [ ] [ROG Ally](https://uk.webuy.com/product-detail?id=SHGPARARC71LNH001WB&categoryName=HANDHELD-GAMING-PCS&superCatName=COMPUTING&title=&queryID=3C073C4700BB437ACEA2524787DFF67F&position=1) 340gbp
-	[JSAUX Dock](https://www.amazon.co.uk/dp/B0B9QVZB86/?) 19.99gbp
-	[Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-- [ ] [DREO TurboPoly 508S Fan](https://amzn.eu/d/0hdpub3Z) 110.48gbp
+- [ ] [Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
