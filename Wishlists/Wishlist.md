@@ -64,7 +64,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 572.64GBP
+## Figures Term #1<br>TOTAL 561.55GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -76,7 +76,6 @@ kanban-plugin: board
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 	*^ just like the boxes, I would use foam to cushion these, however I will use the pencil case when I need a lighter storage option e.g., if I'm not going out with a big bag*
 - [ ] [Painting clamp stand](https://amzn.eu/d/0bjDQKJK) 5.02gbp
-- [ ] [Nono Custom 3.0-Games Begin adapter pegs 6pcs](https://www.aliexpress.com/item/1005010687235775.html) 11.09gbp
 - [ ] ##### The World's Strongest
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 - [ ] ##### Master of Martial Arts Son Goku
