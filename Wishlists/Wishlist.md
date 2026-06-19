@@ -64,7 +64,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 542.51GBP
+## Figures Term #1<br>TOTAL 518.02GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -76,27 +76,22 @@ kanban-plugin: board
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 	*^ just like the boxes, I would use foam to cushion these, however I will use the pencil case when I need a lighter storage option e.g., if I'm not going out with a big bag*
 - [ ] [Painting clamp stand](https://amzn.eu/d/0bjDQKJK) 5.02gbp
-- [ ] ##### The World's Strongest
-	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 - [ ] ##### Master of Martial Arts Son Goku
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
-	**TOTAL 147.91GBP**
-	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB
-	I will use the KO LSSJ Goku facesculpts with the FOR hairsculpt, and I can keep the KO since it's decent, also need to buy sh_figuposes barbell neck for each Goku figure
+	**TOTAL 179.86GBP**
+	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure
 	I want to resell the FOR body for 40gbp~*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
-	[Shangi Customisation Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 24.49gbp
-	**TOTAL 136.39GBP**
+	**TOTAL 111.90GBP**
 	[[Piccolo + Nail Headsculpt.jpg]]
-	[[Piccolo + Shangi Cape.png]]
 	[[Piccolo + Nail Feet.png]]
 	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible), alongside swapping the heads from Nail onto Piccolo
-	Also need to repaint the nails black on Nail's hands
-	The cloth cape will replace the plastic cape and swap-out attachments included with Piccolo*
+	Also need to repaint the nails black on Nail's hands*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
