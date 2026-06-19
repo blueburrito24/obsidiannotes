@@ -64,13 +64,13 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 621.79GBP
+## Figures Term #1<br>TOTAL 572.64GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
 	[Small containers for accessories](https://amzn.eu/d/0aiK5t2b) 3.39gbp
 	*^ for these boxes, I would make use of the black foam I have in my wardrobe for cushioning
-	I will likely use these boxes to store my custom Trunks, Goku with all his accessories and Vegeta
+	I will likely use these boxes to store my Goku with all his accessories, Piccolo and Vegeta
 	I could also make custom graphics and print them off to stick onto the boxes
 	I will still keep all my figure boxes though for safekeeping*
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
@@ -99,15 +99,6 @@ kanban-plugin: board
 	Also need to repaint the nails black on Nail's hands
 	I need to use the Ultra Fine marker to make the eyes face forward on Nail's shouting headsculpt
 	The cloth cape will replace the plastic cape and swap-out attachments included with Piccolo*
-- [ ] ##### The Hero From The Future
-	[TONSENARTTOYS "Warped Vengeance 05B" Trunks](https://www.aliexpress.com/item/1005011646960812.html?) 63.99gbp
-	[DEMONIACAL FIT "Free the Future" Trunks](https://www.aliexpress.com/item/1005010438867079.html?) 63.19gbp
-	[AIR STUDIO Trunks Headsculpts](https://www.aliexpress.com/item/1005011821417681.html?) 57.19gbp
-	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/00rpyjEE) 7.95gbp
-	**TOTAL 192.32GBP**
-	[[Trunks AIR + TONSENARTTOYS Kitbash.png]]
-	[[TONSENARTTOYS Trunks + DF Legs.jpg]]
-	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed with eraser marker) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
@@ -125,21 +116,6 @@ kanban-plugin: board
 	> - disassemble arms and torso to wash and sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
-
-
-## Tech Term #2<br>TOTAL 213.81GBP
-
-- [ ] [Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
-- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
-- [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
-
-
-## Figures Term #2<br>TOTAL 459.91GBP
-
-- [ ] ##### Strongest Earthling
-	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
-- [ ] ##### Revered Hypocrite
-	[DIMENSIONIA WORKS "God Rebel 01B" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp
 - [ ] ##### Legendary Sage of Wrath Broly
 	[GM STUDIO SSJ Broly](https://www.aliexpress.com/item/1005010671316604.html?) 75.59gbp
 	[MP STUDIO Broly Headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 49.07gbp
@@ -152,6 +128,21 @@ kanban-plugin: board
 	*^ I will wash and scrub the figure then shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
+
+
+## Tech Term #2<br>TOTAL 213.81GBP
+
+- [ ] [Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
+- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
+- [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
+
+
+## Figures Term #2<br>TOTAL 316.74GBP
+
+- [ ] ##### Strongest Earthling
+	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
+- [ ] ##### Revered Hypocrite
+	[DIMENSIONIA WORKS "God Rebel 01B" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
