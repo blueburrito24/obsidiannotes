@@ -64,11 +64,11 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 561.55GBP
+## Figures Term #1<br>TOTAL 542.51GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
-	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
-	[Small containers for accessories](https://amzn.eu/d/0aiK5t2b) 3.39gbp
+	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
+	[Small containers for accessories 6pcs](https://amzn.eu/d/0aiK5t2b) 3.39gbp
 	*^ for these boxes, I would make use of the black foam I have in my wardrobe for cushioning
 	I will likely use these boxes to store my Goku with all his accessories, Piccolo and Vegeta
 	I could also make custom graphics and print them off to stick onto the boxes
@@ -83,20 +83,19 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
 	**TOTAL 147.91GBP**
-	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB*
+	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB
+	I will use the KO LSSJ Goku facesculpts with the FOR hairsculpt, and I can keep the KO since it's decent
+	I want to resell the FOR body for 40gbp~*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
-	[36pcs acrylic marker set](https://www.aliexpress.com/item/1005008365305510.html?) 12.09gbp
-	[GSI Creos Ultra Fine Marker](https://amzn.eu/d/0flNqTbs) 6.95gbp
 	[Shangi Customisation Cloth Cape](https://www.aliexpress.com/item/1005008109291722.html?) 24.49gbp
-	**TOTAL 155.43GBP**
+	**TOTAL 136.39GBP**
 	[[Piccolo + Nail Headsculpt.jpg]]
 	[[Piccolo + Shangi Cape.png]]
 	[[Piccolo + Nail Feet.png]]
-	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible) then repaint all the pink areas to be yellow using acrylic marker 321, alongside swapping the heads from Nail onto Piccolo
+	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible), alongside swapping the heads from Nail onto Piccolo
 	Also need to repaint the nails black on Nail's hands
-	I need to use the Ultra Fine marker to make the eyes face forward on Nail's shouting headsculpt
 	The cloth cape will replace the plastic cape and swap-out attachments included with Piccolo*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
@@ -152,11 +151,10 @@ kanban-plugin: board
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 
 
-## Tech Term #3<br>TOTAL 1,439.99GBP
+## Tech Term #3<br>TOTAL 764.99GBP
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
-- [ ] [MacBook Air 13-Inch M2, Midnight, 16GB, 512GB](https://www.hoxtonmacs.co.uk/products/macbook-air-13-inch-m2-midnight-2022-good?variant=45599961415996) 675gbp
 
 
 
