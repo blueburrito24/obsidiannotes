@@ -64,7 +64,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 657.70GBP
+## Figures Term #1<br>TOTAL 621.79GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -110,25 +110,15 @@ kanban-plugin: board
 	*I would use the AIR STUDIO (neutral facesculpt needs the plaster removed with eraser marker) and DF headsculpts on the Warped Vengeance body, but I also want to swap the connector piece from the Demoniacal Fit abdomen piece onto the TONSENARTTOYS abdomen piece for a more accurate height*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-	[TONSENARTTOYS 06B "Unbound Wrath" Bojack Movie Trunks](https://www.mercari.com/us/item/m53618295123/?ref=search_results) 35.91GBP
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
 	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
-	**TOTAL 83.12GBP**
-	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body, also I would use the torso with my Trunks custom as a swappable piece*
+	**TOTAL 47.21GBP**
+	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body*
 	
-	[[TONSENARTTOYS Trunks 06B Torso.jpg]]
-	[[Reference Collage for Vegeta's Suit.png]]
 	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
 	
 	>[!Custom details]-
-	> - Saw off part of the forearms from the TONSENARTTOYS 06B Trunks arms and saw off the gloves from the DP Vegeta arms, attach them together with superglue
-	> - Attach TONSENARTTOYS 06B Trunks arms to DF Trunks torso, check if it fits on DP Vegeta legs
-	> - Repaint DF Trunks torso to match the blue of the DP Vegeta legs, resculpt traps if necessary
-	> - Heat up neck and remove DF Trunks neck-joint, replace with neck-joint from DP Vegeta
-	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
-	
-	>[!What to do without Trunks parts]-
 	> - Remove trap supports from Vegeta
 	 > - shave down torso sides for V-taper look
 	> - resculpt the torso to have a leotard look (make sure the shoulder area is wide like the reference)
@@ -137,10 +127,11 @@ kanban-plugin: board
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 
 
-## Tech Term #2<br>TOTAL 103.34GBP
+## Tech Term #2<br>TOTAL 213.81GBP
 
 - [ ] [Amazon Basics Speakers](https://amzn.eu/d/092tvuEW) 13.35gbp
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
+- [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
 ## Figures Term #2<br>TOTAL 459.91GBP
