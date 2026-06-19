@@ -84,7 +84,7 @@ kanban-plugin: board
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
 	**TOTAL 147.91GBP**
 	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB
-	I will use the KO LSSJ Goku facesculpts with the FOR hairsculpt, and I can keep the KO since it's decent
+	I will use the KO LSSJ Goku facesculpts with the FOR hairsculpt, and I can keep the KO since it's decent, also need to buy sh_figuposes barbell neck for each Goku figure
 	I want to resell the FOR body for 40gbp~*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
@@ -103,7 +103,7 @@ kanban-plugin: board
 	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
 	**TOTAL 47.21GBP**
-	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body*
+	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body, also need to buy sh_figuposes barbell neck*
 	
 	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
 	
@@ -114,6 +114,7 @@ kanban-plugin: board
 	> - disassemble arms and torso to wash and sand down for paint-rub prevention
 	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
+	> - slightly resculpt ssj hairsculpt to not have hatch lines similar to fighter of rage Goku
 - [ ] ##### Legendary Sage of Wrath Broly
 	[GM STUDIO SSJ Broly](https://www.aliexpress.com/item/1005010671316604.html?) 75.59gbp
 	[MP STUDIO Broly Headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 49.07gbp
