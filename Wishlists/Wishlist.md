@@ -67,6 +67,7 @@ kanban-plugin: board
 
 ## Figures Term #1<br>TOTAL 518.02GBP
 
+- [ ] Note, I will sell the FOR, BSM bodies and Nail torso to Tugboat for 100USD aka 75GBP~
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
 	[Small containers for accessories 6pcs](https://amzn.eu/d/0aiK5t2b) 3.39gbp
@@ -84,7 +85,7 @@ kanban-plugin: board
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
 	**TOTAL 179.86GBP**
 	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure
-	I want to resell the FOR body for 40gbp~*
+	Will sell FOR and BSM Blackshark bodies and hands to Tugboat*
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
@@ -92,7 +93,8 @@ kanban-plugin: board
 	[[Piccolo + Nail Headsculpt.jpg]]
 	[[Piccolo + Nail Feet.png]]
 	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible), alongside swapping the heads from Nail onto Piccolo
-	Also need to repaint the nails black on Nail's hands*
+	Also need to repaint the nails black on Nail's hands
+	Will sell torso and hands to Tugboat*
 - [ ] ##### Earth's Reluctant Defender
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
