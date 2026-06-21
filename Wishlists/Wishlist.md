@@ -67,7 +67,7 @@ kanban-plugin: board
 
 ## Figures Term #1<br>TOTAL 518.02GBP
 
-- [ ] Note, I will sell the FOR, BSM bodies and Nail torso to Tugboat for 100USD aka 75GBP~
+- [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
 	[Small containers for accessories 6pcs](https://amzn.eu/d/0aiK5t2b) 3.39gbp
