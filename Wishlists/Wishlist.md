@@ -65,7 +65,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 496.47GBP
+## Figures Term #1<br>TOTAL 518.02GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -112,13 +112,13 @@ kanban-plugin: board
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 	> - slightly resculpt ssj hairsculpt to not have hatch lines similar to fighter of rage Goku
 - [ ] ##### Legendary Sage of Wrath Broly
-	[CorToys BD Broly KO](https://www.aliexpress.com/item/1005012482696921.html?) 54.04gbp
+	[GM STUDIO SSJ Broly](https://www.aliexpress.com/item/1005010671316604.html?) 75.59gbp
 	[MP STUDIO Broly Headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 49.07gbp
 	[SH_FIGUPOSES Extender Neck Peg 3pcs](https://www.ebay.co.uk/itm/317435568524) 5.45gbp
 	[Vallejo Black Wash](https://amzn.eu/d/0gOrmL9j) 6.86gbp
 	[Vallejo Violet Wash](https://amzn.eu/d/03RTgZ8f) 3.10gbp
 	[Vallejo Flesh Wash](https://amzn.eu/d/0f9I574U) 3.10gbp
-	**TOTAL 121.62GBP**
+	**TOTAL 143.17GBP**
 	[[Broly MP + CorToys.jpg]]
 	*^ I will wash and scrub the figure then shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
