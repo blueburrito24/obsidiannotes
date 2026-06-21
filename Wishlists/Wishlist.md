@@ -151,7 +151,7 @@ kanban-plugin: board
 	*^ I'd keep both but I would like to use the Tensa Zangetsu faceplates on the Getsuga Tensho Ichigo*
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-- [ ] ##### An Avenger's Worst Ally
+- [ ] ##### An Avenger's Worst Allies
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.nin-nin-game.com/en/shfiguarts/219400-shfiguarts-marvel-gamerverse-wolverine-bandai-spirits-.html) 63.61gbp
 
