@@ -119,7 +119,7 @@ kanban-plugin: board
 	[Vallejo Violet Wash](https://amzn.eu/d/03RTgZ8f) 3.10gbp
 	[Vallejo Flesh Wash](https://amzn.eu/d/0f9I574U) 3.10gbp
 	**TOTAL 143.17GBP**
-	[[Broly MP + CorToys.jpg]]
+	[[Broly MP + GM.jpg]]
 	*^ I will wash and scrub the figure then shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
