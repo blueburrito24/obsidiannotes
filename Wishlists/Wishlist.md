@@ -9,10 +9,11 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
-- [ ] [SKADIS IKEA Black Pegboard](https://www.ikea.com/gb/en/p/skadis-pegboard-white-50320805/#content) 10gbp
-	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
-	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
-	[SKADIS IKEA Black Pegboard Shelf](https://www.ikea.com/gb/en/p/skadis-shelf-black-80569941/#content) 4gbp
+- [ ] [SANDSHULT IKEA Bookshelf](https://www.ikea.com/gb/en/p/bergshult-sandshult-wall-shelf-brown-black-aspen-s99326014/) 29gbp
+	[KROKSHULT IKEA Shelf bracket](https://www.ikea.com/gb/en/p/krokshult-bracket-anthracite-40399903/) 12gbp for 3pcs
+	[DIGNITET IKEA curtain rack](https://www.ikea.com/gb/en/p/dignitet-curtain-wire-stainless-steel-60075295/) 15gbp
+	[Curtains 152x137cm](https://www.amazon.co.uk/dp/B0D95BX37G?) 10.99gbp
+	^ curtain setup to cover two bookshelves of books and figure boxes when praying
 - [ ] [Clear wired stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.36gbp per piece
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [KURIPAN Umamusume Oguri Cap Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04808204) 18.45gbp
