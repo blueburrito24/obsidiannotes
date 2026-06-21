@@ -13,6 +13,7 @@ kanban-plugin: board
 	[SKADIS IKEA Pegboard screw kit](https://www.ikea.com/gb/en/p/trixig-175-piece-screw-and-plug-set-50546908/) 6gbp
 	[SKADIS IKEA Black Pegboard hooks](https://www.ikea.com/gb/en/p/skadis-hook-white-50335618/) 1gbp for a 2 pack
 	[SKADIS IKEA Black Pegboard Shelf](https://www.ikea.com/gb/en/p/skadis-shelf-black-80569941/#content) 4gbp
+- [ ] [Clear wired stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.36gbp per piece
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [KURIPAN Umamusume Oguri Cap Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04808204) 18.45gbp
 	[KURIPAN Umamusume Tamamo Cross Plush](https://www.amiami.com/eng/detail/?gcode=GOODS-04691705) 19.48gbp
@@ -131,8 +132,10 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 316.74GBP
+## Figures Term #2<br>TOTAL 532.50GBP
 
+- [ ] ##### Prince of the Jungle
+	[SH FIGUARTS "40th Anniversary Ver." Son Goku and Ryu](https://www.nin-nin-game.com/en/dragon-ball/191400-shfiguarts-dragon-ball-son-goku-ryu-40th-anniversary-ver-limited-edition-bandai-spirits-.html) 97.89gbp
 - [ ] ##### Strongest Earthling
 	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
 - [ ] ##### Revered Hypocrite
@@ -141,6 +144,11 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
 	**TOTAL 111.66GBP**
+- [ ] ##### Substitute Soul Reaper
+	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 74.68gbp
+	[SH FIGUARTS BLEACH "Bankai Tensazangetsu Ver." Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/87261-shfiguarts-bleach-thousand-year-blood-war-ichigo-kurosaki-bankai-tensazangetsu-ver-bandai-spirits-.html) 43.19gbp
+	**TOTAL 117.87GBP**
+	*^ I'd keep both but I would like to use the Tensa Zangetsu faceplates on the Getsuga Tensho Ichigo*
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### Street-Level Menace
