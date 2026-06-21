@@ -65,7 +65,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 518.02GBP
+## Figures Term #1<br>TOTAL 496.47GBP
 
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
@@ -112,14 +112,14 @@ kanban-plugin: board
 	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
 	> - slightly resculpt ssj hairsculpt to not have hatch lines similar to fighter of rage Goku
 - [ ] ##### Legendary Sage of Wrath Broly
-	[GM STUDIO SSJ Broly](https://www.aliexpress.com/item/1005010671316604.html?) 75.59gbp
+	[CorToys BD Broly KO](https://www.aliexpress.com/item/1005012482696921.html?) 54.04gbp
 	[MP STUDIO Broly Headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 49.07gbp
 	[SH_FIGUPOSES Extender Neck Peg 3pcs](https://www.ebay.co.uk/itm/317435568524) 5.45gbp
 	[Vallejo Black Wash](https://amzn.eu/d/0gOrmL9j) 6.86gbp
 	[Vallejo Violet Wash](https://amzn.eu/d/03RTgZ8f) 3.10gbp
 	[Vallejo Flesh Wash](https://amzn.eu/d/0f9I574U) 3.10gbp
-	**TOTAL 143.17GBP**
-	[[Broly MP + GM.jpg]]
+	**TOTAL 121.62GBP**
+	[[Broly MP + CorToys.jpg]]
 	*^ I will wash and scrub the figure then shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
@@ -132,14 +132,14 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 532.50GBP
+## Figures Term #2<br>TOTAL 587.36GBP
 
 - [ ] ##### Prince of the Jungle
 	[SH FIGUARTS "40th Anniversary Ver." Son Goku and Ryu](https://www.nin-nin-game.com/en/dragon-ball/191400-shfiguarts-dragon-ball-son-goku-ryu-40th-anniversary-ver-limited-edition-bandai-spirits-.html) 97.89gbp
 - [ ] ##### Strongest Earthling
 	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
-- [ ] ##### Revered Hypocrite
-	[DIMENSIONIA WORKS "God Rebel 01B" Goku Black](https://www.aliexpress.com/item/1005011669099788.html?s) 55.59gbp
+- [ ] ##### Universe 11's Pride
+	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614&q=&p=32&pos=6213) 46.84gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
@@ -151,8 +151,9 @@ kanban-plugin: board
 	*^ I'd keep both but I would like to use the Tensa Zangetsu faceplates on the Getsuga Tensho Ichigo*
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-- [ ] ##### Street-Level Menace
+- [ ] ##### An Avenger's Worst Ally
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
+	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.nin-nin-game.com/en/shfiguarts/219400-shfiguarts-marvel-gamerverse-wolverine-bandai-spirits-.html) 63.61gbp
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
