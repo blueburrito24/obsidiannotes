@@ -135,7 +135,7 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 587.36GBP
+## Figures Term #2<br>TOTAL 685.16GBP
 
 - [ ] ##### Prince of the Jungle
 	[SH FIGUARTS "40th Anniversary Ver." Son Goku and Ryu](https://www.nin-nin-game.com/en/dragon-ball/191400-shfiguarts-dragon-ball-son-goku-ryu-40th-anniversary-ver-limited-edition-bandai-spirits-.html) 97.89gbp
@@ -157,6 +157,9 @@ kanban-plugin: board
 - [ ] ##### An Avenger's Worst Allies
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.nin-nin-game.com/en/shfiguarts/219400-shfiguarts-marvel-gamerverse-wolverine-bandai-spirits-.html) 63.61gbp
+- [ ] ##### The Dark Knight
+	[MAFEX BATMAN: THE DARK KNIGHT RETURNS Batman](https://www.nin-nin-game.com/en/mafex/139782-mafex-no106-batman-the-dark-knight-returns-batman-reissue-medicom-toy-.html) 55.78gbp
+	[MAFEX BATMAN TDKR: THE DARK KNIGHT TRIUMPHANT Batman](https://www.nin-nin-game.com/en/mafex/205134-mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.html) 42.02gbp
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
