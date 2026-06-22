@@ -135,12 +135,10 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 685.16GBP
+## Figures Term #2<br>TOTAL 630.21GBP
 
 - [ ] ##### Prince of the Jungle
 	[SH FIGUARTS "40th Anniversary Ver." Son Goku and Ryu](https://www.nin-nin-game.com/en/dragon-ball/191400-shfiguarts-dragon-ball-son-goku-ryu-40th-anniversary-ver-limited-edition-bandai-spirits-.html) 97.89gbp
-- [ ] ##### Strongest Earthling
-	[SH FIGUARTS DRAGON BALL Z "Goku's Best Friend" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm?pr_prod_strat=e5_desc&pr_rec_id=70bd86a38&pr_rec_pid=14994131419522&pr_ref_pid=15178018357634&pr_seq=uniform) 54.95gbp
 - [ ] ##### Universe 11's Pride
 	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614&q=&p=32&pos=6213) 46.84gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
