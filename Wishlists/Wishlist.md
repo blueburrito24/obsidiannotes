@@ -102,7 +102,7 @@ kanban-plugin: board
 	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
 	**TOTAL 47.21GBP**
-	*If the official base-form variant is available, I should buy both the base form and the SSJ variant so I have SSJ heads and an alternate body, also need to buy sh_figuposes barbell neck*
+	*If the official base-form variant is available, I should buy both the base form and the SSJ variant and use the SSJ body for the custom, also need to buy sh_figuposes barbell neck*
 	
 	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
 	
