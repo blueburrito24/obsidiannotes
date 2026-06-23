@@ -128,17 +128,15 @@ kanban-plugin: board
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
 
 
-## Tech Term #2<br>TOTAL 222.45GBP
+## Tech Term #2<br>TOTAL 235.45GBP
 
-- [ ] [Pebble speakers](https://amzn.eu/d/07mizaLu) 21.99gbp
+- [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 630.21GBP
+## Figures Term #2<br>TOTAL 522.63GBP
 
-- [ ] ##### Prince of the Jungle
-	[SH FIGUARTS "40th Anniversary Ver." Son Goku and Ryu](https://www.nin-nin-game.com/en/dragon-ball/191400-shfiguarts-dragon-ball-son-goku-ryu-40th-anniversary-ver-limited-edition-bandai-spirits-.html) 97.89gbp
 - [ ] ##### Universe 11's Pride
 	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614&q=&p=32&pos=6213) 46.84gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
@@ -154,10 +152,10 @@ kanban-plugin: board
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### An Avenger's Worst Allies
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
+	[Bendy Webbing Set](https://www.etsy.com/uk/listing/4505984261/spidey-webs?) 32.33gbp
 	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.nin-nin-game.com/en/shfiguarts/219400-shfiguarts-marvel-gamerverse-wolverine-bandai-spirits-.html) 63.61gbp
 - [ ] ##### The Dark Knight
 	[MAFEX BATMAN: THE DARK KNIGHT RETURNS Batman](https://www.nin-nin-game.com/en/mafex/139782-mafex-no106-batman-the-dark-knight-returns-batman-reissue-medicom-toy-.html) 55.78gbp
-	[MAFEX BATMAN TDKR: THE DARK KNIGHT TRIUMPHANT Batman](https://www.nin-nin-game.com/en/mafex/205134-mafex-no119-batman-tdkr-the-dark-knight-triumphant-reissue-medicom-toy-.html) 42.02gbp
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
