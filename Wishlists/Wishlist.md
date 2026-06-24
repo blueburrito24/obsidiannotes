@@ -135,7 +135,7 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 522.63GBP
+## Figures Term #2<br>TOTAL 631.78GBP
 
 - [ ] ##### Universe 11's Pride
 	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614&q=&p=32&pos=6213) 46.84gbp
@@ -152,8 +152,10 @@ kanban-plugin: board
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### An Avenger's Worst Allies
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
+	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/204396-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-kaiyodo-.html) 57.83gbp
 	[Bendy Webbing Set](https://www.etsy.com/uk/listing/4505984261/spidey-webs?) 32.33gbp
 	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.nin-nin-game.com/en/shfiguarts/219400-shfiguarts-marvel-gamerverse-wolverine-bandai-spirits-.html) 63.61gbp
+	[AMAZING YAMAGUCHI X-Force Deadpool Ver.2.5](https://zenmarket.jp/mercariproduct.aspx?itemCode=m14156215173&q=revoltech+deadpool+x+force&p=1&pos=2) 51.32gbp
 - [ ] ##### The Dark Knight
 	[MAFEX BATMAN: THE DARK KNIGHT RETURNS Batman](https://www.nin-nin-game.com/en/mafex/139782-mafex-no106-batman-the-dark-knight-returns-batman-reissue-medicom-toy-.html) 55.78gbp
 
