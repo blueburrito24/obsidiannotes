@@ -138,7 +138,7 @@ kanban-plugin: board
 ## Figures Term #2<br>TOTAL 577.48GBP
 
 - [ ] ##### Universe 11's Pride
-	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614&q=&p=32&pos=6213) 46.84gbp
+	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614) 46.84gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
@@ -157,7 +157,7 @@ kanban-plugin: board
 	> - Attach Tensazangetsu Ichigo neck/head
 	> - Attach red sash and white belt from Dasin Toys Ichigo
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
-	> - Repaint the base of the Zanpakuto white, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
+	> - Shave off the wrapping and then repaint the base of the Zanpakuto white, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
