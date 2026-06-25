@@ -135,7 +135,7 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 577.48GBP
+## Figures Term #2<br>TOTAL 620.90GBP
 
 - [ ] ##### Universe 11's Pride
 	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614) 46.84gbp
@@ -159,6 +159,8 @@ kanban-plugin: board
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
 	> - Shave off the wrapping and then repaint the base of the Zanpakuto white, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
+- [ ] ##### Not a True Bankai
+	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://zenmarket.jp/mercariproduct.aspx?itemCode=m91673536921) 43.42gbp
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### An Avenger's Worst Allies
