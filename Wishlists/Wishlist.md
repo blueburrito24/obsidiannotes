@@ -135,7 +135,7 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 631.78GBP
+## Figures Term #2<br>TOTAL 577.48GBP
 
 - [ ] ##### Universe 11's Pride
 	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614&q=&p=32&pos=6213) 46.84gbp
@@ -144,10 +144,21 @@ kanban-plugin: board
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
 	**TOTAL 111.66GBP**
 - [ ] ##### Substitute Soul Reaper
-	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://www.nin-nin-game.com/en/shfiguarts/159909-shfiguarts-bleach-ichigo-kurosaki-getsuga-tensho-bandai-spirits-.html) 74.68gbp
-	[SH FIGUARTS BLEACH "Bankai Tensazangetsu Ver." Ichigo Kurosaki](https://www.nin-nin-game.com/en/bleach/87261-shfiguarts-bleach-thousand-year-blood-war-ichigo-kurosaki-bankai-tensazangetsu-ver-bandai-spirits-.html) 43.19gbp
-	**TOTAL 117.87GBP**
-	*^ I'd keep both but I would like to use the Tensa Zangetsu faceplates on the Getsuga Tensho Ichigo*
+	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
+	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
+	[Vallejo Flat Flesh](https://amzn.eu/d/09b6vGmq) 3.10gbp
+	[Dasin Toys Ichigo](https://www.aliexpress.com/item/1005010111179955.html?) 50.82gbp
+	[Binding Tape](https://amzn.eu/d/0ao1WXZp) 5.89gbp
+	[24 Gauge Floral Wire](https://amzn.eu/d/09tISCdw) 4gbp
+	**TOTAL 114.89GBP**
+	[[Custom SHF Ichigo.jpg]]
+	>[!Custom details]-
+	> - Repaint the black details on Renji's chest, remove neck, remove the knot on his belt and repaint black, remove forearms
+	> - Attach Tensazangetsu Ichigo neck/head
+	> - Attach red sash and white belt from Dasin Toys Ichigo
+	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
+	> - Repaint the base of the Zanpakuto white, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
+	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### An Avenger's Worst Allies
@@ -155,7 +166,6 @@ kanban-plugin: board
 	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/204396-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-kaiyodo-.html) 57.83gbp
 	[Bendy Webbing Set](https://www.etsy.com/uk/listing/4505984261/spidey-webs?) 32.33gbp
 	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.nin-nin-game.com/en/shfiguarts/219400-shfiguarts-marvel-gamerverse-wolverine-bandai-spirits-.html) 63.61gbp
-	[AMAZING YAMAGUCHI X-Force Deadpool Ver.2.5](https://zenmarket.jp/mercariproduct.aspx?itemCode=m14156215173&q=revoltech+deadpool+x+force&p=1&pos=2) 51.32gbp
 - [ ] ##### The Dark Knight
 	[MAFEX BATMAN: THE DARK KNIGHT RETURNS Batman](https://www.nin-nin-game.com/en/mafex/139782-mafex-no106-batman-the-dark-knight-returns-batman-reissue-medicom-toy-.html) 55.78gbp
 
