@@ -132,6 +132,7 @@ kanban-plugin: board
 	**TOTAL 190.59gbp**
 	*Note that after finishing the custom I will then have a Broly Movie 2 Gohan with his SSJ and base form heads, alongside the complete Saiyaman figure*
 	[[Gohan Broly Movie 2 Custom.png]]
+	[[Broly Second Coming Gohan Design.jpg]]
 	>[!Custom details]-
 	> - Heat up SSJ4 Goku legs and remove boots
 	> - Remove and repaint blue wrap as Sky Blue, also paint on the white sock on the shoe
