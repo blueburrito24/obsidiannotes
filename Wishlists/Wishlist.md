@@ -47,12 +47,10 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>TOTAL 422.40GBP
+## Tech Term #1<br>TOTAL 369.42GBP
 
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 	[Headphone DAC](https://www.aliexpress.com/item/1005007575076036.html?) 20.49gbp
-- [ ] [NETGEAR WiFi Extender](https://amzn.eu/d/01aBScKY) 29.99gbp
-	[30m Ethernet Cable](https://amzn.eu/d/0cCvOZKf) 22.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
@@ -126,7 +124,7 @@ kanban-plugin: board
 - [ ] ##### The Golden Warrior
 	[SH FIGUARTS DRAGON BALL SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50684485472&q=sh+figuarts+super+hero+gohan&p=1&pos=1) 28.79gbp
 	[DIMENSIONIA KT004 "Ultimate Superhero" Great Saiyaman](https://www.aliexpress.com/item/1005012116510708.html?) 84.59gbp
-	[Nan&T Games Begin Gi Kit B](https://www.aliexpress.com/item/1005010629653654.html?) 11.09gbp
+	[Nan&T Games Begin Gi Kit E](https://www.aliexpress.com/item/1005010629653654.html?) 11.09gbp
 	[BLACK HOLE TOYS SSJ4 Goku](https://www.aliexpress.com/item/1005010450874042.html?) 60.42gbp
 	[Vallejo Sky Blue](https://amzn.eu/d/0d24hgSZ) 5.70gbp
 	**TOTAL 190.59gbp**
@@ -154,7 +152,7 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 525.41GBP
+## Figures Term #2<br>TOTAL 463.46GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
@@ -176,10 +174,8 @@ kanban-plugin: board
 	> - Attach Tensazangetsu Ichigo neck/head
 	> - Attach red sash and white belt from Dasin Toys Ichigo
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
-	> - Shave off the wrapping and then repaint the base of the Zanpakuto white, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
+	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
-- [ ] ##### Odd Jobs Gin
-	[SH FIGUARTS GINTAMA Gintoki Sakata](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm) 61.95gbp
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### An Avenger's Worst Allies
