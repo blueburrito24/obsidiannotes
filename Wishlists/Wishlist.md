@@ -66,7 +66,7 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 518.02GBP
+## Figures Term #1<br>TOTAL 702.91GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
@@ -126,6 +126,26 @@ kanban-plugin: board
 	*^ I will wash and scrub the figure then shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
+- [ ] ##### Hybrid Prodigy/Golden Warrior
+	[SH FIGUARTS DRAGON BALL SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50684485472&q=sh+figuarts+super+hero+gohan&p=1&pos=1) 28.79gbp
+	[DIMENSIONIA KT004 "Ultimate Superhero" Great Saiyaman](https://www.aliexpress.com/item/1005012116510708.html?) 84.59gbp
+	[Nan&T Games Begin Gi Kit B](https://www.aliexpress.com/item/1005010629653654.html?) 11.09gbp
+	[BLACK HOLE TOYS SSJ4 Goku](https://www.aliexpress.com/item/1005010450874042.html?) 60.42gbp
+	**TOTAL 184.89gbp**
+	*Note that after finishing the custom I will then have a Broly Movie 2 Gohan with his SSJ and base form heads, alongside the complete Saiyaman figure*
+	
+	>[!Custom details]-
+	> - Heat up SSJ4 Goku legs and remove boots
+	> - Remove the blue portion and hollow out some space so it can attach onto SHF Super Hero Gohan's lower leg when the original boots are removed
+	> - Repaint blue wrap as white, also paint on the white sock on the shoe
+	> - Attach the repainted boots to SHF Super Hero Gohan
+	> - Shave off the orange part of the Nan&T Gi Kit belt
+	> - Repaint Nan&T belt and belt-wrap red
+	> - Replace SHF Super Hero Gohan belt with repainted Nan&T belt
+	> - Heat up SHF Super Hero Gohan forearms, remove from arm and remove wrist-wraps
+	> - Repaint wrist-wraps red
+	> - Reassemble SHF Super Hero Gohan forearms
+	> - Attach DIMENSIONIA heads to modified SHF Super Hero Gohan body
 
 
 ## Tech Term #2<br>TOTAL 235.45GBP
@@ -135,7 +155,7 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 620.90GBP
+## Figures Term #2<br>TOTAL 572.25GBP
 
 - [ ] ##### Universe 11's Pride
 	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614) 46.84gbp
@@ -150,7 +170,9 @@ kanban-plugin: board
 	[Dasin Toys Ichigo](https://www.aliexpress.com/item/1005010111179955.html?) 50.82gbp
 	[Binding Tape](https://amzn.eu/d/0ao1WXZp) 5.89gbp
 	[24 Gauge Floral Wire](https://amzn.eu/d/09tISCdw) 4gbp
-	**TOTAL 114.89GBP**
+	[Orange Wind Effects](https://www.aliexpress.com/item/1005010024096360.html?) 7.35gbp
+	**TOTAL 130.48GBP**
+	*I will use the orange wind effects as his Getsuga Tensho*
 	[[Custom SHF Ichigo.jpg]]
 	>[!Custom details]-
 	> - Repaint the black details on Renji's chest, remove neck, remove the knot on his belt and repaint black, remove forearms
@@ -159,17 +181,14 @@ kanban-plugin: board
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
 	> - Shave off the wrapping and then repaint the base of the Zanpakuto white, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
-- [ ] ##### Not a True Bankai
-	[SH FIGUARTS BLEACH "Getsuga Tensho" Ichigo Kurosaki](https://zenmarket.jp/mercariproduct.aspx?itemCode=m91673536921) 43.42gbp
+- [ ] ##### Odd Jobs Gin
+	[SH FIGUARTS GINTAMA Gintoki Sakata](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm) 61.95gbp
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
 - [ ] ##### An Avenger's Worst Allies
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/204396-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-kaiyodo-.html) 57.83gbp
-	[Bendy Webbing Set](https://www.etsy.com/uk/listing/4505984261/spidey-webs?) 32.33gbp
-	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.nin-nin-game.com/en/shfiguarts/219400-shfiguarts-marvel-gamerverse-wolverine-bandai-spirits-.html) 63.61gbp
-- [ ] ##### The Dark Knight
-	[MAFEX BATMAN: THE DARK KNIGHT RETURNS Batman](https://www.nin-nin-game.com/en/mafex/139782-mafex-no106-batman-the-dark-knight-returns-batman-reissue-medicom-toy-.html) 55.78gbp
+	[SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) 68.95gbp
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
