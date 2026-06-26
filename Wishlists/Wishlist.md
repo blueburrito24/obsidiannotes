@@ -66,16 +66,13 @@ kanban-plugin: board
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 
 
-## Figures Term #1<br>TOTAL 702.91GBP
+## Figures Term #1<br>TOTAL 708.61GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
 	[Small containers for accessories 6pcs](https://amzn.eu/d/0aiK5t2b) 3.39gbp
-	*^ for these boxes, I would make use of the black foam I have in my wardrobe for cushioning
-	I will likely use these boxes to store my Goku with all his accessories, Piccolo and Vegeta
-	I could also make custom graphics and print them off to stick onto the boxes
-	I will still keep all my figure boxes though for safekeeping*
+	*^ for these boxes, I would make use of the black foam I have in my wardrobe for cushioning*
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 	*^ just like the boxes, I would use foam to cushion these, however I will use the pencil case when I need a lighter storage option e.g., if I'm not going out with a big bag*
 - [ ] [Painting clamp stand](https://amzn.eu/d/0bjDQKJK) 5.02gbp
@@ -131,14 +128,15 @@ kanban-plugin: board
 	[DIMENSIONIA KT004 "Ultimate Superhero" Great Saiyaman](https://www.aliexpress.com/item/1005012116510708.html?) 84.59gbp
 	[Nan&T Games Begin Gi Kit B](https://www.aliexpress.com/item/1005010629653654.html?) 11.09gbp
 	[BLACK HOLE TOYS SSJ4 Goku](https://www.aliexpress.com/item/1005010450874042.html?) 60.42gbp
-	**TOTAL 184.89gbp**
+	[Vallejo Sky Blue](https://amzn.eu/d/0d24hgSZ) 5.70gbp
+	**TOTAL 190.59gbp**
 	*Note that after finishing the custom I will then have a Broly Movie 2 Gohan with his SSJ and base form heads, alongside the complete Saiyaman figure*
-	
+	[[Gohan Broly Movie 2 Custom.png]]
 	>[!Custom details]-
 	> - Heat up SSJ4 Goku legs and remove boots
-	> - Remove the blue portion and hollow out some space so it can attach onto SHF Super Hero Gohan's lower leg when the original boots are removed
-	> - Repaint blue wrap as white, also paint on the white sock on the shoe
-	> - Attach the repainted boots to SHF Super Hero Gohan
+	> - Remove and repaint blue wrap as Sky Blue, also paint on the white sock on the shoe
+	> - Cut off the lower leg from the cuff down on Super Hero Gohan using an exacto knife to make space for the SSJ4 Goku boots to fit onto
+	> - Superglue on the repainted boots to SHF Super Hero Gohan
 	> - Shave off the orange part of the Nan&T Gi Kit belt
 	> - Repaint Nan&T belt and belt-wrap red
 	> - Replace SHF Super Hero Gohan belt with repainted Nan&T belt
