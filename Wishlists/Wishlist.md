@@ -147,11 +147,10 @@ kanban-plugin: board
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
 
 
-## Tech Term #2<br>TOTAL 235.45GBP
+## Tech Term #2<br>TOTAL 124.98GBP
 
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
-- [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
 ## Figures Term #2<br>TOTAL 463.46GBP
