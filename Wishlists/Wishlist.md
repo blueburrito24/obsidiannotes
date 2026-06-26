@@ -126,7 +126,7 @@ kanban-plugin: board
 	*^ I will wash and scrub the figure then shade the skin with flesh wash, skirt with violet wash and pants with black wash, note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
 	[Shading tutorial for skirt and pants](https://www.instagram.com/p/DYDRhCnKI4B/)
-- [ ] ##### Hybrid Prodigy/Golden Warrior
+- [ ] ##### The Golden Warrior
 	[SH FIGUARTS DRAGON BALL SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50684485472&q=sh+figuarts+super+hero+gohan&p=1&pos=1) 28.79gbp
 	[DIMENSIONIA KT004 "Ultimate Superhero" Great Saiyaman](https://www.aliexpress.com/item/1005012116510708.html?) 84.59gbp
 	[Nan&T Games Begin Gi Kit B](https://www.aliexpress.com/item/1005010629653654.html?) 11.09gbp
@@ -155,10 +155,8 @@ kanban-plugin: board
 - [ ] [DREO Smart Tower Fan](https://amzn.eu/d/0bq5f3RS) 110.47gbp
 
 
-## Figures Term #2<br>TOTAL 572.25GBP
+## Figures Term #2<br>TOTAL 525.41GBP
 
-- [ ] ##### Universe 11's Pride
-	[SH FIGUARTS Dragon Ball Super Jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m53971224614) 46.84gbp
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
