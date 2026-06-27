@@ -121,7 +121,7 @@ kanban-plugin: board
 	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
 	**TOTAL 47.21GBP**
 	*If the official base-form variant is available, I should buy both the base form and the SSJ variant and use the SSJ body for the custom, also need to buy sh_figuposes barbell neck*
-	
+	[[Reference Collage for Vegeta's Suit.png]]
 	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
 	
 	>[!Custom details]-
@@ -148,7 +148,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 394.51GBP
+## Figures Term #2<br>TOTAL 429.27GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
@@ -177,6 +177,9 @@ kanban-plugin: board
 - [ ] ##### An Avenger's Worst Allies
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/204396-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-kaiyodo-.html) 57.83gbp
+	[CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html?) 29.19gbp
+	[Vallejo Gloss Black](https://amzn.eu/d/0f46xXL6) 5.57gbp
+	*I will repaint the tendrils from Agent Venom with gloss black so I can use them on the Symbiote Spider-Man, I may want to drill extra holes for the tendrils too*
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
