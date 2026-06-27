@@ -78,8 +78,9 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
 	**TOTAL 179.86GBP**
-	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure
+	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure, alongside carving out more of the back of the hairsculpt on KHS
 	Will sell FOR and BSM Blackshark bodies and hands to Tugboat*
+	[[Goku Neck Range.png]]
 - [ ] ##### The Golden Warrior
 	[SH FIGUARTS DRAGON BALL SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50684485472&q=sh+figuarts+super+hero+gohan&p=1&pos=1) 28.79gbp
 	[DIMENSIONIA KT004 "Ultimate Superhero" Great Saiyaman](https://www.aliexpress.com/item/1005012116510708.html?) 84.59gbp
