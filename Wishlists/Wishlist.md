@@ -148,7 +148,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 429.27GBP
+## Figures Term #2<br>TOTAL 516.75GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
@@ -174,12 +174,23 @@ kanban-plugin: board
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-- [ ] ##### An Avenger's Worst Allies
+- [ ] ##### The Spider
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
+- [ ] ##### The Suit
 	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/204396-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-kaiyodo-.html) 57.83gbp
+	[MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005009826985258.html?) 38.39gbp
 	[CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html?) 29.19gbp
-	[Vallejo Gloss Black](https://amzn.eu/d/0f46xXL6) 5.57gbp
-	*I will repaint the tendrils from Agent Venom with gloss black so I can use them on the Symbiote Spider-Man, I may want to drill extra holes for the tendrils too*
+	**TOTAL 125.41gbp**
+	[[MESS TOYS BSN + AV Tendrils.jpg]]
+	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
+	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range
+	I can use the AY Symbiote webs with the MESS TOYS BSN, maybe I can sell the AY Symbiote*
+- [ ] ##### The Impostor
+	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
+	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 41.66gbp
+	**TOTAL 81.25gbp**
+	[[Fahrulstore V71 Headsculpt.jpg]]
+	*I would want to do the same as I am on my MESS TOYS BSN and hollow out the abdomen to increase the forward range*
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
