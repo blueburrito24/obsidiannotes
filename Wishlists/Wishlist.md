@@ -62,10 +62,11 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 695.55GBP
+## Figures Term #1<br>TOTAL 575.55GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
 	Also the Saiyaman figure excluding its bandana and normal heads for 60USD aka 45GBP~
+	So I will have made *120GBP* total, which I have taken away from the TOTAL of my term spending
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
 	[Small containers for accessories 6pcs](https://amzn.eu/d/0aiK5t2b) 3.39gbp
@@ -77,7 +78,7 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
+	[BSM BLACKSHARK Battle-Damaged Goku (Yellow Ver.)](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
 	**TOTAL 179.86GBP**
 	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure, alongside carving out more of the back of the hairsculpt on KHS
 	Will sell FOR and BSM Blackshark bodies and hands to Tugboat*
@@ -148,7 +149,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 516.75GBP
+## Figures Term #2<br>TOTAL 559.84GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
@@ -191,6 +192,9 @@ kanban-plugin: board
 	**TOTAL 81.25gbp**
 	[[Fahrulstore V71 Headsculpt.jpg]]
 	*I would want to do the same as I am on my MESS TOYS BSN and hollow out the abdomen to increase the forward range*
+- [ ] ##### The Leftovers
+	[PC TOYS Revoltech KO Venom](https://www.aliexpress.com/item/1005012596705509.html?) 43.09gbp
+	[[PC TOYS Venom comparison.jpg]]
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
