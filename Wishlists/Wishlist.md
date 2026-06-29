@@ -62,7 +62,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 575.55GBP
+## Figures Term #1<br>TOTAL 528.34GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
 	Also the Saiyaman figure excluding its bandana and normal heads for 60USD aka 45GBP~
@@ -115,24 +115,6 @@ kanban-plugin: board
 	*I need to swap the arms from the bicep down from Nail onto Piccolo and then also swap the feet (and the lower leg visible if possible), alongside swapping the heads from Nail onto Piccolo
 	Also need to repaint the nails black on Nail's hands
 	Will sell torso and hands to Tugboat*
-- [ ] ##### Earth's Reluctant Defender
-	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-	[Vallejo Dark Blue](https://amzn.eu/d/02BYyXrq) 5.57gbp
-	[Vallejo Basic Skintone](https://amzn.eu/d/0dkKnqzW) 5.70gbp
-	[12pcs Sandpaper](https://amzn.eu/d/03FJuM20) 3.99gbp
-	**TOTAL 47.21GBP**
-	*If the official base-form variant is available, I should buy both the base form and the SSJ variant and use the SSJ body for the custom, also need to buy sh_figuposes barbell neck*
-	[[Reference Collage for Vegeta's Suit.png]]
-	[(View in browser)](https://i.pinimg.com/736x/bc/35/2b/bc352bfd3cfd23a9e4c98abde8e44d25.jpg)
-	
-	>[!Custom details]-
-	> - Remove trap supports from Vegeta
-	 > - shave down torso sides for V-taper look
-	> - resculpt the torso to have a leotard look (make sure the shoulder area is wide like the reference)
-	> - disassemble arms and torso to wash and sand down for paint-rub prevention
-	> - repaint arms and torso with basic skintone and dark blue (including the butterfly caps)
-	> - repaint headsculpts to be base-form using masking tape to keep paint job clean
-	> - slightly resculpt ssj hairsculpt to not have hatch lines similar to fighter of rage Goku
 - [ ] ##### Legendary Sage of Wrath Broly
 	[GM STUDIO SSJ Broly](https://www.aliexpress.com/item/1005010671316604.html?) 75.59gbp
 	[MP STUDIO Broly Headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 49.07gbp
