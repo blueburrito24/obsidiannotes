@@ -123,6 +123,7 @@ kanban-plugin: board
 	[[Broly MP + GM.jpg]]
 	*Note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
+- [ ] I want to get an SH FIGUARTS Vegeta Daima with the buff kit by  noirrnightscustoms plus repaint the SH FIGUARTS SSGSS Vegeta headsculpts
 
 
 ## Tech Term #2<br>TOTAL 124.98GBP
@@ -131,7 +132,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 559.84GBP
+## Figures Term #2<br>TOTAL 651.63GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
@@ -160,14 +161,16 @@ kanban-plugin: board
 - [ ] ##### The Spider
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 - [ ] ##### The Suit
-	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.nin-nin-game.com/en/spider-man/204396-amazing-yamaguchi-revoltech-spider-man-symbiote-spider-man-kaiyodo-.html) 57.83gbp
+	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.comicsandcocktails.co.uk/store/**PRE-ORDER**-Amazing-Yamaguchi-Revoltech-Marvel-Comics-Symbiote-Suit-Spider-Man-p793271124) 79.99gbp
 	[MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005009826985258.html?) 38.39gbp
 	[CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html?) 29.19gbp
-	**TOTAL 125.41gbp**
+	**TOTAL 147.57gbp**
+	[[AY Symbiote Spider-Man.jpg]]
 	[[MESS TOYS BSN + AV Tendrils.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range
-	I can use the AY Symbiote webs with the MESS TOYS BSN*
+	I can use the AY Symbiote webs with the MESS TOYS BSN
+	Also, I may want to buy some Blue Stuff and recast the AY heads to use on MESS TOYS BSN and vice versa*
 - [ ] ##### The Impostor
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 41.66gbp
@@ -177,6 +180,8 @@ kanban-plugin: board
 - [ ] ##### The Leftovers
 	[PC TOYS Revoltech KO Venom](https://www.aliexpress.com/item/1005012596705509.html?) 43.09gbp
 	[[PC TOYS Venom comparison.jpg]]
+- [ ] ##### Your Friendly Neighbourhood Spider-Man
+	[MAFEX 241 SPIDER-MAN NO WAY HOME Friendly Neighbourhood Spider-Man](https://www.nin-nin-game.com/en/mafex/231510-mafex-no-241-spider-man-no-way-home-friendly-neighborhood-spider-man-reissue-medicom-toy-.html) 69.63gbp
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
