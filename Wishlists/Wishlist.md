@@ -170,7 +170,7 @@ kanban-plugin: board
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range
 	I can use the AY Symbiote webs with the MESS TOYS BSN
-	Also, I may want to buy some Blue Stuff and recast the AY heads to use on MESS TOYS BSN and vice versa*
+	Also, I may want to buy some Blue Stuff and recast the AY heads to use on MESS TOYS BSN and vice versa, plus the web-thwip fists from MESS TOYS BSN for AY*
 - [ ] ##### The Impostor
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 41.66gbp
