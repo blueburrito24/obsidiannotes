@@ -62,7 +62,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 646.69GBP
+## Figures Term #1<br>TOTAL 650.48GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
 	Also the Saiyaman figure excluding its bandana and normal heads for 60USD aka 45GBP~
@@ -127,8 +127,10 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp
 	[SH FIGUARTS DRAGON BALL SUPER "Unwavering Saiyan Pride" SSGSS Vegeta](https://www.nin-nin-game.com/en/dragon-ball/163019-shfiguarts-dragon-ball-super-vegeta-ssgss-the-pride-of-saiyans-reissue-bandai-spirits-.html) 32.94gbp x2
 	[Acrylic Markers](https://www.aliexpress.com/item/1005008365305510.html) 21.09gbp
-	**TOTAL 118.35gbp**
-	*I want to repaint the SSGSS headsculpts to be base form and SSJ using the acrylic markers 324 and 301, then I need an adapter peg from sh_figuposes to use it on the Daima body
+	[Toothpicks](https://amzn.eu/d/03vTsozr) 3.79gbp
+	**TOTAL 122.14gbp**
+	*I want to repaint the SSGSS headsculpts to be base form and SSJ using the acrylic markers 324 and 301, for SSJ I would need to use 315 for the iris outline and 314 for the iris, which I would apply by using the marker on a separate surface and then dipping a toothpick in the paint puddle so I can apply it onto the facesculpt carefully
+	I would also need an adapter peg from sh_figuposes to use it on the Daima body
 	I am waiting to get noirrnightscustoms' Daima body kit, when it is available I will buy two - one to use on my existing Daima copy and one to modify into a base form Buu Saga outfit using another Daima copy*
 	[[SSGSS Vegeta base form repaint.jpg]]
 	[[SSGSS Vegeta SSJ repaint.jpg]]
