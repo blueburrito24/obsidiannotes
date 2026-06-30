@@ -62,11 +62,9 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 650.48GBP
+## Figures Term #1<br>TOTAL 504.89GBP
 
-- [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
-	Also the Saiyaman figure excluding its bandana and normal heads for 60USD aka 45GBP~
-	So I will have made *120GBP* total, which I have taken away from the TOTAL of my term spending
+- [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~ which I've taken away from my TOTAL
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
 	[Smaller plastic containers for taking figures outside 8pcs](https://amzn.eu/d/01Hyrwl0) 13.99gbp
 	[Small containers for accessories 6pcs](https://amzn.eu/d/0aiK5t2b) 3.39gbp
@@ -83,29 +81,6 @@ kanban-plugin: board
 	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure, alongside carving out more of the back of the hairsculpt on KHS
 	Will sell FOR and BSM Blackshark bodies and hands to Tugboat*
 	[[Goku Neck Range.png]]
-- [ ] ##### The Golden Warrior
-	[SH FIGUARTS DRAGON BALL SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m50684485472&q=sh+figuarts+super+hero+gohan&p=1&pos=1) 28.79gbp
-	[DIMENSIONIA KT004 "Ultimate Superhero" Great Saiyaman](https://www.aliexpress.com/item/1005012116510708.html?) 84.59gbp
-	[Nan&T Games Begin Gi Kit E](https://www.aliexpress.com/item/1005010629653654.html?) 11.09gbp
-	[BLACK HOLE TOYS SSJ4 Goku](https://www.aliexpress.com/item/1005010450874042.html?) 60.42gbp
-	[Vallejo Sky Blue](https://amzn.eu/d/0d24hgSZ) 5.70gbp
-	**TOTAL 190.59gbp**
-	*Note that after finishing the custom I will then have a Broly Movie 2 Gohan with his SSJ and base form heads
-	Will sell the Saiyaman figure to Tugboat, excluding the bandana and regular heads*
-	[[Gohan Broly Movie 2 Custom.png]]
-	[[Broly Second Coming Gohan Design.jpg]]
-	>[!Custom details]-
-	> - Heat up SSJ4 Goku legs and remove boots
-	> - Remove and repaint blue wrap as Sky Blue, also paint on the white sock on the shoe
-	> - Cut off the lower leg from the cuff down on Super Hero Gohan using an exacto knife to make space for the SSJ4 Goku boots to fit onto
-	> - Superglue on the repainted boots to SHF Super Hero Gohan
-	> - Shave off the orange part of the Nan&T Gi Kit belt
-	> - Repaint Nan&T belt and belt-wrap red
-	> - Replace SHF Super Hero Gohan belt with repainted Nan&T belt
-	> - Heat up SHF Super Hero Gohan forearms, remove from arm and remove wrist-wraps
-	> - Repaint wrist-wraps red
-	> - Reassemble SHF Super Hero Gohan forearms
-	> - Attach DIMENSIONIA heads to modified SHF Super Hero Gohan body
 - [ ] ##### The Namekian With No Name
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://hobbyfigures.co.uk/products/dragon-ball-z-super-s-h-figuarts-action-figure-piccolo-the-proud-namekian-16cm?pr_prod_strat=e5_desc&pr_rec_id=2a013f382&pr_rec_pid=15178023305602&pr_ref_pid=15235494379906&pr_seq=uniform) 51.95gbp
 	[SH FIGUARTS DRAGON BALL Z Nail](https://hobbyfigures.co.uk/products/dragonball-s-h-figuarts-action-figure-nail-16cm) 59.95gbp
