@@ -62,7 +62,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 528.34GBP
+## Figures Term #1<br>TOTAL 646.69GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~
 	Also the Saiyaman figure excluding its bandana and normal heads for 60USD aka 45GBP~
@@ -123,7 +123,16 @@ kanban-plugin: board
 	[[Broly MP + GM.jpg]]
 	*Note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
-- [ ] I want to get an SH FIGUARTS Vegeta Daima with the buff kit by  noirrnightscustoms plus repaint the SH FIGUARTS SSGSS Vegeta headsculpts
+- [ ] ##### Saiyan Prince
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp
+	[SH FIGUARTS DRAGON BALL SUPER "Unwavering Saiyan Pride" SSGSS Vegeta](https://www.nin-nin-game.com/en/dragon-ball/163019-shfiguarts-dragon-ball-super-vegeta-ssgss-the-pride-of-saiyans-reissue-bandai-spirits-.html) 32.94gbp x2
+	[Acrylic Markers](https://www.aliexpress.com/item/1005008365305510.html) 21.09gbp
+	**TOTAL 118.35gbp**
+	*I want to repaint the SSGSS headsculpts to be base form and SSJ using the acrylic markers 324 and 301, then I need an adapter peg from sh_figuposes to use it on the Daima body
+	I am waiting to get noirrnightscustoms' Daima body kit, when it is available I will buy two - one to use on my existing Daima copy and one to modify into a base form Buu Saga outfit using another Daima copy*
+	[[SSGSS Vegeta base form repaint.jpg]]
+	[[SSGSS Vegeta SSJ repaint.jpg]]
+	[[noirrnightscustoms Vegeta kit.jpg]]
 
 
 ## Tech Term #2<br>TOTAL 124.98GBP
