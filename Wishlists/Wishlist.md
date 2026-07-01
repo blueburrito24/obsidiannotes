@@ -182,7 +182,7 @@ kanban-plugin: board
 	[[PC TOYS Venom comparison.jpg]]
 - [ ] ##### Your Friendly Neighbourhood Spider-Man
 	[MAFEX 241 SPIDER-MAN NO WAY HOME Friendly Neighbourhood Spider-Man](https://www.nin-nin-game.com/en/mafex/231510-mafex-no-241-spider-man-no-way-home-friendly-neighborhood-spider-man-reissue-medicom-toy-.html) 69.63gbp
-- [ ] I would want custom webs for photography but I may want to get one or two packs
+- [ ] I want custom webs for photography but I may want to get one or two packs
 	[Custom Webs](https://www.etsy.com/uk/listing/4505984261/spidey-webs) 32.21gbp incl. postage
 
 
