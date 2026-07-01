@@ -177,9 +177,10 @@ kanban-plugin: board
 	**TOTAL 81.25gbp**
 	[[Fahrulstore V71 Headsculpt.jpg]]
 	*I would want to do the same as I am on my MESS TOYS BSN and hollow out the abdomen to increase the forward range*
-- [ ] ##### The Leftovers
+- [ ] ##### Lethal Protector
 	[PC TOYS Revoltech KO Venom](https://www.aliexpress.com/item/1005012596705509.html?) 43.09gbp
 	[[PC TOYS Venom comparison.jpg]]
+	^ Should buy transparent black version
 - [ ] ##### Your Friendly Neighbourhood Spider-Man
 	[MAFEX 241 SPIDER-MAN NO WAY HOME Friendly Neighbourhood Spider-Man](https://www.nin-nin-game.com/en/mafex/231510-mafex-no-241-spider-man-no-way-home-friendly-neighborhood-spider-man-reissue-medicom-toy-.html) 69.63gbp
 - [ ] I want custom webs for photography but I may want to get one or two packs
