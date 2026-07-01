@@ -62,7 +62,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 504.89GBP
+## Figures Term #1<br>TOTAL 530.78GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~ which I've taken away from my TOTAL
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
@@ -99,17 +99,31 @@ kanban-plugin: board
 	*Note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
 - [ ] ##### Saiyan Prince
-	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp
-	[SH FIGUARTS DRAGON BALL SUPER "Unwavering Saiyan Pride" SSGSS Vegeta](https://www.nin-nin-game.com/en/dragon-ball/163019-shfiguarts-dragon-ball-super-vegeta-ssgss-the-pride-of-saiyans-reissue-bandai-spirits-.html) 32.94gbp x2
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp x2
+	[SH FIGUARTS DRAGON BALL Z -RESURRECTION F- Super Saiyan Blue Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m22775224450) 27.46gbp
+	[Second Copy](https://www.ebay.co.uk/itm/257022170103?) 32.93gbp
 	[Acrylic Markers](https://www.aliexpress.com/item/1005008365305510.html) 21.09gbp
 	[Toothpicks](https://amzn.eu/d/03vTsozr) 3.79gbp
-	**TOTAL 122.14gbp**
-	*I want to repaint the SSGSS headsculpts to be base form and SSJ using the acrylic markers 324 and 301, for SSJ I would need to use 315 for the iris outline and 314 for the iris, which I would apply by using the marker on a separate surface and then dipping a toothpick in the paint puddle so I can apply it onto the facesculpt carefully
-	I would also need an adapter peg from sh_figuposes to use it on the Daima body*
-	[[SSGSS Vegeta base form repaint.jpg]]
-	[[SSGSS Vegeta SSJ repaint.jpg]]
+	**TOTAL 148.03gbp**
+	>[!Custom details]-
+	>Repaint the 1.0 SSJB headsculpts to be base form and SSJ, using acrylic markers 324 for base and 301 for SSJ's hair, 315 for SSJ's eye outline and 314 for SSJ's eye
+	>I will apply the paint by using the acrylic marker on a piece of cardboard and then dipping a toothpick in it so I can apply it with more precision
+	>I will need to order custom Daima-1.0 neckpegs from sh_figuposes
+	
+	[[SSJB Vegeta head on Daima body.png]]
 	[[noirrnightscustoms Vegeta kit.jpg]]
-- [ ] I am waiting to get noirrnightscustoms' Daima body kit, when it is available I will buy two - one to use on my existing Daima copy and one to modify into a base form Buu Saga outfit using another Daima copy
+- [ ] I am waiting to get noirrnightscustoms' Daima body kit, when it is available I will buy two - so I can have one for my regular armour Vegeta and one to make into a Buu Saga Vegeta
+	[Vallejo Royal Blue](https://amzn.eu/d/03eK5WFX) 2.95gbp
+	[Vallejo Light Flesh](https://amzn.eu/d/02fHrsY9) 2.95gbp
+	>[!Custom details]-
+	>Install one kit on one of my Daima Vegetas, making sure to superglue the chest assembly in place
+	>Resculpt and sand down the torso on the other kit to look like his Buu Saga leotard
+	>Sand down the rim of the abdomen armour piece and sand down all the details on the abdomen piece and add some wrinkling towards the bottom
+	>Repaint the torso pieces with light flesh for the skin and royal blue for the leotard, which matches the lower legs
+	>Disassemble the arms and sand down the inside where the joints meet and the underside of the shoulder that goes into the bicep piece
+	>Repaint the arms with light flesh
+	
+	[[Custom Buu Saga 1.0 Vegeta for reference.jpg]]
 
 
 ## Tech Term #2<br>TOTAL 124.98GBP
@@ -168,6 +182,8 @@ kanban-plugin: board
 	[[PC TOYS Venom comparison.jpg]]
 - [ ] ##### Your Friendly Neighbourhood Spider-Man
 	[MAFEX 241 SPIDER-MAN NO WAY HOME Friendly Neighbourhood Spider-Man](https://www.nin-nin-game.com/en/mafex/231510-mafex-no-241-spider-man-no-way-home-friendly-neighborhood-spider-man-reissue-medicom-toy-.html) 69.63gbp
+- [ ] I would want custom webs for photography but I may want to get one or two packs
+	[Custom Webs](https://www.etsy.com/uk/listing/4505984261/spidey-webs) 32.21gbp incl. postage
 
 
 ## Tech Term #3<br>TOTAL 764.99GBP
