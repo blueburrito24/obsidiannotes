@@ -118,7 +118,11 @@ kanban-plugin: board
 	> - On the neutral base form face, I will turn the neutral mouth into a smile with a wrinkle on the right like Gohan's iconic face, using the Gundam grey GM302 marker
 	> - All these heads need a matte finish to match the GB body
 	> - Now the headsculpt is completely ready, featuring all its facesculpts, I can use it on the GB body using the Nonou Custom neckpeg
-	> - Now I can just use these headsculpts on the GB body using the Nonou Custom neckpeg
+	> - If everything is successful so far, I want to attempt giving the faces a more dynamic look;
+	> - I will tilt the faces forward like seen in the photos, exaggerating the vertical volume of the hairsculpt while keeping the face at a normal viewing angle, then I will add epoxy putty between the facesculpt and original peg on the head so that it can slot onto the head like normal
+	> - I must apply vaseline onto the peg hole of the facesculpt beforehand so I can easily remove it while the epoxy putty is slightly dry, allowing it to take shape but not lock the facesculpt in place
+	> - Once dried, I need to fill out the gap between the ear and the hair that's now created by this dynamic tilt, using epoxy putty and the black grey paint
+	> - Now I have a dynamic headsculpt that works fine with the Nonou Custom neckpeg
 - [ ] ##### Saiyan Prince
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp x2
 	[SH FIGUARTS DRAGON BALL Z -RESURRECTION F- Super Saiyan Blue Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m22775224450) 27.46gbp
