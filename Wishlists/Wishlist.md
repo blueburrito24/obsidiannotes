@@ -185,7 +185,7 @@ kanban-plugin: board
 	**TOTAL 67.58gbp**
 	[[MESS TOYS BSN + AV Tendrils.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
-	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range*
+	I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
 - [ ] ##### I'm back Todd!
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 25.39gbp
 	[Fahrulstore35 V17R2](https://fahrulstore35.bigcartel.com/product/v17r2) 41.66gbp
@@ -201,7 +201,7 @@ kanban-plugin: board
 	[[polosfiguresnstuff custom Spider-Man Revoltech.png]]
 	[[polosfiguresnstuff custom Spider-Man hands.jpg]]
 	[[McFarlane Spider-Man patterns.png]]
-	*Will use BSN from my previous purchase and dye swapped out parts, also need to hollow out the abdomen piece like I will on my BSN and SN figures*
+	*Will use BSN from my previous purchase and dye swapped out parts*
 	>[!Custom details]-
 	> - Disassemble both CT and BSN
 	> - Shave down knee-protrusion on lower legs on both figures
@@ -224,7 +224,7 @@ kanban-plugin: board
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 41.66gbp
 	**TOTAL 81.25gbp**
 	[[Fahrulstore V71 Headsculpt.jpg]]
-	*I would want to do the same as I am on my MESS TOYS BSN and hollow out the abdomen to increase the forward range*
+	*I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
 - [ ] ##### Lethal Protector
 	[PC TOYS Revoltech KO Venom](https://www.aliexpress.com/item/1005012596705509.html?) 43.09gbp
 	[[PC TOYS Venom comparison.jpg]]
