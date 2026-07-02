@@ -118,11 +118,6 @@ kanban-plugin: board
 	> - On the neutral base form face, I will turn the neutral mouth into a smile with a wrinkle on the right like Gohan's iconic face, using the Gundam grey GM302 marker
 	> - All these heads need a matte finish to match the GB body
 	> - Now the headsculpt is completely ready, featuring all its facesculpts, I can use it on the GB body using the Nonou Custom neckpeg
-	> - If everything is successful so far, I want to attempt giving the faces a more dynamic look;
-	> - I will tilt the faces forward like seen in the photos, exaggerating the vertical volume of the hairsculpt while keeping the face at a normal viewing angle, then I will add epoxy putty between the facesculpt and original peg on the head so that it can slot onto the head like normal
-	> - I must apply vaseline onto the peg hole of the facesculpt beforehand so I can easily remove it while the epoxy putty is slightly dry, allowing it to take shape but not lock the facesculpt in place
-	> - Once dried, I need to fill out the gap between the ear and the hair that's now created by this dynamic tilt, using epoxy putty and the black grey paint
-	> - Now I have a dynamic headsculpt that works fine with the Nonou Custom neckpeg
 - [ ] ##### Saiyan Prince
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp x2
 	[SH FIGUARTS DRAGON BALL Z -RESURRECTION F- Super Saiyan Blue Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m22775224450) 27.46gbp
@@ -157,7 +152,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 651.63GBP
+## Figures Term #2<br>TOTAL 783.89GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
@@ -195,7 +190,32 @@ kanban-plugin: board
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range
 	I can use the AY Symbiote webs with the MESS TOYS BSN
-	Also, I may want to buy some Blue Stuff and recast the AY heads to use on MESS TOYS BSN and vice versa, plus the web-thwip fists from MESS TOYS BSN for AY*
+	I can also use the spare hands from my custom to give the AY Symbiote some fist-thwip hands or making my own stylised wall-crawling hands*
+- [ ] ##### I'm back Todd!
+	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 25.39gbp
+	[MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005010151548170.html?) 34.79gbp
+	[Fahrulstore35 V17R2](https://fahrulstore35.bigcartel.com/product/v17r2) 41.66gbp
+	[GSI Creos Gundam Ultra Fine Black](https://amzn.eu/d/0i4dKZse) 6.95gbp
+	[Vallejo Flat Blue](https://amzn.eu/d/01vC6D4J) 4gbp
+	[Vallejo Black Wash](https://amzn.eu/d/065U1gsD) 5.82gbp
+	[Vallejo Vermillion Red](https://amzn.eu/d/0gywkvgs) 5.70gbp
+	[Vallejo Black](https://amzn.eu/d/09tDK7SL) 7.95gbp
+	**TOTAL 132.26gbp**
+	[[polosfiguresnstuff custom Spider-Man Revoltech.png]]
+	[[McFarlane Spider-Man patterns.png]]
+	>[!Custom details]-
+	> - Disassemble both CT and BSN
+	> - Take elbow joints from BSN, hip piece and legs (from the thigh to the upper shin)
+	> - Sand down the chest to remove the spider emblem and make space to paint a new one, alongside sanding down in the inside of the shoulder-blade parts and the inside of the bicep parts to avoid paint rub
+	> - Repaint the red areas on the CT parts, alongside the Fahrul V17R2 headsculpt and hand accessories, with vermillion red (except the back emblem) and matte finish to preserve the red
+	> - Repaint the blue areas on the CT parts with black and matte finish
+	> - Repaint the spider emblem on the back parts with vermillion and matte finish
+	> - Shade the black areas with flat blue, following the muscle sculpt alongside referencing comic panels, and matte finish
+	> - Draw hatch lines using the Gundam ultra fine black marker in the muscle recesses, alongside typical places like the sole of the feet, and matte finish
+	> - Apply some black paint on a palette and use a toothpick to carefully draw the weblines on the chest piece, alongside the McFarlane spider emblem and matte finish
+	> - Apply black wash over all the red areas and matte finish
+	> - To achieve the dynamic hand accessories, take the open-palm relaxed hands and cut off the fingers from the base, then re-attach at different angles on the hand to get that thwip-like pose that polosfiguresnstuff
+	> - I will also cut off the fingers from the wall-crawling hands, cut them into parts and re-attach them into bent-fingers like the SHF wall-crawling hands
 - [ ] ##### The Impostor
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 41.66gbp
