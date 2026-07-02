@@ -110,6 +110,7 @@ kanban-plugin: board
 	**TOTAL 117.06gbp**
 	[[Shallot headsculpt on GB body.png]]
 	[[Gohan iconic face.png]]
+	*Could also use KHS*
 	>[!Custom details]-
 	> - I will cut off the hair-parts from all the facesculpts
 	> - I will cut off the bang from one base form facesculpt, resculpt it to match the smaller bang on Gohan's hair, then cut it and fit it with superglue onto the base form headsculpt
@@ -178,6 +179,8 @@ kanban-plugin: board
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
+- [ ] ##### Your Friendly Neighbourhood Spider-Man
+	[MAFEX 241 SPIDER-MAN NO WAY HOME Friendly Neighbourhood Spider-Man](https://www.nin-nin-game.com/en/mafex/231510-mafex-no-241-spider-man-no-way-home-friendly-neighborhood-spider-man-reissue-medicom-toy-.html) 69.63gbp
 - [ ] ##### The Spider
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 - [ ] ##### The Suit
@@ -226,8 +229,6 @@ kanban-plugin: board
 	[PC TOYS Revoltech KO Venom](https://www.aliexpress.com/item/1005012596705509.html?) 43.09gbp
 	[[PC TOYS Venom comparison.jpg]]
 	^ Should buy transparent black version
-- [ ] ##### Your Friendly Neighbourhood Spider-Man
-	[MAFEX 241 SPIDER-MAN NO WAY HOME Friendly Neighbourhood Spider-Man](https://www.nin-nin-game.com/en/mafex/231510-mafex-no-241-spider-man-no-way-home-friendly-neighborhood-spider-man-reissue-medicom-toy-.html) 69.63gbp
 - [ ] I want custom webs for photography but I may want to get one or two packs
 	[Custom Webs](https://www.etsy.com/uk/listing/4505984261/spidey-webs) 32.21gbp incl. postage
 
