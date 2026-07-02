@@ -199,16 +199,18 @@ kanban-plugin: board
 	[Chisel Scriber](https://amzn.eu/d/0bj0szQj) 24.99gbp
 	**TOTAL 146.75gbp**
 	[[polosfiguresnstuff custom Spider-Man Revoltech.png]]
+	[[polosfiguresnstuff custom Spider-Man hands.jpg]]
 	[[McFarlane Spider-Man patterns.png]]
 	*Will use BSN from my previous purchase and dye swapped out parts, also need to hollow out the abdomen piece like I will on my BSN and SN figures*
 	>[!Custom details]-
 	> - Disassemble both CT and BSN
 	> - Shave down knee-protrusion on lower legs on both figures
 	> - Take elbow joints from BSN, hip piece and legs (from the thigh to the upper shin)
-	> - Sand down the chest and back muscles to remove the spider emblems and scribe the weblines on the chest so I have space to create the new spider-emblem
+	> - Sand down the chest to remove the spider emblem, alongside the legs on the back spider emblem, and scribe the weblines on the chest so I have space to create the new spider-emblem + scribing additional weblines on the whole body to match the McFarlane style
+	> - Before I do any other repainting or resculpting I need to flatten the heels so that it looks more like the typical comic design, adding more width at the middle of the foot
 	> - I need to sand down in the inside of the shoulder-blade parts and the inside of the bicep parts to avoid paint rub
 	> - Repaint the red areas on the CT parts, alongside the Fahrul V17R2 headsculpt and hand accessories, with vermillion red (except the back emblem) and matte finish to preserve the red
-	> - Sculpt the McFarlane spider emblem out of epoxy putty and attach it to the chest, paint with black and matte finish
+	> - Sculpt the McFarlane spider emblem out of epoxy putty onto the chest; first the body and then the legs, sand down for flatness, paint in black and matte finish
 	> - Repaint the blue areas on the CT parts with black and matte finish
 	> - Sculpt the McFarlane classic back spider emblem and attach to the main body and shoulder blade parts, paint with vermillion and matte finish
 	> - Shade the black areas with flat blue, following the muscle sculpt alongside referencing comic panels, and matte finish
