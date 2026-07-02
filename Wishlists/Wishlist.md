@@ -7,6 +7,7 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] https://www.darktable.org/ for editing raw photos
+- [ ] https://www.youtube.com/watch?v=S0oP06owt3c how to apply black wash to figures
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
 - [ ] [SANDSHULT IKEA Bookshelf](https://www.ikea.com/gb/en/p/bergshult-sandshult-wall-shelf-brown-black-aspen-s99326014/) 29gbp
@@ -206,6 +207,7 @@ kanban-plugin: board
 	**TOTAL 132.26gbp**
 	[[polosfiguresnstuff custom Spider-Man Revoltech.png]]
 	[[McFarlane Spider-Man patterns.png]]
+	*Also need to hollow out the abdomen piece like I will on my BSN and SN figures*
 	>[!Custom details]-
 	> - Disassemble both CT and BSN
 	> - Take elbow joints from BSN, hip piece and legs (from the thigh to the upper shin)
