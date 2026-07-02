@@ -155,8 +155,9 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 594.63GBP
+## Figures Term #2<br>TOTAL 600GBP
 
+- [ ] Note, all the Fahrulstore35 headsculpts are 15usd (11.24gbp) each, but I will have to pay 40usd (29.98gbp) for expedited shipping
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 - [ ] ##### Substitute Soul Reaper
@@ -182,13 +183,14 @@ kanban-plugin: board
 - [ ] ##### The Suit
 	[MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005009826985258.html?) 38.39gbp
 	[CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html?) 29.19gbp
-	**TOTAL 67.58gbp**
+	[Fahrulstore35 V80](https://fahrulstore35.bigcartel.com/product/v80) 11.24gbp
+	**TOTAL 78.82gbp**
 	[[MESS TOYS BSN + AV Tendrils.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
 - [ ] ##### I'm back Todd!
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 25.39gbp
-	[Fahrulstore35 V17R2](https://fahrulstore35.bigcartel.com/product/v17r2) 41.66gbp
+	[Fahrulstore35 V17R2](https://fahrulstore35.bigcartel.com/product/v17r2) 11.24gbp
 	[GSI Creos Gundam Ultra Fine Black](https://amzn.eu/d/0i4dKZse) 6.95gbp
 	[Vallejo Flat Blue](https://amzn.eu/d/01vC6D4J) 4gbp
 	[Vallejo Black Wash](https://amzn.eu/d/065U1gsD) 5.82gbp
@@ -197,14 +199,14 @@ kanban-plugin: board
 	[Rit Synthetic Graphite Dye](https://amzn.eu/d/06thpNhx) 8.30gbp
 	[3"5 pot for dyeing figure parts](https://amzn.eu/d/04AJ4Lq2) 15.99gbp
 	[Chisel Scriber](https://amzn.eu/d/0bj0szQj) 24.99gbp
-	**TOTAL 146.75gbp**
+	**TOTAL 116.33gbp**
 	[[polosfiguresnstuff custom Spider-Man Revoltech.png]]
 	[[polosfiguresnstuff custom Spider-Man hands.jpg]]
 	[[McFarlane Spider-Man patterns.png]]
 	*Will use BSN from my previous purchase and dye swapped out parts*
 	>[!Custom details]-
 	> - Disassemble both CT and BSN
-	> - Shave down knee-protrusion on lower legs on both figures
+	> - Shave down knee-protrusion on lower legs on both figures, also sand down weblines on the old CT blue legs so I can use them on BSN
 	> - Take elbow joints from BSN, hip piece and legs (from the thigh to the upper shin)
 	> - Sand down the chest to remove the spider emblem, alongside the legs on the back spider emblem, and scribe the weblines on the chest so I have space to create the new spider-emblem + scribing additional weblines on the whole body to match the McFarlane style
 	> - Before I do any other repainting or resculpting I need to flatten the heels so that it looks more like the typical comic design, adding more width at the middle of the foot
@@ -221,8 +223,8 @@ kanban-plugin: board
 	> - Also I want to drill in holes on the feet and glue in some magnets, drill an indent in the hip-piece on the inside to glue in a magnet for wall-sitting poses
 - [ ] ##### The Impostor
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
-	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 41.66gbp
-	**TOTAL 81.25gbp**
+	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 11.24gbp
+	**TOTAL 50.83gbp**
 	[[Fahrulstore V71 Headsculpt.jpg]]
 	*I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
 - [ ] ##### Lethal Protector
