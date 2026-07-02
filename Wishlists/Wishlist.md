@@ -63,7 +63,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 676.14GBP
+## Figures Term #1<br>TOTAL 678.62GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~ which I've taken away from my TOTAL
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
@@ -154,12 +154,12 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 783.89GBP
+## Figures Term #2<br>TOTAL 800.18GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
 	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
-	**TOTAL 111.66GBP**
+	**TOTAL 111.66gbp**
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
 	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
@@ -168,7 +168,7 @@ kanban-plugin: board
 	[Binding Tape](https://amzn.eu/d/0ao1WXZp) 5.89gbp
 	[24 Gauge Floral Wire](https://amzn.eu/d/09tISCdw) 4gbp
 	[Orange Wind Effects](https://www.aliexpress.com/item/1005010024096360.html?) 7.35gbp
-	**TOTAL 130.48GBP**
+	**TOTAL 130.48gbp**
 	*I will use the orange wind effects as his Getsuga Tensho*
 	[[Custom SHF Ichigo.jpg]]
 	>[!Custom details]-
@@ -192,22 +192,21 @@ kanban-plugin: board
 	[[AY Symbiote Spider-Man.jpg]]
 	[[MESS TOYS BSN + AV Tendrils.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
-	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range
-	I can use the AY Symbiote webs with the MESS TOYS BSN
-	I can also use the spare hands from my custom to give the AY Symbiote some fist-thwip hands or making my own stylised wall-crawling hands*
+	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range*
 - [ ] ##### I'm back Todd!
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 25.39gbp
-	[MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005010151548170.html?) 34.79gbp
 	[Fahrulstore35 V17R2](https://fahrulstore35.bigcartel.com/product/v17r2) 41.66gbp
 	[GSI Creos Gundam Ultra Fine Black](https://amzn.eu/d/0i4dKZse) 6.95gbp
 	[Vallejo Flat Blue](https://amzn.eu/d/01vC6D4J) 4gbp
 	[Vallejo Black Wash](https://amzn.eu/d/065U1gsD) 5.82gbp
 	[Vallejo Vermillion Red](https://amzn.eu/d/0gywkvgs) 5.70gbp
 	[Vallejo Black](https://amzn.eu/d/09tDK7SL) 7.95gbp
-	**TOTAL 132.26gbp**
+	[Rit Synthetic Graphite Dye](https://amzn.eu/d/06thpNhx) 8.30gbp
+	[3"5 pot for dyeing figure parts](https://amzn.eu/d/04AJ4Lq2) 15.99gbp
+	**TOTAL 121.76gbp**
 	[[polosfiguresnstuff custom Spider-Man Revoltech.png]]
 	[[McFarlane Spider-Man patterns.png]]
-	*Also need to hollow out the abdomen piece like I will on my BSN and SN figures*
+	*Will use BSN from my previous purchase and dye swapped out parts, also need to hollow out the abdomen piece like I will on my BSN and SN figures*
 	>[!Custom details]-
 	> - Disassemble both CT and BSN
 	> - Take elbow joints from BSN, hip piece and legs (from the thigh to the upper shin)
