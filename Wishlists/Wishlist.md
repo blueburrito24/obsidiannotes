@@ -154,12 +154,10 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 800.18GBP
+## Figures Term #2<br>TOTAL 594.63GBP
 
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
 	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 82.52gbp
-	[SH FIGUARTS NARUTOP99 Ver. Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 29.14gbp
-	**TOTAL 111.66gbp**
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
 	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
@@ -180,16 +178,10 @@ kanban-plugin: board
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 - [ ] ##### Symbol of Peace
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) 67.95gbp
-- [ ] ##### Your Friendly Neighbourhood Spider-Man
-	[MAFEX 241 SPIDER-MAN NO WAY HOME Friendly Neighbourhood Spider-Man](https://www.nin-nin-game.com/en/mafex/231510-mafex-no-241-spider-man-no-way-home-friendly-neighborhood-spider-man-reissue-medicom-toy-.html) 69.63gbp
-- [ ] ##### The Spider
-	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 26.79gbp
 - [ ] ##### The Suit
-	[AMAZING YAMAGUCHI Symbiote Spider-Man](https://www.comicsandcocktails.co.uk/store/**PRE-ORDER**-Amazing-Yamaguchi-Revoltech-Marvel-Comics-Symbiote-Suit-Spider-Man-p793271124) 79.99gbp
 	[MESS TOYS Black Suit Neighbour](https://www.aliexpress.com/item/1005009826985258.html?) 38.39gbp
 	[CT TOYS Agent Venom](https://www.aliexpress.com/item/1005010162683633.html?) 29.19gbp
-	**TOTAL 147.57gbp**
-	[[AY Symbiote Spider-Man.jpg]]
+	**TOTAL 67.58gbp**
 	[[MESS TOYS BSN + AV Tendrils.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	Also I want to disassemble MESS TOYS BSN's abdomen and hollow it out to add more range*
