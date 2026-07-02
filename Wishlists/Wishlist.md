@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] https://www.youtube.com/watch?v=S0oP06owt3c how to apply black wash to figures
+	https://www.youtube.com/watch?v=BEzkLFtnoEs how to dye action figures
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
 - [ ] [SANDSHULT IKEA Bookshelf](https://www.ikea.com/gb/en/p/bergshult-sandshult-wall-shelf-brown-black-aspen-s99326014/) 29gbp
@@ -195,23 +196,27 @@ kanban-plugin: board
 	[Vallejo Black](https://amzn.eu/d/09tDK7SL) 7.95gbp
 	[Rit Synthetic Graphite Dye](https://amzn.eu/d/06thpNhx) 8.30gbp
 	[3"5 pot for dyeing figure parts](https://amzn.eu/d/04AJ4Lq2) 15.99gbp
-	**TOTAL 121.76gbp**
+	[Chisel Scriber](https://amzn.eu/d/0bj0szQj) 24.99gbp
+	**TOTAL 146.75gbp**
 	[[polosfiguresnstuff custom Spider-Man Revoltech.png]]
 	[[McFarlane Spider-Man patterns.png]]
 	*Will use BSN from my previous purchase and dye swapped out parts, also need to hollow out the abdomen piece like I will on my BSN and SN figures*
 	>[!Custom details]-
 	> - Disassemble both CT and BSN
+	> - Shave down knee-protrusion on lower legs on both figures
 	> - Take elbow joints from BSN, hip piece and legs (from the thigh to the upper shin)
-	> - Sand down the chest to remove the spider emblem and make space to paint a new one, alongside sanding down in the inside of the shoulder-blade parts and the inside of the bicep parts to avoid paint rub
+	> - Sand down the chest and back muscles to remove the spider emblems and scribe the weblines on the chest so I have space to create the new spider-emblem
+	> - I need to sand down in the inside of the shoulder-blade parts and the inside of the bicep parts to avoid paint rub
 	> - Repaint the red areas on the CT parts, alongside the Fahrul V17R2 headsculpt and hand accessories, with vermillion red (except the back emblem) and matte finish to preserve the red
+	> - Sculpt the McFarlane spider emblem out of epoxy putty and attach it to the chest, paint with black and matte finish
 	> - Repaint the blue areas on the CT parts with black and matte finish
-	> - Repaint the spider emblem on the back parts with vermillion and matte finish
+	> - Sculpt the McFarlane classic back spider emblem and attach to the main body and shoulder blade parts, paint with vermillion and matte finish
 	> - Shade the black areas with flat blue, following the muscle sculpt alongside referencing comic panels, and matte finish
 	> - Draw hatch lines using the Gundam ultra fine black marker in the muscle recesses, alongside typical places like the sole of the feet, and matte finish
-	> - Apply some black paint on a palette and use a toothpick to carefully draw the weblines on the chest piece, alongside the McFarlane spider emblem and matte finish
 	> - Apply black wash over all the red areas and matte finish
 	> - To achieve the dynamic hand accessories, take the open-palm relaxed hands and cut off the fingers from the base, then re-attach at different angles on the hand to get that thwip-like pose that polosfiguresnstuff
 	> - I will also cut off the fingers from the wall-crawling hands, cut them into parts and re-attach them into bent-fingers like the SHF wall-crawling hands
+	> - Also I want to drill in holes on the feet and glue in some magnets, drill an indent in the hip-piece on the inside to glue in a magnet for wall-sitting poses
 - [ ] ##### The Impostor
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 41.66gbp
