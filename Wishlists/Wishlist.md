@@ -186,6 +186,7 @@ kanban-plugin: board
 	[Fahrulstore35 V80](https://fahrulstore35.bigcartel.com/product/v80) 11.24gbp
 	**TOTAL 78.82gbp**
 	[[MESS TOYS BSN + AV Tendrils.jpg]]
+	[[MESS TOYS BSN + V80.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
 - [ ] ##### I'm back Todd!
