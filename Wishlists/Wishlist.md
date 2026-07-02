@@ -62,7 +62,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 530.78GBP
+## Figures Term #1<br>TOTAL 676.14GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~ which I've taken away from my TOTAL
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
@@ -72,13 +72,15 @@ kanban-plugin: board
 - [ ] [Clear Plastic Pencil Case 30cm for carrying figures](https://amzn.eu/d/06scovTT) 4.49gbp
 	*^ just like the boxes, I would use foam to cushion these, however I will use the pencil case when I need a lighter storage option e.g., if I'm not going out with a big bag*
 - [ ] [Painting clamp stand](https://amzn.eu/d/0bjDQKJK) 5.02gbp
+- [ ] [Acrylic paint palette](https://amzn.eu/d/0h4FmGj5) 3.69gbp
 - [ ] ##### Master of Martial Arts Son Goku
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[BSM BLACKSHARK Battle-Damaged Goku (Yellow Ver.)](https://www.aliexpress.com/item/1005009065552055.html) 53.01gbp
-	**TOTAL 179.86GBP**
-	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure, alongside carving out more of the back of the hairsculpt on KHS
+	[SH FIGUARTS DRAGON BALL Z Goku (Limited Edition)](https://zenmarket.jp/mercariproduct.aspx?itemCode=m60140273226) 24.58gbp
+	**TOTAL 204.44GBP**
+	*I will use many of the BSM accessories like the faces and hands on the KHS Goku figure plus the 1.0 faces, alongside using the FOR hairsculpts on GB, also need to buy sh_figuposes barbell neck for each Goku figure, alongside carving out more of the back of the hairsculpt on KHS
 	Will sell FOR and BSM Blackshark bodies and hands to Tugboat*
 	[[Goku Neck Range.png]]
 - [ ] ##### The Namekian With No Name
@@ -98,6 +100,25 @@ kanban-plugin: board
 	[[Broly MP + GM.jpg]]
 	*Note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
+- [ ] ##### Mystic Son of Prophecy
+	[SH FIGUARTS DRAGON BALL LEGENDS Shallot](https://store.bandainamcoent.eu/dragon-ball-legends-shfiguarts-shallot/) 44.99gbp
+	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[Vallejo Black Grey](https://amzn.eu/d/0fE9pVOa) 2.95gbp
+	[Gundam Grey Marker and Eraser Marker](https://amzn.eu/d/0bU2bqkO) 19.99gbp
+	[Sandpaper 12pcs](https://amzn.eu/d/05umFWZ8) 3.99gbp
+	[Nonou Custom GB-2.0 neckpeg 4pcs](https://www.aliexpress.com/item/1005010687235775.html?) 12.19gbp
+	**TOTAL 117.06gbp**
+	[[Shallot headsculpt on GB body.png]]
+	[[Gohan iconic face.png]]
+	>[!Custom details]-
+	> - I will cut off the hair-parts from all the facesculpts
+	> - I will cut off the bang from one base form facesculpt, resculpt it to match the smaller bang on Gohan's hair, then cut it and fit it with superglue onto the base form headsculpt
+	> - I need to now cut up the block peg on the SSJB faces so that they fit onto the base form head like the regular base form faces
+	> - Now I have my facesculpts ready, I will repaint the SSJB facesculpts into base form using the black grey paint, putting the paint on a palette and applying it with a toothpick when it comes to the eyes, I will use a thin brush on the eyebrows alongside masking tape, and a normal brush for the headsculpt
+	> - On the neutral base form face, I will turn the neutral mouth into a smile with a wrinkle on the right like Gohan's iconic face, using the Gundam grey GM302 marker
+	> - All these heads need a matte finish to match the GB body
+	> - Now the headsculpt is completely ready, featuring all its facesculpts, I can use it on the GB body using the Nonou Custom neckpeg
+	> - Now I can just use these headsculpts on the GB body using the Nonou Custom neckpeg
 - [ ] ##### Saiyan Prince
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp x2
 	[SH FIGUARTS DRAGON BALL Z -RESURRECTION F- Super Saiyan Blue Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m22775224450) 27.46gbp
