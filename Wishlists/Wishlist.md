@@ -64,7 +64,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 678.62GBP
+## Figures Term #1<br>TOTAL 717.62GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~ which I've taken away from my TOTAL
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
@@ -75,6 +75,8 @@ kanban-plugin: board
 	*^ just like the boxes, I would use foam to cushion these, however I will use the pencil case when I need a lighter storage option e.g., if I'm not going out with a big bag*
 - [ ] [Painting clamp stand](https://amzn.eu/d/0bjDQKJK) 5.02gbp
 - [ ] [Acrylic paint palette](https://amzn.eu/d/0h4FmGj5) 3.69gbp
+- [ ] ##### Your Local Spider-Menace
+	[MUSTANG TOYZ MT02 Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 30.09gbp
 - [ ] ##### Master of Martial Arts Son Goku
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
@@ -155,7 +157,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 600GBP
+## Figures Term #2<br>TOTAL 643.39GBP
 
 - [ ] Note, all the Fahrulstore35 headsculpts are 15usd (11.24gbp) each, but I will have to pay 40usd (29.98gbp) for expedited shipping
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
@@ -189,6 +191,22 @@ kanban-plugin: board
 	[[MESS TOYS BSN + V80.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
+- [ ] ##### Classic Red & Blue
+	[CT TOYS 2.0 Revoltech Spider-Man](https://www.aliexpress.com/item/1005010162639112.html) 25.39gbp
+	[Fahrulstore V70](https://fahrulstore35.bigcartel.com/product/v70) 11.24gbp
+	[Vallejo Magic Blue](https://amzn.eu/d/02CGJGzE) 2.95gbp
+	**TOTAL 39.58gbp**
+	[[Classic Spider-Man Revoltech custom reference.png]]
+	[[Fahrulstore V70 Headsculpt.jpg]]
+	[[Classic Spider-Man logos.jpg]]
+	>[!Custom details]-
+	> - I will sand down the knee protrusions, then the webline pattern on the knee pieces
+	> - The front spider emblem as well as the back spider emblem's legs needed to be sanded down, I will scribe weblines where the front emblem was
+	> - Disassemble the entire figure and matte spray
+	> - Sculpt the classic spider emblem legs onto the back logo
+	> - Sculpt a classic logo design onto the front chest piece
+	> - Repaint all blue sections with magic blue and matte spray
+	> - Modify the hand accessories to look more dynamic like polosfiguresnstuff
 - [ ] ##### I'm back Todd!
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 25.39gbp
 	[Fahrulstore35 V17R2](https://fahrulstore35.bigcartel.com/product/v17r2) 11.24gbp
@@ -230,8 +248,10 @@ kanban-plugin: board
 	*I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
 - [ ] ##### Lethal Protector
 	[PC TOYS Revoltech KO Venom](https://www.aliexpress.com/item/1005012596705509.html?) 43.09gbp
+	[MESS TOYS Lethal Neighbour](https://www.aliexpress.com/item/1005011975260768.html?) 43.39gbp
 	[[PC TOYS Venom comparison.jpg]]
-	^ Should buy transparent black version
+	^ Should buy transparent black version of PC TOYS
+	I am buying both since both are different and cool representations of Venom
 - [ ] I want custom webs for photography but I may want to get one or two packs
 	[Custom Webs](https://www.etsy.com/uk/listing/4505984261/spidey-webs) 32.21gbp incl. postage
 
