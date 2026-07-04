@@ -104,25 +104,6 @@ kanban-plugin: board
 	[[Broly MP + GM.jpg]]
 	*Note that the neckpeg replacement is not in stock because of the seller being away until September*
 	[Ab crunch mod](https://youtu.be/FMrtiFmERg0?si=BxQUXF3_ISUUSm6C)
-- [ ] ##### Mystic Son of Prophecy
-	[SH FIGUARTS DRAGON BALL LEGENDS Shallot](https://store.bandainamcoent.eu/dragon-ball-legends-shfiguarts-shallot/) 44.99gbp
-	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	[Vallejo Black Grey](https://amzn.eu/d/0fE9pVOa) 2.95gbp
-	[Gundam Grey Marker and Eraser Marker](https://amzn.eu/d/0bU2bqkO) 19.99gbp
-	[Sandpaper 12pcs](https://amzn.eu/d/05umFWZ8) 3.99gbp
-	[Nonou Custom GB-2.0 neckpeg 4pcs](https://www.aliexpress.com/item/1005010687235775.html?) 12.19gbp
-	**TOTAL 117.06gbp**
-	[[Shallot headsculpt on GB body.png]]
-	[[Gohan iconic face.png]]
-	*Could also use KHS, and could make the hair pieces interchangeable to include a smaller bang*
-	>[!Custom details]-
-	> - I will cut off the hair-parts from all the facesculpts
-	> - I will cut off the bang from one base form facesculpt, resculpt it to match the smaller bang on Gohan's hair, then cut it and fit it with superglue onto the base form headsculpt
-	> - I need to now cut up the block peg on the SSJB faces so that they fit onto the base form head like the regular base form faces
-	> - Now I have my facesculpts ready, I will repaint the SSJB facesculpts into base form using the black grey paint, putting the paint on a palette and applying it with a toothpick when it comes to the eyes, I will use a thin brush on the eyebrows alongside masking tape, and a normal brush for the headsculpt
-	> - On the neutral base form face, I will turn the neutral mouth into a smile with a wrinkle on the right like Gohan's iconic face, using the Gundam grey GM302 marker
-	> - All these heads need a matte finish to match the GB body
-	> - Now the headsculpt is completely ready, featuring all its facesculpts, I can use it on the GB body using the Nonou Custom neckpeg
 - [ ] ##### Saiyan Prince
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.38gbp x2
 	[SH FIGUARTS DRAGON BALL Z -RESURRECTION F- Super Saiyan Blue Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m22775224450) 27.46gbp
