@@ -7,15 +7,8 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] https://www.darktable.org/ for editing raw photos
-- [ ] https://www.youtube.com/watch?v=S0oP06owt3c how to apply black wash to figures
-	https://www.youtube.com/watch?v=BEzkLFtnoEs how to dye action figures
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
-- [ ] [SANDSHULT IKEA Bookshelf](https://www.ikea.com/gb/en/p/bergshult-sandshult-wall-shelf-brown-black-aspen-s99326014/) 29gbp
-	[KROKSHULT IKEA Shelf bracket](https://www.ikea.com/gb/en/p/krokshult-bracket-anthracite-40399903/) 12gbp for 3pcs
-	[DIGNITET IKEA curtain rack](https://www.ikea.com/gb/en/p/dignitet-curtain-wire-stainless-steel-60075295/) 15gbp
-	[Curtains 152x137cm](https://www.amazon.co.uk/dp/B0D95BX37G?) 10.99gbp
-	^ curtain setup to cover two bookshelves of books and figure boxes when praying
 - [ ] [Clear wired stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.36gbp per piece
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
