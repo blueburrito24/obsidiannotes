@@ -190,7 +190,7 @@ kanban-plugin: board
 	[[MESS TOYS BSN + AV Tendrils.jpg]]
 	[[MESS TOYS BSN + V80.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
-	I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
+	I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside supergluing another magnet on the inside of the hip piece*
 - [ ] ##### Classic Red & Blue
 	[CT TOYS 2.0 Revoltech Spider-Man](https://www.aliexpress.com/item/1005010162639112.html) 25.39gbp
 	[Fahrulstore V70](https://fahrulstore35.bigcartel.com/product/v70) 11.24gbp
@@ -206,6 +206,8 @@ kanban-plugin: board
 	> - Sculpt the classic spider emblem legs onto the back logo
 	> - Sculpt a classic logo design onto the front chest piece
 	> - Repaint all blue sections with magic blue and matte spray
+	> - I want to fill in the gap in the feet, paint with vermillion red and then drill in some holes on the toe and heel to superglue in some magnets
+	> - Also I want to glue in a magnet on the inside of the hip piece for wall-sitting poses
 	> - Modify the hand accessories to look more dynamic like polosfiguresnstuff
 - [ ] ##### I'm back Todd!
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 25.39gbp
@@ -239,13 +241,13 @@ kanban-plugin: board
 	> - Apply black wash over all the red areas and matte finish
 	> - To achieve the dynamic hand accessories, take the open-palm relaxed hands and cut off the fingers from the base, then re-attach at different angles on the hand to get that thwip-like pose that polosfiguresnstuff
 	> - I will also cut off the fingers from the wall-crawling hands, cut them into parts and re-attach them into bent-fingers like the SHF wall-crawling hands
-	> - Also I want to drill in holes on the feet and glue in some magnets, drill an indent in the hip-piece on the inside to glue in a magnet for wall-sitting poses
+	> - Also I want to drill in holes on the feet and glue in some magnets and glue in a magnet on the inside of the hip piece for wall-sitting poses
 - [ ] ##### The Impostor
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 11.24gbp
 	**TOTAL 50.83gbp**
 	[[Fahrulstore V71 Headsculpt.jpg]]
-	*I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside making an indent on the inside of the hip piece for another magnet*
+	*I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside supergluing another magnet on the inside of the hip piece*
 - [ ] ##### Lethal Protector
 	[PC TOYS Revoltech KO Venom](https://www.aliexpress.com/item/1005012596705509.html?) 43.09gbp
 	[MESS TOYS Lethal Neighbour](https://www.aliexpress.com/item/1005011975260768.html?) 43.39gbp
