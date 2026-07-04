@@ -157,7 +157,7 @@ kanban-plugin: board
 - [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Figures Term #2<br>TOTAL 643.39GBP
+## Figures Term #2<br>TOTAL 682.97GBP
 
 - [ ] Note, all the Fahrulstore35 headsculpts are 15usd (11.24gbp) each, but I will have to pay 40usd (29.98gbp) for expedited shipping
 - [ ] ##### #1 Unpredictable Ninja - Naruto Uzumaki
