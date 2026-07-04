@@ -64,7 +64,7 @@ kanban-plugin: board
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 
 
-## Figures Term #1<br>TOTAL 717.62GBP
+## Figures Term #1<br>TOTAL 600.56GBP
 
 - [ ] Note, I will sell the FOR, BSM bodies, accessories and Nail torso to Tugboat for 100USD aka 75GBP~ which I've taken away from my TOTAL
 - [ ] [Plastic Container for storing custom figures at home](https://amzn.eu/d/0cWiZ8DB) 8.99gbp
