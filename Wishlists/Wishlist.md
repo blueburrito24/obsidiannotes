@@ -114,7 +114,7 @@ kanban-plugin: board
 	**TOTAL 117.06gbp**
 	[[Shallot headsculpt on GB body.png]]
 	[[Gohan iconic face.png]]
-	*Could also use KHS*
+	*Could also use KHS, and could make the hair pieces interchangeable to include a smaller bang*
 	>[!Custom details]-
 	> - I will cut off the hair-parts from all the facesculpts
 	> - I will cut off the bang from one base form facesculpt, resculpt it to match the smaller bang on Gohan's hair, then cut it and fit it with superglue onto the base form headsculpt
@@ -191,24 +191,6 @@ kanban-plugin: board
 	[[MESS TOYS BSN + V80.jpg]]
 	*I will drill in 4 holes on the back of the MESS TOYS BSN to use the Agent Venom tendrils on
 	I will flatten out the feet with epoxy putty and drill in holes to superglue magnets in, alongside supergluing another magnet on the inside of the hip piece*
-- [ ] ##### Classic Red & Blue
-	[CT TOYS 2.0 Revoltech Spider-Man](https://www.aliexpress.com/item/1005010162639112.html) 25.39gbp
-	[Fahrulstore V70](https://fahrulstore35.bigcartel.com/product/v70) 11.24gbp
-	[Vallejo Magic Blue](https://amzn.eu/d/02CGJGzE) 2.95gbp
-	**TOTAL 39.58gbp**
-	[[Classic Spider-Man Revoltech custom reference.png]]
-	[[Fahrulstore V70 Headsculpt.jpg]]
-	[[Classic Spider-Man logos.jpg]]
-	>[!Custom details]-
-	> - I will sand down the knee protrusions, then the webline pattern on the knee pieces
-	> - The front spider emblem as well as the back spider emblem's legs needed to be sanded down, I will scribe weblines where the front emblem was
-	> - Disassemble the entire figure and matte spray
-	> - Sculpt the classic spider emblem legs onto the back logo
-	> - Sculpt a classic logo design onto the front chest piece
-	> - Repaint all blue sections with magic blue and matte spray
-	> - I want to fill in the gap in the feet, paint with vermillion red and then drill in some holes on the toe and heel to superglue in some magnets
-	> - Also I want to glue in a magnet on the inside of the hip piece for wall-sitting poses
-	> - Modify the hand accessories to look more dynamic like polosfiguresnstuff
 - [ ] ##### I'm back Todd!
 	[CT TOYS Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005010162639112.html?) 25.39gbp
 	[Fahrulstore35 V17R2](https://fahrulstore35.bigcartel.com/product/v17r2) 11.24gbp
@@ -242,6 +224,23 @@ kanban-plugin: board
 	> - To achieve the dynamic hand accessories, take the open-palm relaxed hands and cut off the fingers from the base, then re-attach at different angles on the hand to get that thwip-like pose that polosfiguresnstuff
 	> - I will also cut off the fingers from the wall-crawling hands, cut them into parts and re-attach them into bent-fingers like the SHF wall-crawling hands
 	> - Also I want to drill in holes on the feet and glue in some magnets and glue in a magnet on the inside of the hip piece for wall-sitting poses
+- [ ] ##### Classic Red & Blue
+	[CT TOYS 2.0 Revoltech Spider-Man](https://www.aliexpress.com/item/1005010162639112.html) 25.39gbp
+	[Fahrulstore V70](https://fahrulstore35.bigcartel.com/product/v70) 11.24gbp
+	[Vallejo Magic Blue](https://amzn.eu/d/02CGJGzE) 2.95gbp
+	**TOTAL 39.58gbp**
+	[[Classic Spider-Man Revoltech custom reference.png]]
+	[[Fahrulstore V70 Headsculpt.jpg]]
+	[[Classic Spider-Man logos.jpg]]
+	>[!Custom details]-
+	> - I will sand down the knee protrusions, then the webline pattern on the knee pieces
+	> - The front spider emblem as well as the back spider emblem's legs needed to be sanded down, I will scribe weblines where the front emblem was
+	> - Disassemble the entire figure and matte spray
+	> - Sculpt the classic spider emblem legs onto the back logo
+	> - Sculpt a classic logo design onto the front chest piece
+	> - Repaint all blue sections with magic blue and matte spray
+	> - I want to fill in the gap in the feet, paint with vermillion red and then drill in some holes on the toe and heel to superglue in some magnets
+	> - Also I want to glue in a magnet on the inside of the hip piece for wall-sitting poses
 - [ ] ##### The Impostor
 	[MESS TOYS Superior Neighbour](https://www.aliexpress.com/item/1005010323395890.html?) 39.59gbp
 	[Fahrulstore35 V71 Headsculpt](https://fahrulstore35.bigcartel.com/product/v71) 11.24gbp
