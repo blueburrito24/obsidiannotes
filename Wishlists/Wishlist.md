@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
-- [ ] [Clear wired stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.36gbp per piece
 - [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
@@ -39,7 +38,7 @@ kanban-plugin: board
 - [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
 
 
-## Tech Term #1<br>TOTAL 415.18GBP
+## Tech Term #1<br>TOTAL 1,756.48GBP
 
 - [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
 	[Headphone DAC](https://www.aliexpress.com/item/1005007575076036.html?) 20.49gbp
@@ -55,15 +54,22 @@ kanban-plugin: board
 	^ use my Silent Peach V3 switches
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
-
-
-## Tech Term #2<br>TOTAL 124.98GBP
-
+- [ ] ##### PC
+	[AMD Ryzen 7 9700x CPU](https://www.scan.co.uk/products/amd-ryzen-7-9700x-am5-zen-5-8-core-16-thread-38ghz-55ghz-turbo-32mb-cache-pcie-50-65w-cpu) 259.99gbp
+	[Thermalright 120 SE CPU Cooler](https://amzn.eu/d/0jcXVxpv) 35.90gbp
+	[ASUS TUF GAMING B650-PLUS WiFi AMD, DDR5 PCIe ATX MOTHERBOARD](https://www.scan.co.uk/products/asus-tuf-gaming-b650-plus-wifi-amd-b650-am5-ddr5-pcie-40-3x-m2-pcie51-25gbe-ax-wifi-bt-amd-expo-atx) 144.98gbp
+	[16GB DDR5 4800MTs RAM](https://uk.webuy.com/product-detail/?id=SMEM16GPC534800) 95gbp
+	[Patriot Memory 512GB SSD](https://amzn.eu/d/0fVuvGUS) 78.99gbp
+	[Gigabyte AMD Radeon RX 9060 XT GPU](https://www.scan.co.uk/products/gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6-graphics-card-rdna4-2048-streams-tbc-mhz-boost) 431.99gbp
+	[Phanteks XT Pro ATX Tower PC Case](https://amzn.eu/d/0i7t9FjD) 52.98gbp
+	[MSI MAG Power Supply Unit 850W](https://amzn.eu/d/02yOtqkG) 83.99gbp
+	[ARCTIC P12 Pro Powerful Fans 5pcs](https://amzn.eu/d/04yKptWv) 23.49gbp
+	**TOTAL 1,207.31gbp**
+- [ ] [Dell 240hz 23.8" gaming monitor](https://amzn.eu/d/0gAYZpaF) 99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
-- [ ] [AOC 27" 180hz monitor](https://amzn.eu/d/09dUEYbU) 89.99gbp
 
 
-## Tech Term #3<br>TOTAL 764.99GBP
+## Tech Term #2<br>TOTAL 764.99GBP
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
@@ -73,6 +79,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false}
 ```
 %%
