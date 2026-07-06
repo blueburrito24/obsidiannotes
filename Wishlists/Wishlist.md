@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
-- [ ] [GINTAMA KEYCHAIN PLUSHIES (Gintoki + Kagura)](https://www.aliexpress.com/item/1005012172741664.html) 40.48gbp
+- [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
@@ -25,17 +25,12 @@ kanban-plugin: board
 
 ## Clothes
 
-- [ ] [How to make custom graphic tees](https://www.youtube.com/watch?v=t1QSgRSzoFY)
-	[Transfer Paper A4](https://amzn.eu/d/0f3YUdwo) 5.99gbp
-	I would do this on the white and black tees, need to make my own graphics using edited comic images etc.
-	For example I could have a collage of Spider-Man art by Angel Medina in pure black and white (med contrast) with some paint splatters, then on the back have a big Spider-Man logo.
-	[Thread of raw Spidey art scans 1](https://x.com/DariushSeif/status/2042377703475585170?s=20)
-	[Thread of raw Spidey art scans 2](https://x.com/DariushSeif/status/1766801419925950499?s=20)
-	[Funny Tee idea](https://x.com/SoleilTheHarpy/status/2044438686637707677/photo/1)
-- [ ] [White Tee](https://www.boohooman.com/product/boohooman-tall-basic-crew-neck-regular-fit-t-shirt_cmm20343?colour=white&size=XL) 8gbp
-- [ ] [Primark 2 Black Cotton Tees](https://www.primark.com/en-gb/p/2pk-regular-fit-cotton-t-shirts-black-991116363804) 5gbp
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
-- [ ] [Venom PS1 shirt](https://www.ebay.co.uk/itm/388587211766?) 35.73gbp
+- [ ] [Loose pleated sweatpants, maroon, gray](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
+- [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
+- [ ] [Black grey flannel long-sleeve shirt](https://www2.hm.com/en_gb/productpage.1345233002.html) 39.99gbp
+- [ ] [Light cotton belt](https://www2.hm.com/en_gb/productpage.1351281001.html) 26.99gbp
+- [ ] [Baggy denim jeans, blue](https://www2.hm.com/en_gb/productpage.1316895001.html) 37.99gbp
 
 
 ## Tech Term #1<br>TOTAL 1,756.48GBP
@@ -73,7 +68,7 @@ kanban-plugin: board
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
-- [ ] [GPD Win Pocket 4](https://www.amazon.co.uk/dp/B0F6N21T5N/?) 1045
+- [ ] [GPD Pocket 4](https://www.amazon.co.uk/dp/B0F6N21T5N/?) 1045
 	[8BitDo SN30 Pro](https://amzn.eu/d/01A6wc01) 39.99gbp
 
 
@@ -81,6 +76,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
