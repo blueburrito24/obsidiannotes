@@ -69,10 +69,12 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 
 
-## Tech Term #2<br>TOTAL 764.99GBP
+## Tech Term #2<br>TOTAL 1849.98GBP
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
+- [ ] [GPD Win Pocket 4](https://www.amazon.co.uk/dp/B0F6N21T5N/?) 1045
+	[8BitDo SN30 Pro](https://amzn.eu/d/01A6wc01) 39.99gbp
 
 
 
