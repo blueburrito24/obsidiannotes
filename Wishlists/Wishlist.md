@@ -10,6 +10,9 @@ kanban-plugin: board
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
+- [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
+- [ ] [Great Eastern Goku Plush](https://www.ebay.co.uk/itm/117246278982?) 12.99gbp
+- [ ] [Great Eastern Ichigo Plush](https://www.ebay.co.uk/itm/176551828358?) 33.98gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
@@ -28,6 +31,8 @@ kanban-plugin: board
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 - [ ] [Loose pleated sweatpants, maroon, gray](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
 - [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
+- [ ] [UK 2XL Angry Birds Red Tee](https://www.ebay.co.uk/itm/358732824559) 21.51gbp
+- [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
 
 
 ## Tech Term #1<br>TOTAL 1,670.14GBP
@@ -54,7 +59,7 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 
 
-## Tech Term #2<br>TOTAL 2,066.95GBP
+## Tech Term #2<br>TOTAL 2,180.90GBP
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
@@ -62,17 +67,15 @@ kanban-plugin: board
 - [ ] [GPD Win Max 2 8840U, 32GB RAM, 2TB](https://droix.co.uk/product/gpd-win-max-2-2024/?attribute_pa_condition=refurbished-class-a&attribute_pa_configuration=32gb-lpddr5x-2tb-nvme-pcie-4-0-2280&attribute_pa_4g-lte=no) 999.95gbp
 	[tomtoc Compact Sling Bag XS](https://amzn.eu/d/05VAeNL2) 43.02gbp
 	[8BitDo SN30 Pro HE](https://amzn.eu/d/0770NBD8) 39.99gbp
-
-
-## Tech Term #3<br>TOTAL 219GBP
-
-- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
+- [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
+	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
+	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
