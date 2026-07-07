@@ -28,14 +28,11 @@ kanban-plugin: board
 - [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
 - [ ] [Loose pleated sweatpants, maroon, gray](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
 - [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
-- [ ] [Black grey flannel long-sleeve shirt](https://www2.hm.com/en_gb/productpage.1345233002.html) 39.99gbp
-- [ ] [Light cotton belt](https://www2.hm.com/en_gb/productpage.1351281001.html) 26.99gbp
-- [ ] [Baggy denim jeans, blue](https://www2.hm.com/en_gb/productpage.1316895001.html) 37.99gbp
 
 
-## Tech Term #1<br>TOTAL 1,835.72GBP
+## Tech Term #1<br>TOTAL 1,676.71GBP
 
-- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
+- [ ] [Sony WH-CH720N](https://amzn.eu/d/03fKjAXp) 59.99gbp
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
@@ -65,10 +62,15 @@ kanban-plugin: board
 	[Sling Bag](https://amzn.eu/d/00mXnyco) 39.99gbp
 
 
+## Tech Term #3<br>TOTAL 219GBP
+
+- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,false,false],"show-checkboxes":false}
 ```
 %%
