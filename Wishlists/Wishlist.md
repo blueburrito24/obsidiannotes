@@ -33,20 +33,13 @@ kanban-plugin: board
 - [ ] [Baggy denim jeans, blue](https://www2.hm.com/en_gb/productpage.1316895001.html) 37.99gbp
 
 
-## Tech Term #1<br>TOTAL 1,756.48GBP
+## Tech Term #1<br>TOTAL 1,835.72GBP
 
-- [ ] [Sony WH-CH720N Headphones](https://amzn.eu/d/02rUt3im) 65gbp
-	[Headphone DAC](https://www.aliexpress.com/item/1005007575076036.html?) 20.49gbp
+- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
+- [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
-- [ ] [Shadow White Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720474763)
-	18.68gbp (converted from 25USD)
-	[LEOBOG GRAYWOOD V4 Key switches 100pcs](https://www.aliexpress.com/item/1005009607951741.html) 16.31gbp
-	^ use on my GMK87 White
-- [ ] [GMK67 White](https://www.aliexpress.com/item/1005005989586531.html) 43.59gbp
-	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-	^ use my Silent Peach V3 switches
 - [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 - [ ] ##### PC
@@ -64,12 +57,12 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 
 
-## Tech Term #2<br>TOTAL 1849.98GBP
+## Tech Term #2<br>TOTAL 2,165.93GBP
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
-- [ ] [GPD Pocket 4](https://www.amazon.co.uk/dp/B0F6N21T5N/?) 1045
-	[8BitDo SN30 Pro](https://amzn.eu/d/01A6wc01) 39.99gbp
+- [ ] [GPD Pocket 4](https://amzn.eu/d/0hYI9Q6b) 1360.95gbp
+	[Sling Bag](https://amzn.eu/d/00mXnyco) 39.99gbp
 
 
 
