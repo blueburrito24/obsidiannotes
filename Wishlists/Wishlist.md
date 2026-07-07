@@ -30,14 +30,14 @@ kanban-plugin: board
 - [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
 
 
-## Tech Term #1<br>TOTAL 1,676.71GBP
+## Tech Term #1<br>TOTAL 1,670.14GBP
 
 - [ ] [Sony WH-CH720N](https://amzn.eu/d/03fKjAXp) 59.99gbp
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
-- [ ] [KONAMI Naruto Mousepad](https://amzn.eu/d/02aHlWSm) 16.32gbp
+- [ ] [Dragon Ball Mouse Pad](https://amzn.eu/d/0cSaHEjx) 9.75gbp
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 - [ ] ##### PC
 	[AMD Ryzen 7 9700x CPU](https://www.scan.co.uk/products/amd-ryzen-7-9700x-am5-zen-5-8-core-16-thread-38ghz-55ghz-turbo-32mb-cache-pcie-50-65w-cpu) 259.99gbp
@@ -54,12 +54,14 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 
 
-## Tech Term #2<br>TOTAL 2,165.93GBP
+## Tech Term #2<br>TOTAL 2,066.95GBP
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
-- [ ] [GPD Pocket 4](https://amzn.eu/d/0hYI9Q6b) 1360.95gbp
-	[Sling Bag](https://amzn.eu/d/00mXnyco) 39.99gbp
+- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
+- [ ] [GPD Win Max 2 8840U, 32GB RAM, 2TB](https://droix.co.uk/product/gpd-win-max-2-2024/?attribute_pa_condition=refurbished-class-a&attribute_pa_configuration=32gb-lpddr5x-2tb-nvme-pcie-4-0-2280&attribute_pa_4g-lte=no) 999.95gbp
+	[tomtoc Compact Sling Bag XS](https://amzn.eu/d/05VAeNL2) 43.02gbp
+	[8BitDo SN30 Pro HE](https://amzn.eu/d/0770NBD8) 39.99gbp
 
 
 ## Tech Term #3<br>TOTAL 219GBP
@@ -71,6 +73,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,true,false,false,false],"show-checkboxes":false}
 ```
 %%
