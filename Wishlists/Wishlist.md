@@ -43,16 +43,18 @@ kanban-plugin: board
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	**TOTAL 92.72gbp**
-	^ shf lbs goku i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using the parts
+	^ shf lbs goku i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using its parts and I need to remove the limiter on the torso, if possible I want to remove the boots from the 2.0 legs and superglue the 4.0 boots onto them
 	[[GB-2.0 Goku kitbash.png]]
 - [ ] ##### SSJ Goku
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/047oDSpY) 7.95gbp
 	**TOTAL 112.85gbp**
+	^ if possible I want to buy the sh_figuposes barbell neck joint
 	>[!my ideas]-
 	> Use spare parts from DF Goku to do the same leg kitbash, for the torso I will heat up the DF torso and split it apart so I can remove the undershirt/skin portions then superglue it back together and remove the Turtle Hermit logos; this modified torso cover will go over the Games Begin undershirt so I can use the FOR heads but keep the LBS kitbash silhouette
 	> Note that by modifying the 2.0 torso piece to cover the 4.0 undershirt, I can retain the 4.0 structure with the abdomen piece
+	> I need to remove the 2.0 boots and superglue the 4.0 boots onto the 2.0 legs
 - [ ] ##### Prince of All Saiyans
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	[SSJB Vegeta 1.0 headsculpts set 1](https://zenmarket.jp/mercariproduct.aspx?itemCode=m41766682538) 12.14gbp
@@ -75,6 +77,13 @@ kanban-plugin: board
 	> - I need to heat up and disassemble the arms, sand down the inside areas and points of interaction so I can repaint the arms in sunny skin tone and avoid paint rub
 	> - Matte finish the entire figure before reassembly
 	> - I could also buy another DP Vegeta and use that body exclusively with the repainted 1.0 SSJ headsculpts
+- [ ] ##### Yamcha
+	[SH FIGUARTS DRAGON BALL Z "Earth's Foremost Warrior" Yamcha](https://www.nin-nin-game.com/en/dragon-ball/95273-shfiguarts-dragon-ball-z-yamcha-earth-s-foremost-warrior-ver-limited-edition-bandai-spirits-.html) 48.05gbp
+	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[DEMONIACAL FIT Yamcha/Tien Kit](https://www.ebay.co.uk/itm/236770583344?) 37.10gbp
+	**TOTAL 118.10gbp**
+	^ I would do the same kitbash I did for my other Gokus, using Yamcha, plus I would cut off those weird bits on his neck insert and use the DF hairsculpt to match his more traditional style
+	Also I need to remove the limiter on the torso
 
 
 ## Tech Term #1<br>TOTAL 1,670.14GBP
