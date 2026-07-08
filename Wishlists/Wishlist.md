@@ -63,6 +63,7 @@ kanban-plugin: board
 	[12pcs sandpaper various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
 	[Vallejo Sunny Skin Tone](https://amzn.eu/d/0i5IxznL) 2.95gbp
 	**TOTAL 97.99gbp**
+	[[DP-1.0 Vegeta kitbash.jpg]]
 	>[!my ideas]-
 	> - The nonou custom adapters will allow me to use the 1.0 heads on the DP body
 	> - I just need to repaint one set of the 1.0 heads to be base, and one to be SSJ; using the acrylic markers (324 for base, 301 for SSJ) I can repaint the hairsculpts and eyebrows, and using a toothpick I can carefully repaint the eyes (using 324 for base, 314 for SSJ), note that I need to use a gundam eraser marker and get rid of the extra eyebrow hatchlines on the sides so there's only one on each side
