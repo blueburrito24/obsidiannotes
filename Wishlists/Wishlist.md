@@ -35,6 +35,47 @@ kanban-plugin: board
 - [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
 
 
+## Figures
+
+- [ ] ##### Spider-Man
+	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 29.99gbp
+- [ ] ##### Saiyan Saga Goku
+	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
+	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	**TOTAL 92.72gbp**
+	^ shf lbs goku i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using the parts
+	[[GB-2.0 Goku kitbash.png]]
+- [ ] ##### SSJ Goku
+	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
+	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/047oDSpY) 7.95gbp
+	**TOTAL 112.85gbp**
+	>[!my ideas]-
+	> Use spare parts from DF Goku to do the same leg kitbash, for the torso I will heat up the DF torso and split it apart so I can remove the undershirt/skin portions then superglue it back together and remove the Turtle Hermit logos; this modified torso cover will go over the Games Begin undershirt so I can use the FOR heads but keep the LBS kitbash silhouette
+	> Note that by modifying the 2.0 torso piece to cover the 4.0 undershirt, I can retain the 4.0 structure with the abdomen piece
+- [ ] ##### Prince of All Saiyans
+	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
+	[SSJB Vegeta 1.0 headsculpts set 1](https://zenmarket.jp/mercariproduct.aspx?itemCode=m41766682538) 12.14gbp
+	[SSJB Vegeta 1.0 headsculpts set 2](https://zenmarket.jp/mercariproduct.aspx?itemCode=m80481388414) 12gbp
+	[Nonou Custom DP-2.0/Recustom adapter 5pcs](https://www.aliexpress.com/item/1005012254583671.html?) 10.19gbp
+	[1000pcs Toothpicks](https://amzn.eu/d/02P28ivj) 3.99gbp
+	[Acrylic Markers 36pcs](https://www.aliexpress.com/item/1005008365305510.html) 20.79gbp
+	[12pcs sandpaper various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
+	[Vallejo Sunny Skin Tone](https://amzn.eu/d/0i5IxznL) 2.95gbp
+	**TOTAL 97.99gbp**
+	>[!my ideas]-
+	> - The nonou custom adapters will allow me to use the 1.0 heads on the DP body
+	> - I just need to repaint one set of the 1.0 heads to be base, and one to be SSJ; using the acrylic markers (324 for base, 301 for SSJ) I can repaint the hairsculpts and eyebrows, and using a toothpick I can carefully repaint the eyes (using 324 for base, 314 for SSJ), note that I need to use a gundam eraser marker and get rid of the extra eyebrow hatchlines on the sides so there's only one on each side
+	> - I will then cut down the sides of the torso piece to give the body a better v-taper
+	> - I want to make this DP body into the Buu Saga outfit, so I will sand down the botton ridge on the abdomen piece alongside sanding down all the armour details, if possible I want to sculpt some wrinkles going downwards
+	> - After this, I need to pull out the yellow armour pieces from the shoulder areas on the torso and sculpt the leotard parts on that area, alongside sanding down the armour details on the torso piece - I want to keep the chest defined
+	> - The neck also needs sanding to get rid of the bodysuit ridge
+	> - Now I can repaint the entire torso using royal blue and sunny skin tone
+	> - I need to heat up and disassemble the arms, sand down the inside areas and points of interaction so I can repaint the arms in sunny skin tone and avoid paint rub
+	> - Matte finish the entire figure before reassembly
+	> - I could also buy another DP Vegeta and use that body exclusively with the repainted 1.0 SSJ headsculpts
+
+
 ## Tech Term #1<br>TOTAL 1,670.14GBP
 
 - [ ] [Sony WH-CH720N](https://amzn.eu/d/03fKjAXp) 59.99gbp
@@ -76,6 +117,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false}
 ```
 %%
