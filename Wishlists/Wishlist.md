@@ -48,12 +48,16 @@ kanban-plugin: board
 - [ ] ##### SSJ Goku
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[SH FIGUARTS DRAGON BALL Z Super Saiyan 3 Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m68939728501) 20.91gbp
 	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/047oDSpY) 7.95gbp
-	**TOTAL 112.85gbp**
+	**TOTAL 133.76gbp**
 	^ if possible I want to buy the sh_figuposes barbell neck joint
 	>[!my ideas]-
-	> Use spare parts from DF Goku to do the same leg kitbash, for the torso I will heat up the DF torso and split it apart so I can remove the undershirt/skin portions then superglue it back together and remove the Turtle Hermit logos; this modified torso cover will go over the Games Begin undershirt so I can use the FOR heads but keep the LBS kitbash silhouette
-	> Note that by modifying the 2.0 torso piece to cover the 4.0 undershirt, I can retain the 4.0 structure with the abdomen piece
+	> Use spare parts from DF Goku to do the same leg kitbash
+	> I will remove the undershirt/skin portions from the SHF SSJ3 torso
+	> this modified torso cover will go over the Games Begin undershirt so I can use the FOR heads but keep the LBS kitbash silhouette
+	> I will use the SHF SSJ3 abdomen piece, but I will make sure to hollow it out so I can retain all the internal 4.0 technology and movement
+	> I will also use the SHF SSJ3 belt on top of the abdomen piece
 	> I need to remove the 2.0 boots and superglue the 4.0 boots onto the 2.0 legs
 - [ ] ##### Prince of All Saiyans
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
@@ -74,7 +78,7 @@ kanban-plugin: board
 	> - After this, I need to pull out the yellow armour pieces from the shoulder areas on the torso and sculpt the leotard parts on that area, alongside sanding down the armour details on the torso piece - I want to keep the chest defined
 	> - The neck also needs sanding to get rid of the bodysuit ridge
 	> - Now I can repaint the entire torso using royal blue and sunny skin tone
-	> - I need to heat up and disassemble the arms, sand down the inside areas and points of interaction so I can repaint the arms in sunny skin tone and avoid paint rub
+	> - I need to heat up and disassemble the arms, sand down the inside areas and points of contact so I can repaint the arms in sunny skin tone and avoid paint rub
 	> - Matte finish the entire figure before reassembly
 	> - I could also buy another DP Vegeta and use that body exclusively with the repainted 1.0 SSJ headsculpts
 - [ ] ##### Yamcha
@@ -84,6 +88,17 @@ kanban-plugin: board
 	**TOTAL 118.10gbp**
 	^ I would do the same kitbash I did for my other Gokus, using Yamcha, plus I would cut off those weird bits on his neck insert and use the DF hairsculpt to match his more traditional style
 	Also I need to remove the limiter on the torso
+- [ ] ##### Clone Goku
+	[SH FIGUARTS DRAGON BALL FIGHTERZ Super Saiyan Clone Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=HvqRboMvjGw3kT8ixdE33A) 41.13gbp
+	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[Rit Synthetic Graphite Dye](https://amzn.eu/d/05fqr7zj) 8.25gbp
+	[Vallejo Flat Red](https://amzn.eu/d/0i4fyqyS) 5.58gbp
+	[Vallejo Pale Flesh](https://amzn.eu/d/0cyqW4Ed) 2.95gbp
+	[Vallejo Pure White](https://amzn.eu/d/079JEQdf) 8.85gbp
+	**TOTAL 99.71gbp**
+	>[!my ideas]-
+	> - I will be doing the same 4.0/2.0 kitbash mod however I will do some parts differently; sanding (to avoid paint rub) and dyeing the butterfly caps, hip piece and thigh swivel parts in graphite to match the grey black gi of Clone Goku, repainting the undershirt sleeves and wristwraps in flat red
+	> - I will need to disassemble the arms and sand down the inside points of contact so there is no paint rub on the shoulders or elbow joints, then repaint the arms with a mix of pale flesh and pure white
 
 
 ## Tech Term #1<br>TOTAL 1,670.14GBP
