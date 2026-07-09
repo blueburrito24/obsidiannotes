@@ -36,7 +36,7 @@ kanban-plugin: board
 - [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
 
 
-## Figures Term #1<br>TOTAL 594.27GBP
+## Figures Term #1<br>TOTAL 694.09GBP
 
 - [ ] ##### Saiyan Saga Goku
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
@@ -74,14 +74,19 @@ kanban-plugin: board
 	> - Pull out the trap-armour pieces on the torso and sand down all the armour detailing, retaining the buff definition on the torso, then sculpt the leotard with some wrinkling, making sure that the leotard is wide and ends before the shoulder
 	> - Sand down the neck sculpt and repaint the torso and neck with sunny skin tone and royal blue
 - [ ] ##### Mystic Gohan
-	[Demoniacal Fit Martialist Forever Return from Beyond](https://www.aliexpress.com/item/1005011891816474.html?) 49.40
+	[Demoniacal Fit Martialist Forever Evolve](https://www.aliexpress.com/item/1005012378279709.html?) 38.39gbp
 	[TK Customs Gohan Headsculpts](https://www.aliexpress.com/item/1005012447944852.html?) 31.79gbp
-	**TOTAL 81.19gbp**
-	^ DF SSJ Goku's head is cool so I can keep it as a bonus
+	**TOTAL 69.18gbp**
+	[[DF-TK Gohan kitbash.jpg]]
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
 - [ ] ##### Spider-Man
 	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 29.99gbp
+- [ ] ##### The Legendary Super Saiyan
+	[GM STUDIO Broly](https://www.aliexpress.com/item/1005009254795211.html?) 62.89gbp
+	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
+	**TOTAL 111.83gbp**
+	[[GM-MP Broly kitbash.jpg]]
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
 	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
@@ -172,11 +177,6 @@ kanban-plugin: board
 	> - I will need to disassemble the arms and sand down the inside points of contact so there is no paint rub on the shoulders or elbow joints, then repaint the arms with a mix of pale flesh and pure white
 - [ ] *Blood Fang (Mythos Anime) Omega Shenron*
 	[[Renders of Blood Fang Dragon One (Black).png]]
-- [ ] ##### The Legendary Super Saiyan
-	[GM STUDIO Broly](https://www.aliexpress.com/item/1005009254795211.html?) 62.89gbp
-	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
-	**TOTAL 111.83gbp**
-	[[GM-MP Broly kitbash.jpg]]
 
 
 
