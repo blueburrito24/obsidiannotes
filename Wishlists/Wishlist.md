@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
+- [ ] need to buy apple tv 4k 2022 used after new version releases
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
 - [ ] [Great Eastern Goku Plush](https://www.ebay.co.uk/itm/117246278982?) 12.99gbp
@@ -147,6 +148,7 @@ kanban-plugin: board
 	[[BSM BLACKSHARK Goku Facesculpts.png]]
 	^ Facesculpts have not been confirmed as included entirely with this figure
 	I would use these headsculpts with my SSJ Goku kitbash, the battle-damaged body is a bonus
+	Could buy some blue stuff and recast the hairsculpts, then sand them down to make them smooth like the KHS hairsculpt
 - [ ] ##### Clone Goku
 	[SH FIGUARTS DRAGON BALL FIGHTERZ Super Saiyan Clone Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=HvqRboMvjGw3kT8ixdE33A) 41.13gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
