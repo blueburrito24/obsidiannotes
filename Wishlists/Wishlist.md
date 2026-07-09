@@ -158,7 +158,7 @@ kanban-plugin: board
 	[[BSM BLACKSHARK Goku Facesculpts.png]]
 	^ Facesculpts have not been confirmed as included entirely with this figure
 	I would use these headsculpts with the KHS body, the battle-damaged body is a cool bonus
-	Could buy some blue stuff and recast the hairsculpts, then sand them down to make them smooth like the KHS hairsculpt
+	Could buy some [Blue Stuff](https://amzn.eu/d/08DALf4D) *9.95gbp* and [recast](https://www.youtube.com/watch?v=FOMwKVAJEfY) the hairsculpts, then sand them down to make them smooth like the KHS hairsculpt
 - [ ] ##### Saiyan Saga Vegeta
 	[SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 71.62gbp
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.02gbp
