@@ -34,9 +34,11 @@ kanban-plugin: board
 - [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
 - [ ] [UK 2XL Angry Birds Red Tee](https://www.ebay.co.uk/itm/358732824559) 21.51gbp
 - [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
+- [ ] [Funidelia Goku Cosplay](https://amzn.eu/d/08WKcA6g) 39.99gbp
+	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 694.09GBP
+## Figures Term #1<br>TOTAL 664.10GBP
 
 - [ ] ##### Saiyan Saga Goku
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
@@ -80,8 +82,6 @@ kanban-plugin: board
 	[[DF-TK Gohan kitbash.jpg]]
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
-- [ ] ##### Spider-Man
-	[Mustang Toyz Spider-Man](https://www.aliexpress.com/item/1005012031347919.html) 29.99gbp
 - [ ] ##### The Legendary Super Saiyan
 	[GM STUDIO Broly](https://www.aliexpress.com/item/1005009254795211.html?) 62.89gbp
 	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
@@ -151,6 +151,11 @@ kanban-plugin: board
 	[Demoniacal Fit Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
 	**TOTAL 85.48gbp**
 	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
+- [ ] ##### Saiyan Saga Vegeta
+	[SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 71.62gbp
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.02gbp
+	**TOTAL 102.64gbp**
+	^ Kitbash the lower body and arms from Daima onto 24,000 Vegeta, alongside the white boots from SHF DP Vegeta, the skirt piece included with DF Scarlet Martial Artist Goku, plus remove the articulation limiter on the torso of 24,000 Vegeta
 - [ ] ##### Goodbye Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 58.99gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
@@ -159,11 +164,6 @@ kanban-plugin: board
 	^ Facesculpts have not been confirmed as included entirely with this figure
 	I would use these headsculpts with the KHS body, the battle-damaged body is a cool bonus
 	Could buy some [Blue Stuff](https://amzn.eu/d/08DALf4D) *9.95gbp* and [recast](https://www.youtube.com/watch?v=FOMwKVAJEfY) the hairsculpts, then sand them down to make them smooth like the KHS hairsculpt
-- [ ] ##### Saiyan Saga Vegeta
-	[SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 71.62gbp
-	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.02gbp
-	**TOTAL 102.64gbp**
-	^ Kitbash the lower body and arms from Daima onto 24,000 Vegeta, alongside the white boots from SHF DP Vegeta, the skirt piece included with DF Scarlet Martial Artist Goku, plus remove the articulation limiter on the torso of 24,000 Vegeta
 - [ ] ##### Clone Goku
 	[SH FIGUARTS DRAGON BALL FIGHTERZ Super Saiyan Clone Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=HvqRboMvjGw3kT8ixdE33A) 41.13gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
