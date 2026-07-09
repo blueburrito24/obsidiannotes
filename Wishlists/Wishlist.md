@@ -36,7 +36,7 @@ kanban-plugin: board
 - [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
 
 
-## Figures Term #1<br>TOTAL 540.23GBP
+## Figures Term #1<br>TOTAL 594.27GBP
 
 - [ ] ##### Saiyan Saga Goku
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
@@ -60,26 +60,24 @@ kanban-plugin: board
 	> - I need to remove the 2.0 boots and superglue the 4.0 boots onto the 2.0 legs
 - [ ] ##### Prince of All Saiyans
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
-	[SSJB Vegeta 1.0 headsculpts set 1](https://zenmarket.jp/mercariproduct.aspx?itemCode=m41766682538) 12.14gbp
-	[SSJB Vegeta 1.0 headsculpts set 2](https://zenmarket.jp/mercariproduct.aspx?itemCode=m80481388414) 12gbp
-	[Nonou Custom DP-2.0/Recustom adapter 5pcs](https://www.aliexpress.com/item/1005012254583671.html?) 10.19gbp
-	[1000pcs Toothpicks](https://amzn.eu/d/02P28ivj) 3.99gbp
-	[Acrylic Markers 36pcs](https://www.aliexpress.com/item/1005008365305510.html) 20.79gbp
+	*Base Form Variant will likely cost the same*
 	[12pcs sandpaper various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
 	[Vallejo Sunny Skin Tone](https://amzn.eu/d/0i5IxznL) 2.95gbp
-	**TOTAL 97.99gbp**
-	[[DP-1.0 Vegeta kitbash.jpg]]
+	**TOTAL 70.84gbp**
+	[[SHF Base Form Vegeta.jpg]]
+	[[Reference Collage for Vegeta's Suit.png]]
 	>[!my ideas]-
-	> - The nonou custom adapters will allow me to use the 1.0 heads on the DP body
-	> - I just need to repaint one set of the 1.0 heads to be base, and one to be SSJ; using the acrylic markers (324 for base, 301 for SSJ) I can repaint the hairsculpts and eyebrows, and using a toothpick I can carefully repaint the eyes (using 324 for base, 314 for SSJ), note that I need to use a gundam eraser marker and get rid of the extra eyebrow hatchlines on the sides so there's only one on each side
-	> - I will then cut down the sides of the torso piece to give the body a better v-taper
-	> - I want to make this DP body into the Buu Saga outfit, so I will sand down the botton ridge on the abdomen piece alongside sanding down all the armour details, if possible I want to sculpt some wrinkles going downwards
-	> - After this, I need to pull out the yellow armour pieces from the shoulder areas on the torso and sculpt the leotard parts on that area, alongside sanding down the armour details on the torso piece - I want to keep the chest defined
-	> - The neck also needs sanding to get rid of the bodysuit ridge
-	> - Now I can repaint the entire torso using royal blue and sunny skin tone
-	> - I need to heat up and disassemble the arms, sand down the inside areas and points of contact so I can repaint the arms in sunny skin tone and avoid paint rub
-	> - Matte finish the entire figure before reassembly
-	> - I could also buy another DP Vegeta and use that body exclusively with the repainted 1.0 SSJ headsculpts
+	> - I need to disassemble the arms and torso, so I can sand down the points of contact like the inside of the biceps, the joints etc to prepare for repainting
+	> - Repaint the arms in sunny skin tone
+	> - Sand down the ridge on the bottom of the abdomen piece, alongside all the armoured details, sculpt some downward wrinkles towards the hip piece
+	> - Cut off the lower sides of the chest piece to create a V-taper on the entire torso
+	> - Pull out the trap-armour pieces on the torso and sand down all the armour detailing, retaining the buff definition on the torso, then sculpt the leotard with some wrinkling, making sure that the leotard is wide and ends before the shoulder
+	> - Sand down the neck sculpt and repaint the torso and neck with sunny skin tone and royal blue
+- [ ] ##### Mystic Gohan
+	[Demoniacal Fit Martialist Forever Return from Beyond](https://www.aliexpress.com/item/1005011891816474.html?) 49.40
+	[TK Customs Gohan Headsculpts](https://www.aliexpress.com/item/1005012447944852.html?) 31.79gbp
+	**TOTAL 81.19gbp**
+	^ DF SSJ Goku's head is cool so I can keep it as a bonus
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
 - [ ] ##### Spider-Man
@@ -143,12 +141,24 @@ kanban-plugin: board
 
 ## Figures Term #2<br>TOTAL Undecided
 
+- [ ] ##### Forbidden Technique Goku
+	[NS STUDIO NS002 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
+	[Demoniacal Fit Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
+	**TOTAL 85.48gbp**
+	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
 - [ ] ##### Goodbye Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 58.99gbp
+	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
+	**TOTAL 90.94gbp**
 	[[BSM BLACKSHARK Goku Facesculpts.png]]
 	^ Facesculpts have not been confirmed as included entirely with this figure
-	I would use these headsculpts with my SSJ Goku kitbash, the battle-damaged body is a bonus
+	I would use these headsculpts with the KHS body, the battle-damaged body is a cool bonus
 	Could buy some blue stuff and recast the hairsculpts, then sand them down to make them smooth like the KHS hairsculpt
+- [ ] ##### Saiyan Saga Vegeta
+	[SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 71.62gbp
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.02gbp
+	**TOTAL 102.64gbp**
+	^ Kitbash the lower body and arms from Daima onto 24,000 Vegeta, alongside the white boots from SHF DP Vegeta, the skirt piece included with DF Scarlet Martial Artist Goku, plus remove the articulation limiter on the torso of 24,000 Vegeta
 - [ ] ##### Clone Goku
 	[SH FIGUARTS DRAGON BALL FIGHTERZ Super Saiyan Clone Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=HvqRboMvjGw3kT8ixdE33A) 41.13gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
