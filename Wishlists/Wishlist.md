@@ -38,7 +38,7 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 584.57GBP
+## Figures Term #1<br>TOTAL 624.46GBP
 
 - [ ] ##### Saiyan Saga Goku
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
@@ -90,6 +90,8 @@ kanban-plugin: board
 	[[DF-TK Gohan kitbash.jpg]]
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
+- [ ] ##### Venom
+	[PC TOYS Venom](https://www.aliexpress.com/item/1005012617960178.html?) 39.89gbp
 - [ ] ##### The Legendary Super Saiyan
 	[GM STUDIO Broly](https://www.aliexpress.com/item/1005009254795211.html?) 62.89gbp
 	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
