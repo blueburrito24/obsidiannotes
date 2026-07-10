@@ -157,6 +157,14 @@ kanban-plugin: board
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
 	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
+- [ ] ##### Son of a Demon
+	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m76925840332) 28.24gbp
+	[Broly Movie 2 Outfit Kit](https://www.aliexpress.com/item/1005012325244694.html?) 19.89gbp
+	[Dimensionia Gohan Battle-Damaged](https://www.aliexpress.com/item/1005008932603198.html?) 71.39gbp
+	**TOTAL 119.52gbp**
+	^ I will install the Broly Movie 2 kit onto SH Gohan and then use the base and SSJ1 headsculpts from Dimensionia Gohan
+	[[SH Gohan with Broly Movie 2 kit.png]]
+	[[Dimensionia Gohan.png]]
 - [ ] ##### Forbidden Technique Goku
 	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
 	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
