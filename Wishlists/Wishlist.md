@@ -76,6 +76,7 @@ kanban-plugin: board
 	**TOTAL 70.84gbp**
 	[[SHF Base Form Vegeta.jpg]]
 	[[Reference Collage for Vegeta's Suit.png]]
+	^ I would want to keep one copy of Vegeta in his armour
 	>[!my ideas]-
 	> - I need to disassemble the arms and torso, so I can sand down the points of contact like the inside of the biceps, the joints etc to prepare for repainting
 	> - Repaint the arms in sunny skin tone
