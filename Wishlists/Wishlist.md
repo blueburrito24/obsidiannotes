@@ -38,7 +38,7 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 624.46GBP
+## Figures Term #1<br>TOTAL 584.57GBP
 
 - [ ] ##### Saiyan Saga Goku
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
@@ -91,8 +91,6 @@ kanban-plugin: board
 	[[DF-TK Gohan kitbash.jpg]]
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
-- [ ] ##### Venom
-	[PC TOYS Venom](https://www.aliexpress.com/item/1005012617960178.html?) 39.89gbp
 - [ ] ##### The Legendary Super Saiyan
 	[GM STUDIO Broly](https://www.aliexpress.com/item/1005009254795211.html?) 62.89gbp
 	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
@@ -137,7 +135,7 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL 304.25GBP
+## Figures Term #2<br>TOTAL 434.97GBP
 
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
@@ -160,8 +158,8 @@ kanban-plugin: board
 - [ ] ##### Son of a Demon
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m76925840332) 28.24gbp
 	[Broly Movie 2 Outfit Kit](https://www.aliexpress.com/item/1005012325244694.html?) 19.89gbp
-	[Dimensionia Gohan Battle-Damaged](https://www.aliexpress.com/item/1005008932603198.html?) 71.39gbp
-	**TOTAL 119.52gbp**
+	[Dimensionia Gohan Battle-Damaged](https://www.aliexpress.com/item/1005008932603198.html?) 82.59gbp
+	**TOTAL 130.72gbp**
 	^ I will install the Broly Movie 2 kit onto SH Gohan and then use the base and SSJ1 headsculpts from Dimensionia Gohan
 	[[SH Gohan with Broly Movie 2 kit.png]]
 	[[Dimensionia Gohan.png]]
