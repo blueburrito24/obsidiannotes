@@ -135,7 +135,7 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL 434.97GBP
+## Figures Term #2<br>TOTAL 403.02GBP
 
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
@@ -170,11 +170,9 @@ kanban-plugin: board
 	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
 - [ ] ##### Goodbye Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 58.99gbp
-	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
-	**TOTAL 90.94gbp**
 	[[BSM BLACKSHARK Goku Facesculpts.png]]
 	^ Facesculpts have not been confirmed as included entirely with this figure
-	I would use these headsculpts with the KHS body, the battle-damaged body is a cool bonus
+	I would use these headsculpts with my SSJ Goku, the battle-damaged body is a cool bonus
 	Could buy some [Blue Stuff](https://amzn.eu/d/08DALf4D) *9.95gbp* and [recast](https://www.youtube.com/watch?v=FOMwKVAJEfY) the hairsculpts, then sand them down to make them smooth like the KHS hairsculpt
 
 
