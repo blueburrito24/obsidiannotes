@@ -38,13 +38,12 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 664.10GBP
+## Figures Term #1<br>TOTAL 584.57GBP
 
 - [ ] ##### Saiyan Saga Goku
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
-	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	**TOTAL 92.72gbp**
-	^ shf lbs goku i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using its parts and I need to remove the limiter on the torso, if possible I want to remove the boots from the 2.0 legs and superglue the 4.0 boots onto them
+	^ shf lbs goku and games begin i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using its parts and I need to remove the limiter on the torso, if possible I want to remove the boots from the 2.0 legs and superglue the 4.0 boots onto them
+	I'm buying DF for the extra parts not included in lbs, plus the Turtle Hermit symbol gi
 	[[GB-2.0 Goku kitbash.png]]
 - [ ] ##### SSJ Goku
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
@@ -60,6 +59,15 @@ kanban-plugin: board
 	> - I will use the SHF SSJ3 abdomen piece, but I will make sure to hollow it out so I can retain all the internal 4.0 technology and movement
 	> - I will also use the SHF SSJ3 belt on top of the abdomen piece
 	> - I need to remove the 2.0 boots and superglue the 4.0 boots onto the 2.0 legs
+- [ ] ##### The Nameless Namekian
+	[SH FIGUARTS DRAGON BALL Z Nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTTNy4BnGUEF8NQofE8H6) 42.91gbp
+	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m82185029859) 20.30gbp
+	[Acrylic Markers](https://www.aliexpress.com/item/1005008365305510.html) 20.69gbp
+	**TOTAL 83.90gbp**
+	>[!my ideas]-
+	> - I would repaint the pink parts of Nail's arms (from the bicep down) to match the yellow tone on SH Piccolo
+	> - swap Nail's repainted arms onto SH Piccolo, alongside his boots
+	> - I would also use the Nail heads instead of SH Piccolo's original heads
 - [ ] ##### Prince of All Saiyans
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	*Base Form Variant will likely cost the same*
@@ -87,24 +95,6 @@ kanban-plugin: board
 	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
 	**TOTAL 111.83gbp**
 	[[GM-MP Broly kitbash.jpg]]
-- [ ] ##### Substitute Soul Reaper
-	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
-	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
-	[Vallejo Flat Flesh](https://amzn.eu/d/09b6vGmq) 3.10gbp
-	[Dasin Toys Ichigo](https://www.aliexpress.com/item/1005010111179955.html?) 50.82gbp
-	[Binding Tape](https://amzn.eu/d/0ao1WXZp) 5.89gbp
-	[24 Gauge Floral Wire](https://amzn.eu/d/09tISCdw) 4gbp
-	[Orange Wind Effects](https://www.aliexpress.com/item/1005010024096360.html?) 7.35gbp
-	**TOTAL 130.48gbp**
-	*I will use the orange wind effects as his Getsuga Tensho*
-	[[Custom SHF Ichigo.jpg]]
-	>[!Custom details]-
-	> - Repaint the black details on Renji's chest, remove neck, remove the knot on his belt and repaint black, remove forearms
-	> - Attach Tensazangetsu Ichigo neck/head
-	> - Attach red sash and white belt from Dasin Toys Ichigo
-	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
-	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
-	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 
 
 ## Tech Term #1<br>TOTAL 1,670.14GBP
@@ -144,18 +134,31 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL Undecided
+## Figures Term #2<br>TOTAL 306.90GBP
 
+- [ ] ##### Substitute Soul Reaper
+	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
+	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
+	[Vallejo Flat Flesh](https://amzn.eu/d/09b6vGmq) 3.10gbp
+	[Dasin Toys Ichigo](https://www.aliexpress.com/item/1005010111179955.html?) 50.82gbp
+	[Binding Tape](https://amzn.eu/d/0ao1WXZp) 5.89gbp
+	[24 Gauge Floral Wire](https://amzn.eu/d/09tISCdw) 4gbp
+	[Orange Wind Effects](https://www.aliexpress.com/item/1005010024096360.html?) 7.35gbp
+	**TOTAL 130.48gbp**
+	*I will use the orange wind effects as his Getsuga Tensho*
+	[[Custom SHF Ichigo.jpg]]
+	>[!Custom details]-
+	> - Repaint the black details on Renji's chest, remove neck, remove the knot on his belt and repaint black, remove forearms
+	> - Attach Tensazangetsu Ichigo neck/head
+	> - Attach red sash and white belt from Dasin Toys Ichigo
+	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
+	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
+	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 - [ ] ##### Forbidden Technique Goku
 	[NS STUDIO NS002 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
 	[Demoniacal Fit Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
 	**TOTAL 85.48gbp**
 	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
-- [ ] ##### Saiyan Saga Vegeta
-	[SH FIGUARTS DRAGON BALL Z "24,000 Power Level" Vegeta](https://www.nin-nin-game.com/en/dragon-ball/105749-shfiguarts-dragon-ball-z-vegeta-24000-power-level-ver-limited-edition-bandai-spirits-.html) 71.62gbp
-	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 31.02gbp
-	**TOTAL 102.64gbp**
-	^ Kitbash the lower body and arms from Daima onto 24,000 Vegeta, alongside the white boots from SHF DP Vegeta, the skirt piece included with DF Scarlet Martial Artist Goku, plus remove the articulation limiter on the torso of 24,000 Vegeta
 - [ ] ##### Goodbye Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 58.99gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
@@ -164,19 +167,6 @@ kanban-plugin: board
 	^ Facesculpts have not been confirmed as included entirely with this figure
 	I would use these headsculpts with the KHS body, the battle-damaged body is a cool bonus
 	Could buy some [Blue Stuff](https://amzn.eu/d/08DALf4D) *9.95gbp* and [recast](https://www.youtube.com/watch?v=FOMwKVAJEfY) the hairsculpts, then sand them down to make them smooth like the KHS hairsculpt
-- [ ] ##### Clone Goku
-	[SH FIGUARTS DRAGON BALL FIGHTERZ Super Saiyan Clone Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=HvqRboMvjGw3kT8ixdE33A) 41.13gbp
-	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	[Rit Synthetic Graphite Dye](https://amzn.eu/d/05fqr7zj) 8.25gbp
-	[Vallejo Flat Red](https://amzn.eu/d/0i4fyqyS) 5.58gbp
-	[Vallejo Pale Flesh](https://amzn.eu/d/0cyqW4Ed) 2.95gbp
-	[Vallejo Pure White](https://amzn.eu/d/079JEQdf) 8.85gbp
-	**TOTAL 99.71gbp**
-	>[!my ideas]-
-	> - I will be doing the same 4.0/2.0 kitbash mod however I will do some parts differently; sanding (to avoid paint rub) and dyeing the butterfly caps, hip piece and thigh swivel parts in graphite to match the grey black gi of Clone Goku, repainting the undershirt sleeves and wristwraps in flat red
-	> - I will need to disassemble the arms and sand down the inside points of contact so there is no paint rub on the shoulders or elbow joints, then repaint the arms with a mix of pale flesh and pure white
-- [ ] *Blood Fang (Mythos Anime) Omega Shenron*
-	[[Renders of Blood Fang Dragon One (Black).png]]
 
 
 
