@@ -12,8 +12,6 @@ kanban-plugin: board
 - [ ] need to buy apple tv 4k 2022 used after new version releases
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
-- [ ] [Great Eastern Goku Plush](https://www.ebay.co.uk/itm/117246278982?) 12.99gbp
-- [ ] [Great Eastern Ichigo Plush](https://www.ebay.co.uk/itm/176551828358?) 33.98gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
@@ -38,7 +36,7 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 584.57GBP
+## Figures Term #1<br>TOTAL 576.62GBP
 
 - [ ] ##### Saiyan Saga Goku
 	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
@@ -49,8 +47,7 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
 	[SH FIGUARTS DRAGON BALL Z Super Saiyan 3 Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m68939728501) 20.91gbp
-	[GSI Creos Gundam Eraser Marker](https://amzn.eu/d/047oDSpY) 7.95gbp
-	**TOTAL 133.76gbp**
+	**TOTAL 125.81gbp**
 	^ if possible I want to buy the sh_figuposes barbell neck joint
 	>[!my ideas]-
 	> - Use spare parts from DF Goku to do the same leg kitbash
