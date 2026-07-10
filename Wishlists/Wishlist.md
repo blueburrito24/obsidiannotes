@@ -137,7 +137,7 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL 306.90GBP
+## Figures Term #2<br>TOTAL 304.25GBP
 
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
@@ -158,9 +158,9 @@ kanban-plugin: board
 	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
 - [ ] ##### Forbidden Technique Goku
-	[NS STUDIO NS002 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
-	[Demoniacal Fit Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
-	**TOTAL 85.48gbp**
+	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
+	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
+	**TOTAL 82.83gbp**
 	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
 - [ ] ##### Goodbye Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 58.99gbp
