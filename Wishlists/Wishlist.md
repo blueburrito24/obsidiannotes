@@ -25,31 +25,10 @@ kanban-plugin: board
 	[NARUTO: Kakashi's Story "Lightning in the Frozen Sky"](https://www.amazon.co.uk/Naruto-Kakashis-Story-Akira-Higashiyama/dp/1421584409?crid=3BHL21GPUFV8O&dib=eyJ2IjoiMSJ9.B9phnwQxDFYzCJ4UTjKprHXIYOnb64lfpiYaHAaKkS14lAcIykb_O09YiZoaAbDsz8EKaluKfdQ91QaD5k4U_VYNxEH4fkFJ0Dg6w-dUK07j0crPYf-YMf27OLA1X-Qn05tIsIOuNgZSrE1dajeq_PyGxIWLlSh-Zb1D65T-0qgw3mAivdRgzpExFa2g39eHk4bqgcRyVuPt9UPbWFI25x33McI3tib-xco52e3dMBk.4T4j5u4PgEfHLeaVfkvYal1o_fFJ7J5xavlkuqv46Gc&dib_tag=se&keywords=Kakashi+novel&qid=1779867136&sprefix=kakashi+novel%2Caps%2C178&sr=8-1) 7.99gbp
 	[NARUTO: Itachi's Story Vol. 1 "Daylight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-1/dp/1421591308?crid=1XHHVKPXRAXDY&dib=eyJ2IjoiMSJ9.6quCcv4Qr9aUBDR557NeSPKpQocL04BqkkFQDxATRP3eV2WEs_0ASZoJAVk2L_ZmsAP3js5zqwjUizNuGrfer_Y2e2iA8gaac8KqJG2tHuLNICfNtKNsYdHsJDVQyB1DDXuY3nZLVy27RdYCd2-O8lhcUc18uIFoUkvi8mlcJIdK-J_ePDqOhdEPib5x8ybau1FYTnRh-uZrlpFRNFQ9NbfXOzEgbAhU08mX5dK8C9Q.83rs3zURYyYkc8VpLeBreDFIo5ePQOlA_QXiDZn7vf0&dib_tag=se&keywords=Itachi+novel&qid=1779867148&sprefix=it+a+novel%2Caps%2C390&sr=8-1) 7.99gbp
 	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
-
-
-## Clothes
-
-- [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
-- [ ] [Loose pleated sweatpants, maroon, gray](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
-- [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
-- [ ] [UK 2XL Angry Birds Red Tee](https://www.ebay.co.uk/itm/358732824559) 21.51gbp
-- [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
-- [ ] [Funidelia Goku Cosplay](https://amzn.eu/d/08WKcA6g) 39.99gbp
-	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
-
-
-## Figures Term #1<br>TOTAL 600.88GBP
-
+- [ ] ### Figures (pre/post-trip)
 - [ ] ##### Saiyan Saga Goku
 	shf lbs goku and games begin i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using its parts and I need to remove the limiter on the torso, if possible I want to remove the boots from the 2.0 legs and superglue the 4.0 boots onto them
 	[[GB-2.0 Goku kitbash.png]]
-- [ ] ##### Saiyan Saga Vegeta
-	[SH FIGUARTS DRAGON BALL Z 24,000 Power Level Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m46428114196) 42.31gbp
-	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTm4KmjksMcTaUtRbYYzZ) 15.03gbp
-	[Demoniacal Fit 16,000 Power Level Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
-	**TOTAL 84.03gbp**
-	^ Kitbash the Daima arms and lower body onto 24,000 Vegeta, using the boots from DP Vegeta, and use the skirt piece from 16,000 Goku
-	Also would need to remove articulation limiter on the torso
 - [ ] ##### SSJ Goku
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
@@ -72,6 +51,36 @@ kanban-plugin: board
 	> - I would repaint the pink parts of Nail's arms (from the bicep down) to match the yellow tone on SH Piccolo
 	> - swap Nail's repainted arms onto SH Piccolo, alongside his boots
 	> - I would also use the Nail heads instead of SH Piccolo's original heads
+- [ ] ^ should order SSJ3 Goku, Nail and Piccolo in one order to save on shipping and currency-exchange fees
+
+
+## Clothes
+
+- [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
+- [ ] [Loose pleated sweatpants, maroon, gray](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
+- [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
+- [ ] [UK 2XL Angry Birds Red Tee](https://www.ebay.co.uk/itm/358732824559) 21.51gbp
+- [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
+- [ ] [Funidelia Goku Cosplay](https://amzn.eu/d/08WKcA6g) 39.99gbp
+	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
+
+
+## Figures Term #1<br>TOTAL 579.38GBP
+
+- [ ] ##### All Might
+	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
+- [ ] ##### Forbidden Technique Goku
+	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
+	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
+	**TOTAL 82.83gbp**
+	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
+- [ ] ##### Saiyan Saga Vegeta
+	[SH FIGUARTS DRAGON BALL Z 24,000 Power Level Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JSEoHvQPSRStGkGrAFu6W) 75.11gbp
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTm4KmjksMcTaUtRbYYzZ) 15.03gbp
+	[Demoniacal Fit 16,000 Power Level Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
+	**TOTAL 116.83gbp**
+	^ Kitbash the Daima arms and lower body onto 24,000 Vegeta, using the boots from DP Vegeta, and use the skirt piece from 16,000 Goku
+	Also would need to remove articulation limiter on the torso
 - [ ] ##### Prince of All Saiyans
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	*Base Form Variant will likely cost the same*
@@ -88,18 +97,35 @@ kanban-plugin: board
 	> - Cut off the lower sides of the chest piece to create a V-taper on the entire torso
 	> - Pull out the trap-armour pieces on the torso and sand down all the armour detailing, retaining the buff definition on the torso, then sculpt the leotard with some wrinkling, making sure that the leotard is wide and ends before the shoulder
 	> - Sand down the neck sculpt and repaint the torso and neck with sunny skin tone and royal blue
+- [ ] ##### Earth's Strongest Man
+	[SH FIGUARTS DRAGON BALL Z "Earth's Strongest Human" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-earths-strongest-man-12cm) 41.95gbp
+	[Nan&T Goku Games Begin Kit B](https://www.aliexpress.com/item/1005010629653654.html) 10.89gbp
+	[Economy size blu tack pack](https://amzn.eu/d/0dhlA94o) 2.99gbp
+	[Vallejo Dark Blue](https://amzn.eu/d/0aWAK9PD) 5.70gbp
+	[Rit Graphite Synthetic Dye](https://amzn.eu/d/023n7uVw) 7.95gbp
+	**TOTAL 69.48gbp**
+	[[ESM Krillin References Collage.png]]
+	>[!my ideas]-
+	> - Disassemble Krillin and remove all his mechanisms from the torso
+	> - Take my spare Games Begin torso and make sure that when disassembled, the parts can fit over the mechanisms from Krillin
+	> - Sculpt the shirt on the Games Begin undershirt to rise higher to match his design
+	> - Install Krillin's neck onto the mechanism while the Games Begin undershirt and overlay are assembled with it, if there is a gap between the neck and traps then resculpt accordingly to fill it, also make sure to resculpt the undershirt so it doesn't appear as much on the sides to match his manga design
+	> - Repaint the undershirt, sleeves, wrist wraps and waist wrap in dark blue
+	> - Now when reassembling, install the Nan&T B kit and use the orange sleeves from Games Begin to make sure no gap is left on the torso, if necessary make sure to cut off the sleeves so it appears more natural on Krillin's shape
+	> - I need to heat up the legs and remove the boots, then dye in graphite synthetic dye and then repaint the ridges with a white paint and the tie with red to match the manga design
+	> - Now the body is complete, I just need to apply blu tack to the iris and eye outline to make it easier when I repaint the eyes white on every headsculpt
+	> - Matte finish all the parts and reassemble finally
 - [ ] ##### Mystic Gohan
 	[Demoniacal Fit Martialist Forever Evolve](https://www.aliexpress.com/item/1005012378279709.html?) 38.39gbp
 	[TK Customs Gohan Headsculpts](https://www.aliexpress.com/item/1005012447944852.html?) 31.79gbp
 	**TOTAL 69.18gbp**
 	[[DF-TK Gohan kitbash.jpg]]
-- [ ] ##### All Might
-	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
 - [ ] ##### The Legendary Super Saiyan
-	[GM STUDIO Broly](https://www.aliexpress.com/item/1005009254795211.html?) 62.89gbp
+	[CorToys 004 Broly](https://www.aliexpress.com/item/1005009726875342.html?) 60.99gbp
 	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
-	**TOTAL 111.83gbp**
-	[[GM-MP Broly kitbash.jpg]]
+	[sh_figuposes Broly BD extended neck peg](https://www.ebay.co.uk/itm/317435568524) 5gbp
+	**TOTAL 114.93gbp**
+	[[CorToys-MP Broly kitbash.jpg]]
 
 
 ## Tech Term #1<br>TOTAL 1,670.14GBP
@@ -139,7 +165,7 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL 304.25GBP
+## Figures Term #2<br>TOTAL 221.42GBP
 
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
@@ -159,11 +185,6 @@ kanban-plugin: board
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
 	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
-- [ ] ##### Forbidden Technique Goku
-	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
-	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
-	**TOTAL 82.83gbp**
-	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
 - [ ] ##### Goodbye Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 58.99gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
