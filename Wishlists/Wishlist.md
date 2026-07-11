@@ -69,11 +69,6 @@ kanban-plugin: board
 
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
-- [ ] ##### Forbidden Technique Goku
-	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
-	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
-	**TOTAL 82.83gbp**
-	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
 - [ ] ##### Saiyan Saga Vegeta
 	[SH FIGUARTS DRAGON BALL Z 24,000 Power Level Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JSEoHvQPSRStGkGrAFu6W) 75.11gbp
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTm4KmjksMcTaUtRbYYzZ) 15.03gbp
@@ -81,6 +76,11 @@ kanban-plugin: board
 	**TOTAL 116.83gbp**
 	^ Kitbash the Daima arms and lower body onto 24,000 Vegeta, using the boots from DP Vegeta, and use the skirt piece from 16,000 Goku
 	Also would need to remove articulation limiter on the torso
+- [ ] ##### Forbidden Technique Goku
+	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
+	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
+	**TOTAL 82.83gbp**
+	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
 - [ ] ##### Prince of All Saiyans
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	*Base Form Variant will likely cost the same*
