@@ -15,6 +15,8 @@ kanban-plugin: board
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
+- [ ] [Storage boxes 3pcs](https://amzn.eu/d/09m0uU7e) 8.99gbp
+	^ for keeping kitbash/custom figures in
 - [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] [NARUTO: Naruto's Story "Naruto Uzumaki and the Spiral Destiny"](https://www.amazon.co.uk/Naruto-Narutos-Story-Uzumaki-Spiral-Destiny/dp/1974732592?crid=1OI24G85GLASU&dib=eyJ2IjoiMSJ9.Z1VCOoq4tWKxJqZyyAWn0-2kvDY8KVJAcyoXkVyfQq-3-m2Xe6p6s39NDdFLOLZ6zzsijQstISdDZ7ET_12O6FgoDla5yWFhp9rgjs1oq_a4G_efcBKPUVJ1052w4PvB_Vruyt7Yk8n-WoKgU9aOTUjyNXdLsUFXxBn_MalDlnDMMgM73ebsPO91uLfbLvlwVNDk6t-ktjKxx1aS4hAYY2FOtygDSBntxdkJ9BW8hrs.lYRCI8DHjasD3YtJIIcpBh5ExZOlItX15oVCVZ9ybP8&dib_tag=se&keywords=Naruto+novel&qid=1779867163&sprefix=narut+novel%2Caps%2C188&sr=8-2) 7.99gbp
@@ -36,13 +38,18 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 576.62GBP
+## Figures Term #1<br>TOTAL 600.88GBP
 
 - [ ] ##### Saiyan Saga Goku
-	[Demoniacal Fit Unbreakable Bond Goku](https://www.aliexpress.com/item/1005009534163184.html?) 59.77gbp
-	^ shf lbs goku and games begin i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using its parts and I need to remove the limiter on the torso, if possible I want to remove the boots from the 2.0 legs and superglue the 4.0 boots onto them
-	I'm buying DF for the extra parts not included in lbs, plus the Turtle Hermit symbol gi
+	shf lbs goku and games begin i'll buy in america, will do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using its parts and I need to remove the limiter on the torso, if possible I want to remove the boots from the 2.0 legs and superglue the 4.0 boots onto them
 	[[GB-2.0 Goku kitbash.png]]
+- [ ] ##### Saiyan Saga Vegeta
+	[SH FIGUARTS DRAGON BALL Z 24,000 Power Level Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=m46428114196) 42.31gbp
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTm4KmjksMcTaUtRbYYzZ) 15.03gbp
+	[Demoniacal Fit 16,000 Power Level Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
+	**TOTAL 84.03gbp**
+	^ Kitbash the Daima arms and lower body onto 24,000 Vegeta, using the boots from DP Vegeta, and use the skirt piece from 16,000 Goku
+	Also would need to remove articulation limiter on the torso
 - [ ] ##### SSJ Goku
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
@@ -132,7 +139,7 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL 434.97GBP
+## Figures Term #2<br>TOTAL 304.25GBP
 
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
@@ -152,14 +159,6 @@ kanban-plugin: board
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
 	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
-- [ ] ##### Son of a Demon
-	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan](https://zenmarket.jp/mercariproduct.aspx?itemCode=m76925840332) 28.24gbp
-	[Broly Movie 2 Outfit Kit](https://www.aliexpress.com/item/1005012325244694.html?) 19.89gbp
-	[Dimensionia Gohan Battle-Damaged](https://www.aliexpress.com/item/1005008932603198.html?) 82.59gbp
-	**TOTAL 130.72gbp**
-	^ I will install the Broly Movie 2 kit onto SH Gohan and then use the base and SSJ1 headsculpts from Dimensionia Gohan
-	[[SH Gohan with Broly Movie 2 kit.png]]
-	[[Dimensionia Gohan.png]]
 - [ ] ##### Forbidden Technique Goku
 	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
 	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
