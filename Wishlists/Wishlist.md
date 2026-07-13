@@ -15,8 +15,12 @@ kanban-plugin: board
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
+- [ ] ### miscellaneous figure parts
+- [ ] [1/12 SHF Style stands](https://www.aliexpress.com/item/1005007197618662.html?) 1.20gbp~ per piece
 - [ ] [Storage boxes 3pcs](https://amzn.eu/d/09m0uU7e) 8.99gbp
 	^ for keeping kitbash/custom figures in
+- [ ] [Gundam cutting mat 30.5cm x 22.9cm double-sided](https://amzn.eu/d/05IpspwD) 9.99gbp
+	^ Would love to take photos like this [[Cutting mat photo.jpg]] with my figures, also just good for stability on keyboards
 - [ ] ### Books
 - [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] [NARUTO: Naruto's Story "Naruto Uzumaki and the Spiral Destiny"](https://www.amazon.co.uk/Naruto-Narutos-Story-Uzumaki-Spiral-Destiny/dp/1974732592?crid=1OI24G85GLASU&dib=eyJ2IjoiMSJ9.Z1VCOoq4tWKxJqZyyAWn0-2kvDY8KVJAcyoXkVyfQq-3-m2Xe6p6s39NDdFLOLZ6zzsijQstISdDZ7ET_12O6FgoDla5yWFhp9rgjs1oq_a4G_efcBKPUVJ1052w4PvB_Vruyt7Yk8n-WoKgU9aOTUjyNXdLsUFXxBn_MalDlnDMMgM73ebsPO91uLfbLvlwVNDk6t-ktjKxx1aS4hAYY2FOtygDSBntxdkJ9BW8hrs.lYRCI8DHjasD3YtJIIcpBh5ExZOlItX15oVCVZ9ybP8&dib_tag=se&keywords=Naruto+novel&qid=1779867163&sprefix=narut+novel%2Caps%2C188&sr=8-2) 7.99gbp
@@ -52,9 +56,9 @@ kanban-plugin: board
 	> - I would repaint the pink parts of Nail's arms (from the bicep down) to match the yellow tone on SH Piccolo
 	> - swap Nail's repainted arms onto SH Piccolo, alongside his boots
 	> - I would also use the Nail heads instead of SH Piccolo's original heads
-- [ ] ##### Turles
-	[SH FIGUARTS DRAGON BALL Z THE WORLD'S STRONGEST Turles](https://zenmarket.jp/s/ashi-toys/tf-1105000137219213?id=23961779-981a-4404-8f48-25d510d7e320) 67.01gbp
-- [ ] ^ should order SSJ3 Goku, Nail, Piccolo and Turles in one order to save on shipping and currency-exchange fees
+- [ ] ##### Emperor of the Far Side of the Galaxy
+	[SH FIGUARTS DRAGON BALL Z Final Form Cooler (40th Anniversary Ver.)](https://hobbyfigures.co.uk/products/dragon-ball-s-h-figuarts-action-figure-cooler-final-form-40th-anniversary-edition-19cm) 69.95gbp
+- [ ] ^ should order SSJ3 Goku, Nail, Piccolo in one order to save on shipping and currency-exchange fees
 
 
 ## Clothes
@@ -68,10 +72,12 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 579.38GBP
+## Figures Term #1<br>TOTAL 626.33GBP
 
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
+- [ ] ##### Warrior Pure of Heart
+	[SH FIGUARTS DRAGON BALL Z "The Legendary Super Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp
 - [ ] ##### Saiyan Saga Vegeta
 	[SH FIGUARTS DRAGON BALL Z 24,000 Power Level Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JSEoHvQPSRStGkGrAFu6W) 75.11gbp
 	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTm4KmjksMcTaUtRbYYzZ) 15.03gbp
