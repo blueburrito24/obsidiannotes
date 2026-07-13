@@ -17,6 +17,8 @@ kanban-plugin: board
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
 - [ ] ### miscellaneous figure parts
 - [ ] [1/12 SHF Style stands](https://www.aliexpress.com/item/1005007197618662.html?) 1.20gbp~ per piece
+- [ ] [1/12 Electric effects](https://www.aliexpress.com/item/1005008710873048.html?) 16.89gbp
+- [ ] [1/12 AC Factory wind effects](https://www.aliexpress.com/item/1005010569368901.html?) 7.24gbp
 - [ ] [Storage boxes 3pcs](https://amzn.eu/d/09m0uU7e) 8.99gbp
 	^ for keeping kitbash/custom figures in
 - [ ] [Gundam cutting mat 30.5cm x 22.9cm double-sided](https://amzn.eu/d/05IpspwD) 9.99gbp
@@ -56,8 +58,11 @@ kanban-plugin: board
 	> - I would repaint the pink parts of Nail's arms (from the bicep down) to match the yellow tone on SH Piccolo
 	> - swap Nail's repainted arms onto SH Piccolo, alongside his boots
 	> - I would also use the Nail heads instead of SH Piccolo's original heads
-- [ ] ##### Emperor of the Far Side of the Galaxy
-	[SH FIGUARTS DRAGON BALL Z Final Form Cooler (40th Anniversary Ver.)](https://hobbyfigures.co.uk/products/dragon-ball-s-h-figuarts-action-figure-cooler-final-form-40th-anniversary-edition-19cm) 69.95gbp
+- [ ] ##### Mystic Gohan
+	[Demoniacal Fit Martialist Forever Evolve](https://www.aliexpress.com/item/1005012378279709.html?) 38.39gbp
+	[TK Customs Gohan Headsculpts](https://www.aliexpress.com/item/1005012447944852.html?) 31.79gbp
+	**TOTAL 69.18gbp**
+	[[DF-TK Gohan kitbash.jpg]]
 - [ ] ^ should order SSJ3 Goku, Nail, Piccolo in one order to save on shipping and currency-exchange fees
 
 
@@ -72,7 +77,7 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 626.33GBP
+## Figures Term #1<br>TOTAL 621.13GBP
 
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
@@ -124,11 +129,11 @@ kanban-plugin: board
 	> - I need to heat up the legs and remove the boots, then dye in graphite synthetic dye and then repaint the ridges with a white paint and the tie with red to match the manga design
 	> - Now the body is complete, I just need to apply blu tack to the iris and eye outline to make it easier when I repaint the eyes white on every headsculpt
 	> - Matte finish all the parts and reassemble finally
-- [ ] ##### Mystic Gohan
-	[Demoniacal Fit Martialist Forever Evolve](https://www.aliexpress.com/item/1005012378279709.html?) 38.39gbp
-	[TK Customs Gohan Headsculpts](https://www.aliexpress.com/item/1005012447944852.html?) 31.79gbp
-	**TOTAL 69.18gbp**
-	[[DF-TK Gohan kitbash.jpg]]
+- [ ] ##### Piccolo Upgrade Kit
+	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m64469426375) 36.70gbp
+	[SH FIGUARTS DRAGON BALL DAIMA Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=kioMTZ8jrZBnVpdugbbtCT) 27.28gbp
+	**TOTAL 63.98gbp**
+	^ I want to use the cape from Daima Piccolo, the hat-heads, lower legs (not including boots), blue belt and hands from PN Piccolo. SH and PN Piccolo have the same hands, so I will just use the PN hands. Could also resell Daima Piccolo without the cape.
 - [ ] ##### The Legendary Super Saiyan
 	[CorToys 004 Broly](https://www.aliexpress.com/item/1005009726875342.html?) 60.99gbp
 	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
@@ -174,7 +179,7 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL 221.42GBP
+## Figures Term #2<br>TOTAL 228.66GBP
 
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
@@ -184,7 +189,8 @@ kanban-plugin: board
 	[Binding Tape](https://amzn.eu/d/0ao1WXZp) 5.89gbp
 	[24 Gauge Floral Wire](https://amzn.eu/d/09tISCdw) 4gbp
 	[Orange Wind Effects](https://www.aliexpress.com/item/1005010024096360.html?) 7.35gbp
-	**TOTAL 130.48gbp**
+	[1/12 AC Factory orange wind effects](https://www.aliexpress.com/item/1005010569368901.html?) 7.24gbp
+	**TOTAL 137.72gbp**
 	*I will use the orange wind effects as his Getsuga Tensho*
 	[[Custom SHF Ichigo.jpg]]
 	>[!Custom details]-
