@@ -7,6 +7,7 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] https://www.darktable.org/ for editing raw photos
+- [ ] [some photo tips](https://discord.com/channels/@me/1427163774359568455/1526380716621955234)
 - [ ] take note 180 per term for train fare on avg 3x a week
 	+i want to save 700 per term
 - [ ] need to buy apple tv 4k 2022 used after new version releases
@@ -54,6 +55,7 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m82185029859) 20.30gbp
 	[Acrylic Markers](https://www.aliexpress.com/item/1005008365305510.html) 20.69gbp
 	**TOTAL 83.90gbp**
+	^ Note that I want to use the Nail hands mostly, I will repaint the nails white on the SBC hand from SH Piccolo
 	>[!my ideas]-
 	> - I would repaint the pink parts of Nail's arms (from the bicep down) to match the yellow tone on SH Piccolo
 	> - swap Nail's repainted arms onto SH Piccolo, alongside his boots
@@ -77,19 +79,16 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 621.13GBP
+## Figures Term #1<br>TOTAL 577.65GBP
 
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
+- [ ] ##### The No.1 Unpredictable Ninja
+	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted with Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.01gbp
+- [ ] ##### Strength of a Hundred Princesses
+	[SH FIGUARTS NARUTO SHIPPUDEN Sakura Haruno (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 39.22gbp
 - [ ] ##### Warrior Pure of Heart
 	[SH FIGUARTS DRAGON BALL Z "The Legendary Super Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp
-- [ ] ##### Saiyan Saga Vegeta
-	[SH FIGUARTS DRAGON BALL Z 24,000 Power Level Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JSEoHvQPSRStGkGrAFu6W) 75.11gbp
-	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTm4KmjksMcTaUtRbYYzZ) 15.03gbp
-	[Demoniacal Fit 16,000 Power Level Scarlet Martial Artist](https://www.aliexpress.com/item/1005009149387441.html?) 26.69gbp
-	**TOTAL 116.83gbp**
-	^ Kitbash the Daima arms and lower body onto 24,000 Vegeta, using the boots from DP Vegeta, and use the skirt piece from 16,000 Goku
-	Also would need to remove articulation limiter on the torso
 - [ ] ##### Forbidden Technique Goku
 	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
 	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
@@ -111,29 +110,13 @@ kanban-plugin: board
 	> - Cut off the lower sides of the chest piece to create a V-taper on the entire torso
 	> - Pull out the trap-armour pieces on the torso and sand down all the armour detailing, retaining the buff definition on the torso, then sculpt the leotard with some wrinkling, making sure that the leotard is wide and ends before the shoulder
 	> - Sand down the neck sculpt and repaint the torso and neck with sunny skin tone and royal blue
-- [ ] ##### Earth's Strongest Man
-	[SH FIGUARTS DRAGON BALL Z "Earth's Strongest Human" Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-earths-strongest-man-12cm) 41.95gbp
-	[Nan&T Goku Games Begin Kit B](https://www.aliexpress.com/item/1005010629653654.html) 10.89gbp
-	[Economy size blu tack pack](https://amzn.eu/d/0dhlA94o) 2.99gbp
-	[Vallejo Dark Blue](https://amzn.eu/d/0aWAK9PD) 5.70gbp
-	[Rit Graphite Synthetic Dye](https://amzn.eu/d/023n7uVw) 7.95gbp
-	**TOTAL 69.48gbp**
-	[[ESM Krillin References Collage.png]]
-	>[!my ideas]-
-	> - Disassemble Krillin and remove all his mechanisms from the torso
-	> - Take my spare Games Begin torso and make sure that when disassembled, the parts can fit over the mechanisms from Krillin
-	> - Sculpt the shirt on the Games Begin undershirt to rise higher to match his design
-	> - Install Krillin's neck onto the mechanism while the Games Begin undershirt and overlay are assembled with it, if there is a gap between the neck and traps then resculpt accordingly to fill it, also make sure to resculpt the undershirt so it doesn't appear as much on the sides to match his manga design
-	> - Repaint the undershirt, sleeves, wrist wraps and waist wrap in dark blue
-	> - Now when reassembling, install the Nan&T B kit and use the orange sleeves from Games Begin to make sure no gap is left on the torso, if necessary make sure to cut off the sleeves so it appears more natural on Krillin's shape
-	> - I need to heat up the legs and remove the boots, then dye in graphite synthetic dye and then repaint the ridges with a white paint and the tie with red to match the manga design
-	> - Now the body is complete, I just need to apply blu tack to the iris and eye outline to make it easier when I repaint the eyes white on every headsculpt
-	> - Matte finish all the parts and reassemble finally
 - [ ] ##### Piccolo Upgrade Kit
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m64469426375) 36.70gbp
 	[SH FIGUARTS DRAGON BALL DAIMA Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=kioMTZ8jrZBnVpdugbbtCT) 27.28gbp
 	**TOTAL 63.98gbp**
-	^ I want to use the cape from Daima Piccolo, the hat-heads, lower legs (not including boots), blue belt and hands from PN Piccolo. SH and PN Piccolo have the same hands, so I will just use the PN hands. Could also resell Daima Piccolo without the cape.
+	^ I want to use the cape from Daima Piccolo, the hat-heads, lower legs (not including boots) and blue belt from PN Piccolo. Could also resell Daima Piccolo without the cape.
+- [ ] ##### The Emperor of the Far Side of the Galaxy
+	[SH FIGUARTS DRAGON BALL Z THE RETURN OF COOLER Metal Cooler](https://zenmarket.jp/mercariproduct.aspx?itemCode=m47503774092) 84.60gbp
 - [ ] ##### The Legendary Super Saiyan
 	[CorToys 004 Broly](https://www.aliexpress.com/item/1005009726875342.html?) 60.99gbp
 	[MP STUDIO Broly headsculpts](https://www.aliexpress.com/item/1005008503201406.html?) 48.94gbp
@@ -179,8 +162,9 @@ kanban-plugin: board
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 
 
-## Figures Term #2<br>TOTAL 228.66GBP
+## Figures Term #2<br>TOTAL 371.91GBP
 
+- [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Final Form Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.01gbp
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
 	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
@@ -200,6 +184,11 @@ kanban-plugin: board
 	> - Use an exacto knife and cut off Dasin Toys Ichigo's forearms to attach to Renji's arms
 	> - Shave off the wrapping and then repaint the base of the Zanpakuto black, cut a strip of the binding tape less than a cm wide and apply superglue and wrap it around the base of the Zanpakuto
 	> - Cut another strip of the binding tape and keep it around a cm wide, then wrap it around some floral wire and glue it onto the floral wire, make sure to leave a bit of the tape empty to wrap it onto the base of the Zanpakuto
+- [ ] ##### The Strongest Genin
+	[SH FIGUARTS NARUTO SHIPPUDEN "Sage Mode Saviour of Konoha" Naruto Uzumaki](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) 81.57gbp
+	[SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) 41.67gbp
+	**TOTAL 123.24gbp**
+	^ I will use these plus my Jinchuuriki version as shadow clones, can use Sage Mode and other faceplates interchangeably
 - [ ] ##### Goodbye Goku
 	[BSM BLACKSHARK Battle-Damaged Goku](https://www.aliexpress.com/item/1005009065552055.html) 58.99gbp
 	[SH FIGUARTS DRAGON BALL Z "Kind-Hearted Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-kind-hearted-saiyan-14cm) 31.95gbp
