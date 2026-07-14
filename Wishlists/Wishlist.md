@@ -16,6 +16,8 @@ kanban-plugin: board
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
+- [ ] [Amazon Basics Flexible Tripod](https://amzn.eu/d/07QhQfMx) 12.19gbp
+	^ for photography
 - [ ] ### miscellaneous figure parts
 - [ ] [1/12 SHF Style stands](https://www.aliexpress.com/item/1005007197618662.html?) 1.20gbp~ per piece
 - [ ] [1/12 Electric effects](https://www.aliexpress.com/item/1005008710873048.html?) 16.89gbp
@@ -125,7 +127,7 @@ kanban-plugin: board
 	[[CorToys-MP Broly kitbash.jpg]]
 
 
-## Tech Term #1<br>TOTAL 1,670.14GBP
+## Tech Term #1<br>TOTAL 1,729GBP
 
 - [ ] [Sony WH-CH720N](https://amzn.eu/d/03fKjAXp) 59.99gbp
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
@@ -146,6 +148,9 @@ kanban-plugin: board
 	[ARCTIC P12 Pro Powerful Fans 5pcs](https://amzn.eu/d/04yKptWv) 23.49gbp
 	**TOTAL 1,207.31gbp**
 - [ ] [Dell 240hz 23.8" gaming monitor](https://amzn.eu/d/0gAYZpaF) 99gbp
+- [ ] [Anker PowerConf C200 Webcam](https://uk.webuy.com/product-detail/?id=SACCANKPOWCONC200) 45gbp
+	[Amazon Basics Static tripod](https://amzn.eu/d/0dr8ulSr) 7.99gbp
+- [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 
 
