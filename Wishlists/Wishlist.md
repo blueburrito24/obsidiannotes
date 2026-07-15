@@ -115,6 +115,21 @@ kanban-plugin: board
 	> - Cut off the lower sides of the chest piece to create a V-taper on the entire torso
 	> - Pull out the trap-armour pieces on the torso and sand down all the armour detailing, retaining the buff definition on the torso, then sculpt the leotard with some wrinkling, making sure that the leotard is wide and ends before the shoulder
 	> - Sand down the neck sculpt and repaint the torso and neck with sunny skin tone and royal blue
+- [ ] ##### Vegeta Upgrade kit (not counted on total)
+	[SH FIGUARTS DRAGON BALL DAIMA Vegeta](https://www.nin-nin-game.com/en/shfiguarts/147439-shfiguarts-dragon-ball-daima-vegeta-bandai-spirits-.html) 30.97gbp
+	^ Look for a copy on ZenMarket to save some money
+	>[!Vegeta kitbash]-
+	> - Remove the butterfly caps from the Daima Vegeta torso and snip the pegs that keep the caps in place, then insert the DP Vegeta butterfly caps into it
+	> - Heat up the Daima Vegeta shoulders and remove the joint mechanisms, then heat up the DP Vegeta shoulders and replace their joint mechanisms with Daima Vegeta's
+	> - Now you can fully assemble the arms onto the torso
+	> - Heat up and remove the sockets from the boots of both figures and insert the DP Vegeta boot sockets into the Daima boot socket inserts
+	> - Heat up the Daima and DP necks and take the DP neck socket and insert it into the Daima neck
+	> - Now the upper body and lower legs are complete, you just need to attach the DP lower legs with the Daima boots onto the Daima torso
+	> - Carve out some plastic behind the neck on the Daima torso to extend its range
+	
+	[[SHF Vegeta kitbash.jpg]]
+	[[SHF Vegeta kitbash comparison 1.jpg]]
+	[[SHF Vegeta kitbash comparison 2.jpg]]
 - [ ] ##### Piccolo Upgrade Kit
 	[SH FIGUARTS DRAGON BALL Z "The Proud Namekian" Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m64469426375) 36.70gbp
 	[SH FIGUARTS DRAGON BALL DAIMA Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=kioMTZ8jrZBnVpdugbbtCT) 27.28gbp
