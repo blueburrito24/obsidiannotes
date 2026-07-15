@@ -21,6 +21,7 @@ kanban-plugin: board
 - [ ] ### miscellaneous figure parts
 - [ ] [1/12 SHF Style stands](https://www.aliexpress.com/item/1005007197618662.html?) 1.20gbp~ per piece
 - [ ] [1/12 Electric effects](https://www.aliexpress.com/item/1005008710873048.html?) 16.89gbp
+- [ ] [Tamashii Effect Series: Shock Impact Yellow Ver.](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 17.86gbp
 - [ ] [1/12 AC Factory wind effects](https://www.aliexpress.com/item/1005010569368901.html?) 7.24gbp
 - [ ] [Storage boxes 3pcs](https://amzn.eu/d/09m0uU7e) 8.99gbp
 	^ for keeping kitbash/custom figures in
@@ -81,12 +82,14 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 577.65GBP
+## Figures Term #1<br>TOTAL 630.60GBP
 
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
 - [ ] ##### The No.1 Unpredictable Ninja
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted with Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.01gbp
+- [ ] ##### The Dark Avenger
+	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-sasuke-uchiha-solitary-shinobi-15cm) 52.95gbp
 - [ ] ##### Strength of a Hundred Princesses
 	[SH FIGUARTS NARUTO SHIPPUDEN Sakura Haruno (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 39.22gbp
 - [ ] ##### Warrior Pure of Heart
