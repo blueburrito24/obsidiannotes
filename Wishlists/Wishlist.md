@@ -172,7 +172,8 @@ kanban-plugin: board
 
 ## Figures Term #2<br>TOTAL 371.91GBP
 
-- [ ] [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Final Form Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.01gbp
+- [ ] ##### Emperor of the Galaxy
+	[SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Final Form Frieza](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) 19.01gbp
 - [ ] ##### Substitute Soul Reaper
 	[SHF Tensazangetsu Ichigo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m36649077220) 23.42gbp
 	[SHF Renji Abarai](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JP6G4bJryxstJfVuJk2YQ) 27.66gbp
