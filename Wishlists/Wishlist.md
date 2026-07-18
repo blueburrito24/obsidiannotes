@@ -44,7 +44,7 @@ kanban-plugin: board
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
 	[SH FIGUARTS DRAGON BALL Z "The Legendary Super Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp
 	**TOTAL 48.90gbp**
-	[[FOR Goku head on LSSJ Body.png]]
+	[[FOR Goku head on LSSJ Body.jpg]]]
 	^ FOR heads are compatible with the 3.0 neck socket on LSSJ Goku, so I will replace his headsculpts with FOR. I can still use the LSSJ facesculpts, and can swap out the entire neckpeg and head for the alternate LSSJ hairsculpt look
 	I will sell the body and accessories to Tugboat
 - [ ] ##### The Nameless Namekian
