@@ -42,33 +42,28 @@ kanban-plugin: board
 - [ ] ### Figures (post-trip)
 - [ ] ##### SSJ Goku
 	[SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-fighter-of-rage-14cm) 61.95gbp
-	[SH FIGUARTS DRAGON BALL Z "Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
-	[SH FIGUARTS DRAGON BALL Z Super Saiyan 3 Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m68939728501) 20.91gbp
-	**TOTAL 125.81gbp**
-	^ if possible I want to buy the sh_figuposes barbell neck joint
-	>[!my ideas]-
-	> - Use spare parts from DF Goku to do the same leg kitbash
-	> - I will remove the undershirt/skin portions from the SHF SSJ3 torso
-	> - this modified torso cover will go over the Games Begin undershirt so I can use the FOR heads but keep the LBS kitbash silhouette
-	> - I will use the SHF SSJ3 abdomen piece, but I will make sure to hollow it out so I can retain all the internal 4.0 technology and movement
-	> - I will also use the SHF SSJ3 belt on top of the abdomen piece
-	> - I need to remove the 2.0 boots and superglue the 4.0 boots onto the 2.0 legs
+	[SH FIGUARTS DRAGON BALL Z "The Legendary Super Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp
+	**TOTAL 48.90gbp**
+	[[FOR Goku head on LSSJ Body.png]]
+	^ FOR heads are compatible with the 3.0 neck socket on LSSJ Goku, so I will replace his headsculpts with FOR. I can still use the LSSJ facesculpts, and can swap out the entire neckpeg and head for the alternate LSSJ hairsculpt look
+	I will sell the body and accessories to Tugboat
 - [ ] ##### The Nameless Namekian
 	[SH FIGUARTS DRAGON BALL Z Nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JTTNy4BnGUEF8NQofE8H6) 42.91gbp
 	[SH FIGUARTS DRAGON BALL SUPER SUPER HERO Piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m82185029859) 20.30gbp
 	[Acrylic Markers](https://www.aliexpress.com/item/1005008365305510.html) 20.69gbp
 	**TOTAL 83.90gbp**
-	^ Note that I want to use the Nail hands mostly, I will repaint the nails white on the SBC hand from SH Piccolo
+	I will sell the Nail torso to Tugboat
 	>[!my ideas]-
 	> - I would repaint the pink parts of Nail's arms (from the bicep down) to match the yellow tone on SH Piccolo
 	> - swap Nail's repainted arms onto SH Piccolo, alongside his boots
 	> - I would also use the Nail heads instead of SH Piccolo's original heads
+	> - The manga 4-finger design is appealing, so to achieve that I want to take the SH Piccolo hands and remove the fingers, then reattach and resculpt to make the 4-finger look natural. If successful, I will do the same on the Nail hands
+	> - I want to repaint the fingernails black on all the Nail hand accessories
 - [ ] ##### Mystic Gohan
 	[Demoniacal Fit Martialist Forever Evolve](https://www.aliexpress.com/item/1005012378279709.html?) 38.39gbp
 	[TK Customs Gohan Headsculpts](https://www.aliexpress.com/item/1005012447944852.html?) 31.79gbp
 	**TOTAL 69.18gbp**
 	[[DF-TK Gohan kitbash.jpg]]
-- [ ] ^ should order SSJ3 Goku, Nail, Piccolo in one order to save on shipping and currency-exchange fees
 
 
 ## Clothes
@@ -82,23 +77,27 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Figures Term #1<br>TOTAL 630.60GBP
+## Figures Term #1<br>TOTAL 634.28GBP
 
 - [ ] ##### All Might
 	[SH FIGUARTS MY HERO ACADEMIA All Might](https://www.nin-nin-game.com/en/shfiguarts/230401-shfiguarts-my-hero-academia-all-might-bandai-spirits-.html) 55.29gbp
 - [ ] ##### The No.1 Unpredictable Ninja
 	[SH FIGUARTS NARUTO SHIPPUDEN "The Jinchuuriki Entrusted with Hope" Naruto Uzumaki](https://www.nin-nin-game.com/en/shfiguarts/199585-shfiguarts-naruto-shippuuden-naruto-uzumaki-the-jinchuuriki-entrusted-with-hope-reissue-bandai-spirits-.html) 19.01gbp
-- [ ] ##### The Dark Avenger
-	[SH FIGUARTS NARUTO SHIPPUDEN "Solitary Shinobi" Sasuke Uchiha](https://hobbyfigures.co.uk/products/naruto-s-h-figuarts-action-figure-sasuke-uchiha-solitary-shinobi-15cm) 52.95gbp
 - [ ] ##### Strength of a Hundred Princesses
 	[SH FIGUARTS NARUTO SHIPPUDEN Sakura Haruno (NARUTOP99 Ver.)](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html) 39.22gbp
-- [ ] ##### Warrior Pure of Heart
-	[SH FIGUARTS DRAGON BALL Z "The Legendary Super Saiyan" Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-goku-legendary-super-saiyan-14cm) 46.95gbp
 - [ ] ##### Forbidden Technique Goku
 	[NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) 58.79gbp
 	[SH FIGUARTS DRAGON BALL Z Kaioken Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m86023002311) 24.04gbp
 	**TOTAL 82.83gbp**
 	^ Copy the 2.0-GB kitbash that I did for SSJ Goku, since the NS torso looks mid
+- [ ] ##### SSJ Goku
+	[SH FIGUARTS DRAGON BALL Z "The Games Begin" Super Saiyan Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-son-goku-the-games-begin-ver-15cm) 32.95gbp
+	[Nonou Custom GB-2.0 Neck Adapter Peg 4pcs](https://www.aliexpress.com/item/1005010687235775.html?) 8.52gbp
+	[Black Hole Toys "Furious Hero B" SSJ Awakening Goku](https://www.aliexpress.com/item/1005012717767316.html?) 39.69gbp
+	[SH FIGUARTS DRAGON BALL Z Super Saiyan 3 Son Goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m81254629750) 22,42gbp
+	**TOTAL 103.58gbp**
+	^ Use the SSJ headsculpt from BHT Goku on the Games Begin via the Nonou adapter peg, if possible use the Games Begin faces.
+	Also do [this kitbash](https://www.instagram.com/p/DafiHpHuob9/) using the SSJ3 Goku parts
 - [ ] ##### Prince of All Saiyans
 	[SH FIGUARTS DRAGON BALL Z "Dangerous Pride" Super Saiyan Vegeta](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-super-saiyan-vegeta-dangerous-pride-13cm) 31.95gbp
 	*Base Form Variant will likely cost the same*
@@ -121,11 +120,9 @@ kanban-plugin: board
 	>[!Vegeta kitbash]-
 	> - Remove the butterfly caps from the Daima Vegeta torso and snip the pegs that keep the caps in place, then insert the DP Vegeta butterfly caps into it
 	> - Heat up the Daima Vegeta shoulders and remove the joint mechanisms, then heat up the DP Vegeta shoulders and replace their joint mechanisms with Daima Vegeta's
-	> - Now you can fully assemble the arms onto the torso
 	> - Heat up and remove the sockets from the boots of both figures and insert the DP Vegeta boot sockets into the Daima boot socket inserts
 	> - Heat up the Daima and DP necks and take the DP neck socket and insert it into the Daima neck
-	> - Now the upper body and lower legs are complete, you just need to attach the DP lower legs with the Daima boots onto the Daima torso
-	> - Carve out some plastic behind the neck on the Daima torso to extend its range
+	> - Remove the limiter inside the torso that halts the neck and carve out some plastic behind the neck on the Daima torso to extend its range
 	
 	[[SHF Vegeta kitbash.jpg]]
 	[[SHF Vegeta kitbash comparison 1.jpg]]
