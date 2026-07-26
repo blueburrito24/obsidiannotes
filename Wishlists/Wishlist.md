@@ -35,6 +35,7 @@ kanban-plugin: board
 	> - [shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0) 
 	> - shf perfect cell (tba)
 	> - dimensionia saiyaman
+	> - cortoys broly with mp studio broly heads
 
 
 ## Clothes
