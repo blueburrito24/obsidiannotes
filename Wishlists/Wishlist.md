@@ -23,6 +23,18 @@ kanban-plugin: board
 	[NARUTO: Kakashi's Story "Lightning in the Frozen Sky"](https://www.amazon.co.uk/Naruto-Kakashis-Story-Akira-Higashiyama/dp/1421584409?crid=3BHL21GPUFV8O&dib=eyJ2IjoiMSJ9.B9phnwQxDFYzCJ4UTjKprHXIYOnb64lfpiYaHAaKkS14lAcIykb_O09YiZoaAbDsz8EKaluKfdQ91QaD5k4U_VYNxEH4fkFJ0Dg6w-dUK07j0crPYf-YMf27OLA1X-Qn05tIsIOuNgZSrE1dajeq_PyGxIWLlSh-Zb1D65T-0qgw3mAivdRgzpExFa2g39eHk4bqgcRyVuPt9UPbWFI25x33McI3tib-xco52e3dMBk.4T4j5u4PgEfHLeaVfkvYal1o_fFJ7J5xavlkuqv46Gc&dib_tag=se&keywords=Kakashi+novel&qid=1779867136&sprefix=kakashi+novel%2Caps%2C178&sr=8-1) 7.99gbp
 	[NARUTO: Itachi's Story Vol. 1 "Daylight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-1/dp/1421591308?crid=1XHHVKPXRAXDY&dib=eyJ2IjoiMSJ9.6quCcv4Qr9aUBDR557NeSPKpQocL04BqkkFQDxATRP3eV2WEs_0ASZoJAVk2L_ZmsAP3js5zqwjUizNuGrfer_Y2e2iA8gaac8KqJG2tHuLNICfNtKNsYdHsJDVQyB1DDXuY3nZLVy27RdYCd2-O8lhcUc18uIFoUkvi8mlcJIdK-J_ePDqOhdEPib5x8ybau1FYTnRh-uZrlpFRNFQ9NbfXOzEgbAhU08mX5dK8C9Q.83rs3zURYyYkc8VpLeBreDFIo5ePQOlA_QXiDZn7vf0&dib_tag=se&keywords=Itachi+novel&qid=1779867148&sprefix=it+a+novel%2Caps%2C390&sr=8-1) 7.99gbp
 	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
+- [ ] >[!Figures I would like to get]-
+	> only linking those that aren't readily available
+	> - shf base form vegeta (tba)
+	> - shf base form trunks (tba) + bftf ssj trunks
+	> - shf ssj gb goku, bht furious hero, nono custom 2.0 adapter neckpeg
+	> - ![[goku kitbash.png]]
+	> - shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), could use games begin heads on bsm body
+	> - [shf proud namekian piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m61482071287), [dbssh piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JUVKB9QqSZT8eLympryUU), [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), [acrylic markers 36pcs](https://www.aliexpress.com/item/1005008365305510.html)
+	> - ^ kitbash; super hero torso, arms from nail repainted with marker 321 and a toothpick, hands from proud namekian/nail, heads from nail, boots from nail, legs and belt from proud namekian
+	> - [ns kaioken goku 003](https://www.aliexpress.com/item/1005012216352298.html?)
+	> - [shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0) 
+	> - shf perfect cell (tba)
 
 
 ## Clothes
