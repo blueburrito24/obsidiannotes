@@ -24,18 +24,27 @@ kanban-plugin: board
 	[NARUTO: Itachi's Story Vol. 1 "Daylight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-1/dp/1421591308?crid=1XHHVKPXRAXDY&dib=eyJ2IjoiMSJ9.6quCcv4Qr9aUBDR557NeSPKpQocL04BqkkFQDxATRP3eV2WEs_0ASZoJAVk2L_ZmsAP3js5zqwjUizNuGrfer_Y2e2iA8gaac8KqJG2tHuLNICfNtKNsYdHsJDVQyB1DDXuY3nZLVy27RdYCd2-O8lhcUc18uIFoUkvi8mlcJIdK-J_ePDqOhdEPib5x8ybau1FYTnRh-uZrlpFRNFQ9NbfXOzEgbAhU08mX5dK8C9Q.83rs3zURYyYkc8VpLeBreDFIo5ePQOlA_QXiDZn7vf0&dib_tag=se&keywords=Itachi+novel&qid=1779867148&sprefix=it+a+novel%2Caps%2C390&sr=8-1) 7.99gbp
 	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
 - [ ] >[!Figures I would like to get]-
-	> only linking those that aren't readily available
+	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
 	> - shf base form vegeta (tba)
+	> - shf base trunks (tba) + air studio ponytail heads
 	> - shf ssj gb goku, bht furious hero, nono custom 2.0 adapter neckpeg
 	> - [[goku kitbash.png]]
 	> - shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), could use games begin heads on bsm body and remove logos from gi on ssjb body
-	> - [shf proud namekian piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m61482071287), [dbssh piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JUVKB9QqSZT8eLympryUU), [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), [acrylic markers 36pcs](https://www.aliexpress.com/item/1005008365305510.html)
-	> - ^ kitbash; super hero torso, arms from nail repainted with marker 321 and a toothpick, hands from proud namekian/nail, heads from nail, boots from nail, legs and belt from proud namekian
+	> - [shf proud namekian piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m61482071287), [dbssh piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JUVKB9QqSZT8eLympryUU), [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), acrylic markers 36pcs, shangi cloth cape, gundam markers
+	> - ^ kitbash; super hero torso, arms from nail repainted with marker 321 and a toothpick, hands from proud namekian/nail, heads from nail, boots from nail, legs and belt from proud namekian, plus the cloth cape. also I would like to remove the mouth on the neutral proud namekian faces with a gundam eraser and redraw it with a gundam marker
 	> - ns kaioken goku 003
+	> - demoniacal fit martialist forever return from beyond, nono custom ssj gohan headsculpts
+	> - dimensionia saiyaman
 	> - [shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0) 
 	> - shf perfect cell (tba)
-	> - dimensionia saiyaman
 	> - cortoys broly with mp studio broly heads
+	> - demoniacal fit unclean blood (xicor)
+- [ ] >[!Figure accessories]-
+	> - ac factory wind effects
+	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
+	> - tamashii effect series shock impact yellow
+	> - Tamashii effect series thunder blue & yellow
+	> - generic Kamehameha charge effect
 
 
 ## Clothes
