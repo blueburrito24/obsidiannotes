@@ -28,10 +28,10 @@ kanban-plugin: board
 	> - shf base form vegeta (tba)
 	> - shf ssj gb goku, bht furious hero, nono custom 2.0 adapter neckpeg
 	> - [[goku kitbash.png]]
-	> - shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), could use games begin heads on bsm body and remove logos from gi
+	> - shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), could use games begin heads on bsm body and remove logos from gi on ssjb body
 	> - [shf proud namekian piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m61482071287), [dbssh piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JUVKB9QqSZT8eLympryUU), [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), [acrylic markers 36pcs](https://www.aliexpress.com/item/1005008365305510.html)
 	> - ^ kitbash; super hero torso, arms from nail repainted with marker 321 and a toothpick, hands from proud namekian/nail, heads from nail, boots from nail, legs and belt from proud namekian
-	> - [ns kaioken goku 003](https://www.aliexpress.com/item/1005012216352298.html?)
+	> - ns kaioken goku 003
 	> - [shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0) 
 	> - shf perfect cell (tba)
 	> - dimensionia saiyaman
