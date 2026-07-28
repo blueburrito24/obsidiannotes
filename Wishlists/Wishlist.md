@@ -29,7 +29,7 @@ kanban-plugin: board
 	> - shf base trunks (tba) + air studio ponytail heads
 	> - shf ssj gb goku, bht furious hero, nono custom 2.0 adapter neckpeg
 	> - [[goku kitbash.png]]
-	> - shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), could use games begin heads on bsm body and remove logos from gi on ssjb body
+	> - shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), would like to get the black hole toys gohan heads for the bsm body and remove logos from gi on ssjb body
 	> - [shf proud namekian piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m61482071287), [dbssh piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JUVKB9QqSZT8eLympryUU), [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), acrylic markers 36pcs, shangi cloth cape, gundam markers
 	> - ^ kitbash; super hero torso, arms from nail repainted with marker 321 and a toothpick, hands from proud namekian/nail, heads from nail, boots from nail, legs and belt from proud namekian, plus the cloth cape. also I would like to remove the mouth on the neutral proud namekian faces with a gundam eraser and redraw it with a gundam marker
 	> - ns kaioken goku 003
