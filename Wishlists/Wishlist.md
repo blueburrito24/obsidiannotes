@@ -33,12 +33,14 @@ kanban-plugin: board
 	> - [shf proud namekian piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m61482071287), [dbssh piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JUVKB9QqSZT8eLympryUU), [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), acrylic markers 36pcs, shangi cloth cape, gundam markers
 	> - ^ kitbash; super hero torso, arms from nail repainted with marker 321 and a toothpick, hands from proud namekian/nail, heads from nail, boots from nail, legs and belt from proud namekian, plus the cloth cape. also I would like to remove the mouth on the neutral proud namekian faces with a gundam eraser and redraw it with a gundam marker
 	> - ns kaioken goku 003
-	> - demoniacal fit martialist forever return from beyond, nono custom ssj gohan headsculpts
+	> - demoniacal fit martialist forever return from beyond, nono custom ssj gohan headsculpts, I would use the ssj goku headsculpts on my games begin via nono custom's 3.0 gb adapter peg as a buu saga style set
+	> - [[goku kitbash 2.png]]
 	> - dimensionia saiyaman
 	> - [shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0) 
 	> - shf perfect cell (tba)
 	> - cortoys broly with mp studio broly heads
 	> - demoniacal fit unclean blood (xicor)
+	> - sexyice manikin bioroid, maybe two or even three
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
