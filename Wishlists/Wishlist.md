@@ -25,22 +25,25 @@ kanban-plugin: board
 	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
-	> - shf base form vegeta (tba)
-	> - shf base trunks (tba) + air studio ponytail heads
-	> - shf ssj gb goku, bht furious hero, nono custom 2.0 adapter neckpeg
+	> - ==shf base form vegeta== (tba)
+	> - ==shf ssj vegeta ALREADY PURCHASED==, would like to customise into his buu saga look with vallejo royal blue and sunny skin tone, plus epoxy putty and sandpaper for resculpting and repainting the upper body and arms
+	> - ==shf base trunks== (tba) + air studio ponytail heads
+	> - ==shf ssj gb goku ALREADY PURCHASED==, heads from demoniacal fit martialist forever return from beyond with nono custom adapter peg
 	> - [[goku kitbash.png]]
-	> - shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), would like to get the black hole toys gohan heads for the bsm body and remove logos from gi on ssjb body
-	> - [shf proud namekian piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=m61482071287), [dbssh piccolo](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JUVKB9QqSZT8eLympryUU), [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), acrylic markers 36pcs, shangi cloth cape, gundam markers
-	> - ^ kitbash; super hero torso, arms from nail repainted with marker 321 and a toothpick, hands from proud namekian/nail, heads from nail, boots from nail, legs and belt from proud namekian, plus the cloth cape. also I would like to remove the mouth on the neutral proud namekian faces with a gundam eraser and redraw it with a gundam marker
-	> - ns kaioken goku 003
-	> - demoniacal fit martialist forever return from beyond, nono custom ssj gohan headsculpts, I would use the ssj goku headsculpts on my games begin via nono custom's 3.0 gb adapter peg as a buu saga style set
-	> - [[goku kitbash 2.png]]
-	> - dimensionia saiyaman
-	> - [shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0) 
-	> - shf perfect cell (tba)
-	> - cortoys broly with mp studio broly heads
-	> - demoniacal fit unclean blood (xicor)
-	> - sexyice manikin bioroid, maybe two or even three
+	> - ==base goku== shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), would like to remove logos from gi on ssjb body
+	> - ==shf proud namekian piccolo ALREADY PURCHASED==, [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), shangi cloth cape, gundam markers
+	> - ^ kitbash; arms from nail, hands from proud namekian/nail, heads from nail, boots from nail, plus the cloth cape. also I would like to remove the mouth on the neutral proud namekian faces with a gundam eraser and redraw it with a gundam marker
+	> - ==ns kaioken goku 003==
+	> - ==adult ssj gohan== demoniacal fit martialist forever return from beyond, nono custom ssj gohan headsculpts
+	> - ==dimensionia saiyaman==
+	> - ==k studio gotenks==
+	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
+	> - ==shf perfect cell== (tba)
+	> - ==shf fat buu==
+	> - ==cortoys broly== with mp studio broly heads
+	> - ==demoniacal fit unclean blood== (xicor)
+	> - ==[shf turles](https://zenmarket.jp/s/ashi-toys/tf-1105000137219213?id=23961779-981a-4404-8f48-25d510d7e320)==
+	> - ==shf all might==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
@@ -104,6 +107,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false,"lane-width":345}
 ```
 %%
