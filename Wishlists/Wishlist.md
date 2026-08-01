@@ -25,23 +25,27 @@ kanban-plugin: board
 	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
-	> - ==shf base form vegeta== (tba)
-	> - ==shf ssj vegeta ALREADY PURCHASED==, would like to customise into his buu saga look with vallejo royal blue and sunny skin tone, plus epoxy putty and sandpaper for resculpting and repainting the upper body and arms
+	> - ==sh_figuposes dumbell neckpegs for my 4.0 figures==
+	> - ==shf base form vegeta== (tba), shf ssj vegeta repaint
+	> - I want to buy the dangerous pride style eye decals and put them onto these headsculpts alongside repainting the hairsculpt, also need to do the same headsculpt mod I did on my ssj copy plus cutting up the sides of the torso piece
+	> - ==shf buu saga base form vegeta==, ==shf ssj vegeta ALREADY PURCHASED==. black hole toys majin vegeta, vallejo sunny skintone, vallejo royal blue, sh_figuposes bht-shf neckpeg
+	> - kitbash: disassemble black hole toys majin vegeta and sand down the upper body; resculpt the abdomen piece to look more like baggy wrinkled cloth alongside cutting up at the top for more range, sanding down the butterfly caps to avoid paint rub, repaint the entire upper torso with vallejo royal blue to match the shf ssj vegeta legs. disassemble the shf ssj vegeta arms, including the loose glove cuff, and sand down all the parts to reduce paint rub and repaint the arms and their joints with vallejo sunny skintone, then reattach the glove cuff and wristpegs. assemble the black hole toys majin vegeta body with the shf ssj vegeta arms, then use the sh_figuposes neckpeg with the shf ssj vegeta headsculpt
+	> - [[vegeta kitbash.png]]
+	> - [[buu saga vegeta collage.jpg]]
 	> - ==shf base trunks== (tba) + air studio ponytail heads
-	> - ==shf ssj gb goku ALREADY PURCHASED==, heads from demoniacal fit martialist forever return from beyond with nono custom adapter peg
+	> - ==shf ssj gb goku ALREADY PURCHASED==, heads from demoniacal fit martialist forever return from beyond with nono custom adapter peg and + bsm blackshark modified abdomen piece. if possible i want to try and get the shf ssj faces working on the demoniacal fit head. i could get nono recast ssj gohan heads if i want to use the demoniacal fit body
 	> - [[goku kitbash.png]]
-	> - ==base goku== shf ssjb goku + bsm blackshark goku (tons of base form headsculpts), would like to remove logos from gi on ssjb body
-	> - ==shf proud namekian piccolo ALREADY PURCHASED==, [nail](https://zenmarket.jp/mercariproduct.aspx?itemCode=m71283689672), shangi cloth cape, gundam markers
-	> - ^ kitbash; arms from nail, hands from proud namekian/nail, heads from nail, boots from nail, plus the cloth cape. also I would like to remove the mouth on the neutral proud namekian faces with a gundam eraser and redraw it with a gundam marker
-	> - ==ns kaioken goku 003==
-	> - ==adult ssj gohan== demoniacal fit martialist forever return from beyond, nono custom ssj gohan headsculpts
+	> - ==base goku== shf ssjb goku + bsm blackshark goku headsculpts + kk studio modified abdomen piece, would like to swap torso overlay with khs goku's. Also need to copy mods from my ssj copy like the headsculpt mod, thigh mod
+	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
+	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits
+	> - ==ns kaioken goku 003==, if the head range is bad then i can copy my shf ssj goku mod
+	> - ==shf adult gohan and gamma 2==
+	> - shf dbs super hero gohan reissue, [shf daima piccolo legs fodder](https://www.mercari.com/us/item/m76448618718/?) (needs purchase via forward2me), [shf gamma 2](https://zenmarket.jp/mercariproduct.aspx?itemCode=BQUCTVaj65qAoxi3SzwNrP), shf gamma 2 cloth cape, shf kind hearted saiyan son goku
+	> - kitbash; I want to swap the boots from daima piccolo, from the ankle, onto dbssh gohan so he has namek style shoes. I want gamma 2 anyway, but he comes with the base form headsculpt so I want to modify the khs goku faces to fit into that, by cutting off their original pegs and inserting cling film into the headsculpt slots and then attaching epoxy putty onto the faceplates where the slots go. this will form solid pegs. the glasses face on the base form head relies on internal block pegs built into the facesculpt, so I want to cut those out and use the glasses interchangeably with other facesculpts
 	> - ==dimensionia saiyaman==
-	> - ==k studio gotenks==
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==shf perfect cell== (tba)
-	> - ==shf fat buu==
 	> - ==cortoys broly== with mp studio broly heads
-	> - ==demoniacal fit unclean blood== (xicor)
 	> - ==[shf turles](https://zenmarket.jp/s/ashi-toys/tf-1105000137219213?id=23961779-981a-4404-8f48-25d510d7e320)==
 	> - ==shf all might==
 - [ ] >[!Figure accessories]-
