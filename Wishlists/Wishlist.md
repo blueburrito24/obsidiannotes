@@ -26,10 +26,10 @@ kanban-plugin: board
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
 	> - ==sh_figuposes dumbell neckpegs for my 4.0 figures==
-	> - ==shf base form vegeta== (tba), shf ssj vegeta repaint
+	> - ==shf base form vegeta==, shf ssj vegeta repaint
 	> - I want to buy the dangerous pride style eye decals and put them onto these headsculpts alongside repainting the hairsculpt, also need to do the same headsculpt mod I did on my ssj copy plus cutting up the sides of the torso piece
 	> - ==shf buu saga base form vegeta==, ==shf ssj vegeta ALREADY PURCHASED==. black hole toys majin vegeta, vallejo sunny skintone, vallejo royal blue, sh_figuposes bht-shf neckpeg
-	> - kitbash: disassemble black hole toys majin vegeta and sand down the upper body; resculpt the abdomen piece to look more like baggy wrinkled cloth alongside cutting up at the top for more range, sanding down the butterfly caps to avoid paint rub, repaint the entire upper torso with vallejo royal blue to match the shf ssj vegeta legs. disassemble the shf ssj vegeta arms, including the loose glove cuff, and sand down all the parts to reduce paint rub and repaint the arms and their joints with vallejo sunny skintone, then reattach the glove cuff and wristpegs. assemble the black hole toys majin vegeta body with the shf ssj vegeta arms, then use the sh_figuposes neckpeg with the shf ssj vegeta headsculpt
+	> - kitbash: disassemble black hole toys majin vegeta and sand down the upper body; resculpt the abdomen piece to look more like baggy wrinkled cloth alongside cutting up at the top for more range, sanding down the butterfly caps to avoid paint rub, repaint the entire upper torso with vallejo royal blue to match the shf ssj vegeta legs. disassemble the shf ssj vegeta arms, including the loose glove cuff, and sand down all the parts to reduce paint rub and repaint the arms and their joints with vallejo sunny skintone, then reattach the glove cuff and wristpegs. assemble the black hole toys majin vegeta body with the shf ssj vegeta arms, then use the sh_figuposes neckpeg with the shf ssj vegeta headsculpt. also i can swap the leftover abdomen piece onto my ssj vegeta since his is messed up
 	> - [[vegeta kitbash.png]]
 	> - [[buu saga vegeta collage.jpg]]
 	> - ==shf base trunks== (tba) + air studio ponytail heads
@@ -39,21 +39,22 @@ kanban-plugin: board
 	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
 	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits
 	> - ==ns kaioken goku 003==, if the head range is bad then i can copy my shf ssj goku mod
-	> - ==shf adult gohan and gamma 2==
-	> - shf dbs super hero gohan reissue, [shf daima piccolo legs fodder](https://www.mercari.com/us/item/m76448618718/?) (needs purchase via forward2me), [shf gamma 2](https://zenmarket.jp/mercariproduct.aspx?itemCode=BQUCTVaj65qAoxi3SzwNrP), shf gamma 2 cloth cape, shf kind hearted saiyan son goku
-	> - kitbash; I want to swap the boots from daima piccolo, from the ankle, onto dbssh gohan so he has namek style shoes. I want gamma 2 anyway, but he comes with the base form headsculpt so I want to modify the khs goku faces to fit into that, by cutting off their original pegs and inserting cling film into the headsculpt slots and then attaching epoxy putty onto the faceplates where the slots go. this will form solid pegs. the glasses face on the base form head relies on internal block pegs built into the facesculpt, so I want to cut those out and use the glasses interchangeably with other facesculpts
-	> - ==dimensionia saiyaman==
+	> - ==shf adult gohan and gamma 2==, shf dbs super hero gohan reissue, [shf daima piccolo legs fodder](https://www.mercari.com/us/item/m76448618718/?) (needs purchase via forward2me), [shf gamma 2](https://zenmarket.jp/mercariproduct.aspx?itemCode=BQUCTVaj65qAoxi3SzwNrP), shf gamma 2 cloth cape, shf kind hearted saiyan son goku, vallejo flat earth
+	> - kitbash; I want to swap the boots from daima piccolo, from the ankle, onto dbssh gohan so he has namek style shoes, also needs repainting with vallejo flat earth. I want gamma 2 anyway, but he comes with the base form headsculpt so I want to modify the khs goku faces to fit into that, by cutting off their original pegs and inserting cling film into the headsculpt slots and then attaching epoxy putty onto the faceplates where the slots go. this will form solid pegs. the glasses face on the base form head relies on internal block pegs built into the facesculpt, so I want to cut those out and use the glasses interchangeably with other facesculpts
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==shf perfect cell== (tba)
 	> - ==cortoys broly== with mp studio broly heads
+	> - ==shf super broly reissue==, kira studio fpssj mastered heads, vallejo flat yellow
+	> - kitbash; repaint the shouting and neutral heads into ssj with vallejo flat yellow, repaint the gritted teeth face into base form alongside the glancing faces, using my acrylic markers and masking tape to make the job cleaner and easier
 	> - ==[shf turles](https://zenmarket.jp/s/ashi-toys/tf-1105000137219213?id=23961779-981a-4404-8f48-25d510d7e320)==
-	> - ==shf all might==
+	> - ==[shf jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m35110417976)==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
 	> - tamashii effect series shock impact yellow
 	> - Tamashii effect series thunder blue & yellow
 	> - generic Kamehameha charge effect
+	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
 
 
 ## Clothes
