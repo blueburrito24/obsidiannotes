@@ -7,9 +7,8 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] https://www.darktable.org/ for editing raw photos
-- [ ] take note 180 per term for train fare on avg 3x a week
+- [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 	+i want to save 700 per term
-- [ ] need to buy apple tv 4k 2022 used after new version releases
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
