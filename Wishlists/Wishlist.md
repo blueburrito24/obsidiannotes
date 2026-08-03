@@ -40,14 +40,16 @@ kanban-plugin: board
 	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits
 	> - ==ns kaioken goku 003==, if the head range is bad then i can copy my shf ssj goku mod
 	> - ==shf adult gohan and gamma 2==, shf dbs super hero gohan reissue, [shf daima piccolo legs fodder](https://www.mercari.com/us/item/m76448618718/?) (needs purchase via forward2me), [shf gamma 2](https://zenmarket.jp/mercariproduct.aspx?itemCode=BQUCTVaj65qAoxi3SzwNrP), shf gamma 2 cloth cape, shf kind hearted saiyan son goku, vallejo flat earth
-	> - kitbash; I want to swap the boots from daima piccolo, from the ankle, onto dbssh gohan so he has namek style shoes, also needs repainting with vallejo flat earth. I want gamma 2 anyway, but he comes with the base form headsculpt so I want to modify the khs goku faces to fit into that, by cutting off their original pegs and inserting cling film into the headsculpt slots and then attaching epoxy putty onto the faceplates where the slots go. this will form solid pegs. the glasses face on the base form head relies on internal block pegs built into the facesculpt, so I want to cut those out and use the glasses interchangeably with other facesculpts
+	> - kitbash; I want to swap the boots from daima piccolo, from the ankle, onto dbssh gohan so he has namek style shoes, also needs repainting with vallejo flat earth. I want gamma 2 anyway, but he comes with the base form headsculpt so I want to modify the khs goku faces to fit into that, by cutting off their original pegs and inserting cling film into the headsculpt slots and then attaching epoxy putty onto the faceplates where the slots go. this will form solid pegs. the glasses face on the base form head relies on internal block pegs built into the facesculpt, so I want to cut those out and use the glasses interchangeably with other facesculpts. i could also use some facesculpts from my bsm set for happy expressions and things like that
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==shf perfect cell== (tba)
 	> - ==cortoys broly== with mp studio broly heads
-	> - ==shf super broly reissue==, kira studio fpssj mastered heads, vallejo flat yellow
-	> - kitbash; repaint the shouting and neutral heads into ssj with vallejo flat yellow, repaint the gritted teeth face into base form alongside the glancing faces, using my acrylic markers and masking tape to make the job cleaner and easier
 	> - ==[shf turles](https://zenmarket.jp/s/ashi-toys/tf-1105000137219213?id=23961779-981a-4404-8f48-25d510d7e320)==
 	> - ==[shf jiren](https://zenmarket.jp/mercariproduct.aspx?itemCode=m35110417976)==
+	> - ==shf all might==
+	> - ==jada toys invincible== (blue variant)
+	> - ==jada toys omni-man==
+	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using these [8mm joints](https://www.aliexpress.com/item/1005005324042088.html?) for the ankles
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
@@ -95,17 +97,15 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 
 
-## Tech Term #2<br>TOTAL 2,180.90GBP
+## Tech Term #2<br>TOTAL 1,097.94GBP
 
 - [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
 	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
 - [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
-- [ ] [GPD Win Max 2 8840U, 32GB RAM, 2TB](https://droix.co.uk/product/gpd-win-max-2-2024/?attribute_pa_condition=refurbished-class-a&attribute_pa_configuration=32gb-lpddr5x-2tb-nvme-pcie-4-0-2280&attribute_pa_4g-lte=no) 999.95gbp
-	[tomtoc Compact Sling Bag XS](https://amzn.eu/d/05VAeNL2) 43.02gbp
-	[8BitDo SN30 Pro HE](https://amzn.eu/d/0770NBD8) 39.99gbp
 - [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
+- [ ] should try and get a gpd win max 2 if possible for around 1k, with a body bag and 8bitdo controller
 
 
 
