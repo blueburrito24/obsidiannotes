@@ -27,7 +27,7 @@ kanban-plugin: board
 	> - ==sh_figuposes dumbell neckpegs for my 4.0 figures==
 	> - ==shf base form vegeta==, shf ssj vegeta repaint
 	> - I want to buy the dangerous pride style eye decals and put them onto these headsculpts alongside repainting the hairsculpt, also need to do the same headsculpt mod I did on my ssj copy plus cutting up the sides of the torso piece
-	> - ==shf buu saga base form vegeta==, ==shf ssj vegeta ALREADY PURCHASED==. black hole toys majin vegeta, vallejo sunny skintone, vallejo royal blue, sh_figuposes bht-shf neckpeg
+	> - ==shf buu saga vegeta==, ==shf ssj vegeta ALREADY PURCHASED==. black hole toys majin vegeta, vallejo sunny skintone, vallejo royal blue, sh_figuposes bht-shf neckpeg
 	> - kitbash: disassemble black hole toys majin vegeta and sand down the upper body; resculpt the abdomen piece to look more like baggy wrinkled cloth alongside cutting up at the top for more range, sanding down the butterfly caps to avoid paint rub, repaint the entire upper torso with vallejo royal blue to match the shf ssj vegeta legs. disassemble the shf ssj vegeta arms, including the loose glove cuff, and sand down all the parts to reduce paint rub and repaint the arms and their joints with vallejo sunny skintone, then reattach the glove cuff and wristpegs. assemble the black hole toys majin vegeta body with the shf ssj vegeta arms, then use the sh_figuposes neckpeg with the shf ssj vegeta headsculpt. also i can swap the leftover abdomen piece onto my ssj vegeta since his is messed up
 	> - [[vegeta kitbash.png]]
 	> - [[buu saga vegeta collage.jpg]]
