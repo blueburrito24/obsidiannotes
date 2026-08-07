@@ -1,5 +1,7 @@
 Always try to break down ideas into small, researchable steps.
 
+firefox extension to redirect a given instagram url to a website that lets you view an instagram profile without signing in
+
 [making a to-do list app in C](https://www.youtube.com/watch?v=rWZpX0jWw0I) make a things3 clone
 [making a web server in C](https://medium.com/@nipunweerasiri/a-simple-web-server-written-in-c-cf7445002e6)
 [making an image viewer in C](https://www.youtube.com/watch?v=sItRLFjbqvo)
