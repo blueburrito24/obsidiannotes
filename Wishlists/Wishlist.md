@@ -38,6 +38,8 @@ kanban-plugin: board
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==kamione gogeta ssj4==, demoniacal fit gogeta ssj4, I want to kitbash the head and neck from demoniacal fit onto the kamione
 	> - [[df-kamione gogeta kitbash.jpg]]
+	> - ==cortoys broly==, mp studio broly heads, I would want to do [this mod](https://www.youtube.com/watch?v=FMrtiFmERg0)
+	> - [[beast deities-mp studio broly kitbash.jpg]]
 	> - ==shf all might==
 	> - ==jada toys invincible== (blue variant)
 	> - ==jada toys omni-man==
