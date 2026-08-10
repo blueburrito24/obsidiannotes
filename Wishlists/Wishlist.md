@@ -43,7 +43,8 @@ kanban-plugin: board
 	> - ==shf all might==
 	> - ==jada toys invincible== (blue variant)
 	> - ==jada toys omni-man==
-	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using these [8mm joints](https://www.aliexpress.com/item/1005005324042088.html?) for the ankles
+	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using these [8mm joints](https://www.aliexpress.com/item/1005005324042088.html?) for the ankles, also I want to slightly repaint the spider sigils to have more steep legs
+	> - [[spider-man black suit reference.png]]
 	> - ==wind toys titan==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
@@ -66,8 +67,9 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Tech Term #1<br>TOTAL 1,701.90GBP
+## Tech Term #1<br>TOTAL 1,776.89GBP
 
+- [ ] [Sony WH-CH720N](https://amzn.eu/d/059ncgoR) 74.99gbp
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
@@ -93,10 +95,9 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 
 
-## Tech Term #2<br>TOTAL 1,097.94GBP
+## Tech Term #2<br>TOTAL 1,081.95GBP
 
-- [ ] [iPhone 17, 256GB](https://amzn.eu/d/0g7qIY0U) 749gbp
-	[ESR iPhone 17 Case](https://amzn.eu/d/0ioJOazO) 15.99gbp
+- [ ] [iPhone Air, Space Black, 256gb](https://amzn.eu/d/0fmoqP0V) 749gbp
 - [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
 - [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
