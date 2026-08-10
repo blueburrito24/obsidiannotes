@@ -30,12 +30,14 @@ kanban-plugin: board
 	> - if sh_figuposes makes a fighter of rage dumbell neck peg i'll just buy that however.
 	> - ==shf ssjg goku==, sh_figuposes dumbell neck peg, should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also need to use semi-gloss coat on torso to get rid of sigil paint rub
 	> - ==shf ssjb goku==, bsm blackshark base form goku headsculpts, should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
+	> - ==ns studio ns003 kaioken goku==
 	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
 	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits
 	> - ==shf daima vegeta==, parts from my damaged shf dangerous pride ssj vegeta, vallejo ice yellow, sh_figuposes dumbell neck peg
 	> - ^ kitbash: I want to put the lower body, arms and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body.
 	> - [[daima-ssj vegeta kitbash.png]]
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
+	> - ==[sh figuarts ginyu](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JQ6t6amfmpiquG9JnCZBZ)==
 	> - ==kamione gogeta ssj4==, demoniacal fit gogeta ssj4, I want to kitbash the head and neck from demoniacal fit onto the kamione
 	> - [[df-kamione gogeta kitbash.jpg]]
 	> - ==cortoys broly==, mp studio broly heads, I would want to do [this mod](https://www.youtube.com/watch?v=FMrtiFmERg0)
@@ -45,7 +47,6 @@ kanban-plugin: board
 	> - ==jada toys omni-man==
 	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using these [8mm joints](https://www.aliexpress.com/item/1005005324042088.html?) for the ankles, also I want to slightly repaint the spider sigils to have more steep legs
 	> - [[spider-man black suit reference.png]]
-	> - ==wind toys titan==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
@@ -98,6 +99,8 @@ kanban-plugin: board
 ## Tech Term #2<br>TOTAL 1,081.95GBP
 
 - [ ] [iPhone Air, Space Black, 256gb](https://amzn.eu/d/0fmoqP0V) 749gbp
+- [ ] [fumicase Gohan iPhone Air case](https://fumicase.com/products/weekly-shonen-jump-n-1308-slim?_pos=31&_sid=4f3bf401d&_ss=r) 24.99usd
+	(not counted in total price due to currency)
 - [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
 - [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
