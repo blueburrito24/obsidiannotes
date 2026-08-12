@@ -55,6 +55,7 @@ kanban-plugin: board
 	> - generic Kamehameha charge effect
 	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
 	> - [crocodile clamp stand for painting](https://amzn.eu/d/05e8sQJo)
+	> - amazon basics articulated tripod for photography
 
 
 ## Clothes
