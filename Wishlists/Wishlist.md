@@ -25,10 +25,9 @@ kanban-plugin: board
 	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
-	> - ==[shf fighter of rage goku](https://zenmarket.jp/mercariproduct.aspx?itemCode=m23025590489)==, sh_figuposes dangerous pride ssj vegeta dumbell neck peg
+	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24918803638)==, sh_figuposes dangerous pride ssj vegeta dumbell neck peg
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. i want to attempt to use the dangerous pride ssj vegeta dumbell neck peg by shaving down the joint, buffering it with epoxy putty if i shave it too much. 
 	> - if sh_figuposes makes a fighter of rage dumbell neck peg i'll just buy that however.
-	> - ==shf ssjg goku==, sh_figuposes dumbell neck peg, should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also need to use semi-gloss coat on torso to get rid of sigil paint rub
 	> - ==shf ssjb goku==, bsm blackshark base form goku headsculpts, should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
 	> - ==ns studio ns003 kaioken goku==
 	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
@@ -45,8 +44,9 @@ kanban-plugin: board
 	> - ==shf all might==
 	> - ==jada toys invincible== (blue variant)
 	> - ==jada toys omni-man==
-	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using these [8mm joints](https://www.aliexpress.com/item/1005005324042088.html?) for the ankles, also I want to slightly repaint the spider sigils to have more steep legs
+	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using ct toys miles morales for the ankles, also I want to slightly repaint the spider sigils to have more steep legs
 	> - [[spider-man black suit reference.png]]
+	> - ==marvel legends spider-man 2099==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/), using the bootleg mafex 2099 for the ankles
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
