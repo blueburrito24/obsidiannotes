@@ -25,28 +25,29 @@ kanban-plugin: board
 	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
-	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24918803638)==, sh_figuposes dangerous pride ssj vegeta dumbell neck peg
+	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24918803638)==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya black panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. i want to attempt to use the dangerous pride ssj vegeta dumbell neck peg by shaving down the joint, buffering it with epoxy putty if i shave it too much. 
-	> - if sh_figuposes makes a fighter of rage dumbell neck peg i'll just buy that however.
-	> - ==shf ssjb goku==, bsm blackshark base form goku headsculpts, should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
-	> - ==ns studio ns003 kaioken goku==
+	> - i also want to fill in the hatchlines with tamiya deep brown panel liner and black, for the skin and other areas respectively
+	> - and also a matte finish
+	> - ==shf ssjb goku==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
+	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands and also a matte finish
 	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
-	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits
+	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits and also a matte finish
 	> - ==shf daima vegeta==, parts from my damaged shf dangerous pride ssj vegeta, vallejo ice yellow, sh_figuposes dumbell neck peg
-	> - ^ kitbash: I want to put the lower body, arms and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body.
+	> - ^ kitbash: I want to put the lower body, arms and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body. also I would like to fill in the panel lining on the torso armour and also a matte finish
 	> - [[daima-ssj vegeta kitbash.png]]
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
-	> - ==[sh figuarts ginyu](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JQ6t6amfmpiquG9JnCZBZ)==
-	> - ==kamione gogeta ssj4==, demoniacal fit gogeta ssj4, I want to kitbash the head and neck from demoniacal fit onto the kamione
-	> - [[df-kamione gogeta kitbash.jpg]]
-	> - ==cortoys broly==, mp studio broly heads, I would want to do [this mod](https://www.youtube.com/watch?v=FMrtiFmERg0)
+	> - ==[sh figuarts ginyu](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JQ6t6amfmpiquG9JnCZBZ)==, matte finish
+	> - ==kamione gogeta==, demoniacal fit gogeta, [demoniacal fit ssjb gogeta bonus ssj head](https://www.mercari.com/us/item/m58477884934), I want to kitbash the head and upper body from demoniacal fit onto the kamione legs, alongside swapping the actual metamoran jacket and shoulder-pads and also a matte finish
+	> - [[kamione-df gogeta kitbash.jpg]]
+	> - ==cortoys broly==, mp studio broly heads, I would want to do [this mod](https://www.youtube.com/watch?v=FMrtiFmERg0) and also a matte finish
 	> - [[beast deities-mp studio broly kitbash.jpg]]
-	> - ==shf all might==
-	> - ==jada toys invincible== (blue variant)
-	> - ==jada toys omni-man==
-	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using ct toys miles morales for the ankles, also I want to slightly repaint the spider sigils to have more steep legs
+	> - ==shf all might==, matte finish
+	> - ==jada toys invincible== (blue variant), matte finish
+	> - ==jada toys omni-man==, matte finish
+	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using ct toys miles morales for the ankles, also I want to slightly repaint the spider sigils to have more steep legs and also a matte finish
 	> - [[spider-man black suit reference.png]]
-	> - ==marvel legends spider-man 2099==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/), using the bootleg mafex 2099 for the ankles
+	> - ==marvel legends spider-man 2099==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/), using the bootleg mafex 2099 for the ankles and also a matte finish
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
@@ -56,6 +57,7 @@ kanban-plugin: board
 	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
 	> - [crocodile clamp stand for painting](https://amzn.eu/d/05e8sQJo)
 	> - amazon basics articulated tripod for photography
+	> - heat gun for customising
 
 
 ## Clothes
