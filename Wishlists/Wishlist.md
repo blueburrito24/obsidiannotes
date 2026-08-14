@@ -26,7 +26,7 @@ kanban-plugin: board
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
 	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24918803638)==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya black panel liner
-	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. i want to attempt to use the dangerous pride ssj vegeta dumbell neck peg by shaving down the joint, buffering it with epoxy putty if i shave it too much. 
+	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
 	> - i also want to fill in the hatchlines with tamiya deep brown panel liner and black, for the skin and other areas respectively
 	> - and also a matte finish
 	> - ==shf ssjb goku==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
@@ -34,10 +34,15 @@ kanban-plugin: board
 	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
 	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits and also a matte finish
 	> - ==shf daima vegeta==, parts from my damaged shf dangerous pride ssj vegeta, vallejo ice yellow, sh_figuposes dumbell neck peg
-	> - ^ kitbash: I want to put the lower body, arms and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body. also I would like to fill in the panel lining on the torso armour and also a matte finish
+	> - I want to put the lower body, arms and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body. also I would like to fill in the panel lining on the torso armour and also a matte finish
 	> - [[daima-ssj vegeta kitbash.png]]
+	> - ==[shf 24000 vegeta](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=khQGnjnZAU8kjjQHHH69An)==, tamiya accent grey panel liner
+	> - I will fill in the panel lines on the torso, using black for the yellow parts and grey for the white parts
+	> - I will disassemble the arms and swap out the inner mechanism onto my leftover daima vegeta arms, alongside this i will use the daima legs (and adjust the joint/socket if necessary) to use on 24000 vegeta
+	> - then I just need to heat up the boots and remove the socket, then heat up the plain boots from my shf dangerous pride ssj vegeta and swap out the sockets to complete the look
+	> - now I have improved design and articulation, and I will apply a matte finish
+	> - [[24000 vegeta repaint.jpg]]
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
-	> - ==[sh figuarts ginyu](https://zenmarket.jp/mercariproduct.aspx?itemCode=2JQ6t6amfmpiquG9JnCZBZ)==, matte finish
 	> - ==kamione gogeta==, demoniacal fit gogeta, [demoniacal fit ssjb gogeta bonus ssj head](https://www.mercari.com/us/item/m58477884934), I want to kitbash the head and upper body from demoniacal fit onto the kamione legs, alongside swapping the actual metamoran jacket and shoulder-pads and also a matte finish
 	> - [[kamione-df gogeta kitbash.jpg]]
 	> - ==cortoys broly==, mp studio broly heads, I would want to do [this mod](https://www.youtube.com/watch?v=FMrtiFmERg0) and also a matte finish
@@ -45,7 +50,7 @@ kanban-plugin: board
 	> - ==shf all might==, matte finish
 	> - ==jada toys invincible== (blue variant), matte finish
 	> - ==jada toys omni-man==, matte finish
-	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using ct toys miles morales for the ankles, also I want to slightly repaint the spider sigils to have more steep legs and also a matte finish
+	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using ct toys miles morales for the ankles, also I want to slightly repaint the spider sigils to have more steep legs using tamiya accent black panel liner and some vallejo white paint and i'll apply a matte finish too
 	> - [[spider-man black suit reference.png]]
 	> - ==marvel legends spider-man 2099==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/), using the bootleg mafex 2099 for the ankles and also a matte finish
 - [ ] >[!Figure accessories]-
