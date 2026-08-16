@@ -9,44 +9,33 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 	+i want to save 700 per term
+- [ ] [stereotypical asian blanket](https://amzn.eu/d/0g6rxqIW) 55.29gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
-- [ ] ### Books
-- [ ] [Dog Ningen Vol. 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
-- [ ] [NARUTO: Naruto's Story "Naruto Uzumaki and the Spiral Destiny"](https://www.amazon.co.uk/Naruto-Narutos-Story-Uzumaki-Spiral-Destiny/dp/1974732592?crid=1OI24G85GLASU&dib=eyJ2IjoiMSJ9.Z1VCOoq4tWKxJqZyyAWn0-2kvDY8KVJAcyoXkVyfQq-3-m2Xe6p6s39NDdFLOLZ6zzsijQstISdDZ7ET_12O6FgoDla5yWFhp9rgjs1oq_a4G_efcBKPUVJ1052w4PvB_Vruyt7Yk8n-WoKgU9aOTUjyNXdLsUFXxBn_MalDlnDMMgM73ebsPO91uLfbLvlwVNDk6t-ktjKxx1aS4hAYY2FOtygDSBntxdkJ9BW8hrs.lYRCI8DHjasD3YtJIIcpBh5ExZOlItX15oVCVZ9ybP8&dib_tag=se&keywords=Naruto+novel&qid=1779867163&sprefix=narut+novel%2Caps%2C188&sr=8-2) 7.99gbp
-	[NARUTO: Sasuke's Story "The Uchiha and the Heavenly Stardust"](https://www.amazon.co.uk/Naruto-Sasukes-Story-Heavenly-Stardust/dp/1974732584?crid=3SAXN5CQ36PPN&dib=eyJ2IjoiMSJ9.r34mvrzToADdathENjurLFrEpyZ9qgVzXnP292mHIAE7MKY8hTK7RPYslZxq4ch-jYKRTYKyyTf3OTFw3C1kV6qEzbK_6sFDVq7mkemdyhtRj-paj_LITMp9nuufk8HEn-Q7CE56eYVHlJmipjuN03QtFnzdbXW2yf4ERE_0ltKOARW-tGLm0Kks--qrJ39fq_9wN5CYi3AmwMTYyndUnPledAYCiFwvWDsKY6U1GF4.-Jwy2pgKOz-LDon-bt9SvRJCwTRTFalHn9zPdH5ytaY&dib_tag=se&keywords=Sasuke+novel&qid=1779867143&sprefix=sasuk+novel%2Caps%2C186&sr=8-1) 7.99gbp
-	[NARUTO: Sakura's Story "Love Riding on the Spring Breeze"](https://www.amazon.co.uk/Naruto-Sakuras-Story-Jocelyne-Allen/dp/1421584425?crid=2MSDFEW36YK2T&dib=eyJ2IjoiMSJ9.F3bmWBRhIZOR6SSb801_UP50vmrLZMiSMAhddIAHAMiejN9XM1xBHxQvN6TzA3pNnEu7k5SSLNv2XfnP07lqYOY2ABVq_9e3G76exHUlNDtr38xEjUXLwber6bpHHeTAP4IeneBtzM4eQJFEkQPXyOvAegWqLuACUhfuh1SM51WZaE2OhabaOybj7L3iHNjNxSE0vaDcuwTyp5TSW2ahIInLAVtDAUnJYHfdlxzyxG8.SwtAntRqBtxZI8nDXjbNsHeOHG8gHn3pjEti5utiU5A&dib_tag=se&keywords=Sakura+novel&qid=1779867127&sprefix=sakura+nove%2Caps%2C256&sr=8-1) 7.99gbp
-	[NARUTO: Kakashi's Story "Lightning in the Frozen Sky"](https://www.amazon.co.uk/Naruto-Kakashis-Story-Akira-Higashiyama/dp/1421584409?crid=3BHL21GPUFV8O&dib=eyJ2IjoiMSJ9.B9phnwQxDFYzCJ4UTjKprHXIYOnb64lfpiYaHAaKkS14lAcIykb_O09YiZoaAbDsz8EKaluKfdQ91QaD5k4U_VYNxEH4fkFJ0Dg6w-dUK07j0crPYf-YMf27OLA1X-Qn05tIsIOuNgZSrE1dajeq_PyGxIWLlSh-Zb1D65T-0qgw3mAivdRgzpExFa2g39eHk4bqgcRyVuPt9UPbWFI25x33McI3tib-xco52e3dMBk.4T4j5u4PgEfHLeaVfkvYal1o_fFJ7J5xavlkuqv46Gc&dib_tag=se&keywords=Kakashi+novel&qid=1779867136&sprefix=kakashi+novel%2Caps%2C178&sr=8-1) 7.99gbp
-	[NARUTO: Itachi's Story Vol. 1 "Daylight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-1/dp/1421591308?crid=1XHHVKPXRAXDY&dib=eyJ2IjoiMSJ9.6quCcv4Qr9aUBDR557NeSPKpQocL04BqkkFQDxATRP3eV2WEs_0ASZoJAVk2L_ZmsAP3js5zqwjUizNuGrfer_Y2e2iA8gaac8KqJG2tHuLNICfNtKNsYdHsJDVQyB1DDXuY3nZLVy27RdYCd2-O8lhcUc18uIFoUkvi8mlcJIdK-J_ePDqOhdEPib5x8ybau1FYTnRh-uZrlpFRNFQ9NbfXOzEgbAhU08mX5dK8C9Q.83rs3zURYyYkc8VpLeBreDFIo5ePQOlA_QXiDZn7vf0&dib_tag=se&keywords=Itachi+novel&qid=1779867148&sprefix=it+a+novel%2Caps%2C390&sr=8-1) 7.99gbp
-	[NARUTO: Itachi's Story Vol. 2 "Midnight"](https://www.amazon.co.uk/Naruto-Itachis-Story-Vol-2/dp/1421591316/524-8594408-2893265?pd_rd_w=T9MNw&content-id=amzn1.sym.b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_p=b830a4e4-1d9a-4b95-9151-26f4eef7c6c8&pf_rd_r=S6DEXJ3KQ4S0RKVRK8SX&pd_rd_wg=S6yy0&pd_rd_r=1ac6ca8b-8573-40b3-9129-2d862d4761e0&pd_rd_i=1421591316&psc=1) 7.99gbp
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
-	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24918803638)==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya black panel liner
+	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24918803638)==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
-	> - i also want to fill in the hatchlines with tamiya deep brown panel liner and black, for the skin and other areas respectively
+	> - i also want to fill in the hatchlines with tamiya dark brown panel liner for the blue parts and tamiya deep brown panel liner for everything else
 	> - and also a matte finish
 	> - ==shf ssjb goku==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands and also a matte finish
 	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
 	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits and also a matte finish
-	> - ==shf daima vegeta==, parts from my damaged shf dangerous pride ssj vegeta, vallejo ice yellow, sh_figuposes dumbell neck peg
-	> - I want to put the lower body, arms and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body. also I would like to fill in the panel lining on the torso armour and also a matte finish
-	> - [[daima-ssj vegeta kitbash.png]]
 	> - ==[shf 24000 vegeta](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=khQGnjnZAU8kjjQHHH69An)==, tamiya accent grey panel liner
-	> - I will fill in the panel lines on the torso, using black for the yellow parts and grey for the white parts
+	> - I will fill in the panel lines on the torso, using tamiya deep brown panel liner for the yellow parts and tamiya accent grey panel liner for the white parts
 	> - I will disassemble the arms and swap out the inner mechanism onto my leftover daima vegeta arms, alongside this i will use the daima legs (and adjust the joint/socket if necessary) to use on 24000 vegeta
 	> - then I just need to heat up the boots and remove the socket, then heat up the plain boots from my shf dangerous pride ssj vegeta and swap out the sockets to complete the look
 	> - now I have improved design and articulation, and I will apply a matte finish
 	> - [[24000 vegeta repaint.jpg]]
+	> - ==shf daima vegeta==, parts from my damaged shf dangerous pride ssj vegeta, vallejo ice yellow, sh_figuposes dumbell neck peg
+	> - I want to put the lower body, arms (which requires swapping out the shoulder joint mechanism from the daima arms) and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body. also I would like to fill in the panel lining using tamiya deep brown panel liner and tamiya accent grey panel liner on the torso armour and also a matte finish
+	> - [[daima-ssj vegeta kitbash.png]]
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
-	> - ==kamione gogeta==, demoniacal fit gogeta, [demoniacal fit ssjb gogeta bonus ssj head](https://www.mercari.com/us/item/m58477884934), I want to kitbash the head and upper body from demoniacal fit onto the kamione legs, alongside swapping the actual metamoran jacket and shoulder-pads and also a matte finish
-	> - [[kamione-df gogeta kitbash.jpg]]
-	> - ==cortoys broly==, mp studio broly heads, I would want to do [this mod](https://www.youtube.com/watch?v=FMrtiFmERg0) and also a matte finish
-	> - [[beast deities-mp studio broly kitbash.jpg]]
 	> - ==shf all might==, matte finish
 	> - ==jada toys invincible== (blue variant), matte finish
 	> - ==jada toys omni-man==, matte finish
