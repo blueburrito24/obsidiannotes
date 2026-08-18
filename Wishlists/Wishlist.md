@@ -9,7 +9,7 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 	+i want to save 700 per term
-- [ ] [stereotypical asian blanket](https://amzn.eu/d/0g6rxqIW) 55.29gbp
+- [ ] [stereotypical asian blanket](https://amzn.eu/d/03xN8vWA) 66.81gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -42,6 +42,7 @@ kanban-plugin: board
 	> - ==marvel legends maximum spider-man black suit==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/) using ct toys miles morales for the ankles, also I want to slightly repaint the spider sigils to have more steep legs using tamiya accent black panel liner and some vallejo white paint and i'll apply a matte finish too
 	> - [[spider-man black suit reference.png]]
 	> - ==marvel legends spider-man 2099==, with [this mod](https://www.instagram.com/reels/DbR6V4qN-i_/), using the bootleg mafex 2099 for the ankles and also a matte finish
+	> - ==sentinel sv-action peter b. parker/spider-man==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
