@@ -18,28 +18,21 @@ kanban-plugin: board
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
-	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24918803638)==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
+	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m42679762368)==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner. note I would need to pay 13615jpy upfront for the figure aka 67.80gbp, then shipping separately
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
 	> - i also want to fill in the hatchlines with tamiya dark brown panel liner for the blue parts and tamiya deep brown panel liner for everything else
-	> - ==shf ssjb goku==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
+	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
 	> - ==shf proud namekian piccolo ALREADY PURCHASED==, nail, shangi cloth cape, gundam markers
 	> - ^ kitbash; I want to erase the red lips on the proud namekian neutral faces and redraw the mouth with a gundam marker (maybe even make him smiling), then i want to use the nail heads on the body with the nail boots too, plus keep all the nail hands and various other accessories. i can keep them into the proud namekian box if it fits
-	> - ==[shf 24000 vegeta](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=khQGnjnZAU8kjjQHHH69An)==, tamiya accent grey panel liner
-	> - I will fill in the panel lines on the torso, using tamiya deep brown panel liner for the yellow parts and tamiya accent grey panel liner for the white parts
-	> - I will disassemble the arms and swap out the inner mechanism onto my leftover daima vegeta arms, alongside this i will use the daima legs (and adjust the joint/socket if necessary) to use on 24000 vegeta
-	> - then I just need to heat up the boots and remove the socket, then heat up the plain boots from my shf dangerous pride ssj vegeta and swap out the sockets to complete the look
-	> - [[24000 vegeta repaint.jpg]]
-	> - ==shf daima vegeta==, parts from my damaged shf dangerous pride ssj vegeta, vallejo ice yellow, sh_figuposes dumbell neck peg
-	> - I want to put the lower body, arms (which requires swapping out the shoulder joint mechanism from the daima arms) and head (via the dp ssj dumbell neck peg from sh_figuposes, which fits into the daima neck) from shf dangerous pride ssj vegeta onto daima vegeta. alongside this, repainting the boots to match the yellow on the daima body. also I would like to fill in the panel lining using tamiya deep brown panel liner and tamiya accent grey panel liner on the torso armour
-	> - [[daima-ssj vegeta kitbash.png]]
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
+	> - ==zt02 broly==
 	> - ==shf all might==
 	> - ==jada toys invincible== (blue variant)
 	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils
-	> - ==mafex 075 spider-man==
+	> - ==mafex 075 spider-man== + fahrul v50 headsculpt
 	> - ==[mafex spider-man 2099](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32996743026)==
-	> - ==mafex 298 venom==
+	> - ==pc toys venom==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
