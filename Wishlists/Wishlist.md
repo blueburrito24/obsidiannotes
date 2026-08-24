@@ -29,7 +29,7 @@ kanban-plugin: board
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - ==shf all might==
 	> - ==jada toys invincible== (blue variant)
-	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils
+	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils + mess toys black suit neighbour for some hands and other parts, just needs repainting with glossy black
 	> - ==mafex 075 spider-man== + fahrul v50 headsculpt
 	> - ==[mafex spider-man 2099](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32996743026)==
 	> - ==pc toys venom==
@@ -58,27 +58,17 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Tech Term #1<br>TOTAL 1,821.89GBP
+## Tech Term #1<br>TOTAL 774.57GBP
 
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
+- [ ] [Logitech PRO X2 Superstrike](https://www.logitechg.com/en-gb/shop/p/pro-x2-superstrike-mouse) 159.99gbp
 - [ ] [Dragon Ball Mouse Pad](https://amzn.eu/d/0cSaHEjx) 9.75gbp
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
-- [ ] ##### PC
-	[AMD Ryzen 7 9700x CPU](https://www.scan.co.uk/products/amd-ryzen-7-9700x-am5-zen-5-8-core-16-thread-38ghz-55ghz-turbo-32mb-cache-pcie-50-65w-cpu) 259.99gbp
-	[Thermalright 120 SE CPU Cooler](https://amzn.eu/d/0jcXVxpv) 35.90gbp
-	[ASUS TUF GAMING B650-PLUS WiFi AMD, DDR5 PCIe ATX MOTHERBOARD](https://www.scan.co.uk/products/asus-tuf-gaming-b650-plus-wifi-amd-b650-am5-ddr5-pcie-40-3x-m2-pcie51-25gbe-ax-wifi-bt-amd-expo-atx) 144.98gbp
-	[16GB DDR5 4800MTs RAM](https://uk.webuy.com/product-detail/?id=SMEM16GPC534800) 95gbp
-	[Patriot Memory 512GB SSD](https://amzn.eu/d/0fVuvGUS) 78.99gbp
-	[Gigabyte AMD Radeon RX 9060 XT GPU](https://www.scan.co.uk/products/gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6-graphics-card-rdna4-2048-streams-tbc-mhz-boost) 431.99gbp
-	[Phanteks XT Pro ATX Tower PC Case](https://amzn.eu/d/0i7t9FjD) 52.98gbp
-	[MSI MAG Power Supply Unit 850W](https://amzn.eu/d/02yOtqkG) 83.99gbp
-	[ARCTIC P12 Pro Powerful Fans 5pcs](https://amzn.eu/d/04yKptWv) 23.49gbp
-	**TOTAL 1,207.31gbp**
 - [ ] [Dell 240hz 23.8" gaming monitor](https://amzn.eu/d/0gAYZpaF) 99gbp
 - [ ] [Anker PowerConf C200 Webcam](https://uk.webuy.com/product-detail/?id=SACCANKPOWCONC200) 45gbp
 	[Amazon Basics Static tripod](https://amzn.eu/d/0dr8ulSr) 7.99gbp
@@ -98,7 +88,21 @@ kanban-plugin: board
 - [ ] should try and get a gpd win max 2 if possible for around 1k, with a tomtoc 11 inch ipad air sling bag and 8bitdo controller
 
 
+***
 
+## Archive
+
+- [ ] ##### PC
+	[AMD Ryzen 7 9700x CPU](https://www.scan.co.uk/products/amd-ryzen-7-9700x-am5-zen-5-8-core-16-thread-38ghz-55ghz-turbo-32mb-cache-pcie-50-65w-cpu) 259.99gbp
+	[Thermalright 120 SE CPU Cooler](https://amzn.eu/d/0jcXVxpv) 35.90gbp
+	[ASUS TUF GAMING B650-PLUS WiFi AMD, DDR5 PCIe ATX MOTHERBOARD](https://www.scan.co.uk/products/asus-tuf-gaming-b650-plus-wifi-amd-b650-am5-ddr5-pcie-40-3x-m2-pcie51-25gbe-ax-wifi-bt-amd-expo-atx) 144.98gbp
+	[16GB DDR5 4800MTs RAM](https://uk.webuy.com/product-detail/?id=SMEM16GPC534800) 95gbp
+	[Patriot Memory 512GB SSD](https://amzn.eu/d/0fVuvGUS) 78.99gbp
+	[Gigabyte AMD Radeon RX 9060 XT GPU](https://www.scan.co.uk/products/gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6-graphics-card-rdna4-2048-streams-tbc-mhz-boost) 431.99gbp
+	[Phanteks XT Pro ATX Tower PC Case](https://amzn.eu/d/0i7t9FjD) 52.98gbp
+	[MSI MAG Power Supply Unit 850W](https://amzn.eu/d/02yOtqkG) 83.99gbp
+	[ARCTIC P12 Pro Powerful Fans 5pcs](https://amzn.eu/d/04yKptWv) 23.49gbp
+	**TOTAL 1,207.31gbp**
 
 %% kanban:settings
 ```
