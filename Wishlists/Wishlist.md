@@ -24,7 +24,8 @@ kanban-plugin: board
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
 	> - ==shf bardock father of goku ver.==
-	> - ==shf ultimate gohan==, black hole toys gohan headsculpts
+	> - ==shf ultimate gohan==, black hole toys gohan headsculpts, 3p buu saga kit
+	> - [[gohan-3p-kit.png]]
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - ==shf all might==
@@ -33,6 +34,7 @@ kanban-plugin: board
 	> - ==mafex 075 spider-man== + fahrul v50 headsculpt
 	> - ==[mafex spider-man 2099](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32996743026)==
 	> - ==pc toys venom==
+	> - ==mess toys scarlet hero==
 	> - ==6inchplus green golem (hulk)==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
