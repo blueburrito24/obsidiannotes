@@ -23,13 +23,13 @@ kanban-plugin: board
 	> - i also want to fill in the hatchlines with tamiya dark brown panel liner for the blue parts and tamiya deep brown panel liner for everything else
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
-	> - ==shf bardock father of goku ver.==
 	> - ==shf ultimate gohan==, dl custom gohan headsculpts
+	> - ==air studio manga ssj vegeta heads== for my dangerous pride vegeta
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - ==shf all might==
 	> - ==jada toys invincible== (blue variant)
-	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils + mess toys black suit neighbour for some hands and other parts, just needs repainting with glossy black
+	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils + mess toys black suit neighbour for some hands and other parts, just needs repainting with vallejo gloss black
 	> - ==mafex 075 spider-man== + fahrul v50 headsculpt
 	> - ==[mafex spider-man 2099](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32996743026)==
 	> - ==pc toys venom==
@@ -58,7 +58,7 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Tech Term #1<br>TOTAL 774.57GBP
+## Tech Term #1<br>TOTAL 873.57GBP
 
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
@@ -74,18 +74,20 @@ kanban-plugin: board
 	[Amazon Basics Static tripod](https://amzn.eu/d/0dr8ulSr) 7.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
+- [ ] google tv streamer 4k 99gbp
 
 
-## Tech Term #2<br>TOTAL 1,081.95GBP
+## Tech Term #2<br>TOTAL 1,141.93GBP
 
 - [ ] [iPhone Air, Space Black, 256gb](https://amzn.eu/d/0fmoqP0V) 749gbp
-- [ ] [fumicase Gohan iPhone Air case](https://fumicase.com/products/weekly-shonen-jump-n-1308-slim?_pos=31&_sid=4f3bf401d&_ss=r) 24.99usd
-	(not counted in total price due to currency)
+- [ ] [fumicase Gohan iPhone Air MagSafe case](https://fumicase.com/products/weekly-shonen-jump-n-1308-slim?_pos=31&_sid=4f3bf401d&_ss=r) 34.99gbp
+- [ ] [UGREEN Magsafe Power Bank 10000mAh](https://amzn.eu/d/0dfQXMJD) 24.99gbp
 - [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
 - [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 - [ ] should try and get a gpd win max 2 if possible for around 1k, with a tomtoc 11 inch ipad air sling bag and 8bitdo controller
+- [ ] should try to get airpod max 2
 
 
 ***
