@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-2TB-SSD-NVIDIA-GeForce-RTX-5070-Ti-Gaming-Desktop-PC/p/598914) 2,299.99gbp
+	^ save up money across terms to purchase
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 	+i want to save 700 per term
@@ -13,12 +15,14 @@ kanban-plugin: board
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
+- [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
+- [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
 - [ ] >[!Figures I would like to get]-
 	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
-	> - ==[shf fighter of rage goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m42679762368)==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner. note I would need to pay 13615jpy upfront for the figure aka 67.80gbp, then shipping separately
+	> - ==shf fighter of rage goku==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
 	> - i also want to fill in the hatchlines with tamiya dark brown panel liner for the blue parts and tamiya deep brown panel liner for everything else
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
@@ -58,22 +62,18 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Tech Term #1<br>TOTAL 873.57GBP
+## Tech Term #1<br>TOTAL 971.93GBP
 
-- [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [Logitech PRO X2 Superstrike](https://www.logitechg.com/en-gb/shop/p/pro-x2-superstrike-mouse) 159.99gbp
 - [ ] [Dragon Ball Mouse Pad](https://amzn.eu/d/0cSaHEjx) 9.75gbp
-- [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
-- [ ] [Dell 240hz 23.8" gaming monitor](https://amzn.eu/d/0gAYZpaF) 99gbp
-- [ ] [Anker PowerConf C200 Webcam](https://uk.webuy.com/product-detail/?id=SACCANKPOWCONC200) 45gbp
-	[Amazon Basics Static tripod](https://amzn.eu/d/0dr8ulSr) 7.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
+- [ ] [MSI MAG 273QP QD-OLED 1440p 240hz monitor](https://amzn.eu/d/07VNRwR5) 329gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
+- [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] google tv streamer 4k 99gbp
 
 
