@@ -6,8 +6,10 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-2TB-SSD-NVIDIA-GeForce-RTX-5070-Ti-Gaming-Desktop-PC/p/598914) 2,299.99gbp
 	^ save up money across terms to purchase
+- [ ] [redmagic astra 2](https://uk.redmagic.gg/products/redmagic-astra-2-gaming-tablet) 599gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 	+i want to save 700 per term
@@ -27,18 +29,17 @@ kanban-plugin: board
 	> - i also want to fill in the hatchlines with tamiya dark brown panel liner for the blue parts and tamiya deep brown panel liner for everything else
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
-	> - ==shf ultimate gohan==, dl custom gohan headsculpts
-	> - ==air studio manga ssj vegeta heads== for my dangerous pride vegeta
+	> - ==shf ultimate gohan==, dl custom gohan headsculpts, 3p buu saga kit
+	> - [[gohan-3p-kit.png]]
+	> - ==air studio manga ssj and base vegeta heads== for my daima vegeta
+	> - ==shf tank top trunks==
 	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
-	> - ==shf all might==
 	> - ==jada toys invincible== (blue variant)
 	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils + mess toys black suit neighbour for some hands and other parts, just needs repainting with vallejo gloss black
 	> - ==mafex 075 spider-man== + fahrul v50 headsculpt
 	> - ==[mafex spider-man 2099](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32996743026)==
 	> - ==pc toys venom==
-	> - ==mess toys scarlet hero==
-	> - ==6inchplus green golem (hulk)==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
@@ -86,7 +87,6 @@ kanban-plugin: board
 - [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
-- [ ] should try and get a gpd win max 2 if possible for around 1k, with a tomtoc 11 inch ipad air sling bag and 8bitdo controller
 - [ ] should try to get airpod max 2
 
 
