@@ -31,7 +31,6 @@ kanban-plugin: board
 	> - [[gohan-3p-kit.png]]
 	> - ==air studio manga ssj and base vegeta heads== for my daima vegeta
 	> - ==shf tank top trunks==
-	> - ==[shf metal cooler](https://zenmarket.jp/rakumaproduct.aspx?itemCode=df007a30c8e7a09bb5a0977b8a6973a0)== 
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - ==jada toys invincible== (blue variant)
 	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils + mess toys black suit neighbour for some hands and other parts, just needs repainting with vallejo gloss black
@@ -61,7 +60,7 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Tech Term #1<br>TOTAL 602.07GBP
+## Term #1<br>TOTAL 602.07GBP
 
 - [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
@@ -72,9 +71,11 @@ kanban-plugin: board
 - [ ] [Dragon Ball Mouse Pad](https://amzn.eu/d/0cSaHEjx) 9.75gbp
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] google tv streamer 4k 99gbp
+- [ ] I would  want to get ZT TOYS Broly and JADA TOYS Invincible which will cost like 140~
+- [ ] Using my owed trust fund money, I would buy the AIR STUDIO Vegeta headsculpts and PC TOYS Venom
 
 
-## Tech Term #2<br>TOTAL 1,010.93GBP
+## Term #2<br>TOTAL 1,010.93GBP
 
 - [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
 - [ ] [iPhone 17e, Black, 256gb](https://amzn.eu/d/03S4ytzV) 599gbp
@@ -85,9 +86,10 @@ kanban-plugin: board
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 - [ ] should try to get airpod max 2
+- [ ] I would buy Revoltech Symbiote Spider-Man with MESS TOYS Black Suit Neighbour and Vallejo Gloss Black, plus SH FIGUARTS DRAGON BALL Z Tank Top Trunks
 
 
-## Tech Term #3<br>TOTAL 500.85GBP
+## Term #3<br>TOTAL 500.85GBP
 
 - [ ] During this term I will spend 300 on my swift card and 500 on these expenses so I will be able to save 1,000 for general savings and have 1,000 left for general expenses
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-2TB-SSD-NVIDIA-GeForce-RTX-5070-Ti-Gaming-Desktop-PC/p/598914) 2,299.99gbp
