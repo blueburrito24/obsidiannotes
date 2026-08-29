@@ -7,12 +7,9 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
-- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-2TB-SSD-NVIDIA-GeForce-RTX-5070-Ti-Gaming-Desktop-PC/p/598914) 2,299.99gbp
-	^ save up money across terms to purchase
 - [ ] [redmagic astra 2](https://uk.redmagic.gg/products/redmagic-astra-2-gaming-tablet) 599gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
-	+i want to save 700 per term
 - [ ] [stereotypical asian blanket](https://amzn.eu/d/03xN8vWA) 66.81gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
@@ -27,6 +24,7 @@ kanban-plugin: board
 	> - ==shf fighter of rage goku==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
 	> - i also want to fill in the hatchlines with tamiya dark brown panel liner for the blue parts and tamiya deep brown panel liner for everything else
+	> - [[fighter of rage goku repaint.jpg]]
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
 	> - ==shf ultimate gohan==, dl custom gohan headsculpts, 3p buu saga kit
@@ -63,31 +61,40 @@ kanban-plugin: board
 	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
 
 
-## Tech Term #1<br>TOTAL 971.93GBP
+## Tech Term #1<br>TOTAL 602.07GBP
 
+- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [Logitech PRO X2 Superstrike](https://www.logitechg.com/en-gb/shop/p/pro-x2-superstrike-mouse) 159.99gbp
 - [ ] [Dragon Ball Mouse Pad](https://amzn.eu/d/0cSaHEjx) 9.75gbp
-- [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
-- [ ] [MSI MAG 273QP QD-OLED 1440p 240hz monitor](https://amzn.eu/d/07VNRwR5) 329gbp
-- [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] google tv streamer 4k 99gbp
 
 
-## Tech Term #2<br>TOTAL 1,141.93GBP
+## Tech Term #2<br>TOTAL 1,010.93GBP
 
-- [ ] [iPhone Air, Space Black, 256gb](https://amzn.eu/d/0fmoqP0V) 749gbp
-- [ ] [fumicase Gohan iPhone Air MagSafe case](https://fumicase.com/products/weekly-shonen-jump-n-1308-slim?_pos=31&_sid=4f3bf401d&_ss=r) 34.99gbp
+- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
+- [ ] [iPhone 17e, Black, 256gb](https://amzn.eu/d/03S4ytzV) 599gbp
+- [ ] [RHINOSHIELD iPhone 17e Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/OZ77?identification=clear&device=iphone-17e&device_color=black-525252&product_line=192&spec=0G&from=ip_page) 53.99gbp
 - [ ] [UGREEN Magsafe Power Bank 10000mAh](https://amzn.eu/d/0dfQXMJD) 24.99gbp
 - [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
 - [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 - [ ] should try to get airpod max 2
+
+
+## Tech Term #3<br>TOTAL 500.85GBP
+
+- [ ] During this term I will spend 300 on my swift card and 500 on these expenses so I will be able to save 1,000 for general savings and have 1,000 left for general expenses
+- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-2TB-SSD-NVIDIA-GeForce-RTX-5070-Ti-Gaming-Desktop-PC/p/598914) 2,299.99gbp
+	^ use accumulated savings  + 300 to purchase, not counted in total
+- [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
+- [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
+- [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 
 
 ***
@@ -108,6 +115,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false],"show-checkboxes":false,"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
 ```
 %%
