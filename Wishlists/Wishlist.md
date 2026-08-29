@@ -7,13 +7,12 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
-- [ ] [redmagic astra 2](https://uk.redmagic.gg/products/redmagic-astra-2-gaming-tablet) 599gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 - [ ] [stereotypical asian blanket](https://amzn.eu/d/03xN8vWA) 66.81gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
-- [ ] [Angry Birds Red Keyring Plush](https://www.ebay.co.uk/itm/284492341051?) 7.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
+	^ for my ssd to connect safely
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
@@ -72,7 +71,7 @@ kanban-plugin: board
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] google tv streamer 4k 99gbp
 - [ ] I would  want to get ZT TOYS Broly and JADA TOYS Invincible which will cost like 140~
-- [ ] Using my owed trust fund money, I would buy the AIR STUDIO Vegeta headsculpts and PC TOYS Venom
+- [ ] Using my owed trust fund money, I would buy the AIR STUDIO Vegeta headsculpts, PC TOYS Venom, BSM BLACKSHARK Goku headsculpts and MAFEX 075 Spider-Man with the Fahrulstore35 v50 headsculpt
 
 
 ## Term #2<br>TOTAL 1,010.93GBP
