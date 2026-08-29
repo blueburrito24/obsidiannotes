@@ -26,15 +26,14 @@ kanban-plugin: board
 	> - [[fighter of rage goku repaint.jpg]]
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
+	> - ==shf daima piccolo==, I would like to do [this mod](https://www.reddit.com/r/SHFiguarts/comments/1pxju4e/giving_daima_piccolo_more_elbow_bend_a_step_by/) and also the ab-crunch mod: either i will remove the ab overlay entirely or saw it in two so i can keep the upper half of the abs
 	> - ==shf ultimate gohan==, dl custom gohan headsculpts, 3p buu saga kit
 	> - [[gohan-3p-kit.png]]
-	> - ==air studio manga ssj and base vegeta heads== for my daima vegeta
 	> - ==shf tank top trunks==
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
+	> - ==[shf turles](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24711374288)==
 	> - ==jada toys invincible== (blue variant)
 	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils + mess toys black suit neighbour for some hands and other parts, just needs repainting with vallejo gloss black
-	> - ==mafex 075 spider-man== + fahrul v50 headsculpt
-	> - ==[mafex spider-man 2099](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32996743026)==
 	> - ==pc toys venom==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
@@ -50,13 +49,24 @@ kanban-plugin: board
 
 ## Clothes
 
-- [ ] [Wide Leg Black Joggers](https://www.boohooman.com/product/boohooman-basic-extreme-wide-leg-jogger_cmm16452?colour=black&size=XL) 20gbp
-- [ ] [Loose pleated sweatpants, maroon, gray](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
-- [ ] *blank coloured tee from next, 16 quid and mostly unavailable online but available in stores*
-- [ ] [UK 2XL Angry Birds Red Tee](https://www.ebay.co.uk/itm/358732824559) 21.51gbp
+- [ ] [Loose pleated sweatpants, maroon, gray, black](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
 - [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
-- [ ] [Funidelia Goku Cosplay](https://amzn.eu/d/08WKcA6g) 39.99gbp
-	^ would buy two, cut out the blue shirt parts and wear a blue tee underneath
+- [ ] spider-man cosplay tees
+	[the human spider tee tutorial](https://www.instagram.com/p/DbvddhZNKKI/)
+	[cardstock paper 50pcs](https://amzn.eu/d/02JDGkAv) 4.09gbp
+	[red tee](https://www.next.co.uk/style/st056123/v16198) 8gbp
+	[red hoodie](https://www.asos.com/collusion/collusion-unisex-zip-through-hoodie-in-red/prd/209646759#colourWayId-209646776) 24.99gbp
+	[rust-oleum fabric black spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-black-multi-surface-spray-paint-150ml/1726734_BQ.prd) 7gbp
+	[painter's tape](https://amzn.eu/d/0iaLleyh) 2.84gbp
+	^ i want to make a tee and hoodie, use the painter's tape for webbing and cardstock to print the spider symbols out and cut out with an exacto knife
+	[[spider-man 2002 human spider front logo.jpg]]
+	[[spider-man 2002 human spider back logo.jpg]]
+	[[spider-man 2002 human spider logo cutout.png]]
+	
+	[black tee 2pcs](https://www.next.co.uk/style/su049279/885172) 15gbp
+	[rust-oleum fabric silver spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-silver-effect-multi-surface-spray-paint-150ml/1726735_BQ.prd) 7gbp
+	^ i want to make the same style of tee but with the symbiote logo
+	[[secret wars symbiote spider-man logo.png]]
 
 
 ## Term #1<br>TOTAL 602.07GBP
@@ -71,7 +81,7 @@ kanban-plugin: board
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] google tv streamer 4k 99gbp
 - [ ] I would  want to get ZT TOYS Broly and JADA TOYS Invincible which will cost like 140~
-- [ ] Using my owed trust fund money, I would buy the AIR STUDIO Vegeta headsculpts, PC TOYS Venom, BSM BLACKSHARK Goku headsculpts and MAFEX 075 Spider-Man with the Fahrulstore35 v50 headsculpt
+- [ ] Using my owed trust fund money, I would buy the PC TOYS Venom, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan (+ the 3p parts I want for it)
 
 
 ## Term #2<br>TOTAL 1,010.93GBP
