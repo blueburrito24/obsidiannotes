@@ -68,9 +68,10 @@ kanban-plugin: board
 	[[secret wars symbiote spider-man logo.png]]
 
 
-## Term #1<br>TOTAL 602.07GBP
+## Term #1<br>TOTAL 781.06GBP
 
-- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
+- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 521.01 quid left for general expenses
+- [ ] [GL.inet Flint 3 router](https://amzn.eu/d/0gzBboUJ) 178.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
