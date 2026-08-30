@@ -19,7 +19,6 @@ kanban-plugin: board
 	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
 	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
 - [ ] >[!Figures I would like to get]-
-	> only linking those that aren't readily available, those that are available come from various sources like my aliexpress wishlist, nin-nin-game and other sites
 	> - ==shf fighter of rage goku==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
 	> - i also want to fill in the hatchlines with tamiya dark brown panel liner for the blue parts and tamiya deep brown panel liner for everything else
@@ -31,9 +30,9 @@ kanban-plugin: board
 	> - [[gohan-3p-kit.png]]
 	> - ==shf tank top trunks==
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
-	> - ==[shf turles](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24711374288)==
+	> - [[zt studio broly.jpg]]
+	> - ==demoniacal fit unclean blood (xicor)==
 	> - ==jada toys invincible== (blue variant)
-	> - ==revoltech symbiote spider-man== + fahrul v88 headsculpt + ct toys agent venom for tendrils + mess toys black suit neighbour for some hands and other parts, just needs repainting with vallejo gloss black
 	> - ==pc toys venom==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
@@ -81,7 +80,7 @@ kanban-plugin: board
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] google tv streamer 4k 99gbp
 - [ ] I would  want to get ZT TOYS Broly and JADA TOYS Invincible which will cost like 140~
-- [ ] Using my owed trust fund money, I would buy the PC TOYS Venom, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan (+ the 3p parts I want for it)
+- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan (+ the 3p parts I want for it)
 
 
 ## Term #2<br>TOTAL 1,010.93GBP
@@ -95,7 +94,7 @@ kanban-plugin: board
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 - [ ] should try to get airpod max 2
-- [ ] I would buy Revoltech Symbiote Spider-Man with MESS TOYS Black Suit Neighbour and Vallejo Gloss Black, plus SH FIGUARTS DRAGON BALL Z Tank Top Trunks
+- [ ] I would buy PC TOYS Venom and SH FIGUARTS DRAGON BALL Z Tank Top Trunks
 
 
 ## Term #3<br>TOTAL 500.85GBP
