@@ -25,7 +25,6 @@ kanban-plugin: board
 	> - [[fighter of rage goku repaint.jpg]]
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
-	> - ==ns studio orange puppet ns003 (kaioken goku)==
 	> - ==shf daima piccolo==, I would like to do [this mod](https://www.reddit.com/r/SHFiguarts/comments/1pxju4e/giving_daima_piccolo_more_elbow_bend_a_step_by/) and also the ab-crunch mod: either i will remove the ab overlay entirely or saw it in two so i can keep the upper half of the abs
 	> - ==shf ultimate gohan==, dl custom gohan headsculpts
 	> - ==shf tank top trunks==
