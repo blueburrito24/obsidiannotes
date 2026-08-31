@@ -25,15 +25,24 @@ kanban-plugin: board
 	> - [[fighter of rage goku repaint.jpg]]
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
+	> - ==ns studio orange puppet ns003 (kaioken goku)==
 	> - ==shf daima piccolo==, I would like to do [this mod](https://www.reddit.com/r/SHFiguarts/comments/1pxju4e/giving_daima_piccolo_more_elbow_bend_a_step_by/) and also the ab-crunch mod: either i will remove the ab overlay entirely or saw it in two so i can keep the upper half of the abs
-	> - ==shf ultimate gohan==, dl custom gohan headsculpts, 3p buu saga kit
-	> - [[gohan-3p-kit.png]]
+	> - ==shf ultimate gohan==, dl custom gohan headsculpts
 	> - ==shf tank top trunks==
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - [[zt studio broly.jpg]]
 	> - ==demoniacal fit unclean blood (xicor)==
 	> - ==jada toys invincible== (blue variant)
 	> - ==pc toys venom==
+	> - ==[sh figuarts iron man mark 6 black ver. exclusive](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15845715802)==
+	> - ==[sh figuarts war machine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m74095402246)==
+	> - ==[sh figuarts iron man "marvel age of heroes exhibition" hot rod ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=VcBxC4eGbyaSgLP6dJaCwB)==
+	> - ==[sh figuarts iron man mark 3 tamashii store exclusive](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77989498353)==
+	> - ==[shf iron man hall of armour 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m99607931689)==, ==[another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JVd8Q5tRbkqt9nR3SjfmB)==, ==[another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94769298421)==
+	> - ==[shf iron man mark 6 + hall of armour set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m97808374184)==
+	> - ==[shf avengers infinity war hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553)==
+	> - ==mafex sensational spider-man==
+	> - ==mafex spider-man comic ver.==
 - [ ] >[!Figure accessories]-
 	> - ac factory wind effects
 	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
@@ -44,6 +53,7 @@ kanban-plugin: board
 	> - [crocodile clamp stand for painting](https://amzn.eu/d/05e8sQJo)
 	> - amazon basics articulated tripod for photography
 	> - heat gun for customising
+	> - [shf iron man 3 tony's sofa](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81890038052), [another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=s83aAQ2hP9yQZT9C2c9Src)
 
 
 ## Clothes
@@ -82,7 +92,7 @@ kanban-plugin: board
 - [ ] google tv streamer 4k 99gbp
 - [ ] ----Not included in total----
 - [ ] I would  want to get ZT TOYS Broly and JADA TOYS Invincible which will cost like 140~
-- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan (+ the 3p parts I want for it)
+- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan with the DL CUSTOM headsculpts
 
 
 ## Term #2<br>TOTAL 1,010.93GBP
@@ -96,8 +106,7 @@ kanban-plugin: board
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 - [ ] ----Not included in total----
-- [ ] should try to get airpod max 2
-- [ ] I would buy PC TOYS Venom and SH FIGUARTS DRAGON BALL Z Tank Top Trunks
+- [ ] I would buy PC TOYS Venom, SH FIGUARTS AVENGERS INFINITY WAR Hulk, MAFEX Spider-Man (Ben Reilly), MAFEX Spider-Man Comic Ver. and SH FIGUARTS DRAGON BALL Z Tank Top Trunks
 
 
 ## Term #3<br>TOTAL 500.85GBP
@@ -108,6 +117,9 @@ kanban-plugin: board
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
+- [ ] ----Not included in total----
+- [ ] should try to get airpod max 2
+- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive, SH FIGUARTS War Machine,  SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver., SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive and the three Hall of Armour set pieces plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set
 
 
 ***
