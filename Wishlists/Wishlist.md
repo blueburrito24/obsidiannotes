@@ -10,11 +10,10 @@ kanban-plugin: board
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
-- [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [retroid pocket 5](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 160gbp~
+- [ ] [retroid pocket 5 + grip case](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 170gbp~
 - [ ] >[!Figures I would like to get]-
 	> - ==shf fighter of rage goku==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
