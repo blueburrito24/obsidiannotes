@@ -75,50 +75,45 @@ kanban-plugin: board
 	[[secret wars symbiote spider-man logo.png]]
 
 
-## Term #1<br>TOTAL 781.06GBP
+## Term #1<br>TOTAL 574.16GBP
 
-- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 500 quid left for general expenses
+- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 730 quid left for general expenses
 - [ ] [GL.inet Flint 3 router](https://amzn.eu/d/0gzBboUJ) 178.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-	[Hollow Star Gray Keycaps](https://kbdfans.com/products/hollow-star-key-cherry-profile-metal-keycaps?variant=44382571298955) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
-- [ ] [Logitech PRO X2 Superstrike](https://www.logitechg.com/en-gb/shop/p/pro-x2-superstrike-mouse) 159.99gbp
+- [ ] [lamzu thorn 4k](https://uk.webuy.com/product-detail?id=5056276033803A) 68gbp
 - [ ] [Dragon Ball Mouse Pad](https://amzn.eu/d/0cSaHEjx) 9.75gbp
-- [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
-- [ ] google tv streamer 4k 99gbp
-- [ ] ----Not included in total----
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
-- [ ] I would  want to get ZT TOYS Broly and JADA TOYS Invincible which will cost like 140~
-- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan with the DL CUSTOM headsculpts PLUS I would use the remaining money to buy the XTEINK X4 from Habib
+- [ ] ----Not included in total----
+- [ ] I would  want to get ZT TOYS Broly ==110== and JADA TOYS Invincible ==30==. This will cost ==140==
+- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood ==40==, BSM BLACKSHARK Goku headsculpts ==40==, SH FIGUARTS DRAGON BALL DAIMA Piccolo ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==200/220gbp== that I would have available
 
 
-## Term #2<br>TOTAL 1,010.93GBP
+## Term #2<br>TOTAL 931.95GBP
 
-- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
-- [ ] [iPhone 17e, Black, 256gb](https://amzn.eu/d/03S4ytzV) 599gbp
-- [ ] [RHINOSHIELD iPhone 17e Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/OZ77?identification=clear&device=iphone-17e&device_color=black-525252&product_line=192&spec=0G&from=ip_page) 53.99gbp
-- [ ] [UGREEN Magsafe Power Bank 10000mAh](https://amzn.eu/d/0dfQXMJD) 24.99gbp
+- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 770 quid left for general expenses
+- [ ] [iPhone 17e, Pink, 256GB](https://www.apple.com/uk/shop/buy-iphone/iphone-17e/6.1-inch-display-256gb-soft-pink) 599gbp, would like to buy in-person at the Apple Store
 - [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
 - [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 - [ ] ----Not included in total----
 - [ ] [stereotypical asian blanket](https://amzn.eu/d/03xN8vWA) 66.81gbp
-- [ ] I would buy PC TOYS Venom, SH FIGUARTS AVENGERS INFINITY WAR Hulk, MAFEX Spider-Man (Ben Reilly), MAFEX Spider-Man Comic Ver. and SH FIGUARTS DRAGON BALL Z Tank Top Trunks
+- [ ] I would buy PC TOYS Venom ==40==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, MAFEX Spider-Man (Ben Reilly) ==40==, MAFEX Spider-Man Classic Costume Ver. ==40== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==220gbp==
 
 
 ## Term #3<br>TOTAL 500.85GBP
 
 - [ ] During this term I will spend 300 on my swift card and 500 on these expenses so I will be able to save 1,000 for general savings and have 1,000 left for general expenses
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-2TB-SSD-NVIDIA-GeForce-RTX-5070-Ti-Gaming-Desktop-PC/p/598914) 2,299.99gbp
-	^ use accumulated savings  + 300 to purchase, not counted in total
+	^ use accumulated savings  + 300 to purchase
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
-- [ ] should try to get airpod max 2
-- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive, SH FIGUARTS War Machine,  SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver., SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive and the three Hall of Armour set pieces plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set
+- [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
+- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive ==30==, SH FIGUARTS War Machine ==30==,  SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver. ==30==, SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive ==30== and the three Hall of Armour set pieces ==70== plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==230gbp== total
 
 
 ***
