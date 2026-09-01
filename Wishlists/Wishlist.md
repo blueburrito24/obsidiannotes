@@ -74,7 +74,7 @@ kanban-plugin: board
 	[[secret wars symbiote spider-man logo.png]]
 
 
-## Term #1<br>TOTAL 574.16GBP
+## Term #1<br>TOTAL 574.40GBP
 
 - [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 730 quid left for general expenses
 - [ ] [GL.inet Flint 3 router](https://amzn.eu/d/0gzBboUJ) 178.99gbp
@@ -82,23 +82,21 @@ kanban-plugin: board
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [lamzu thorn 4k](https://uk.webuy.com/product-detail?id=5056276033803A) 68gbp
-- [ ] [Dragon Ball Mouse Pad](https://amzn.eu/d/0cSaHEjx) 9.75gbp
+- [ ] ["topographic" map style desk mat](https://amzn.eu/d/03VSYT28) 9.99gbp
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 - [ ] ----Not included in total----
 - [ ] I would  want to get ZT TOYS Broly ==110== and JADA TOYS Invincible ==30==. This will cost ==140==
 - [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood ==40==, BSM BLACKSHARK Goku headsculpts ==40==, SH FIGUARTS DRAGON BALL DAIMA Piccolo ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==200/220gbp== that I would have available
 
 
-## Term #2<br>TOTAL 931.95GBP
+## Term #2<br>TOTAL 876GBP
 
-- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 770 quid left for general expenses
+- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 800 quid left for general expenses
 - [ ] [iPhone 17e, Pink, 256GB](https://www.apple.com/uk/shop/buy-iphone/iphone-17e/6.1-inch-display-256gb-soft-pink) 599gbp, would like to buy in-person at the Apple Store
-- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp
-- [ ] [AirTag 4pcs](https://www.apple.com/uk/shop/buy-airtag/airtag/4-pack?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 99gbp
-	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
-	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
+- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp, would like to buy in-person at the Apple Store
+- [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
+	^ Would buy two (58gbp), one for my wallet and one for my bag
 - [ ] ----Not included in total----
-- [ ] [stereotypical asian blanket](https://amzn.eu/d/03xN8vWA) 66.81gbp
 - [ ] I would buy PC TOYS Venom ==40==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, MAFEX Spider-Man (Ben Reilly) ==40==, MAFEX Spider-Man Classic Costume Ver. ==40== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==220gbp==
 
 
