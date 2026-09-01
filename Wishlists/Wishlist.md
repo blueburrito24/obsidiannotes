@@ -13,7 +13,6 @@ kanban-plugin: board
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [retroid pocket 5 + grip case](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 170gbp~
 - [ ] >[!Figures I would like to get]-
 	> - ==shf fighter of rage goku==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
@@ -85,6 +84,7 @@ kanban-plugin: board
 - [ ] ["topographic" map style desk mat](https://amzn.eu/d/03VSYT28) 9.99gbp
 - [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 - [ ] ----Not included in total----
+- [ ] [retroid pocket 5 + grip case](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 170gbp~
 - [ ] I would  want to get ZT TOYS Broly ==110== and JADA TOYS Invincible ==30==. This will cost ==140==
 - [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood ==40==, BSM BLACKSHARK Goku headsculpts ==40==, SH FIGUARTS DRAGON BALL DAIMA Piccolo ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==200/220gbp== that I would have available
 
