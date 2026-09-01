@@ -6,18 +6,15 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] https://www.darktable.org/ for editing raw photos
-- [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
-- [ ] [stereotypical asian blanket](https://amzn.eu/d/03xN8vWA) 66.81gbp
+- [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
 - [ ] [GINTAMA KEYCHAIN PLUSHIES](https://www.aliexpress.com/item/1005012172741664.html) 15gbp~ per piece
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
-- [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [Xteink X4 E-Reader](https://www.aliexpress.com/item/1005012060690688.html?) 35.05gbp
-	[Information on custom software](https://goodereader.com/blog/electronic-readers/xteink-is-going-to-block-custom-software)
-	[How to unlock custom software](https://crosspointreader.com/#unlock-tool)
+- [ ] [retroid pocket 5](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 160gbp~
 - [ ] >[!Figures I would like to get]-
 	> - ==shf fighter of rage goku==, sh_figuposes dumbell neck peg, tamiya deep brown panel liner, tamiya dark brown panel liner
 	> - i want to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) using my damaged games begin goku's parts. should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range.
@@ -49,6 +46,7 @@ kanban-plugin: board
 	> - Tamashii effect series thunder blue & yellow
 	> - generic Kamehameha charge effect
 	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
+	> - wired 1/12 stands
 	> - [crocodile clamp stand for painting](https://amzn.eu/d/05e8sQJo)
 	> - amazon basics articulated tripod for photography
 	> - heat gun for customising
@@ -90,8 +88,9 @@ kanban-plugin: board
 - [ ] [Anker Power Bank 20,000mAh 87W](https://amzn.eu/d/0imIdbgC) 42.99gbp
 - [ ] google tv streamer 4k 99gbp
 - [ ] ----Not included in total----
+- [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
 - [ ] I would  want to get ZT TOYS Broly and JADA TOYS Invincible which will cost like 140~
-- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan with the DL CUSTOM headsculpts
+- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood, BSM BLACKSHARK Goku headsculpts, SH FIGUARTS DRAGON BALL DAIMA Piccolo and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan with the DL CUSTOM headsculpts PLUS I would use the remaining money to buy the XTEINK X4 from Habib
 
 
 ## Term #2<br>TOTAL 1,010.93GBP
@@ -105,6 +104,7 @@ kanban-plugin: board
 	[mophie Knit Puck for AirTag](https://www.apple.com/uk/shop/product/hsk22zm/a/mophie-knit-puck-for-airtag?fnode=709abf22e9eda011a6a8134e3442ce5697304dc8c239249f7ec703ce4640f2ea18adff578ab4c6912e2d06a6e127e3ef21214588f27e4ff6d9b21b75108470845342c9bc7b667a659aabdbd17cb76ef77db0fbf495d3bad045def16a0fa3a19fa43510d8aec85632ef4e4fd53946eae6) 14.95gbp
 	^ one to attach to my keyring via the knit puck, one for both my messenger bag and sling bag, one for Zareen's schoolbag
 - [ ] ----Not included in total----
+- [ ] [stereotypical asian blanket](https://amzn.eu/d/03xN8vWA) 66.81gbp
 - [ ] I would buy PC TOYS Venom, SH FIGUARTS AVENGERS INFINITY WAR Hulk, MAFEX Spider-Man (Ben Reilly), MAFEX Spider-Man Comic Ver. and SH FIGUARTS DRAGON BALL Z Tank Top Trunks
 
 
