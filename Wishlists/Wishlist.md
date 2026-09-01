@@ -40,17 +40,17 @@ kanban-plugin: board
 	> - ==mafex sensational spider-man==
 	> - ==mafex spider-man comic ver.==
 - [ ] >[!Figure accessories]-
-	> - ac factory wind effects
-	> - generic 1/12 energy blast effects, could buy one red and one yellow to kitbash and make a makankosappo effect
-	> - tamashii effect series shock impact yellow
-	> - Tamashii effect series thunder blue & yellow
+	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
+	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
+	> - [Tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	> - generic Kamehameha charge effect
 	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
-	> - wired 1/12 stands
+	> - [wired 1/12 stands](https://www.aliexpress.com/item/1005010276092517.html?) 1.99gbp
 	> - [crocodile clamp stand for painting](https://amzn.eu/d/05e8sQJo)
-	> - amazon basics articulated tripod for photography
-	> - heat gun for customising
+	> - [amazon basics flexible tripod for photography](https://amzn.eu/d/09VKP8Yt) 8.30gbp
+	> - [heat gun for customising](https://amzn.eu/d/03Mw6Po8) 14.99gbp
 	> - [shf iron man 3 tony's sofa](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81890038052), [another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=s83aAQ2hP9yQZT9C2c9Src)
+	> - [partitioned plastic container for loose parts](https://amzn.eu/d/09Yhm13x) 8.99gbp
 
 
 ## Clothes
