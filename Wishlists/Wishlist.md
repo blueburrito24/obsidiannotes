@@ -25,7 +25,6 @@ kanban-plugin: board
 	> - ==shf tank top trunks==
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - [[zt studio broly.jpg]]
-	> - ==demoniacal fit unclean blood (xicor)==
 	> - ==jada toys invincible== (blue variant)
 	> - ==pc toys venom==
 	> - ==[sh figuarts iron man mark 6 black ver. exclusive](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15845715802)==
@@ -73,20 +72,20 @@ kanban-plugin: board
 	[[secret wars symbiote spider-man logo.png]]
 
 
-## Term #1<br>TOTAL 574.40GBP
+## Term #1<br>TOTAL 604.36GBP
 
-- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 730 quid left for general expenses
+- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
 - [ ] [GL.inet Flint 3 router](https://amzn.eu/d/0gzBboUJ) 178.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [lamzu thorn 4k](https://uk.webuy.com/product-detail?id=5056276033803A) 68gbp
-- [ ] ["topographic" map style desk mat](https://amzn.eu/d/03VSYT28) 9.99gbp
-- [ ] [Miyoo Mini Plus](https://www.aliexpress.com/item/1005007163289372.html?spm=a2g0o.productlist.bizfloor.1.53d3DJHdDJHdR4&pdp_ext_f=%7B%22sku_id%22%3A%2212000039661914945%22%7D) 45.76gbp
+- [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
+- [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
 - [ ] ----Not included in total----
 - [ ] [retroid pocket 5 + grip case](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 170gbp~
 - [ ] I would  want to get ZT TOYS Broly ==110== and JADA TOYS Invincible ==30==. This will cost ==140==
-- [ ] Using my owed trust fund money, I would buy Demoniacal Fit Unclean Blood ==40==, BSM BLACKSHARK Goku headsculpts ==40==, SH FIGUARTS DRAGON BALL DAIMA Piccolo ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==200/220gbp== that I would have available
+- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==120/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use the remaining 100 to buy it on ZenMarket
 
 
 ## Term #2<br>TOTAL 876GBP
