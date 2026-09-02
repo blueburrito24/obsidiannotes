@@ -84,6 +84,9 @@ kanban-plugin: board
 - [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
 - [ ] ----Not included in total----
 - [ ] [retroid pocket 5 + grip case](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 170gbp~
+	[dock for tv use](https://amzn.eu/d/0a4oGQeP) 25.99gbp
+	[GuliKit KK3 Pro](https://amzn.eu/d/0idqi0tS) 14.99gbp
+	^ can use on TV at home via ES-DE (use PS5 Menu theme)
 - [ ] I would  want to get ZT TOYS Broly ==110== and JADA TOYS Invincible ==30==. This will cost ==140==
 - [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==120/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use the remaining 100 to buy it on ZenMarket
 
