@@ -87,7 +87,7 @@ kanban-plugin: board
 	[dock for tv use](https://amzn.eu/d/0a4oGQeP) 25.99gbp
 	[GuliKit KK3 Pro](https://amzn.eu/d/0idqi0tS) 14.99gbp
 	^ can use on TV at home via ES-DE (use PS5 Menu theme)
-- [ ] I would  want to get ZT TOYS Broly ==110== and JADA TOYS Invincible ==30==. This will cost ==140==
+- [ ] I would  want to get ZT TOYS Broly ==110==
 - [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==120/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use the remaining 100 to buy it on ZenMarket
 
 
@@ -99,7 +99,7 @@ kanban-plugin: board
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
 	^ Would buy two (58gbp), one for my wallet and one for my bag
 - [ ] ----Not included in total----
-- [ ] I would buy PC TOYS Venom ==40==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, MAFEX Spider-Man (Ben Reilly) ==40==, MAFEX Spider-Man Classic Costume Ver. ==40== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==220gbp==
+- [ ] I would buy PC TOYS Venom ==40==, JADA TOYS Invincible ==30==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, MAFEX Spider-Man (Ben Reilly) ==40==, MAFEX Spider-Man Classic Costume Ver. ==40== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==250gbp==
 
 
 ## Term #3<br>TOTAL 500.85GBP
