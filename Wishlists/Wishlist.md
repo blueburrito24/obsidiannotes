@@ -24,6 +24,7 @@ kanban-plugin: board
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
 	> - ==shf daima piccolo==, I would like to do [this mod](https://www.reddit.com/r/SHFiguarts/comments/1pxju4e/giving_daima_piccolo_more_elbow_bend_a_step_by/) and also the ab-crunch mod: either i will remove the ab overlay entirely or saw it in two so i can keep the upper half of the abs
 	> - ==shf tank top trunks==
+	> - ==[shf old battle armour vegeta](https://www.amazon.co.uk/Vegeta-Battle-Clothes-figuarts-Collectors/dp/B0D8SXYN8Q)== for headswap on my daima vegeta
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - [[zt studio broly.jpg]]
 	> - ==jada toys invincible== (blue variant)
@@ -85,12 +86,8 @@ kanban-plugin: board
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
 - [ ] ----Not included in total----
-- [ ] [retroid pocket 6, silver, 8gb ram with asymmetrical layout](https://www.goretroid.com/en-gb/products/retroid-pocket-6-handheld?variant=48076837257440) 190gbp~
-	[dock for tv use](https://amzn.eu/d/0a4oGQeP) 25.99gbp
-	[GuliKit KK3 Pro](https://amzn.eu/d/0idqi0tS) 14.99gbp
-	^ use RP6 with ArmadaOS for Steam Deck experience, using my 256GB SanDisk microSD
-- [ ] I would  want to get ZT TOYS Broly ==110== and SH FIGUARTS DRAGON BALL DAIMA Piccolo ==30==
-- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and the XTEINK X4 ==30== from Habib. This costs ==70/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use ==100== to buy it on ZenMarket
+- [ ] I would  want to get ZT TOYS 02B Broly ==115== and SH FIGUARTS DRAGON BALL Z "Old Battle Armour" Vegeta ==60==
+- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40==, SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver. ==30== and the XTEINK X4 ==30== from Habib. This costs ==100/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use ==100== to buy it on ZenMarket
 
 
 ## Term #2<br>TOTAL 876GBP
@@ -114,7 +111,7 @@ kanban-plugin: board
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
 - [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
-- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive ==30==, SH FIGUARTS War Machine ==30==,  SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver. ==30==, SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive ==30== and the five Hall of Armour set pieces ==85== plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==245gbp== total
+- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive ==30==, SH FIGUARTS War Machine ==30==, SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive ==30== and the five Hall of Armour set pieces ==85== plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==215gbp== total
 - [ ] Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 - [ ] MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
 
