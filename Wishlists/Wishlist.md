@@ -7,9 +7,11 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
+- [ ] [Reolink WiFi Doorbell with Chime](https://reolink.com/product/reolink-video-doorbell-wifi/) 109.99gbp
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
+- [ ] [voova 15in laptop messenger bag, lavender](https://amzn.eu/d/0ax5XWMn) 16.95gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
@@ -21,7 +23,6 @@ kanban-plugin: board
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
 	> - ==shf daima piccolo==, I would like to do [this mod](https://www.reddit.com/r/SHFiguarts/comments/1pxju4e/giving_daima_piccolo_more_elbow_bend_a_step_by/) and also the ab-crunch mod: either i will remove the ab overlay entirely or saw it in two so i can keep the upper half of the abs
-	> - ==shf ultimate gohan==, dl custom gohan headsculpts
 	> - ==shf tank top trunks==
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - [[zt studio broly.jpg]]
@@ -31,11 +32,11 @@ kanban-plugin: board
 	> - ==[sh figuarts war machine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m74095402246)==
 	> - ==[sh figuarts iron man "marvel age of heroes exhibition" hot rod ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=VcBxC4eGbyaSgLP6dJaCwB)==
 	> - ==[sh figuarts iron man mark 3 tamashii store exclusive](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77989498353)==
-	> - ==[shf iron man hall of armour 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m99607931689)==, ==[another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JVd8Q5tRbkqt9nR3SjfmB)==, ==[another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94769298421)==
+	> - ==[shf iron man hall of armour 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m99607931689)==, ==[another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94769298421)==, ==[3pcs available](https://www.amiami.com/eng/detail/?gcode=FIGURE-029257-R)==
 	> - ==[shf iron man mark 6 + hall of armour set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m97808374184)==
-	> - ==[shf avengers infinity war hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553)==
+	> - ==[shf avengers infinity war hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553)==, need to do [this mod](https://www.instagram.com/p/DcL_rLniTXt/) on the torso
 	> - ==mafex sensational spider-man==
-	> - ==mafex spider-man comic ver.==
+	> - ==mess toys black suit neighbour==, ct toys agent venom, vallejo glossy black; would repaint accessories for use with my revoltech symbiote spider-man
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
@@ -72,23 +73,24 @@ kanban-plugin: board
 	[[secret wars symbiote spider-man logo.png]]
 
 
-## Term #1<br>TOTAL 604.36GBP
+## Term #1<br>TOTAL 614.35GBP
 
 - [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
 - [ ] [GL.inet Flint 3 router](https://amzn.eu/d/0gzBboUJ) 178.99gbp
 - [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
+- [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
 - [ ] [lamzu thorn 4k](https://uk.webuy.com/product-detail?id=5056276033803A) 68gbp
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
 - [ ] ----Not included in total----
-- [ ] [retroid pocket 5 + grip case](https://www.goretroid.com/en-gb/products/retroid-pocket-5-handheld?variant=46282124624096) 170gbp~
+- [ ] [retroid pocket 6, silver, 8gb ram with asymmetrical layout](https://www.goretroid.com/en-gb/products/retroid-pocket-6-handheld?variant=48076837257440) 190gbp~
 	[dock for tv use](https://amzn.eu/d/0a4oGQeP) 25.99gbp
 	[GuliKit KK3 Pro](https://amzn.eu/d/0idqi0tS) 14.99gbp
-	^ can use on TV at home via ES-DE (use PS5 Menu theme)
-- [ ] I would  want to get ZT TOYS Broly ==110==
-- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and SH FIGUARTS DRAGON BALL SUPER SUPER HERO Ultimate Gohan ==20== with the DL CUSTOM headsculpts ==30== PLUS I would use the remaining money to buy the XTEINK X4 ==30== from Habib. This costs ==120/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use the remaining 100 to buy it on ZenMarket
+	^ use RP6 with ArmadaOS for Steam Deck experience, using my 256GB SanDisk microSD
+- [ ] I would  want to get ZT TOYS Broly ==110== and SH FIGUARTS DRAGON BALL DAIMA Piccolo ==30==
+- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and the XTEINK X4 ==30== from Habib. This costs ==70/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use ==100== to buy it on ZenMarket
 
 
 ## Term #2<br>TOTAL 876GBP
@@ -99,7 +101,7 @@ kanban-plugin: board
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
 	^ Would buy two (58gbp), one for my wallet and one for my bag
 - [ ] ----Not included in total----
-- [ ] I would buy PC TOYS Venom ==40==, JADA TOYS Invincible ==30==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, MAFEX Spider-Man (Ben Reilly) ==40==, MAFEX Spider-Man Classic Costume Ver. ==40== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==250gbp==
+- [ ] I would buy PC TOYS Venom Gloss Black Ver. ==40==, JADA TOYS Invincible ==30==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, MAFEX Spider-Man (Ben Reilly) ==40== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==250gbp==
 
 
 ## Term #3<br>TOTAL 500.85GBP
@@ -112,7 +114,9 @@ kanban-plugin: board
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
 - [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
-- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive ==30==, SH FIGUARTS War Machine ==30==,  SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver. ==30==, SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive ==30== and the three Hall of Armour set pieces ==70== plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==230gbp== total
+- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive ==30==, SH FIGUARTS War Machine ==30==,  SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver. ==30==, SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive ==30== and the five Hall of Armour set pieces ==85== plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==245gbp== total
+- [ ] Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
+- [ ] MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
 
 
 ***
