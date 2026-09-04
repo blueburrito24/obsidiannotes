@@ -36,7 +36,6 @@ kanban-plugin: board
 	> - ==[shf iron man hall of armour 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m99607931689)==, ==[another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94769298421)==, ==[3pcs available](https://www.amiami.com/eng/detail/?gcode=FIGURE-029257-R)==
 	> - ==[shf iron man mark 6 + hall of armour set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m97808374184)==
 	> - ==[shf avengers infinity war hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553)==, need to do [this mod](https://www.instagram.com/p/DcL_rLniTXt/) on the torso
-	> - ==mafex sensational spider-man==
 	> - ==mess toys black suit neighbour==, ct toys agent venom, vallejo glossy black; would repaint accessories for use with my revoltech symbiote spider-man
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
@@ -98,7 +97,7 @@ kanban-plugin: board
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
 	^ Would buy two (58gbp), one for my wallet and one for my bag
 - [ ] ----Not included in total----
-- [ ] I would buy PC TOYS Venom Gloss Black Ver. ==40==, JADA TOYS Invincible ==30==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, MAFEX Spider-Man (Ben Reilly) ==40== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==250gbp==
+- [ ] I would buy PC TOYS Venom Gloss Black Ver. ==40==, JADA TOYS Invincible ==30==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==210gbp==
 
 
 ## Term #3<br>TOTAL 500.85GBP
