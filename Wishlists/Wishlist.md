@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
 - [ ] [voova 15in laptop messenger bag, lavender](https://amzn.eu/d/0ax5XWMn) 16.95gbp
+- [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
@@ -22,20 +23,17 @@ kanban-plugin: board
 	> - [[fighter of rage goku repaint.jpg]]
 	> - ==shf ssjb goku ALREADY PURCHASED==, bsm blackshark base form goku headsculpts, sh_figuposes dumbell neck peg
 	> - should also do [this mod](https://www.instagram.com/p/Da3E2AiOtUY/) for leg range and carve out some of the back of the head for extra head range. also would like to remove the sigils using gundam marker eraser. I want to get the KHS abdomen kit that comes with the extra hands
-	> - ==shf daima piccolo==, I would like to do [this mod](https://www.reddit.com/r/SHFiguarts/comments/1pxju4e/giving_daima_piccolo_more_elbow_bend_a_step_by/) and also the ab-crunch mod: either i will remove the ab overlay entirely or saw it in two so i can keep the upper half of the abs
+	> - ==ns003 kaioken goku==
 	> - ==shf tank top trunks==
 	> - ==[shf old battle armour vegeta](https://www.amazon.co.uk/Vegeta-Battle-Clothes-figuarts-Collectors/dp/B0D8SXYN8Q)== for headswap on my daima vegeta
+	> - [[vegetakitbash.webp]]
 	> - ==zt02 broly==, need to superglue the earrings onto the facesculpts and may need to do [this mod](https://www.instagram.com/p/DYqH6q9J80s/)
 	> - [[zt studio broly.jpg]]
 	> - ==jada toys invincible== (blue variant)
 	> - ==pc toys venom==
-	> - ==[sh figuarts iron man mark 6 black ver. exclusive](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15845715802)==
 	> - ==[sh figuarts war machine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m74095402246)==
-	> - ==[sh figuarts iron man "marvel age of heroes exhibition" hot rod ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=VcBxC4eGbyaSgLP6dJaCwB)==
-	> - ==[sh figuarts iron man mark 3 tamashii store exclusive](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77989498353)==
-	> - ==[shf iron man hall of armour 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m99607931689)==, ==[another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94769298421)==, ==[3pcs available](https://www.amiami.com/eng/detail/?gcode=FIGURE-029257-R)==
 	> - ==[shf iron man mark 6 + hall of armour set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m97808374184)==
-	> - ==[shf avengers infinity war hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553)==, need to do [this mod](https://www.instagram.com/p/DcL_rLniTXt/) on the torso
+	> - ==[shf avengers infinity war hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553)==
 	> - ==mess toys black suit neighbour==, ct toys agent venom, vallejo glossy black; would repaint accessories for use with my revoltech symbiote spider-man
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
@@ -49,13 +47,14 @@ kanban-plugin: board
 	> - [heat gun for customising](https://amzn.eu/d/03Mw6Po8) 14.99gbp
 	> - [shf iron man 3 tony's sofa](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81890038052), [another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=s83aAQ2hP9yQZT9C2c9Src)
 	> - [partitioned plastic container for loose parts](https://amzn.eu/d/09Yhm13x) 8.99gbp
+	> - [tamashii stage marvel container](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73331483241) 9.26gbp
+	> - [Nendoroid More Container](https://www.gamersheek.co.uk/item/Good-Smile-Company/Nendoroid-More-Anniversary-Container-Black/1OI) 14.95gbp
+	> ^ I would remove the Good Smile branding
 
 
 ## Clothes
 
-- [ ] [Loose pleated sweatpants, maroon, gray, black](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
-- [ ] [US L Spider-Man Brick Wall Shirt](https://www.ebay.co.uk/itm/277418882711) 32.26gbp
-- [ ] spider-man cosplay tees
+- [ ] >[!spider-man "cosplay" tees]-
 	[the human spider tee tutorial](https://www.instagram.com/p/DbvddhZNKKI/)
 	[cardstock paper 50pcs](https://amzn.eu/d/02JDGkAv) 4.09gbp
 	[red tee](https://www.next.co.uk/style/st056123/v16198) 8gbp
@@ -66,11 +65,22 @@ kanban-plugin: board
 	[[spider-man 2002 human spider front logo.jpg]]
 	[[spider-man 2002 human spider back logo.jpg]]
 	[[spider-man 2002 human spider logo cutout.png]]
-	
 	[black tee 2pcs](https://www.next.co.uk/style/su049279/885172) 15gbp
 	[rust-oleum fabric silver spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-silver-effect-multi-surface-spray-paint-150ml/1726735_BQ.prd) 7gbp
 	^ i want to make the same style of tee but with the symbiote logo
 	[[secret wars symbiote spider-man logo.png]]
+- [ ] ^ i could use the same method to make a web-pattern white zip hoodie, using tape to hold the sectioned cardboard parts together which would create an uneven density in the fabric spray webs, i would maybe also spray the sleeve rims pure black for fun
+- [ ] [THWIP! Spider-Man black tee](https://www.boohooman.com/product/spider-man-spider-man-thwip-panel-mens-t-shirt-black_p-0c35ae2b-d6de-4c2c-b1b9-c773cf8c04df?colour=Black) 17.99gbp
+- [ ] [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
+- [ ] [VOID ghostfreak hoodie](https://shop-void.com/products/ghstfrk-top?variant=44540162736217) 80gbp
+- [ ] [VOID execution top (bleach, ichigo kurosaki hoodie)](https://shop-void.com/products/execution-top?variant=44507574567001) 110gbp
+- [ ] [sleepy trucker hat](https://rugsoda.com/products/tired-trucker-hat?variant=46445719716032) 32.72gbp
+- [ ] [overthinking cap, light blue trucker style](https://notyoubrand.com/collections/frontpage/products/overthinking-cap-light-blue-trucker) 32gbp
+- [ ] [VOID heatblast baseball cap](https://shop-void.com/products/heatblst) 57gbp
+- [ ] [Loose pleated sweatpants, maroon, gray, black](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
+- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
+- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
+- [ ] [air jordan 1 high og "unc remastered", size 10](https://trendysneakers.shop/prodts.php?listnp=LJR-Batch-Air-Jordan-1-High-OG-UNC-Reimagined-&id=8806) 105gbp~ (145$)
 
 
 ## Term #1<br>TOTAL 614.35GBP
@@ -84,9 +94,12 @@ kanban-plugin: board
 - [ ] [lamzu thorn 4k](https://uk.webuy.com/product-detail?id=5056276033803A) 68gbp
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
+	^ use NextUI for the firmware
 - [ ] ----Not included in total----
-- [ ] I would  want to get ZT TOYS 02B Broly ==115== and SH FIGUARTS DRAGON BALL Z "Old Battle Armour" Vegeta ==60==
-- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40==, SH FIGUARTS Iron Man "Marvel Age of Heroes Exhibition" Hot Rod Ver. ==30== and the XTEINK X4 ==30== from Habib. This costs ==100/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use ==100== to buy it on ZenMarket
+- [ ] Need to buy XTEINK X4 from Habib for 30 quid
+- [ ] [Oppo Pad Air](https://uk.webuy.com/product-detail?id=STABOPPPADA64GWB) 85gbp
+- [ ] I would  want to get ZT TOYS 02B Broly ==115== and NS003 Kaioken Goku ==60==, costing ==175gbp== total
+- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and SH FIGUARTS DRAGON BALL Z "Old Battle Armour" Vegeta ==60==. This costs ==100/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use ==100== to buy it on ZenMarket
 
 
 ## Term #2<br>TOTAL 876GBP
@@ -110,7 +123,7 @@ kanban-plugin: board
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
 - [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
-- [ ] I would buy the SH FIGUARTS Iron Man Mark 6 Black Ver. Exclusive ==30==, SH FIGUARTS War Machine ==30==, SH FIGUARTS Iron Man Mark 3 Tamashii Nations Store Exclusive ==30== and the five Hall of Armour set pieces ==85== plus the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==215gbp== total
+- [ ] I would buy the SH FIGUARTS War Machine ==30==and the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==70gbp== total
 - [ ] Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 - [ ] MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
 
@@ -133,6 +146,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
 ```
 %%
