@@ -31,8 +31,6 @@ kanban-plugin: board
 	> - [[zt studio broly.jpg]]
 	> - ==jada toys invincible== (blue variant)
 	> - ==pc toys venom==
-	> - ==[sh figuarts war machine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m74095402246)==
-	> - ==[shf iron man mark 6 + hall of armour set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m97808374184)==
 	> - ==[shf avengers infinity war hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553)==
 	> - ==mess toys black suit neighbour==, ct toys agent venom, vallejo glossy black; would repaint accessories for use with my revoltech symbiote spider-man
 - [ ] >[!Figure accessories]-
@@ -70,36 +68,30 @@ kanban-plugin: board
 	^ i want to make the same style of tee but with the symbiote logo
 	[[secret wars symbiote spider-man logo.png]]
 - [ ] ^ i could use the same method to make a web-pattern white zip hoodie, using tape to hold the sectioned cardboard parts together which would create an uneven density in the fabric spray webs, i would maybe also spray the sleeve rims pure black for fun
-- [ ] [THWIP! Spider-Man black tee](https://www.boohooman.com/product/spider-man-spider-man-thwip-panel-mens-t-shirt-black_p-0c35ae2b-d6de-4c2c-b1b9-c773cf8c04df?colour=Black) 17.99gbp
-- [ ] [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
-- [ ] [VOID ghostfreak hoodie](https://shop-void.com/products/ghstfrk-top?variant=44540162736217) 80gbp
-- [ ] [VOID execution top (bleach, ichigo kurosaki hoodie)](https://shop-void.com/products/execution-top?variant=44507574567001) 110gbp
-- [ ] [sleepy trucker hat](https://rugsoda.com/products/tired-trucker-hat?variant=46445719716032) 32.72gbp
-- [ ] [overthinking cap, light blue trucker style](https://notyoubrand.com/collections/frontpage/products/overthinking-cap-light-blue-trucker) 32gbp
-- [ ] [VOID heatblast baseball cap](https://shop-void.com/products/heatblst) 57gbp
-- [ ] [Loose pleated sweatpants, maroon, gray, black](https://www2.hm.com/en_gb/productpage.1353691003.html) 33.99gbp
-- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
-- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
-- [ ] [air jordan 1 high og "unc remastered", size 10](https://trendysneakers.shop/prodts.php?listnp=LJR-Batch-Air-Jordan-1-High-OG-UNC-Reimagined-&id=8806) 105gbp~ (145$)
 
 
-## Term #1<br>TOTAL 614.35GBP
+## Term #1<br>TOTAL 668.35GBP
 
-- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 700 quid left for general expenses
+- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 630 quid left for general expenses
 - [ ] [GL.inet Flint 3 router](https://amzn.eu/d/0gzBboUJ) 178.99gbp
-- [ ] [Keychron K8 HE Black](https://amzn.eu/d/0c8OF1gu) 132.99gbp
+- [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
-- [ ] [lamzu thorn 4k](https://uk.webuy.com/product-detail?id=5056276033803A) 68gbp
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
 	^ use NextUI for the firmware
-- [ ] ----Not included in total----
-- [ ] Need to buy XTEINK X4 from Habib for 30 quid
 - [ ] [Oppo Pad Air](https://uk.webuy.com/product-detail?id=STABOPPPADA64GWB) 85gbp
-- [ ] I would  want to get ZT TOYS 02B Broly ==115== and NS003 Kaioken Goku ==60==, costing ==175gbp== total
-- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40== and SH FIGUARTS DRAGON BALL Z "Old Battle Armour" Vegeta ==60==. This costs ==100/220gbp== that I would have available. I would like to get SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku, but its aftermarket price varies. I can use ==100== to buy it on ZenMarket
+- [ ] ----Not included in total----
+- [ ] [THWIP! Spider-Man black tee](https://www.boohooman.com/product/spider-man-spider-man-thwip-panel-mens-t-shirt-black_p-0c35ae2b-d6de-4c2c-b1b9-c773cf8c04df?colour=Black) 17.99gbp
+- [ ] [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
+- [ ] [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
+- [ ] [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
+- [ ] [VOID execution top (bleach, ichigo kurosaki hoodie)](https://shop-void.com/products/execution-top?variant=44507574567001) 110gbp
+- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
+- [ ] ^ 313.97gbp on clothes
+- [ ] Need to buy XTEINK X4 from Habib for 30 quid
+- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40==, ZT TOYS 02B Broly ==115== and SH FIGUARTS DRAGON BALL Z "Old Battle Armour" Vegeta ==60==. This costs ==215/220gbp==
 
 
 ## Term #2<br>TOTAL 876GBP
@@ -110,7 +102,13 @@ kanban-plugin: board
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
 	^ Would buy two (58gbp), one for my wallet and one for my bag
 - [ ] ----Not included in total----
-- [ ] I would buy PC TOYS Venom Gloss Black Ver. ==40==, JADA TOYS Invincible ==30==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==210gbp==
+- [ ] [VOID ghostfreak hoodie](https://shop-void.com/products/ghstfrk-top?variant=44540162736217) 80gbp
+- [ ] [sleepy trucker hat](https://rugsoda.com/products/tired-trucker-hat?variant=46445719716032) 32.72gbp
+- [ ] [Loose pleated sweatpants, gray](https://www2.hm.com/en_gb/productpage.1353691001.html) 33.99gbp
+- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
+- [ ] [air jordan 1 high og "unc remastered", size 10](https://trendysneakers.shop/prodts.php?listnp=LJR-Batch-Air-Jordan-1-High-OG-UNC-Reimagined-&id=8806) 105gbp~ (145$)
+- [ ] ^ 336.71gbp on clothes
+- [ ] I would buy SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60==, NS STUDIO NS003 Kaioken Goku ==60== and SH FIGUARTS DRAGON BALL Z Tank Top Trunks ==40==. This will approximately cost ==200gbp==
 
 
 ## Term #3<br>TOTAL 500.85GBP
@@ -123,9 +121,11 @@ kanban-plugin: board
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
 - [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
-- [ ] I would buy the SH FIGUARTS War Machine ==30==and the SH FIGUARTS Iron Man Mark 6 and Hall of Armour set ==40==. This costs ==70gbp== total
 - [ ] Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 - [ ] MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
+- [ ] PC TOYS Venom Gloss Black Ver. ==40==
+- [ ] JADA TOYS Invincible ==30==
+- [ ] SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku ==115== (from AliExpress)
 
 
 ***
@@ -146,6 +146,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
 ```
 %%
