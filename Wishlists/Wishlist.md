@@ -72,7 +72,7 @@ kanban-plugin: board
 	two week food run total: 39.50gbp
 	three month term = twelve weeks
 	39.50 x 6 = 237gbp to be spent on making food per term
-- [ ] >[!tacos:]-
+- [ ] >[!tacos]-
 	>- old el paso soft taco tortillas 1.85gbp for 8pcs
 	>- shazan mince beef 500g 5.24
 	>- galbani italian mozzarella 125g 1.94
@@ -87,7 +87,7 @@ kanban-plugin: board
 	then on the other side put on some mozzarella and the beef on top, fold the tortilla while it's packed and fry until brown, then spread some chopped lettuce on top
 	^ based on this recipe, using all the beef in the package would be good to make up to six or seven tacos, so these ingredients can last two or even three weeks as I would prefer to only make four tacos per week - for two tacos per day, and I would only eat tacos on two days of the week.
 	
-	>[!potato chips:]-
+	>[!potato chips]-
 	>- asda baby potatoes 1kg 99p
 	following [this video](https://www.instagram.com/joey_wellness/reel/DcLyiBwxyeg/)
 	i need to boil the baby potatoes in a pot for 25 minutes (until fork tender), 
@@ -98,7 +98,7 @@ kanban-plugin: board
 	then bake for 40 minutes (until golden brown) and top it with some shredded cheese
 	^ this can last me three weeks possibly, as I would only eat maybe six pcs per week - three pcs per day for two days to accompany other meals (not the tacos)
 	
-	>[!smoothie yoghurt thing:]-
+	>[!smoothie yoghurt thing]-
 	>- asda strawberries 350g 2.96gbp
 	>- asda tropical smoothie mix (mango, papaya, pineapple) 500g 2.96gbp
 	>- asda raspberries 300g 2.96gbp
@@ -109,7 +109,7 @@ kanban-plugin: board
 	following [this video](https://www.instagram.com/the_plant_slant/reel/DaTszN_xiuW/)
 	drop in like five pcs of strawberries, ten pcs of tropical smoothie mix, twelve pcs of raspberries, half a teaspoon of chia seeds, a quarter cup of porridge oats, some ice cubes and a little bit of milk - blend til smoothie, spread some white chocolate chips on top and enjoy
 	
-	>[!chicago deep dish pizza:]-
+	>[!chicago deep dish pizza]-
 	>- asda just essentials plain flour 1.5kg 70p
 	>- natco fine corn meal 1kg 1.98gbp
 	>- allinson fast action yeast 100g 1.50gbp
@@ -132,7 +132,7 @@ kanban-plugin: board
 	put the deep dish pan on the pizza stone and leave to cook in the oven til the crust is visibly brown, then take it out and grate some hard cheese over the pizza
 	^ I can eat some slices of it at uni and eat some at home, one pizza can last me a week
 	
-	>[!brownies:]-
+	>[!brownies]-
 	>- asda bake cocoa powder 250g 3.48gbp
 	>- asda bake dark chocolate chips 100g 1.32gbp
 	(total; 4.80gbp, other ingredients are typical household items)
@@ -183,7 +183,7 @@ kanban-plugin: board
 - [ ] ^ 336.71gbp on clothes
 - [ ] I would buy NS STUDIO NS003 Kaioken Goku ==60==
 - [ ] ZT TOYS 02B Broly ==115==
-- [ ] This would leave me with 288.29gbp~ to spend on food
+- [ ] This would leave me with 280gbp~ to spend on food
 
 
 ## Term #3<br>TOTAL 500.85GBP
