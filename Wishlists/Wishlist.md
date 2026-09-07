@@ -122,6 +122,7 @@ kanban-plugin: board
 - [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
 - [ ] Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 - [ ] MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
+	I'd like to drill in some extra sockets for the tendrils on the back of the figure
 - [ ] PC TOYS Venom Gloss Black Ver. ==40==
 - [ ] JADA TOYS Invincible ==30==
 - [ ] SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku ==115== (from AliExpress)
