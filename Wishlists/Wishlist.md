@@ -11,21 +11,24 @@ kanban-plugin: board
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
-- [ ] [voova 15in laptop messenger bag, lavender](https://amzn.eu/d/0ax5XWMn) 16.95gbp
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
-- [ ] [pizza stone 33x33cm](https://amzn.eu/d/06nGDAhT) 18.99gbp
 - [ ] >[!Figures I would like to get]-
-	> - ==shf tank top trunks==
-	> - ==sh figuarts gamerverse wolverine==
 	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32205518261)==
-	> - ==mafex superman "for tomorrow" ver.==
 	> - ==jada toys omni-man==
 	> - ==mafex knight crusader batman (black ver.)==
 	> - ==shf all might==
+	> - shf perfect cell (only been teased)
+	> - ==mafex 231 iron man (stealth suit)==
+	> - ==[shf ultraman nexus](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m78809512933)==
+	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)==
+	> - ==mafex 143 sensational spider-man==
+	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)==
+	> - bsm blackshark battle-damaged goku body + demoniacal fit dragon blaster ssj3 goku head
+	> - ==sexyice manikin bioroid==
+	> - ==revoltech reverse flash==
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
@@ -59,19 +62,18 @@ kanban-plugin: board
 	[rust-oleum fabric silver spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-silver-effect-multi-surface-spray-paint-150ml/1726735_BQ.prd) 7gbp
 	^ i want to make the same style of tee but with the symbiote logo
 	[[secret wars symbiote spider-man logo.png]]
-- [ ] ^ i could use the same method to make a web-pattern white zip hoodie, using tape to hold the sectioned cardboard parts together which would create an uneven density in the fabric spray webs, i would maybe also spray the sleeve rims pure black for fun
+- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
 
 
 ## Recipes
 
 - [ ] 10.52gbp for tacos
 	99p for potato chips
-	12.59gbp for smoothie yoghurt
 	10.60gbp for pizza
-	4.80gbp for brownies
-	two week food run total: 39.50gbp
+	two week food run total: 22.11gbp
 	three month term = twelve weeks
-	39.50 x 6 = 237gbp to be spent on making food per term
+	22.11 x 6 = 132.66gbp to be spent on lunches per term
+- [ ] Some of the recipes below are not for lunches but just general things I'd like to make
 - [ ] >[!tacos]-
 	>- old el paso soft taco tortillas 1.85gbp for 8pcs
 	>- shazan mince beef 500g 5.24
@@ -143,10 +145,9 @@ kanban-plugin: board
 	^ this is a ton of brownies, enough to have over a week or two
 
 
-## Term #1<br>TOTAL 668.35GBP
+## Term #1<br>TOTAL 469.36GBP
 
-- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 630 quid left for general expenses
-- [ ] [GL.inet Flint 3 router](https://amzn.eu/d/0gzBboUJ) 178.99gbp
+- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 830 quid left for general expenses
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
@@ -155,35 +156,53 @@ kanban-plugin: board
 - [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
 	^ use NextUI for the firmware
 - [ ] [Oppo Pad Air](https://uk.webuy.com/product-detail?id=STABOPPPADA64GWB) 85gbp
-- [ ] ----Not included in total----
-- [ ] [THWIP! Spider-Man black tee](https://www.boohooman.com/product/spider-man-spider-man-thwip-panel-mens-t-shirt-black_p-0c35ae2b-d6de-4c2c-b1b9-c773cf8c04df?colour=Black) 17.99gbp
-- [ ] [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
-- [ ] [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
-- [ ] [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
-- [ ] [VOID execution top (bleach, ichigo kurosaki hoodie)](https://shop-void.com/products/execution-top?variant=44507574567001) 110gbp
-- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
-- [ ] ^ 313.97gbp on clothes, leaving me with 300gbp~ to spend on food
-- [ ] Using my owed trust fund money, BSM BLACKSHARK Goku headsculpts ==40==, SH FIGUARTS AVENGERS INFINITY WAR Hulk ==60== and SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku ==115== (from AliExpress). This costs ==215/220gbp==
+- [ ] # ----Not included in total----
+- [ ] >[!general purchases]-
+	> - [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
+	> - [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) 3.89gbp
+	> - [Exacto Knife](https://amzn.eu/d/0cW6WR56) 5.95gbp
+	> - [oguri cap head keychain plush](https://www.aliexpress.com/item/1005011641471571.html?) 9.79gbp
+	> - [Gintama dopey plush keychains](https://www.aliexpress.com/item/1005012332089132.html?) 14.39gbp
+	> - [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
+	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/faux-fur-trim-zip-up-graphic-hoodie-63744340-1005?seq=03&source=googleshopping&$web_only=true) 59.95gbp
+	^ follow [this tutorial](https://www.instagram.com/p/DaLNdK-BOxJ/) and use some [disposable straight razors](https://amzn.eu/d/0g0GCNSm) 6.99gbp to get rid of the graphics
+	# ^ 133.95gbp spent
+- [ ] >[!Figure purchases]-
+	> - [SH FIGUARTS DRAGON BALL Z "Old Battle Clothes" Vegeta](https://amzn.eu/d/00Ns9s7y) for my Daima Vegeta's heads ==56==
+	> - [Nono custom Vegeta Daima-2.0 neckpeg, 2pcs](https://www.aliexpress.com/item/1005012185716679.html!) ==8==
+	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp, [CT TOYS Wolverine](https://www.aliexpress.com/item/1005009993078655.html?) 22.49gbp
+	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash. I would take the heads from CT TOYS Brown Suit Wolverine and either remove the sockets entirely via heat or dremel them out, then make sure they can fit onto the SHF Wolverine neck peg, then I will have good neutral and smirking headsculpts available.
+	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24==
+	^ use as a swap-out on the FoR Goku body
+	[[FoR-LSSJ Kitbash.png]]
+	# ^ 170.75gbp spent
+- [ ] ## This leaves me with 392.64gbp including the expenses for buying ingredients biweekly
+- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 876GBP
+## Term #2<br>TOTAL 847GBP
 
 - [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 800 quid left for general expenses
 - [ ] [iPhone 17e, Pink, 256GB](https://www.apple.com/uk/shop/buy-iphone/iphone-17e/6.1-inch-display-256gb-soft-pink) 599gbp, would like to buy in-person at the Apple Store
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
-	^ Would buy two (58gbp), one for my wallet and one for my bag
+	^ for my wallet
 - [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp, would like to buy in-person at the Apple Store
-- [ ] ----Not included in total----
-- [ ] [VOID ghostfreak hoodie](https://shop-void.com/products/ghstfrk-top?variant=44540162736217) 80gbp
-- [ ] [sleepy trucker hat](https://rugsoda.com/products/tired-trucker-hat?variant=46445719716032) 32.72gbp
-- [ ] [Loose pleated sweatpants, gray](https://www2.hm.com/en_gb/productpage.1353691001.html) 33.99gbp
+- [ ] # ----Not included in total----
+- [ ] >[!Clothing purchases]-
+	> - [VOID execution top (ichigo hoodie)](https://shop-void.com/products/execution-top?variant=44507574468697) 110gbp
+	^ use disposable straight razors to get rid of the eyes
+	> - [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
+	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
+	# 175.98gbp spent
+- [ ] >[!Figure purchases]-
+	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60==
+	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115==
+	# ^ 175gbp spent
+- [ ] ## This leaves me with 345.36gbp including the expenses for buying ingredients biweekly
+- [ ] ## WOULD LIKE TO GET THE BELOW ITEMS
 - [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
-- [ ] [air jordan 1 high og "unc remastered", size 10](https://trendysneakers.shop/prodts.php?listnp=LJR-Batch-Air-Jordan-1-High-OG-UNC-Reimagined-&id=8806) 105gbp~ (145$)
-- [ ] ^ 336.71gbp on clothes
-- [ ] I would buy NS STUDIO NS003 Kaioken Goku ==60==
-- [ ] ZT TOYS 02B Broly ==115==
-- [ ] This would leave me with 280gbp~ to spend on food
+- [ ] my hand-made spider-man 2002 tee
 
 
 ## Term #3<br>TOTAL 500.85GBP
@@ -196,12 +215,15 @@ kanban-plugin: board
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
 - [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
-- [ ] Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
-- [ ] MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
+- [ ] >[!Figure purchases]-
+	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
+	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
-- [ ] PC TOYS Venom Gloss Black Ver. ==40==
-- [ ] JADA TOYS Invincible ==30==
-- [ ] This would leave me with 575gbp~ to spend on food and other things
+	> - PC TOYS Venom Gloss Black Ver. ==40==
+	> - JADA TOYS Invincible ==30==
+	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) 39gbp
+	# ^ 199gbp spent
+- [ ] ## This leaves me with 403.34gbp including the expenses for buying ingredients biweekly
 
 
 ***
