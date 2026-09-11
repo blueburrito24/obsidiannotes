@@ -52,32 +52,6 @@ kanban-plugin: board
 	^ either buy physical or digital depending on price
 
 
-## Clothes
-
-- [ ] >[!spider-man "cosplay" tees]-
-	[the human spider tee tutorial](https://www.instagram.com/p/DbvddhZNKKI/)
-	[cardstock paper 50pcs](https://amzn.eu/d/02JDGkAv) 4.09gbp
-	[red tee](https://www.next.co.uk/style/st056123/v16198) 8gbp
-	[red hoodie](https://www.asos.com/collusion/collusion-unisex-zip-through-hoodie-in-red/prd/209646759#colourWayId-209646776) 24.99gbp
-	[rust-oleum fabric black spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-black-multi-surface-spray-paint-150ml/1726734_BQ.prd) 7gbp
-	[painter's tape](https://amzn.eu/d/0iaLleyh) 2.84gbp
-	^ i want to make a tee and hoodie, use the painter's tape for webbing and cardstock to print the spider symbols out and cut out with an exacto knife
-	[[spider-man 2002 human spider front logo.jpg]]
-	[[spider-man 2002 human spider back logo.jpg]]
-	[[spider-man 2002 human spider logo cutout.png]]
-	[black tee 2pcs](https://www.next.co.uk/style/su049279/885172) 15gbp
-	[rust-oleum fabric silver spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-silver-effect-multi-surface-spray-paint-150ml/1726735_BQ.prd) 7gbp
-	^ i want to make the same style of tee but with the symbiote logo
-	[[secret wars symbiote spider-man logo.png]]
-- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
-- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
-- [ ] [archivis stripe scarf](https://www.urbanoutfitters.com/en-gb/shop/archivis-stripe-scarf?color=001&type=REGULAR&new_tab=1&a15_rid=7642fb556c87/GXiM64tbh0-830225&size=ONE+SIZE&quantity=1) 20gbp
-- [ ] [uo paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
-- [ ] [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
-- [ ] [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
-- [ ] [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
-
-
 ## Recipes
 
 - [ ] 10.52gbp for tacos
@@ -158,15 +132,41 @@ kanban-plugin: board
 	^ this is a ton of brownies, enough to have over a week or two
 
 
-## Term #1<br>TOTAL 384.36GBP
+## Clothes
 
-- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 830 quid left for general expenses
+- [ ] >[!spider-man "cosplay" tees]-
+	[the human spider tee tutorial](https://www.instagram.com/p/DbvddhZNKKI/)
+	[cardstock paper 50pcs](https://amzn.eu/d/02JDGkAv) 4.09gbp
+	[red tee](https://www.next.co.uk/style/st056123/v16198) 8gbp
+	[red hoodie](https://www.asos.com/collusion/collusion-unisex-zip-through-hoodie-in-red/prd/209646759#colourWayId-209646776) 24.99gbp
+	[rust-oleum fabric black spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-black-multi-surface-spray-paint-150ml/1726734_BQ.prd) 7gbp
+	[painter's tape](https://amzn.eu/d/0iaLleyh) 2.84gbp
+	^ i want to make a tee and hoodie, use the painter's tape for webbing and cardstock to print the spider symbols out and cut out with an exacto knife
+	[[spider-man 2002 human spider front logo.jpg]]
+	[[spider-man 2002 human spider back logo.jpg]]
+	[[spider-man 2002 human spider logo cutout.png]]
+	[black tee 2pcs](https://www.next.co.uk/style/su049279/885172) 15gbp
+	[rust-oleum fabric silver spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-silver-effect-multi-surface-spray-paint-150ml/1726735_BQ.prd) 7gbp
+	^ i want to make the same style of tee but with the symbiote logo
+	[[secret wars symbiote spider-man logo.png]]
+- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
+- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
+- [ ] [archivis stripe scarf](https://www.urbanoutfitters.com/en-gb/shop/archivis-stripe-scarf?color=001&type=REGULAR&new_tab=1&a15_rid=7642fb556c87/GXiM64tbh0-830225&size=ONE+SIZE&quantity=1) 20gbp
+- [ ] [uo paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
+- [ ] [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
+- [ ] [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
+- [ ] [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
+
+
+## Term #1<br>TOTAL 364.04GBP
+
+- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 915 quid left for general expenses
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
-- [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
+- [ ] [TrimUI Brick, Black, no microSD](https://www.aliexpress.com/item/1005012094003371.html?) 57.55gbp
 	^ use NextUI for the firmware
 - [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
@@ -188,18 +188,18 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	# ^ 170.75gbp spent
-- [ ] ## This leaves me with 421.68gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 442.64gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 847GBP
+## Term #2<br>TOTAL 718GBP
 
-- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 800 quid left for general expenses
-- [ ] [iPhone 17e, Pink, 256GB](https://www.apple.com/uk/shop/buy-iphone/iphone-17e/6.1-inch-display-256gb-soft-pink) 599gbp, would like to buy in-person at the Apple Store
+- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 982 quid left for general expenses
+- [ ] [iPhone 17e, Pink, 256GB](https://uk.webuy.com/product-detail/?id=SAPPIP17E256GSPUNLB) 510gbp, would like to buy in-person at the Apple Store
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
 	^ for my wallet
-- [ ] [AirPods Pro 3](https://www.apple.com/uk/shop/buy-airpods/airpods-pro-3) 219gbp, would like to buy in-person at the Apple Store
+- [ ] [AirPods Pro 3](https://amzn.eu/d/0gHn9O8H) 179gbp, would like to buy in-person at the Apple Store
 - [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
 	> - [VOID execution top (ichigo hoodie)](https://shop-void.com/products/execution-top?variant=44507574468697) 110gbp
@@ -211,7 +211,7 @@ kanban-plugin: board
 	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115==
 	# ^ 175gbp spent
-- [ ] ## This leaves me with 289.40gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 442.40gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 500.85GBP
@@ -232,7 +232,7 @@ kanban-plugin: board
 	> - JADA TOYS Invincible ==30==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) 39gbp
 	# ^ 199gbp spent
-- [ ] ## This leaves me with 347.67gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 347.38gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
