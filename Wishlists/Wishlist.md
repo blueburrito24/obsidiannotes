@@ -12,21 +12,20 @@ kanban-plugin: board
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
-- [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] >[!Figures I would like to get]-
-	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32205518261)==
+	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hobikuru-online%253A10001068)== 40gbp
 	> - ==jada toys omni-man==
 	> - ==mafex knight crusader batman (black ver.)==
 	> - ==shf all might==
 	> - shf perfect cell (only been teased)
-	> - ==mafex 231 iron man (stealth suit)==
-	> - ==[shf ultraman nexus](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m78809512933)==
-	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)==
+	> - ==[mafex 231 iron man (stealth suit)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html)== 56gbp
+	> - ==[shf ultraman nexus](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989)== 54gbp
+	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)== 66gbp
 	> - ==mafex 143 sensational spider-man==
-	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)==
+	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
 	> - bsm blackshark battle-damaged goku body + demoniacal fit dragon blaster ssj3 goku head
 	> - ==sexyice manikin bioroid==
 	> - ==revoltech reverse flash==
@@ -171,6 +170,8 @@ kanban-plugin: board
 	^ use NextUI for the firmware
 - [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
+	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
+	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
 	> - [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
 	> - [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) 3.89gbp
 	> - [Exacto Knife](https://amzn.eu/d/0cW6WR56) 5.95gbp
@@ -179,7 +180,7 @@ kanban-plugin: board
 	> - [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/faux-fur-trim-zip-up-graphic-hoodie-63744340-1005?seq=03&source=googleshopping&$web_only=true) 59.95gbp
 	^ follow [this tutorial](https://www.instagram.com/p/DaLNdK-BOxJ/) and use some [disposable straight razors](https://amzn.eu/d/0g0GCNSm) 6.99gbp to get rid of the graphics
-	# ^ 133.95gbp spent
+	# ^ 171.93gbp spent
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z "Old Battle Clothes" Vegeta](https://amzn.eu/d/00Ns9s7y) for my Daima Vegeta's heads ==56==
 	> - [Nono custom Vegeta Daima-2.0 neckpeg, 2pcs](https://www.aliexpress.com/item/1005012185716679.html!) ==8==
@@ -189,7 +190,7 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	# ^ 170.75gbp spent
-- [ ] ## This leaves me with 742.64gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 704.66gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
