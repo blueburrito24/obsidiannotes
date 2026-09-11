@@ -33,9 +33,9 @@ kanban-plugin: board
 	> - ==shf bleach tybw ichigo kurosaki (dual zangetsu ver.)==
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
+	> - ac factory impact effect set (not out yet)
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
 	> - [Tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
-	> - generic Kamehameha charge effect
 	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
 	> - [wired 1/12 stands](https://www.aliexpress.com/item/1005010276092517.html?) 1.99gbp
 	> - [crocodile clamp stand for painting](https://amzn.eu/d/05e8sQJo)
@@ -47,7 +47,7 @@ kanban-plugin: board
 	> ^ I would remove the Good Smile branding
 - [ ] [Nintendo Switch 2](https://uk.webuy.com/product-detail/?id=0454963NS2256B003) 315gbp
 	[3p dock](https://amzn.eu/d/0hRzGFlz) 27.99gbp
-- [ ] kirby and the forgotton land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe
+- [ ] kirby and the forgotton land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered
 	
 	^ either buy physical or digital depending on price
 
@@ -70,6 +70,12 @@ kanban-plugin: board
 	^ i want to make the same style of tee but with the symbiote logo
 	[[secret wars symbiote spider-man logo.png]]
 - [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
+- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
+- [ ] [archivis stripe scarf](https://www.urbanoutfitters.com/en-gb/shop/archivis-stripe-scarf?color=001&type=REGULAR&new_tab=1&a15_rid=7642fb556c87/GXiM64tbh0-830225&size=ONE+SIZE&quantity=1) 20gbp
+- [ ] [uo paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
+- [ ] [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
+- [ ] [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
+- [ ] [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
 
 
 ## Recipes
@@ -152,7 +158,7 @@ kanban-plugin: board
 	^ this is a ton of brownies, enough to have over a week or two
 
 
-## Term #1<br>TOTAL 469.36GBP
+## Term #1<br>TOTAL 384.36GBP
 
 - [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 830 quid left for general expenses
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -162,7 +168,6 @@ kanban-plugin: board
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [trimUI Brick Hammer, Silver, no card](https://www.aliexpress.com/item/1005009718334284.html?) 77.87gbp
 	^ use NextUI for the firmware
-- [ ] [Oppo Pad Air](https://uk.webuy.com/product-detail?id=STABOPPPADA64GWB) 85gbp
 - [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
 	> - [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
@@ -183,7 +188,7 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	# ^ 170.75gbp spent
-- [ ] ## This leaves me with 336.68gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 421.68gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -207,9 +212,6 @@ kanban-plugin: board
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115==
 	# ^ 175gbp spent
 - [ ] ## This leaves me with 289.40gbp including the expenses for buying ingredients biweekly and gym
-- [ ] ## WOULD LIKE TO GET THE BELOW ITEMS
-- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
-- [ ] my hand-made spider-man 2002 tee
 
 
 ## Term #3<br>TOTAL 500.85GBP
