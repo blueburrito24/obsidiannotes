@@ -47,7 +47,7 @@ kanban-plugin: board
 	> ^ I would remove the Good Smile branding
 - [ ] [Nintendo Switch 2](https://uk.webuy.com/product-detail/?id=0454963NS2256B003) 315gbp
 	[3p dock](https://amzn.eu/d/0hRzGFlz) 27.99gbp
-- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered
+- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered, tomodachii life
 	
 	^ either buy physical or digital depending on price
 
@@ -130,6 +130,7 @@ kanban-plugin: board
 	preheat oven to 175 degrees and lay some parchment paper on a pan,
 	pour in your brownie mix and throw on some dark chocolate chips on top, bake for 40 minutes until fudgy in the centre, let it cool and enjoy
 	^ this is a ton of brownies, enough to have over a week or two
+- [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
 ## Clothes
@@ -160,7 +161,7 @@ kanban-plugin: board
 
 ## Term #1<br>TOTAL 364.04GBP
 
-- [ ] During this term I will save 1,200 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 915 quid left for general expenses
+- [ ] During this term I will save 900 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 1,215 quid left for general expenses
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
@@ -188,7 +189,7 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	# ^ 170.75gbp spent
-- [ ] ## This leaves me with 442.64gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 742.64gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -214,11 +215,11 @@ kanban-plugin: board
 - [ ] ## This leaves me with 442.40gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 500.85GBP
+## Term #3<br>TOTAL 200.85GBP
 
-- [ ] During this term I will spend 300 on my swift card and 500 on these expenses so I will be able to save 1,000 for general savings and have 1,000 left for general expenses
-- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-2TB-SSD-NVIDIA-GeForce-RTX-5070-Ti-Gaming-Desktop-PC/p/598914) 2,299.99gbp
-	^ use accumulated savings  + 300 to purchase
+- [ ] During this term I will spend 300 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,000 left for general expenses
+- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
+	^ use accumulated savings
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
@@ -229,10 +230,9 @@ kanban-plugin: board
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
 	> - PC TOYS Venom Gloss Black Ver. ==40==
-	> - JADA TOYS Invincible ==30==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) 39gbp
-	# ^ 199gbp spent
-- [ ] ## This leaves me with 347.38gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 169gbp spent
+- [ ] ## This leaves me with 677.38gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
