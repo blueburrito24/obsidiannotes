@@ -8,8 +8,7 @@ kanban-plugin: board
 
 - [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
-	^ 41.97gbp per term
-- [ ] [Reolink WiFi Doorbell with Chime](https://reolink.com/product/reolink-video-doorbell-wifi/) 109.99gbp
+	^ 55.96gbp per term (including the 1 month break after a term)
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
@@ -31,6 +30,7 @@ kanban-plugin: board
 	> - bsm blackshark battle-damaged goku body + demoniacal fit dragon blaster ssj3 goku head
 	> - ==sexyice manikin bioroid==
 	> - ==revoltech reverse flash==
+	> - ==shf bleach tybw ichigo kurosaki (dual zangetsu ver.)==
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
@@ -183,7 +183,7 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	# ^ 170.75gbp spent
-- [ ] ## This leaves me with 350.67gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 336.68gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -206,7 +206,7 @@ kanban-plugin: board
 	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115==
 	# ^ 175gbp spent
-- [ ] ## This leaves me with 303.39gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 289.40gbp including the expenses for buying ingredients biweekly and gym
 - [ ] ## WOULD LIKE TO GET THE BELOW ITEMS
 - [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
 - [ ] my hand-made spider-man 2002 tee
@@ -230,7 +230,7 @@ kanban-plugin: board
 	> - JADA TOYS Invincible ==30==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) 39gbp
 	# ^ 199gbp spent
-- [ ] ## This leaves me with 361.46gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 347.67gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
