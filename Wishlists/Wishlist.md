@@ -31,6 +31,7 @@ kanban-plugin: board
 	> - ==sexyice manikin bioroid==
 	> - ==revoltech reverse flash==
 	> - ==shf bleach tybw ichigo kurosaki (dual zangetsu ver.)==
+	> - ==shf gintoki==
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - ac factory impact effect set (not out yet)
@@ -45,11 +46,10 @@ kanban-plugin: board
 	> - [tamashii stage marvel container](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73331483241) 9.26gbp
 	> - [Nendoroid More Container](https://www.gamersheek.co.uk/item/Good-Smile-Company/Nendoroid-More-Anniversary-Container-Black/1OI) 14.95gbp
 	> ^ I would remove the Good Smile branding
-- [ ] [Nintendo Switch 2](https://uk.webuy.com/product-detail/?id=0454963NS2256B003) 315gbp
-	[3p dock](https://amzn.eu/d/0hRzGFlz) 27.99gbp
+- [ ] [Nintendo Switch 2 (boxed)](https://uk.webuy.com/product-detail/?id=0454963NS2256B001) 345gbp
 - [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered, tomodachii life
 	
-	^ either buy physical or digital depending on price
+	^ either buy physical or digital depending on price, legend of zelda echoes of wisdom
 
 
 ## Recipes
@@ -197,6 +197,8 @@ kanban-plugin: board
 ## Term #2<br>TOTAL 718GBP
 
 - [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 982 quid left for general expenses
+- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
+	^ use accumulated savings
 - [ ] [iPhone 17e, Pink, 256GB](https://uk.webuy.com/product-detail/?id=SAPPIP17E256GSPUNLB) 510gbp, would like to buy in-person at the Apple Store
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
 	^ for my wallet
@@ -218,8 +220,6 @@ kanban-plugin: board
 ## Term #3<br>TOTAL 200.85GBP
 
 - [ ] During this term I will spend 300 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,000 left for general expenses
-- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
-	^ use accumulated savings
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
@@ -230,9 +230,10 @@ kanban-plugin: board
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
 	> - PC TOYS Venom Gloss Black Ver. ==40==
+	> - JADA TOYS Invincible ==30==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) 39gbp
-	# ^ 169gbp spent
-- [ ] ## This leaves me with 677.38gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 199gbp spent
+- [ ] ## This leaves me with 647.38gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
