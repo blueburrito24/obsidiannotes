@@ -150,11 +150,7 @@ kanban-plugin: board
 	^ i want to make the same style of tee but with the symbiote logo
 	[[secret wars symbiote spider-man logo.png]]
 - [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
-- [ ] [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
 - [ ] [archivis stripe scarf](https://www.urbanoutfitters.com/en-gb/shop/archivis-stripe-scarf?color=001&type=REGULAR&new_tab=1&a15_rid=7642fb556c87/GXiM64tbh0-830225&size=ONE+SIZE&quantity=1) 20gbp
-- [ ] [uo paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
-- [ ] [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
-- [ ] [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
 - [ ] [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
 
 
@@ -180,7 +176,10 @@ kanban-plugin: board
 	> - [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/faux-fur-trim-zip-up-graphic-hoodie-63744340-1005?seq=03&source=googleshopping&$web_only=true) 59.95gbp
 	^ follow [this tutorial](https://www.instagram.com/p/DaLNdK-BOxJ/) and use some [disposable straight razors](https://amzn.eu/d/0g0GCNSm) 6.99gbp to get rid of the graphics
-	# ^ 171.93gbp spent
+	> - [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
+	> - [uo paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
+	> - [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
+	# ^ 320.93gbp spent
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z "Old Battle Clothes" Vegeta](https://amzn.eu/d/00Ns9s7y) for my Daima Vegeta's heads ==56==
 	> - [Nono custom Vegeta Daima-2.0 neckpeg, 2pcs](https://www.aliexpress.com/item/1005012185716679.html!) ==8==
@@ -190,7 +189,7 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	# ^ 170.75gbp spent
-- [ ] ## This leaves me with 704.66gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 555.66gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -210,12 +209,13 @@ kanban-plugin: board
 	^ use disposable straight razors to get rid of the eyes
 	> - [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
-	# 175.98gbp spent
+	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
+	# 199.98gbp spent
 - [ ] >[!Figure purchases]-
 	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115==
 	# ^ 175gbp spent
-- [ ] ## This leaves me with 442.40gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 418.40gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 200.85GBP
