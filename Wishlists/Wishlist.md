@@ -47,7 +47,7 @@ kanban-plugin: board
 	> ^ I would remove the Good Smile branding
 - [ ] [Nintendo Switch 2](https://uk.webuy.com/product-detail/?id=0454963NS2256B003) 315gbp
 	[3p dock](https://amzn.eu/d/0hRzGFlz) 27.99gbp
-- [ ] kirby and the forgotton land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered
+- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered
 	
 	^ either buy physical or digital depending on price
 
