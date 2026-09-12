@@ -178,15 +178,15 @@ kanban-plugin: board
 	> - [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
 	# ^ 320.93gbp spent
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS DRAGON BALL Z "Old Battle Clothes" Vegeta](https://amzn.eu/d/00Ns9s7y) for my Daima Vegeta's heads ==56==
-	> - [Nono custom Vegeta Daima-2.0 neckpeg, 2pcs](https://www.aliexpress.com/item/1005012185716679.html!) ==8==
+	> - [SH FIGUARTS DRAGON BALL Z "Old Battle Clothes" Vegeta](https://amzn.eu/d/00Ns9s7y) for my Daima Vegeta's heads ==56gbp==
+	> - [Nono custom Vegeta Daima-2.0 neckpeg, 2pcs](https://www.aliexpress.com/item/1005012185716679.html!) ==8gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash. 
-	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24==
+	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
-	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) 54gbp
-	> - ==[MAFEX 231 Iron Man (Stealth Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html)== 56gbp
+	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
+	> - [MAFEX 231 Iron Man (Stealth Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	# ^ 258.26gbp spent
 - [ ] ## This leaves me with 468.15gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
@@ -211,9 +211,9 @@ kanban-plugin: board
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
 - [ ] >[!Figure purchases]-
-	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60==
-	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115==
-	> - ==[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm)== 70gbp
+	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60gbp==
+	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
+	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==70gbp==
 	# ^ 245gbp spent
 - [ ] ## This leaves me with 348.40gbp including the expenses for buying ingredients biweekly and gym
 
@@ -228,11 +228,11 @@ kanban-plugin: board
 - [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
-	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80== for upgrading my Revoltech Symbiote Spider-Man
+	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
-	> - PC TOYS Venom Gloss Black Ver. ==40==
-	> - JADA TOYS Invincible ==30==
-	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) 39gbp
+	> - PC TOYS Venom Gloss Black Ver. ==40gbp==
+	> - JADA TOYS Invincible ==30gbp==
+	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 199gbp spent
 - [ ] ## This leaves me with 647.38gbp including the expenses for buying ingredients biweekly and gym
 
