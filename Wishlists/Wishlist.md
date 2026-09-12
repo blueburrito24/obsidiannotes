@@ -25,9 +25,7 @@ kanban-plugin: board
 	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)== 66gbp
 	> - ==mafex 143 sensational spider-man==
 	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
-	> - bsm blackshark battle-damaged goku body + demoniacal fit dragon blaster ssj3 goku head
 	> - ==[sexyice manikin bioroid](https://www.nin-nin-game.com/en/action-figures/236772-cre-series-neuron-tech-manikin-bioroid-troy-020-sexyice-.html)== 40gbp
-	> - ==revoltech reverse flash==
 	> - ==[shf bleach tybw ichigo kurosaki (dual zangetsu ver.)](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html)== 60gbp
 	> - ==[shf gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm?srsltid=AfmBOoqY0mdDbWISf87Mh-uPSFJ4Z4_keO4gzNBhfTf5IIhCocdMi0ND)== 60gbp
 - [ ] >[!Figure accessories]-
@@ -172,6 +170,8 @@ kanban-plugin: board
 	> - [Exacto Knife](https://amzn.eu/d/0cW6WR56) 5.95gbp
 	> - [oguri cap head keychain plush](https://www.aliexpress.com/item/1005011641471571.html?) 9.79gbp
 	> - [Gintama dopey plush keychains](https://www.aliexpress.com/item/1005012332089132.html?) 14.39gbp
+	
+	>[!clothing purchases]-
 	> - [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/faux-fur-trim-zip-up-graphic-hoodie-63744340-1005?seq=03&source=googleshopping&$web_only=true) 59.95gbp
 	^ follow [this tutorial](https://www.instagram.com/p/DaLNdK-BOxJ/) and use some [disposable straight razors](https://amzn.eu/d/0g0GCNSm) 6.99gbp to get rid of the graphics
@@ -182,14 +182,14 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z "Old Battle Clothes" Vegeta](https://amzn.eu/d/00Ns9s7y) for my Daima Vegeta's heads ==56==
 	> - [Nono custom Vegeta Daima-2.0 neckpeg, 2pcs](https://www.aliexpress.com/item/1005012185716679.html!) ==8==
-	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp, [CT TOYS Wolverine](https://www.aliexpress.com/item/1005009993078655.html?) 22.49gbp
-	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash. I would take the heads from CT TOYS Brown Suit Wolverine and either remove the sockets entirely via heat or dremel them out, then make sure they can fit onto the SHF Wolverine neck peg, then I will have good neutral and smirking headsculpts available.
+	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
+	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash. 
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) 54gbp
-	# ^ 224.75gbp spent
-- [ ] ## This leaves me with 501.66gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 202.26gbp spent
+- [ ] ## This leaves me with 524.15gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
