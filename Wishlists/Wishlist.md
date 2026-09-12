@@ -19,9 +19,7 @@ kanban-plugin: board
 	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hobikuru-online%253A10001068)== 40gbp
 	> - ==jada toys omni-man==
 	> - ==mafex knight crusader batman (black ver.)==
-	> - ==[shf all might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm)== 70gbp
 	> - shf perfect cell (only been teased)
-	> - ==[mafex 231 iron man (stealth suit)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html)== 56gbp
 	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)== 66gbp
 	> - ==mafex 143 sensational spider-man==
 	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
@@ -188,8 +186,9 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) 54gbp
-	# ^ 202.26gbp spent
-- [ ] ## This leaves me with 524.15gbp including the expenses for buying ingredients biweekly and gym
+	> - ==[MAFEX 231 Iron Man (Stealth Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html)== 56gbp
+	# ^ 258.26gbp spent
+- [ ] ## This leaves me with 468.15gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -214,8 +213,9 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115==
-	# ^ 175gbp spent
-- [ ] ## This leaves me with 418.40gbp including the expenses for buying ingredients biweekly and gym
+	> - ==[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm)== 70gbp
+	# ^ 245gbp spent
+- [ ] ## This leaves me with 348.40gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 200.85GBP
