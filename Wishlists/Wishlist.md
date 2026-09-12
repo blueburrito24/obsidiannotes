@@ -40,10 +40,11 @@ kanban-plugin: board
 	> - [tamashii stage marvel container](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73331483241) 9.26gbp
 	> - [Nendoroid More Container](https://www.gamersheek.co.uk/item/Good-Smile-Company/Nendoroid-More-Anniversary-Container-Black/1OI) 14.95gbp
 	> ^ I would remove the Good Smile branding
+- [ ] ## I would like to get the Switch 2 and some games during the 6 month break between the end of 2nd year repeat and the beginning of 3rd year
 - [ ] [Nintendo Switch 2 (boxed)](https://uk.webuy.com/product-detail/?id=0454963NS2256B001) 345gbp
-- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda breath of the wild, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered, tomodachii life
+- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered, tomodachii life, legend of zelda echoes of wisdom, super mario 3d world + bowser's fury
 	
-	^ either buy physical or digital depending on price, legend of zelda echoes of wisdom
+	^ either buy physical or digital depending on price
 
 
 ## Recipes
@@ -220,7 +221,7 @@ kanban-plugin: board
 
 ## Term #3<br>TOTAL 200.85GBP
 
-- [ ] During this term I will spend 300 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,000 left for general expenses
+- [ ] During this term I will spend 300 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,300 left for general expenses
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
@@ -234,7 +235,7 @@ kanban-plugin: board
 	> - JADA TOYS Invincible ==30gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 199gbp spent
-- [ ] ## This leaves me with 647.38gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 650.38gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
