@@ -15,6 +15,8 @@ kanban-plugin: board
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
+- [ ] [TrimUI Brick, Black, no microSD](https://www.aliexpress.com/item/1005012094003371.html?) 57.55gbp
+	^ use NextUI for the firmware
 - [ ] >[!Figures I would like to get]-
 	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hobikuru-online%253A10001068)== 40gbp
 	> - ==jada toys omni-man==
@@ -23,7 +25,7 @@ kanban-plugin: board
 	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)== 66gbp
 	> - ==mafex 143 sensational spider-man==
 	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
-	> - ==[sexyice manikin bioroid](https://www.nin-nin-game.com/en/action-figures/236772-cre-series-neuron-tech-manikin-bioroid-troy-020-sexyice-.html)== 40gbp
+	> - ==[mafex 231 iron man](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html)== 56gbp
 	> - ==[shf bleach tybw ichigo kurosaki (dual zangetsu ver.)](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html)== 60gbp
 	> - ==[shf gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm?srsltid=AfmBOoqY0mdDbWISf87Mh-uPSFJ4Z4_keO4gzNBhfTf5IIhCocdMi0ND)== 60gbp
 - [ ] >[!Figure accessories]-
@@ -158,8 +160,7 @@ kanban-plugin: board
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
-- [ ] [TrimUI Brick, Black, no microSD](https://www.aliexpress.com/item/1005012094003371.html?) 57.55gbp
-	^ use NextUI for the firmware
+- [ ] [iPad 8th Gen, 32GB, Gold](https://uk.webuy.com/product-detail/?id=SAPPA227032GGWIFB) 145gbp
 - [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -187,9 +188,9 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
-	> - [MAFEX 231 Iron Man (Stealth Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
-	# ^ 258.26gbp spent
-- [ ] ## This leaves me with 468.15gbp including the expenses for buying ingredients biweekly and gym
+	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236772-cre-series-neuron-tech-manikin-bioroid-troy-020-sexyice-.html) ==40gbp==
+	# ^ 242.26gbp spent
+- [ ] ## This leaves me with 396.70gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
