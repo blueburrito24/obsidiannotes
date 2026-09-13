@@ -25,7 +25,6 @@ kanban-plugin: board
 	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)== 66gbp
 	> - ==mafex 143 sensational spider-man==
 	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
-	> - ==[mafex 231 iron man](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html)== 56gbp
 	> - ==[shf bleach tybw ichigo kurosaki (dual zangetsu ver.)](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html)== 60gbp
 	> - ==[shf gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm?srsltid=AfmBOoqY0mdDbWISf87Mh-uPSFJ4Z4_keO4gzNBhfTf5IIhCocdMi0ND)== 60gbp
 - [ ] >[!Figure accessories]-
@@ -234,9 +233,10 @@ kanban-plugin: board
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
 	> - PC TOYS Venom Gloss Black Ver. ==40gbp==
 	> - JADA TOYS Invincible ==30gbp==
+	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
-	# ^ 199gbp spent
-- [ ] ## This leaves me with 650.38gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 255gbp spent
+- [ ] ## This leaves me with 594.38gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
