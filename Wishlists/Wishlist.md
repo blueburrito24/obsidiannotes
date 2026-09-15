@@ -17,6 +17,11 @@ kanban-plugin: board
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] [TrimUI Brick, Black, no microSD](https://www.aliexpress.com/item/1005012094003371.html?) 57.55gbp
 	^ use NextUI for the firmware
+- [ ] [custom body pillow case](https://amzn.eu/d/0bAl8Ttf) 6.35gbp
+	[body pillow](https://amzn.eu/d/0eJPXnka) 19.99gbp
+	i will use the below images for the front and back of the case
+	[[goku front cover.png]]
+	[[goku back cover.png]]
 - [ ] >[!Figures I would like to get]-
 	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hobikuru-online%253A10001068)== 40gbp
 	> - ==jada toys omni-man==
@@ -27,6 +32,10 @@ kanban-plugin: board
 	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
 	> - ==[shf bleach tybw ichigo kurosaki (dual zangetsu ver.)](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html)== 60gbp
 	> - ==[shf gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm?srsltid=AfmBOoqY0mdDbWISf87Mh-uPSFJ4Z4_keO4gzNBhfTf5IIhCocdMi0ND)== 60gbp
+	> - ==[mafex gurihiru deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWXegKQDqPqLgvoe9Ghwm)== 52.74gbp + ==[revoltech weapons pack](https://www.aliexpress.com/item/1005010391318770.html?)== 25.49gbp
+	> - ==[shf narutop99 edition naruto uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html)== 33.88gbp
+	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
+	> - ==[figma metroid prime 3 corruption samus aran](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=mediaworld-plus_61278100001)== 64.04gbp
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - ac factory impact effect set (not out yet)
@@ -43,7 +52,7 @@ kanban-plugin: board
 	> ^ I would remove the Good Smile branding
 - [ ] ## I would like to get the Switch 2 and some games during the 6 month break between the end of 2nd year repeat and the beginning of 3rd year
 - [ ] [Nintendo Switch 2 (boxed)](https://uk.webuy.com/product-detail/?id=0454963NS2256B001) 345gbp
-- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered, tomodachii life, legend of zelda echoes of wisdom, super mario 3d world + bowser's fury
+- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered, tomodachii life, legend of zelda echoes of wisdom, super mario 3d world + bowser's fury, kingdom hearts collection
 	
 	^ either buy physical or digital depending on price
 
@@ -179,8 +188,6 @@ kanban-plugin: board
 	> - [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
 	# ^ 320.93gbp spent
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS DRAGON BALL Z "Old Battle Clothes" Vegeta](https://amzn.eu/d/00Ns9s7y) for my Daima Vegeta's heads ==56gbp==
-	> - [Nono custom Vegeta Daima-2.0 neckpeg, 2pcs](https://www.aliexpress.com/item/1005012185716679.html!) ==8gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash. 
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
@@ -188,8 +195,8 @@ kanban-plugin: board
 	[[FoR-LSSJ Kitbash.png]]
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
 	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236772-cre-series-neuron-tech-manikin-bioroid-troy-020-sexyice-.html) ==40gbp==
-	# ^ 242.26gbp spent
-- [ ] ## This leaves me with 396.70gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 178.26gbp spent
+- [ ] ## This leaves me with 460.70gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
