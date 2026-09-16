@@ -6,9 +6,9 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] take note 288 per term for swift card (all operators, all zones from 1-5, 96 a month)
+- [ ] take note 380 per term for swift card (all operators, all zones from 1-5, 96 per month for 4 months)
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
-	^ 55.96gbp per term (including the 1 month break after a term)
+	^ 55.96gbp per term
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] https://www.darktable.org/ for editing raw photos
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
@@ -160,15 +160,14 @@ kanban-plugin: board
 - [ ] [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
 
 
-## Term #1<br>TOTAL 364.04GBP
+## Term #1<br>TOTAL 306.49GBP
 
-- [ ] During this term I will save 900 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 1,215 quid left for general expenses
+- [ ] During this term I will save 900 for my PC alongside spending 380 on a swift card and these expenses: I will have approximately 1,210 quid left for general expenses
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
-- [ ] [iPad 8th Gen, 32GB, Gold](https://uk.webuy.com/product-detail/?id=SAPPA227032GGWIFB) 145gbp
 - [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -196,7 +195,7 @@ kanban-plugin: board
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
 	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236772-cre-series-neuron-tech-manikin-bioroid-troy-020-sexyice-.html) ==40gbp==
 	# ^ 178.26gbp spent
-- [ ] ## This leaves me with 460.70gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 503.59gbp including the expenses for buying ingredients biweekly and gym
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -206,7 +205,7 @@ kanban-plugin: board
 - [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 982 quid left for general expenses
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
 	^ use accumulated savings
-- [ ] [iPhone 17e, Pink, 256GB](https://uk.webuy.com/product-detail/?id=SAPPIP17E256GSPUNLB) 510gbp, would like to buy in-person at the Apple Store
+- [ ] [iPhone 17e, Pink, 256GB](https://uk.webuy.com/product-detail/?id=SAPPIP17E256GSPUNLB) 510gbp
 - [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
 	^ for my wallet
 - [ ] [AirPods Pro 3](https://amzn.eu/d/0gHn9O8H) 179gbp, would like to buy in-person at the Apple Store
@@ -228,7 +227,7 @@ kanban-plugin: board
 
 ## Term #3<br>TOTAL 200.85GBP
 
-- [ ] During this term I will spend 300 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,300 left for general expenses
+- [ ] During this term I will spend 192 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,408 left for general expenses
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
@@ -243,7 +242,7 @@ kanban-plugin: board
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 255gbp spent
-- [ ] ## This leaves me with 594.38gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 732.04gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
