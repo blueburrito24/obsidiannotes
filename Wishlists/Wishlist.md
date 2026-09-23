@@ -15,8 +15,7 @@ kanban-plugin: board
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [TrimUI Brick, Black, no microSD](https://www.aliexpress.com/item/1005012094003371.html?) 57.55gbp
-	^ use NextUI for the firmware
+- [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
 - [ ] [custom body pillow case](https://amzn.eu/d/0bAl8Ttf) 6.35gbp
 	[body pillow](https://amzn.eu/d/0eJPXnka) 19.99gbp
 	i will use the below images for the front and back of the case
@@ -50,11 +49,6 @@ kanban-plugin: board
 	> - [tamashii stage marvel container](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73331483241) 9.26gbp
 	> - [Nendoroid More Container](https://www.gamersheek.co.uk/item/Good-Smile-Company/Nendoroid-More-Anniversary-Container-Black/1OI) 14.95gbp
 	> ^ I would remove the Good Smile branding
-- [ ] ## I would like to get the Switch 2 and some games during the 6 month break between the end of 2nd year repeat and the beginning of 3rd year
-- [ ] [Nintendo Switch 2 (boxed)](https://uk.webuy.com/product-detail/?id=0454963NS2256B001) 345gbp
-- [ ] kirby and the world beyond, kirby and the forgotten land, super mario bros wonder, donkey kong bananza, super mario odyssey, legend of zelda skyward sword hd, legend of zelda ocarina of time remake, metroid dread, metroid ravenous, mario kart 8 deluxe, metroid prime remastered, tomodachii life, legend of zelda echoes of wisdom, super mario 3d world + bowser's fury, kingdom hearts collection
-	
-	^ either buy physical or digital depending on price
 
 
 ## Recipes
@@ -205,10 +199,8 @@ kanban-plugin: board
 - [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 982 quid left for general expenses
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
 	^ use accumulated savings
-- [ ] [iPhone 17e, Pink, 256GB](https://uk.webuy.com/product-detail/?id=SAPPIP17E256GSPUNLB) 510gbp
-- [ ] [AirTag](https://www.apple.com/uk/shop/buy-airtag/airtag/1-pack) 29gbp, would like to buy in-person at the Apple Store
-	^ for my wallet
-- [ ] [AirPods Pro 3](https://amzn.eu/d/0gHn9O8H) 179gbp, would like to buy in-person at the Apple Store
+- [ ] [HONOR Magic 8 Pro, 12GB RAM, 512GB storage, Sunrise Gold, B Grade](https://uk.webuy.com/product-detail/?id=SHONM8P12512GSGUNLB) 620gbp
+- [ ] [sony xm6 earbuds](https://amzn.eu/d/0e182tPo) 249gbp
 - [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
 	> - [VOID execution top (ichigo hoodie)](https://shop-void.com/products/execution-top?variant=44507574468697) 110gbp
@@ -222,7 +214,7 @@ kanban-plugin: board
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==70gbp==
 	# ^ 245gbp spent
-- [ ] ## This leaves me with 348.40gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 197.40gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 200.85GBP
@@ -232,7 +224,7 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
-- [ ] [AirPods Max 2nd Gen/USB-C](https://uk.webuy.com/product-detail?id=SHEAAAPMOESTB) 265gbp
+- [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
@@ -242,7 +234,7 @@ kanban-plugin: board
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 255gbp spent
-- [ ] ## This leaves me with 732.04gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 797.05gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
