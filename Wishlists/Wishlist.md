@@ -15,11 +15,6 @@ kanban-plugin: board
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [custom body pillow case](https://amzn.eu/d/0bAl8Ttf) 6.35gbp
-	[body pillow](https://amzn.eu/d/0eJPXnka) 19.99gbp
-	i will use the below images for the front and back of the case
-	[[goku front cover.png]]
-	[[goku back cover.png]]
 - [ ] >[!Figures I would like to get]-
 	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hobikuru-online%253A10001068)== 40gbp
 	> - ==jada toys omni-man==
