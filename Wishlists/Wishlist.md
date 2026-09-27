@@ -144,7 +144,7 @@ kanban-plugin: board
 - [ ] [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
 
 
-## Term #1<br>TOTAL 306.49GBP
+## Term #1<br>TOTAL 368.88GBP
 
 - [ ] During this term I will save 900 for my PC alongside spending 380 on a swift card and these expenses: I will have approximately 1,210 quid left for general expenses
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -183,12 +183,12 @@ kanban-plugin: board
 	> - [MAFEX 082 Deadpool (Gurihiru Art Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWXegKQDqPqLgvoe9Ghwm) ==52.74gbp== + [Revoltech Weapon Pack Vol 1.](https://www.aliexpress.com/item/1005010391318770.html?) ==25.49gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	# ^ 378.43gbp spent
-- [ ] ## This leaves me with 392.50gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] ## This leaves me with 403.77gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602167091%253Fbranch_number%253D0002) ==69== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==224/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 718GBP
+## Term #2<br>TOTAL 869GBP
 
 - [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 982 quid left for general expenses
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
@@ -207,10 +207,10 @@ kanban-plugin: board
 	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==70gbp==
 	# ^ 110gbp spent
-- [ ] ## This leaves me with 312.40gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 332.40gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 200.85GBP
+## Term #3<br>TOTAL 119.13GBP
 
 - [ ] During this term I will spend 192 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,408 left for general expenses
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
@@ -229,7 +229,7 @@ kanban-plugin: board
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 255gbp spent
-- [ ] ## This leaves me with 398.90gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 447.11gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
