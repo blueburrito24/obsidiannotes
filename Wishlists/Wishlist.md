@@ -15,15 +15,12 @@ kanban-plugin: board
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
+- [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
 - [ ] >[!Figures I would like to get]-
-	> - ==[mafex cyborg superman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hobikuru-online%253A10001068)== 40gbp
 	> - ==jada toys omni-man==
 	> - ==mafex knight crusader batman (black ver.)==
 	> - shf perfect cell (only been teased)
-	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)== 66gbp
 	> - ==mafex 143 sensational spider-man==
-	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
-	> - ==[shf gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm?srsltid=AfmBOoqY0mdDbWISf87Mh-uPSFJ4Z4_keO4gzNBhfTf5IIhCocdMi0ND)== 60gbp
 	> - ==[shf narutop99 edition naruto uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html)== 33.88gbp
 	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
 	> - ==[figma metroid prime 3 corruption samus aran](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=mediaworld-plus_61278100001)== 64.04gbp
@@ -182,14 +179,12 @@ kanban-plugin: board
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
-	> - [SH FIGUARTS DRAGON BALL DAIMA Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) ==41.58gbp==
-	^ will use for clone poses and to replace the damaged bicep pieces on my original copy
 	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236771-cre-series-neuron-tech-manikin-bioroid-troy-021-sexyice-.html) ==41.18gbp==
 	> - [MAFEX 082 Deadpool (Gurihiru Art Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWXegKQDqPqLgvoe9Ghwm) ==52.74gbp== + [Revoltech Weapon Pack Vol 1.](https://www.aliexpress.com/item/1005010391318770.html?) ==25.49gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
-	# ^ 420.01gbp spent
-- [ ] ## This leaves me with 350.92gbp, not including biweekly ingredients or gym due to my part-time schedule
-- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
+	# ^ 378.43gbp spent
+- [ ] ## This leaves me with 392.50gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602167091%253Fbranch_number%253D0002) ==69== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==224/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
@@ -228,8 +223,9 @@ kanban-plugin: board
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
-	> - PC TOYS Venom Gloss Black Ver. ==40gbp==
-	> - JADA TOYS Invincible ==30gbp==
+	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
+	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
+	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 255gbp spent
