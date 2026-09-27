@@ -210,7 +210,7 @@ kanban-plugin: board
 - [ ] ## This leaves me with 332.40gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 119.13GBP
+## Term #3<br>TOTAL 200.85GBP
 
 - [ ] During this term I will spend 192 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,408 left for general expenses
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
@@ -229,7 +229,7 @@ kanban-plugin: board
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 255gbp spent
-- [ ] ## This leaves me with 447.11gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 365.39gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
