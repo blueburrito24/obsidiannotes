@@ -24,6 +24,7 @@ kanban-plugin: board
 	> - ==[shf narutop99 edition naruto uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html)== 33.88gbp
 	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
 	> - ==[figma metroid prime 3 corruption samus aran](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=mediaworld-plus_61278100001)== 64.04gbp
+	> - k studio gotenks (not available yet)
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - ac factory impact effect set (not out yet)
