@@ -15,7 +15,6 @@ kanban-plugin: board
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
 - [ ] [custom body pillow case](https://amzn.eu/d/0bAl8Ttf) 6.35gbp
 	[body pillow](https://amzn.eu/d/0eJPXnka) 19.99gbp
 	i will use the below images for the front and back of the case
@@ -29,9 +28,7 @@ kanban-plugin: board
 	> - ==[shf oguri cap](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m34661966583)== 66gbp
 	> - ==mafex 143 sensational spider-man==
 	> - ==[shf yuta okkotsu](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m37907965694)== 98gbp
-	> - ==[shf bleach tybw ichigo kurosaki (dual zangetsu ver.)](https://www.nin-nin-game.com/en/bleach/124580-shfiguarts-bleach-thousand-year-blood-war-kurosaki-ichigo-dual-zangetsu-ver-limited-edition-bandai-spirits-.html)== 60gbp
 	> - ==[shf gintoki](https://hobbyfigures.co.uk/products/gintama-s-h-figuarts-action-figure-sakata-gintoki-14cm?srsltid=AfmBOoqY0mdDbWISf87Mh-uPSFJ4Z4_keO4gzNBhfTf5IIhCocdMi0ND)== 60gbp
-	> - ==[mafex gurihiru deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWXegKQDqPqLgvoe9Ghwm)== 52.74gbp + ==[revoltech weapons pack](https://www.aliexpress.com/item/1005010391318770.html?)== 25.49gbp
 	> - ==[shf narutop99 edition naruto uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html)== 33.88gbp
 	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
 	> - ==[figma metroid prime 3 corruption samus aran](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=mediaworld-plus_61278100001)== 64.04gbp
@@ -42,9 +39,9 @@ kanban-plugin: board
 	> - [Tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
 	> - [wired 1/12 stands](https://www.aliexpress.com/item/1005010276092517.html?) 1.99gbp
-	> - [crocodile clamp stand for painting](https://amzn.eu/d/05e8sQJo)
 	> - [amazon basics flexible tripod for photography](https://amzn.eu/d/09VKP8Yt) 8.30gbp
 	> - [heat gun for customising](https://amzn.eu/d/03Mw6Po8) 14.99gbp
+	> - [8pcs pencil boxes for storing action figures on the go](https://amzn.eu/d/0iabR3qK) 12.99gbp
 	> - [shf iron man 3 tony's sofa](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81890038052), [another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=s83aAQ2hP9yQZT9C2c9Src)
 	> - [tamashii stage marvel container](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73331483241) 9.26gbp
 	> - [Nendoroid More Container](https://www.gamersheek.co.uk/item/Good-Smile-Company/Nendoroid-More-Anniversary-Container-Black/1OI) 14.95gbp
@@ -150,8 +147,9 @@ kanban-plugin: board
 	^ i want to make the same style of tee but with the symbiote logo
 	[[secret wars symbiote spider-man logo.png]]
 - [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
-- [ ] [archivis stripe scarf](https://www.urbanoutfitters.com/en-gb/shop/archivis-stripe-scarf?color=001&type=REGULAR&new_tab=1&a15_rid=7642fb556c87/GXiM64tbh0-830225&size=ONE+SIZE&quantity=1) 20gbp
-- [ ] [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
+- [ ] [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
+- [ ] [balloon fit pleated joggers](https://www.boohooman.com/product/boohooman-balloon-fit-pleated-jogger_cmm27813?colour=black) 28gbp
+- [ ] [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
 
 
 ## Term #1<br>TOTAL 306.49GBP
@@ -162,6 +160,7 @@ kanban-plugin: board
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
+- [ ] [TrimUI Brick](https://www.aliexpress.com/item/1005008082195952.html?) 62.39gbp
 - [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -177,19 +176,24 @@ kanban-plugin: board
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/faux-fur-trim-zip-up-graphic-hoodie-63744340-1005?seq=03&source=googleshopping&$web_only=true) 59.95gbp
 	^ follow [this tutorial](https://www.instagram.com/p/DaLNdK-BOxJ/) and use some [disposable straight razors](https://amzn.eu/d/0g0GCNSm) 6.99gbp to get rid of the graphics
 	> - [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
-	> - [uo paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 	> - [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
-	# ^ 320.93gbp spent
+	> - [loose fit nylon trackpants](https://www2.hm.com/en_gb/productpage.1343644001.html) 37.99gbp
+	> - [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
+	# ^ 368.92gbp spent
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
-	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash. 
+	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
-	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236772-cre-series-neuron-tech-manikin-bioroid-troy-020-sexyice-.html) ==40gbp==
-	# ^ 178.26gbp spent
-- [ ] ## This leaves me with 503.59gbp including the expenses for buying ingredients biweekly and gym
+	> - [SH FIGUARTS DRAGON BALL DAIMA Piccolo](https://www.nin-nin-game.com/en/shfiguarts/167581-shfiguarts-dragon-ball-daima-piccolo-bandai-spirits-.html) ==41.58gbp==
+	^ will use for clone poses and to replace the damaged bicep pieces on my original copy
+	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236771-cre-series-neuron-tech-manikin-bioroid-troy-021-sexyice-.html) ==41.18gbp==
+	> - [MAFEX 082 Deadpool (Gurihiru Art Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWXegKQDqPqLgvoe9Ghwm) ==52.74gbp== + [Revoltech Weapon Pack Vol 1.](https://www.aliexpress.com/item/1005010391318770.html?) ==25.49gbp==
+	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
+	# ^ 420.01gbp spent
+- [ ] ## This leaves me with 350.92gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16524950553) ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==215/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -200,7 +204,7 @@ kanban-plugin: board
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
 	^ use accumulated savings
 - [ ] [HONOR Magic 8 Pro, 12GB RAM, 512GB storage, Sunrise Gold, B Grade](https://uk.webuy.com/product-detail/?id=SHONM8P12512GSGUNLB) 620gbp
-- [ ] [sony xm6 earbuds](https://amzn.eu/d/0e182tPo) 249gbp
+- [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
 	> - [VOID execution top (ichigo hoodie)](https://shop-void.com/products/execution-top?variant=44507574468697) 110gbp
@@ -211,10 +215,9 @@ kanban-plugin: board
 	# 199.98gbp spent
 - [ ] >[!Figure purchases]-
 	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60gbp==
-	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==70gbp==
-	# ^ 245gbp spent
-- [ ] ## This leaves me with 197.40gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 110gbp spent
+- [ ] ## This leaves me with 312.40gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 200.85GBP
@@ -225,6 +228,7 @@ kanban-plugin: board
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] ----Not included in total----
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
+- [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
@@ -234,7 +238,7 @@ kanban-plugin: board
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 255gbp spent
-- [ ] ## This leaves me with 797.05gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 398.90gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
