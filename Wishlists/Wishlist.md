@@ -155,6 +155,7 @@ kanban-plugin: board
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [TrimUI Brick](https://www.aliexpress.com/item/1005008082195952.html?) 62.39gbp
 - [ ] # ----Not included in total----
+- [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
 	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
@@ -182,14 +183,15 @@ kanban-plugin: board
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
 	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236771-cre-series-neuron-tech-manikin-bioroid-troy-021-sexyice-.html) ==41.18gbp==
 	> - [MAFEX 082 Deadpool (Gurihiru Art Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWXegKQDqPqLgvoe9Ghwm) ==52.74gbp== + [Revoltech Weapon Pack Vol 1.](https://www.aliexpress.com/item/1005010391318770.html?) ==25.49gbp==
+	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
-	# ^ 378.43gbp spent
-- [ ] ## This leaves me with 683.77gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 418.43gbp spent
+- [ ] ## This leaves me with 235.62gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602167091%253Fbranch_number%253D0002) ==69== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==224/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 849.86GBP
+## Term #2<br>TOTAL 868.85GBP
 
 - [ ] During this term I will save 800 for my PC alongside spending 380 on a swift card.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
@@ -197,6 +199,7 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
+	[spigen neo hybrid case](https://amzn.eu/d/0fq7dpEu) 18.99gbp
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
@@ -206,7 +209,7 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] ## This leaves me with 381.54gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 362.55gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 758.13GBP
@@ -214,18 +217,16 @@ kanban-plugin: board
 - [ ] During this term I will spend 192 on my swift card and I will save 1,000.
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
-- [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
-	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
 	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
 	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
-	# ^ 255gbp spent
-- [ ] ## This leaves me with 406.25gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 215gbp spent
+- [ ] ## This leaves me with 844.40gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
