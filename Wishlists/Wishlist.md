@@ -14,13 +14,11 @@ kanban-plugin: board
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
-- [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
 - [ ] >[!Figures I would like to get]-
 	> - ==jada toys omni-man==
 	> - ==mafex knight crusader batman (black ver.)==
 	> - shf perfect cell (only been teased)
-	> - ==mafex 143 sensational spider-man==
 	> - ==[shf narutop99 edition naruto uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html)== 33.88gbp
 	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
 	> - ==[figma metroid prime 3 corruption samus aran](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=mediaworld-plus_61278100001)== 64.04gbp
@@ -156,6 +154,7 @@ kanban-plugin: board
 - [ ] [TrimUI Brick](https://www.aliexpress.com/item/1005008082195952.html?) 62.39gbp
 - [ ] # ----Not included in total----
 - [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
+- [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
 	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
@@ -186,7 +185,7 @@ kanban-plugin: board
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	# ^ 418.43gbp spent
-- [ ] ## This leaves me with 235.62gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] ## This leaves me with 202.73gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602167091%253Fbranch_number%253D0002) ==69== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==224/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
