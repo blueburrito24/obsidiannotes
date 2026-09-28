@@ -147,7 +147,7 @@ kanban-plugin: board
 
 ## Term #1<br>TOTAL 368.88GBP
 
-- [ ] During this term I will save 900 for my PC alongside spending 380 on a swift card and these expenses: I will have approximately 1,210 quid left for general expenses
+- [ ] During this term I will save 900 for my PC alongside spending 380 on a swift card.
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
@@ -189,12 +189,16 @@ kanban-plugin: board
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 869GBP
+## Term #2<br>TOTAL 911.84GBP
 
-- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card and these expenses: I will have approximately 982 quid left for general expenses
+- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
 	^ use accumulated savings
-- [ ] [HONOR Magic 8 Pro, 12GB RAM, 512GB storage, Sunrise Gold, B Grade](https://uk.webuy.com/product-detail/?id=SHONM8P12512GSGUNLB) 620gbp
+- [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
+- [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
+- [ ] [Xiaomi 17, 12GB, 256GB, Venture Green, B Grade](https://uk.webuy.com/product-detail/?id=SXIA1712256GVGUNLB) 565gbp
+	[UGREEN Nexode Air 100W Slim Charger](https://amzn.eu/d/07aqfRrE) 39.99gbp
+	[Spigen Rugged Case for Xiaomi 17](https://amzn.eu/d/0d7rBw3U) 16.99gbp
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
@@ -204,20 +208,13 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] >[!Figure purchases]-
-	> - [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005012216352298.html?) ==60gbp==
-	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==70gbp==
-	# ^ 110gbp spent
-- [ ] ## This leaves me with 332.40gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 399.56gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 200.85GBP
+## Term #3<br>TOTAL 758.13GBP
 
-- [ ] During this term I will spend 192 on my swift card and these expenses so I will be able to save 1,000 for general savings and have 1,408 left for general expenses
+- [ ] During this term I will spend 192 on my swift card and these expenses so I will be able to save 1,000 for general savings.
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
-- [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
-- [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
-- [ ] ----Not included in total----
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
 - [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
 - [ ] >[!Figure purchases]-
@@ -230,7 +227,7 @@ kanban-plugin: board
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	# ^ 255gbp spent
-- [ ] ## This leaves me with 365.39gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 406.25gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
