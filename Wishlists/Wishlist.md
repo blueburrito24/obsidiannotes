@@ -147,7 +147,7 @@ kanban-plugin: board
 
 ## Term #1<br>TOTAL 368.88GBP
 
-- [ ] During this term I will save 900 for my PC alongside spending 380 on a swift card.
+- [ ] During this term I will save 1,000 for my PC.
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
@@ -184,21 +184,19 @@ kanban-plugin: board
 	> - [MAFEX 082 Deadpool (Gurihiru Art Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWXegKQDqPqLgvoe9Ghwm) ==52.74gbp== + [Revoltech Weapon Pack Vol 1.](https://www.aliexpress.com/item/1005010391318770.html?) ==25.49gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	# ^ 378.43gbp spent
-- [ ] ## This leaves me with 403.77gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] ## This leaves me with 683.77gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602167091%253Fbranch_number%253D0002) ==69== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==224/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 911.84GBP
+## Term #2<br>TOTAL 849.86GBP
 
-- [ ] During this term I will save 800 for my PC alongside spending 300 on a swift card.
-- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-AMD-Ryzen-7-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-Gaming-Desktop-PC/p/679893) 1,699.99gbp
+- [ ] During this term I will save 800 for my PC alongside spending 380 on a swift card.
+- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
 	^ use accumulated savings
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
-- [ ] [Xiaomi 17, 12GB, 256GB, Venture Green, B Grade](https://uk.webuy.com/product-detail/?id=SXIA1712256GVGUNLB) 565gbp
-	[UGREEN Nexode Air 100W Slim Charger](https://amzn.eu/d/07aqfRrE) 39.99gbp
-	[Spigen Rugged Case for Xiaomi 17](https://amzn.eu/d/0d7rBw3U) 16.99gbp
+- [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
@@ -208,7 +206,7 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] ## This leaves me with 399.56gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 381.54gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 758.13GBP
