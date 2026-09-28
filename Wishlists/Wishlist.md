@@ -213,7 +213,7 @@ kanban-plugin: board
 
 ## Term #3<br>TOTAL 758.13GBP
 
-- [ ] During this term I will spend 192 on my swift card and these expenses so I will be able to save 1,000 for general savings.
+- [ ] During this term I will spend 192 on my swift card and I will save 1,000.
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
 - [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
