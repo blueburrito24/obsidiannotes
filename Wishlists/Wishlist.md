@@ -17,7 +17,6 @@ kanban-plugin: board
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
 - [ ] >[!Figures I would like to get]-
 	> - ==jada toys omni-man==
-	> - ==mafex knight crusader batman (black ver.)==
 	> - shf perfect cell (only been teased)
 	> - ==[shf narutop99 edition naruto uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html)== 33.88gbp
 	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
@@ -37,6 +36,8 @@ kanban-plugin: board
 	> - [tamashii stage marvel container](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73331483241) 9.26gbp
 	> - [Nendoroid More Container](https://www.gamersheek.co.uk/item/Good-Smile-Company/Nendoroid-More-Anniversary-Container-Black/1OI) 14.95gbp
 	> ^ I would remove the Good Smile branding
+	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
+	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 
 
 ## Recipes
@@ -153,7 +154,7 @@ kanban-plugin: board
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [TrimUI Brick](https://www.aliexpress.com/item/1005008082195952.html?) 62.39gbp
 - [ ] # ----Not included in total----
-- [ ] [AYN Odin 3 Max, 16GB RAM, 512GB storage, White](https://www.ayntec.com/products/ayn-odin-3?variant=46971670233280) 398.15gbp
+- [ ] MCON Snap-On Controller 149.99
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -177,6 +178,7 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
+	> - [MAFEX BATMAN HUSH Batman](https://www.nin-nin-game.com/en/mafex/231509-mafex-no105-batman-hush-ver-reissue-medicom-toy-.html) ==52.91gbp==
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
@@ -189,13 +191,13 @@ kanban-plugin: board
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 514.31gbp spent
-- [ ] ## This leaves me with 66.85gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 567.22gbp spent
+- [ ] ## This leaves me with 262.10gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602167091%253Fbranch_number%253D0002) ==69== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==224/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 868.85GBP
+## Term #2<br>TOTAL 869.85GBP
 
 - [ ] During this term I will save 800 for my PC alongside spending 380 on a swift card.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
@@ -203,7 +205,7 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
-	[spigen neo hybrid case](https://amzn.eu/d/0fq7dpEu) 18.99gbp
+	[TORRAS MagSafe case](https://amzn.eu/d/0ia2y9Sp) 19.99gbp
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
@@ -213,7 +215,7 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] ## This leaves me with 362.55gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 361.55gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 758.13GBP
@@ -229,7 +231,9 @@ kanban-plugin: board
 	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
-	# ^ 215gbp spent
+	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
+	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
+	# ^ 378.45gbp spent
 - [ ] ## This leaves me with 844.40gbp including the expenses for buying ingredients biweekly and gym
 
 
