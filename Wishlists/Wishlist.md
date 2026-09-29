@@ -220,7 +220,7 @@ kanban-plugin: board
 - [ ] ## This leaves me with 361.55gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 758.13GBP
+## Term #3<br>TOTAL 578.44GBP
 
 - [ ] During this term I will spend 192 on my swift card and I will save 1,000.
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
@@ -235,7 +235,7 @@ kanban-plugin: board
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
 	# ^ 378.45gbp spent
-- [ ] ## This leaves me with 844.40gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 840.94gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
