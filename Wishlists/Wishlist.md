@@ -226,15 +226,14 @@ kanban-plugin: board
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
-	> - SH FIGUARTS MARVEL GAMERVERSE Venom ==60gbp~==
 	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
 	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
-	# ^ 438.45gbp spent
-- [ ] ## This leaves me with 780.94gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 378.45gbp spent
+- [ ] ## This leaves me with 840.94gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
