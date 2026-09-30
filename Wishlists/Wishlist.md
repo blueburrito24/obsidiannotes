@@ -156,7 +156,6 @@ kanban-plugin: board
 - [ ] # ----Not included in total----
 - [ ] MCON Snap-On Controller 149.99
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [soundcore Sleep A20 earbuds](https://amzn.eu/d/0aQliCkV) 79gbp
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -192,7 +191,7 @@ kanban-plugin: board
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
 	# ^ 567.22gbp spent
-- [ ] ## This leaves me with 43.11gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] ## This leaves me with 122.11gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, SH FIGUARTS MARVEL GAMERVERSE Venom ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==175/220gbp== - I will use 40 from my own existing money to cover part of the Venom PO
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
