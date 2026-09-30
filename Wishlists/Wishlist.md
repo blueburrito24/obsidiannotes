@@ -168,15 +168,13 @@ kanban-plugin: board
 	> - [Gintama dopey plush keychains](https://www.aliexpress.com/item/1005012332089132.html?) 14.39gbp
 	
 	>[!clothing purchases]-
-	> - [long-sleeve striped tee](https://www.boohooman.com/product/boohooman-regular-fit-stripe-henley-long-sleeve-t-shirt_cmm29296?colour=black) 20gbp
-	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/faux-fur-trim-zip-up-graphic-hoodie-63744340-1005?seq=03&source=googleshopping&$web_only=true) 59.95gbp
-	^ follow [this tutorial](https://www.instagram.com/p/DaLNdK-BOxJ/) and use some [disposable straight razors](https://amzn.eu/d/0g0GCNSm) 6.99gbp to get rid of the graphics
+	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/hollister-feel-good-faux-fur-trim-zip-up-hoodie-63616480-1005?faceout=model&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=1) 59.95gbp
 	> - [air jordan 1 low floral pattern, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-Low&id=8658) 85gbp~ (115$)
 	> - [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
 	> - [loose fit nylon trackpants](https://www2.hm.com/en_gb/productpage.1343644001.html) 37.99gbp
 	> - [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
 	> - [LANTERNS "In Brightest Day, In Blackest Night" hoodie](https://shop.dc.com/products/lanterns-hoodie-in-brightest-day-in-blackest-night?variant=67581964058818) 50gbp~
-	# ^ 418.92gbp spent
+	# ^ 391.93gbp spent
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
@@ -194,8 +192,8 @@ kanban-plugin: board
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
 	# ^ 567.22gbp spent
-- [ ] ## This leaves me with 23.11gbp, not including biweekly ingredients or gym due to my part-time schedule
-- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602167091%253Fbranch_number%253D0002) ==69== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==224/220gbp==
+- [ ] ## This leaves me with 43.11gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, SH FIGUARTS MARVEL GAMERVERSE Venom ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==175/220gbp== - I will use 40 from my own existing money to cover part of the Venom PO
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
@@ -228,14 +226,15 @@ kanban-plugin: board
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
+	> - SH FIGUARTS MARVEL GAMERVERSE Venom ==60gbp~==
 	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
 	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
-	# ^ 378.45gbp spent
-- [ ] ## This leaves me with 840.94gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 438.45gbp spent
+- [ ] ## This leaves me with 780.94gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
