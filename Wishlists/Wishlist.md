@@ -178,7 +178,7 @@ kanban-plugin: board
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
 	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==, [CT TOYS BATMAN HUSH Batman](https://www.aliexpress.com/item/1005012736857692.html?) ==23.32gbp==
-	^ will heat up and remove the cape cover on the Knight Crusader Batman so I can use the cape cover from the CT HUSH Batman to allow for more cape movement
+	^ will heat up and remove the cape cover on the Knight Crusader Batman so I can use the cape cover and neck from the CT HUSH Batman to allow for more cape movement
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
