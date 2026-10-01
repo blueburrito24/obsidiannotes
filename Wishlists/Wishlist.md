@@ -177,7 +177,8 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	> - [MAFEX BATMAN HUSH Batman](https://www.nin-nin-game.com/en/mafex/231509-mafex-no105-batman-hush-ver-reissue-medicom-toy-.html) ==52.91gbp==
+	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==, [CT TOYS BATMAN HUSH Batman](https://www.aliexpress.com/item/1005012736857692.html?) ==23.32gbp==
+	^ will heat up and remove the cape cover on the Knight Crusader Batman so I can use the cape cover from the CT HUSH Batman to allow for more cape movement
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
@@ -191,19 +192,18 @@ kanban-plugin: board
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 646.65gbp spent
-- [ ] ## This leaves me with 42.68gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 687.01gbp spent
+- [ ] ## This leaves me with 2.32gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, SH FIGUARTS MARVEL GAMERVERSE Venom ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==175/220gbp== - I will use 40 from my own existing money to cover part of the Venom PO
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 869.85GBP
+## Term #2<br>TOTAL 863.98GBP
 
 - [ ] During this term I will save 800 for my PC alongside spending 380 on a swift card.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
 	^ use accumulated savings
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
-- [ ] [Monitor light lamp 30cm](https://www.aliexpress.com/item/1005010528821357.html?) 5.87gbp
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 	[TORRAS MagSafe case](https://amzn.eu/d/0ia2y9Sp) 19.99gbp
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
@@ -215,7 +215,7 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] ## This leaves me with 361.55gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 367.42gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 578.44GBP
