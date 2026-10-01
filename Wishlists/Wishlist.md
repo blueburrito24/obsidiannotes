@@ -184,14 +184,15 @@ kanban-plugin: board
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
 	> - [SEXYICE TROY 020 Manikin Bioroid](https://www.nin-nin-game.com/en/action-figures/236771-cre-series-neuron-tech-manikin-bioroid-troy-021-sexyice-.html) ==41.18gbp==
 	> - [Revoltech X-FORCE Deadpool 2.5 Ver.](https://www.nin-nin-game.com/en/marvel-dc-comics/131795-amazing-yamaguchi-revoltech-marvel-comics-deadpool-ver-25-x-force-colors-kaiyodo-.html) ==86.39gbp==
+	> - [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYPwKEzQLA54NZXWJcYZ) ==79.43gbp==
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	> - [NS003A Kaioken Goku](https://www.aliexpress.com/item/1005013289386795.html?) ==57.19gbp==
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 567.22gbp spent
-- [ ] ## This leaves me with 122.11gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 646.65gbp spent
+- [ ] ## This leaves me with 42.68gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, SH FIGUARTS MARVEL GAMERVERSE Venom ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==175/220gbp== - I will use 40 from my own existing money to cover part of the Venom PO
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
