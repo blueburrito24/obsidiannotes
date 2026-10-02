@@ -142,6 +142,7 @@ kanban-plugin: board
 - [ ] [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
 - [ ] [balloon fit pleated joggers](https://www.boohooman.com/product/boohooman-balloon-fit-pleated-jogger_cmm27813?colour=black) 28gbp
 - [ ] [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
+- [ ] [dc originals green lanterns tee](https://amzn.eu/d/01u3cbWG) 7gbp
 
 
 ## Term #1<br>TOTAL 368.88GBP
@@ -194,7 +195,7 @@ kanban-plugin: board
 	> - 8pcs pencil boxes ==12.99gbp==
 	# ^ 687.01gbp spent
 - [ ] ## This leaves me with 2.32gbp, not including biweekly ingredients or gym due to my part-time schedule
-- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, SH FIGUARTS MARVEL GAMERVERSE Venom ==60== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==175/220gbp== - I will use 40 from my own existing money to cover part of the Venom PO
+- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==155/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
@@ -229,11 +230,12 @@ kanban-plugin: board
 	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
 	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
+	> - [SH FIGUARTS MARVEL GAMERVERSE Venom](https://www.nin-nin-game.com/en/shfiguarts/261372-shfiguarts-marvel-gamerverse-venom-bandai-spirits-.html) ==62.30gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
-	# ^ 378.45gbp spent
-- [ ] ## This leaves me with 840.94gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 460.75gbp spent
+- [ ] ## This leaves me with 778.64gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
