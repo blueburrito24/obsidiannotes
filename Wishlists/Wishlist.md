@@ -133,7 +133,7 @@ kanban-plugin: board
 
 ## Term #1<br>TOTAL 368.88GBP
 
-- [ ] During this term I will save 1,000 for my PC.
+- [ ] During this term I will save 1,100 for my PC.
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
@@ -179,14 +179,14 @@ kanban-plugin: board
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
 	# ^ 717.48gbp spent
-- [ ] ## This leaves me with 281.82gbp, not including biweekly ingredients or gym due to my part-time schedule
-- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS DRAGON BALL Z Old Battle Clothes Vegeta](https://www.amazon.co.uk/Vegeta-Battle-Clothes-figuarts-Collectors/dp/B0D8SXYN8Q) ==56gbp==, [nono custom neckpeg 3pcs for daima body](https://www.aliexpress.com/item/1005012254583671.html?) ==8gbp== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==
+- [ ] ## This leaves me with 181.82gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS DRAGON BALL Z Old Battle Clothes Vegeta](https://www.amazon.co.uk/Vegeta-Battle-Clothes-figuarts-Collectors/dp/B0D8SXYN8Q) ==56gbp==, [nono custom neckpeg 3pcs for daima body](https://www.aliexpress.com/item/1005012254583671.html?) ==8gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
 ## Term #2<br>TOTAL 863.98GBP
 
-- [ ] During this term I will save 800 for my PC alongside spending 380 on a swift card.
+- [ ] During this term I will save 700 for my PC alongside spending 380 on a swift card.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
 	^ use accumulated savings
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
@@ -194,6 +194,7 @@ kanban-plugin: board
 	[TORRAS MagSafe case](https://amzn.eu/d/0ia2y9Sp) 19.99gbp
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] # ----Not included in total----
+- [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] >[!Clothing purchases]-
 	> - [VOID execution top (ichigo hoodie)](https://shop-void.com/products/execution-top?variant=44507574468697) 110gbp
 	^ use disposable straight razors to get rid of the eyes
@@ -201,7 +202,7 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] ## This leaves me with 367.42gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 307.43gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 578.44GBP
@@ -220,7 +221,6 @@ kanban-plugin: board
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
 	# ^ 460.75gbp spent
-- [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] ## This leaves me with 618.65gbp including the expenses for buying ingredients biweekly and gym
 
 
