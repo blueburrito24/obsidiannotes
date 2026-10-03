@@ -180,7 +180,7 @@ kanban-plugin: board
 	> - 8pcs pencil boxes ==12.99gbp==
 	# ^ 717.48gbp spent
 - [ ] ## This leaves me with 281.82gbp, not including biweekly ingredients or gym due to my part-time schedule
-- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==155/220gbp==
+- [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40==, [SH FIGUARTS DRAGON BALL Z Old Battle Clothes Vegeta](https://www.amazon.co.uk/Vegeta-Battle-Clothes-figuarts-Collectors/dp/B0D8SXYN8Q) ==56gbp==, [nono custom neckpeg 3pcs for daima body](https://www.aliexpress.com/item/1005012254583671.html?) ==8gbp== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
