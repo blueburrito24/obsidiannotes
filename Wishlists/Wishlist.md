@@ -20,7 +20,8 @@ kanban-plugin: board
 - [ ] [balloon fit pleated joggers](https://www.boohooman.com/product/boohooman-balloon-fit-pleated-jogger_cmm27813?colour=black) 28gbp
 - [ ] [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
 - [ ] [dc originals green lanterns tee](https://amzn.eu/d/01u3cbWG) 7gbp
-- [ ] need to browse jeans in-person at primark or next
+- [ ] [primark mid-rise straight-leg jeans, grey](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-grey-991143030706) 14gbp
+	[primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 - [ ] >[!Figures I would like to get]-
 	> - ==jada toys omni-man==
 	> - shf perfect cell (only been teased)
@@ -33,6 +34,8 @@ kanban-plugin: board
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - ac factory impact effect set (not out yet)
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
+	> - [vallejo transparent ink set](https://amzn.eu/d/0d7lhaAk) 19.40gbp
+	^ for repainting effects like the shock impact effects or thunder
 	> - [Tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	> - [30pcs cardstock](https://amzn.eu/d/0et6zkUa) for making backgrounds for photos, i can print out background images like game skybox textures etc and stick them onto the cardstock
 	> - [wired 1/12 stands](https://www.aliexpress.com/item/1005010276092517.html?) 1.99gbp
@@ -157,7 +160,7 @@ kanban-plugin: board
 	> - [LANTERNS "In Brightest Day, In Blackest Night" hoodie](https://shop.dc.com/products/lanterns-hoodie-in-brightest-day-in-blackest-night?variant=67581964058818) 50gbp~
 	# ^ 391.93gbp spent
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m57251230265) 53gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
+	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=ssol-shopping_2336183568661) 58gbp, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) 7.27gbp
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
 	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==, [CT TOYS BATMAN HUSH Batman](https://www.aliexpress.com/item/1005012736857692.html?) ==23.32gbp==
 	^ will heat up and remove the cape cover on the Knight Crusader Batman so I can use the cape cover and neck from the CT HUSH Batman to allow for more cape movement
@@ -170,12 +173,13 @@ kanban-plugin: board
 	> - [SH FIGUARTS AVENGERS INFINITY WAR Hulk](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYPwKEzQLA54NZXWJcYZ) ==79.43gbp==
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
-	> - [NS003A Kaioken Goku](https://www.aliexpress.com/item/1005013289386795.html?) ==57.19gbp==
+	> - [NS003A Kaioken Goku](https://www.aliexpress.com/item/1005013289386795.html?) ==57.19gbp==, [SH FIGUARTS DRAGON BALL Z Kaioken Goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m86023002311) ==25,47gbp==
+	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 687.01gbp spent
-- [ ] ## This leaves me with 312.30gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 717.48gbp spent
+- [ ] ## This leaves me with 281.82gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==155/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
