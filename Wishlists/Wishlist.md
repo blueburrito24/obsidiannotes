@@ -15,6 +15,13 @@ kanban-plugin: board
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
+- [ ] MCON Snap-On Controller 149.99
+- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
+- [ ] [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
+- [ ] [balloon fit pleated joggers](https://www.boohooman.com/product/boohooman-balloon-fit-pleated-jogger_cmm27813?colour=black) 28gbp
+- [ ] [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
+- [ ] [dc originals green lanterns tee](https://amzn.eu/d/01u3cbWG) 7gbp
+- [ ] need to browse jeans in-person at primark or next
 - [ ] >[!Figures I would like to get]-
 	> - ==jada toys omni-man==
 	> - shf perfect cell (only been teased)
@@ -22,6 +29,7 @@ kanban-plugin: board
 	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
 	> - ==[figma metroid prime 3 corruption samus aran](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=mediaworld-plus_61278100001)== 64.04gbp
 	> - k studio gotenks (not available yet)
+	> - revoltech cyborg superman (not available yet)
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - ac factory impact effect set (not out yet)
@@ -121,30 +129,6 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Clothes
-
-- [ ] >[!spider-man "cosplay" tees]-
-	[the human spider tee tutorial](https://www.instagram.com/p/DbvddhZNKKI/)
-	[cardstock paper 50pcs](https://amzn.eu/d/02JDGkAv) 4.09gbp
-	[red tee](https://www.next.co.uk/style/st056123/v16198) 8gbp
-	[red hoodie](https://www.asos.com/collusion/collusion-unisex-zip-through-hoodie-in-red/prd/209646759#colourWayId-209646776) 24.99gbp
-	[rust-oleum fabric black spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-black-multi-surface-spray-paint-150ml/1726734_BQ.prd) 7gbp
-	[painter's tape](https://amzn.eu/d/0iaLleyh) 2.84gbp
-	^ i want to make a tee and hoodie, use the painter's tape for webbing and cardstock to print the spider symbols out and cut out with an exacto knife
-	[[spider-man 2002 human spider front logo.jpg]]
-	[[spider-man 2002 human spider back logo.jpg]]
-	[[spider-man 2002 human spider logo cutout.png]]
-	[black tee 2pcs](https://www.next.co.uk/style/su049279/885172) 15gbp
-	[rust-oleum fabric silver spray paint 150ml](https://www.diy.com/departments/rust-oleum-fabric-silver-effect-multi-surface-spray-paint-150ml/1726735_BQ.prd) 7gbp
-	^ i want to make the same style of tee but with the symbiote logo
-	[[secret wars symbiote spider-man logo.png]]
-- [ ] [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
-- [ ] [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
-- [ ] [balloon fit pleated joggers](https://www.boohooman.com/product/boohooman-balloon-fit-pleated-jogger_cmm27813?colour=black) 28gbp
-- [ ] [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
-- [ ] [dc originals green lanterns tee](https://amzn.eu/d/01u3cbWG) 7gbp
-
-
 ## Term #1<br>TOTAL 368.88GBP
 
 - [ ] During this term I will save 1,000 for my PC.
@@ -155,9 +139,7 @@ kanban-plugin: board
 - [ ] [floral deskmat, "black-11", 400x800x2mm](https://www.aliexpress.com/item/1005007876823800.html?) 7.84gbp
 - [ ] [TrimUI Brick](https://www.aliexpress.com/item/1005008082195952.html?) 62.39gbp
 - [ ] # ----Not included in total----
-- [ ] MCON Snap-On Controller 149.99
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
-- [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
 	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
@@ -194,7 +176,7 @@ kanban-plugin: board
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
 	# ^ 687.01gbp spent
-- [ ] ## This leaves me with 2.32gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] ## This leaves me with 312.30gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] Using my owed trust fund money, [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==40== and [SH FIGUARTS DRAGON BALL Z "Fighter of Rage" Super Saiyan Son Goku](https://www.aliexpress.com/item/1005012819592011.html?) ==115==. This costs ==155/220gbp==
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
@@ -235,7 +217,8 @@ kanban-plugin: board
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
 	# ^ 460.75gbp spent
-- [ ] ## This leaves me with 778.64gbp including the expenses for buying ingredients biweekly and gym
+- [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
+- [ ] ## This leaves me with 618.65gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
@@ -256,6 +239,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
 ```
 %%
