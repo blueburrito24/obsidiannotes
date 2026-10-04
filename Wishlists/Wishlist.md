@@ -26,17 +26,16 @@ kanban-plugin: board
 - [ ] [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
 	> - ==jada toys omni-man==
-	> - shf perfect cell (only been teased)
+	> - shf perfect cell (not available yet)
 	> - ==[shf narutop99 edition naruto uzumaki](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html)== 33.88gbp
 	> - ==[shf narutop99 edition sakura haruno](https://www.nin-nin-game.com/en/naruto/111462-shfiguarts-naruto-shippuuden-haruno-sakura-narutop99-edition-ver-bandai-spirits-.html)== 40.83gbp
 	> - ==[figma metroid prime 3 corruption samus aran](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=mediaworld-plus_61278100001)== 64.04gbp
 	> - square k gotenks (not available yet)
 	> - revoltech cyborg superman (not available yet)
-	> - lpzz/upf hush batman
-	> - lpzz/upf absolute catwoman
-	> - blokees absolute batman
+	> - lpzz/upf hush batman  (not available yet)
+	> - lpzz/upf absolute catwoman (not available yet)
+	> - blokees absolute batman (not available yet)
 	> - ==[BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?)== 40gbp
-	> - hm studio young gohan (not available yet)
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - ac factory impact effect set (not out yet)
@@ -181,11 +180,12 @@ kanban-plugin: board
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	> - [NS003A Kaioken Goku](https://www.aliexpress.com/item/1005013289386795.html?) ==57.19gbp==, [SH FIGUARTS DRAGON BALL Z Kaioken Goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m86023002311) ==25.47gbp==
 	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
+	> - [HM STUDIO Young Gohan](https://www.aliexpress.com/item/1005008029085600.html) ==70.79gbp==, [SHF KHS Goku for action faces](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) ==23.85gbp==
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 638.05gbp spent
-- [ ] ## This leaves me with 311.25gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 732.69gbp spent
+- [ ] ## This leaves me with 216.61gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
