@@ -228,10 +228,11 @@ kanban-plugin: board
 	> - [SH FIGUARTS MARVEL GAMERVERSE Venom](https://www.nin-nin-game.com/en/shfiguarts/261372-shfiguarts-marvel-gamerverse-venom-bandai-spirits-.html) ==62.30gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [SH FIGUARTS DRAGON BALL Z-FIGHTERS Vegeta](https://www.nin-nin-game.com/en/shfiguarts/255782-shfiguarts-dragon-ball-z-fighters-vegeta-bandai-spirits-.html) ==19.67gbp==
+	> - [SH FIGUARTS DRAGON BALL Z "Return to Earth Ver." Son Goku](https://www.nin-nin-game.com/en/shfiguarts/261922-shfiguarts-dragon-ball-z-son-goku-return-to-earth-ver-limited-edition-bandai-spirits-.html) ==48.09gbp==
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
-	# ^ 480.42gbp spent
-- [ ] ## This leaves me with 598.98gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 528.51gbp spent
+- [ ] ## This leaves me with 550.89gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
