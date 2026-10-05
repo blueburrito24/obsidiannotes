@@ -53,13 +53,13 @@ kanban-plugin: board
 	> - [amazon basics flexible tripod for photography](https://amzn.eu/d/09VKP8Yt) 8.30gbp
 	> - [heat gun for customising](https://amzn.eu/d/03Mw6Po8) 14.99gbp
 	> - [8pcs pencil boxes for storing action figures on the go](https://amzn.eu/d/0iabR3qK) 12.99gbp
-	> - [shf iron man 3 tony's sofa](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81890038052), [another 1pcs](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=s83aAQ2hP9yQZT9C2c9Src)
 	> - [tamashii stage marvel container](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73331483241) 9.26gbp
 	> - [Nendoroid More Container](https://www.gamersheek.co.uk/item/Good-Smile-Company/Nendoroid-More-Anniversary-Container-Black/1OI) 14.95gbp
 	> ^ I would remove the Good Smile branding
 	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 	> - [1/12 green apron](https://www.aliexpress.com/item/1005011556275339.html?) 22.19gbp
+	> - [Figure-Rise Standard Saiyan Pod](https://www.ebay.co.uk/itm/375844975529) 53.99gbp
 
 
 ## Recipes
