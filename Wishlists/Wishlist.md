@@ -27,6 +27,7 @@ kanban-plugin: board
 	> - [primark mid-rise straight-leg jeans, grey](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-grey-991143030706) 14gbp
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
+	> - [Lanterns ring, 19mm](https://www.aliexpress.com/item/1005010748950713.html) 15.49gbp
 - [ ] >[!Figures I would like to get]-
 	> - ==jada toys omni-man==
 	> - shf perfect cell (not available yet)
