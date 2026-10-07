@@ -183,8 +183,8 @@ kanban-plugin: board
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 731.59gbp spent
-- [ ] ## This leaves me with 232.55gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 731.43gbp spent
+- [ ] ## This leaves me with 232.39gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
