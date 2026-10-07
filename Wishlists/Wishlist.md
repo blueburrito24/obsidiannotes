@@ -178,11 +178,12 @@ kanban-plugin: board
 	> - [NS003A Kaioken Goku](https://www.aliexpress.com/item/1005013289386795.html?) ==57.19gbp==, [SH FIGUARTS DRAGON BALL Z Kaioken Goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m86023002311) ==25.47gbp==
 	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
 	> - [HM STUDIO Young Gohan](https://www.aliexpress.com/item/1005008029085600.html) ==70.79gbp==, [SHF KHS Goku for action faces](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) ==23.85gbp==
+	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYpSWeikYaYAdKAxrYYF) ==39.92gbp==
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 691.51gbp spent
-- [ ] ## This leaves me with 265.63gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 731.59gbp spent
+- [ ] ## This leaves me with 225.65gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
