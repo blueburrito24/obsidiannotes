@@ -188,7 +188,7 @@ kanban-plugin: board
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 814.97GBP
+## Term #2<br>TOTAL 794.98GBP
 
 - [ ] During this term I will save 700 for my PC alongside spending 380 on a swift card.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
@@ -199,6 +199,7 @@ kanban-plugin: board
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
 - [ ] # ----Not included in total----
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
+- [ ] [Xiaomi Mi Monitor Light Bar](https://amzn.eu/d/09XQq3Pv) 48.50gbp
 - [ ] >[!Clothing purchases]-
 	> - [VOID execution top (ichigo hoodie)](https://shop-void.com/products/execution-top?variant=44507574468697) 110gbp
 	^ use disposable straight razors to get rid of the eyes
@@ -206,7 +207,7 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] ## This leaves me with 391.43gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 342.93gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 528.51GBP
