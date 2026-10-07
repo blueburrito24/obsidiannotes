@@ -18,6 +18,7 @@ kanban-plugin: board
 - [ ] [floral desk cloth cover, 140cmx140cm, D](https://www.aliexpress.com/item/1005003700098579.html?) 8.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] MCON Snap-On Controller 149.99
+- [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
 	> - [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
@@ -183,11 +184,11 @@ kanban-plugin: board
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
 	# ^ 731.59gbp spent
-- [ ] ## This leaves me with 225.65gbp, not including biweekly ingredients or gym due to my part-time schedule
+- [ ] ## This leaves me with 232.55gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
-## Term #2<br>TOTAL 863.98GBP
+## Term #2<br>TOTAL 814.97GBP
 
 - [ ] During this term I will save 700 for my PC alongside spending 380 on a swift card.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
@@ -195,7 +196,7 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 	[TORRAS MagSafe case](https://amzn.eu/d/0ia2y9Sp) 19.99gbp
-- [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
+- [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
 - [ ] # ----Not included in total----
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] >[!Clothing purchases]-
@@ -205,13 +206,12 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
 	# 199.98gbp spent
-- [ ] ## This leaves me with 307.43gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 391.43gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 578.44GBP
+## Term #3<br>TOTAL 528.51GBP
 
 - [ ] During this term I will spend 192 on my swift card and I will save 1,000.
-- [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
@@ -226,7 +226,7 @@ kanban-plugin: board
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
 	# ^ 528.51gbp spent
-- [ ] ## This leaves me with 550.89gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 1,079.49gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
