@@ -18,13 +18,10 @@ kanban-plugin: board
 - [ ] MCON Snap-On Controller 149.99
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
+- [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
 	> - [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
-	> - [balloon fit pleated joggers](https://www.boohooman.com/product/boohooman-balloon-fit-pleated-jogger_cmm27813?colour=black) 28gbp
-	> - [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
-	> - [dc originals green lanterns tee](https://amzn.eu/d/01u3cbWG) 7gbp
-	> - [primark mid-rise straight-leg jeans, grey](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-grey-991143030706) 14gbp
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
@@ -36,13 +33,13 @@ kanban-plugin: board
 	> - lpzz/upf hush batman  (not available yet)
 	> - lpzz/upf absolute catwoman (not available yet)
 	> - blokees absolute batman (not available yet)
+	> - mattel green lanterns (both hal jordan and john stewart) (not available yet)
 	> - ==[BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?)== 40gbp
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
+	> - MODARC "Super Bulky Body" Hulk 80-100gbp~
+	> - ==[SH FIGUARTS SHIN KAMEN RIDER Kamen Rider No. 2](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602251703)== 23.95gbp, ==[SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m41370418695)== 34.93gbp
 - [ ] >[!Figure accessories]-
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
-	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
-	> - [vallejo transparent ink set](https://amzn.eu/d/0d7lhaAk) 19.40gbp
-	^ for repainting effects like the shock impact effects or thunder
 	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	> - [wired 1/12 stands](https://www.aliexpress.com/item/1005010276092517.html?) 1.99gbp
 	> - [amazon basics flexible tripod for photography](https://amzn.eu/d/09VKP8Yt) 8.30gbp
@@ -154,9 +151,6 @@ kanban-plugin: board
 	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
 	> - [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
 	> - [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) 3.89gbp
-	> - [Exacto Knife](https://amzn.eu/d/0cW6WR56) 5.95gbp
-	> - [oguri cap head keychain plush](https://www.aliexpress.com/item/1005011641471571.html?) 9.79gbp
-	> - [Gintama dopey plush keychains](https://www.aliexpress.com/item/1005012332089132.html?) 14.39gbp
 	
 	>[!clothing purchases]-
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/hollister-feel-good-faux-fur-trim-zip-up-hoodie-63616480-1005?faceout=model&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=1) 59.95gbp
@@ -164,17 +158,19 @@ kanban-plugin: board
 	> - [uo red spider-man graphic tee](https://www.urbanoutfitters.com/en-gb/shop/uo-red-spiderman-t-shirt2?color=060&type=REGULAR&new_tab=1&a15_rid=26de8b27cdb9/Wr70TdmLsr-682863&size=XL&quantity=1) 36gbp
 	> - [loose fit nylon trackpants](https://www2.hm.com/en_gb/productpage.1343644001.html) 37.99gbp
 	> - [archivis purple-stripe long sleeve graphic tee](https://www.urbanoutfitters.com/en-gb/shop/archivis-purple-stripe-long-sleeve-t-shirt?color=050&type=REGULAR&new_tab=1&a15_rid=3b3d189fb3b2/ODkc7qnQ6J-834254&size=XL&quantity=1) 38gbp
-	# ^ 341.93gbp spent
+	> - [dc originals green lanterns tee](https://amzn.eu/d/01u3cbWG) 7gbp
+	> - [balloon fit pleated joggers](https://www.boohooman.com/product/boohooman-balloon-fit-pleated-jogger_cmm27813?colour=black) 28gbp
+	> - [loose fit sweatpants, go a size low](https://www2.hm.com/en_gb/productpage.1302372015.html) 22.99gbp
+	> - [primark mid-rise straight-leg jeans, grey](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-grey-991143030706) 14gbp
+	# ^ 383.79gbp spent
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=ssol-shopping_2336183568661) ==58gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==, [CT TOYS BATMAN HUSH Batman](https://www.aliexpress.com/item/1005012736857692.html?) ==23.32gbp==
-	^ will heat up and remove the cape cover on the Knight Crusader Batman so I can use the cape cover and neck from the CT HUSH Batman to allow for more cape movement
+	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
-	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m83936550989) ==54gbp==
-	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
+	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXmUfPFuJ6mrb5SYzPjeS) ==58.63gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	> - [NS003A Kaioken Goku](https://www.aliexpress.com/item/1005013289386795.html?) ==57.19gbp==, [SH FIGUARTS DRAGON BALL Z Kaioken Goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m86023002311) ==25.47gbp==
 	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
@@ -182,11 +178,17 @@ kanban-plugin: board
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYpSWeikYaYAdKAxrYYF) ==39.92gbp==
 	> - [SH FIGUARTS SHIN ULTRAMAN Ultraman (Landing Ver.)](https://www.nin-nin-game.com/en/ultraman/80027-shfiguarts-shin-ultraman-ultraman-landing-ver-limited-edition-bandai-spirits-.html) ==21.33gbp==
 	> - [Figure-Rise MG Super Saiyan Son Goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m89904602131) ==24.93gbp==
+	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m67390390953) ==49.89gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
 	> - amazon basics flexible tripod ==8.30gbp==
 	> - heat gun ==14.99gbp==
 	> - 8pcs pencil boxes ==12.99gbp==
-	# ^ 691.30gbp spent
-- [ ] ## This leaves me with 242.53gbp, not including biweekly ingredients or gym due to my part-time schedule
+	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) ==22.11gbp==
+	^ repaint white using the vallejo game colour inks
+	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
+	  ==25.67gbp== total cost
+	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
+	# ^ 712.95gbp spent
+- [ ] ## This leaves me with 242.22gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
@@ -203,22 +205,20 @@ kanban-plugin: board
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Xiaomi Mi Monitor Light Bar](https://amzn.eu/d/09XQq3Pv) 48.50gbp
 - [ ] >[!Clothing purchases]-
-	> - [VOID execution top (ichigo hoodie)](https://shop-void.com/products/execution-top?variant=44507574468697) 110gbp
-	^ use disposable straight razors to get rid of the eyes
 	> - [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
-	> - [uo cow-print buckle belt](https://www.urbanoutfitters.com/en-gb/shop/uo-cow-print-buckle-belt?color=000&type=REGULAR&new_tab=1&a15_rid=d0f0a77420ff/Sz0GoPUsmP-835887&size=M/L&quantity=1) 24gbp
-	# 199.98gbp spent
-- [ ] ## This leaves me with 342.93gbp including the expenses for buying ingredients biweekly and gym
+	# 65.98gbp spent
+- [ ] ## This leaves me with 476.93gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 837.32GBP
+## Term #3<br>TOTAL 642.92GBP
 
 - [ ] During this term I will spend 192 on my swift card and I will save 1,000.
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
+	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
 	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
 	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
@@ -233,8 +233,9 @@ kanban-plugin: board
 	> - [tamashii effect series explosion red ver](https://www.nin-nin-game.com/en/shfiguarts/219387-shfiguarts-tamashii-effect-act-explosion-red-ver-expansion-set-bandai-spirits-.html) ==13.11gbp==
 	> - [tamashii effect series smoke white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) ==13.93gbp==
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
-	# ^ 597.43gbp spent
-- [ ] ## This leaves me with 821.95gbp including the expenses for buying ingredients biweekly and gym
+	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
+	# ^ 682.92gbp spent
+- [ ] ## This leaves me with 736.46gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
