@@ -195,7 +195,7 @@ kanban-plugin: board
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
 	# ^ 859.93gbp spent
-- [ ] ## This leaves me with 83.34gbp
+- [ ] ## This leaves me with 83.34/2,800gbp
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
@@ -216,7 +216,7 @@ kanban-plugin: board
 	> - [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	# 65.98gbp spent
-- [ ] ## This leaves me with 428.95gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 428.95/2,800gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 728.98GBP
@@ -243,7 +243,7 @@ kanban-plugin: board
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
 	# ^ 728.98gbp spent
-- [ ] ## This leaves me with 879.02gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 879.02/2,800gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
