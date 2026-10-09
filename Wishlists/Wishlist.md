@@ -175,6 +175,7 @@ kanban-plugin: board
 	> - [NS003A Kaioken Goku](https://www.aliexpress.com/item/1005013289386795.html?) ==57.19gbp==, [SH FIGUARTS DRAGON BALL Z Kaioken Goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m86023002311) ==25.47gbp==
 	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
 	> - [HM STUDIO Young Gohan](https://www.aliexpress.com/item/1005008029085600.html) ==70.79gbp==, [SHF KHS Goku for action faces](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) ==23.85gbp==
+	> - [toybiz 18 inch spider-man](https://www.ebay.co.uk/itm/318944378555) ==57.90gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYpSWeikYaYAdKAxrYYF) ==39.92gbp==
 	> - [SH FIGUARTS SHIN ULTRAMAN Ultraman (Landing Ver.)](https://www.nin-nin-game.com/en/ultraman/80027-shfiguarts-shin-ultraman-ultraman-landing-ver-limited-edition-bandai-spirits-.html) ==21.33gbp==
 	> - [Figure-Rise MG Super Saiyan Son Goku](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m89904602131) ==24.93gbp==
@@ -187,8 +188,8 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 712.95gbp spent
-- [ ] ## This leaves me with 242.22gbp, not including biweekly ingredients or gym due to my part-time schedule
+	# ^ 770.85gbp spent
+- [ ] ## This leaves me with 184.32gbp, not including biweekly ingredients or gym due to my part-time schedule
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
