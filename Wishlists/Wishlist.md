@@ -12,10 +12,6 @@ kanban-plugin: board
 	^ 55.96gbp per term
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
 - [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
-- [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
-	^ for my ssd to connect safely
-- [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
-- [ ] [compressed air duster for tech](https://amzn.eu/d/0d8ohFHG) 20.99gbp
 - [ ] MCON Snap-On Controller 149.99
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -147,7 +143,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 361.53GBP
+## Term #1<br>TOTAL 389.47GBP
 
 - [ ] During this term I will save 900 for my PC alongside spending 216 on train tickets.
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -156,6 +152,8 @@ kanban-plugin: board
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
+- [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
+- [ ] [compressed air duster for tech](https://amzn.eu/d/0d8ohFHG) 20.99gbp
 - [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -201,14 +199,16 @@ kanban-plugin: board
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
 	# ^ 859.93gbp spent
-- [ ] ## This leaves me with 329.73/3,000gbp
+- [ ] ## This leaves me with 301.79/3,000gbp
 
 
-## Term #2<br>TOTAL 1,023.46GBP
+## Term #2<br>TOTAL 1,027.45GBP
 
 - [ ] During this term I will save 900 for my PC alongside spending 216 on train tickets.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
 	^ use accumulated savings
+- [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
+	^ for my ssd to connect safely
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 	[TORRAS MagSafe case](https://amzn.eu/d/0ia2y9Sp) 19.99gbp
@@ -234,7 +234,7 @@ kanban-plugin: board
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
 	# ^ 492.51gbp spent
-- [ ] ## This leaves me with 402.05/3,100gbp
+- [ ] ## This leaves me with 398.06/3,100gbp
 
 
 ## Term #3<br>TOTAL GBP
