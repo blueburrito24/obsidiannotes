@@ -236,7 +236,7 @@ kanban-plugin: board
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
 	# ^ 728.98gbp spent
-- [ ] ## This leaves me with 927.02/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 1,127.02/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
