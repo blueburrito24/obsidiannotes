@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] take note 380 per term for swift card (all operators, all zones from 1-5, 96 per month for 4 months)
+- [ ] 216 for 3 train tickets per week, four weeks a term
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
@@ -142,7 +142,7 @@ kanban-plugin: board
 
 ## Term #1<br>TOTAL 361.04GBP
 
-- [ ] During this term I will save 1,100 for my PC.
+- [ ] During this term I will save 900 for my PC.
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
@@ -195,13 +195,13 @@ kanban-plugin: board
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
 	# ^ 859.93gbp spent
-- [ ] ## This leaves me with 83.34/2,800gbp
+- [ ] ## This leaves me with 283.34/3,000gbp
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 
 
 ## Term #2<br>TOTAL 814.97GBP
 
-- [ ] During this term I will save 700 for my PC alongside spending 380 on a swift card.
+- [ ] During this term I will save 900 for my PC alongside spending 216 on train tickets.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
 	^ use accumulated savings
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
@@ -216,12 +216,12 @@ kanban-plugin: board
 	> - [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	# 65.98gbp spent
-- [ ] ## This leaves me with 428.95/2,800gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 392.95/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 728.98GBP
 
-- [ ] During this term I will spend 192 on my swift card and I will save 1,000.
+- [ ] During this term I will spend 144 on train tickets and I will save 1,000.
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
@@ -243,7 +243,7 @@ kanban-plugin: board
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
 	# ^ 728.98gbp spent
-- [ ] ## This leaves me with 879.02/2,800gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 927.02/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
