@@ -39,6 +39,7 @@ kanban-plugin: board
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - MODARC "Super Bulky Body" Hulk 80-100gbp~
 	> - ==[SH FIGUARTS SHIN KAMEN RIDER Kamen Rider No. 2](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602251703)== 23.95gbp, ==[SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m41370418695)== 34.93gbp
+	> - ==[HIYA TOYS 1991 Godzilla](https://www.aliexpress.com/item/1005009982255805.html?)== 76.06gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
@@ -57,6 +58,11 @@ kanban-plugin: board
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 	> - [1/12 green apron](https://www.aliexpress.com/item/1005011556275339.html?) 22.19gbp
 	> - [Figure-Rise Standard Saiyan Pod](https://www.ebay.co.uk/itm/375844975529) 53.99gbp
+	> - [tamashii effect series water blue](https://www.nin-nin-game.com/en/bandai-spirits/115591-tamashii-effect-series-water-blue-ver-for-sh-figuarts-bandai-spirits-.html) 23.09gbp
+	> - [tamashii effect series explosion red ver](https://www.nin-nin-game.com/en/shfiguarts/219387-shfiguarts-tamashii-effect-act-explosion-red-ver-expansion-set-bandai-spirits-.html) 13.11gbp
+	> - [tamashii effect series smoke white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 13.93gbp
+	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) 8.80gbp, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) 9.99gbp
+	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) 45.49gbp
 	> - shf ultraman tiga guts wing 1 & 2 set, for some flying vehicles to display on city shots
 
 
@@ -143,7 +149,7 @@ kanban-plugin: board
 
 ## Term #1<br>TOTAL 361.53GBP
 
-- [ ] During this term I will save 900 for my PC.
+- [ ] During this term I will save 900 for my PC alongside spending 216 on train tickets.
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
@@ -224,24 +230,16 @@ kanban-plugin: board
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [SH FIGUARTS DRAGON BALL Z-FIGHTERS Vegeta](https://www.nin-nin-game.com/en/shfiguarts/255782-shfiguarts-dragon-ball-z-fighters-vegeta-bandai-spirits-.html) ==19.67gbp==
 	> - [SH FIGUARTS DRAGON BALL Z "Return to Earth Ver." Son Goku](https://www.nin-nin-game.com/en/shfiguarts/261922-shfiguarts-dragon-ball-z-son-goku-return-to-earth-ver-limited-edition-bandai-spirits-.html) ==48.09gbp==
-	# ^ 289.06gbp spemt
-- [ ] ## This leaves me with 505.50/3,000gbp
+	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
+	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
+	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
+	# ^ 492.51gbp spent
+- [ ] ## This leaves me with 402.05/3,100gbp
 
 
 ## Term #3<br>TOTAL GBP
 
 - [ ] I will save 2,000.
-- [ ] >[!Figure purchases]-
-	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
-	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
-	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
-	> - [HIYA TOYS 1991 Godzilla](https://www.aliexpress.com/item/1005009982255805.html?) ==76.06gbp==
-	> - [tamashii effect series water blue](https://www.nin-nin-game.com/en/bandai-spirits/115591-tamashii-effect-series-water-blue-ver-for-sh-figuarts-bandai-spirits-.html) ==23.09gbp==
-	> - [tamashii effect series explosion red ver](https://www.nin-nin-game.com/en/shfiguarts/219387-shfiguarts-tamashii-effect-act-explosion-red-ver-expansion-set-bandai-spirits-.html) ==13.11gbp==
-	> - [tamashii effect series smoke white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) ==13.93gbp==
-	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
-	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
-	# ^ gbp spent
 
 
 ***
