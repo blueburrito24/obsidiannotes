@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## General Wishlist
 
+- [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 - [ ] 216 for 3 train tickets per week, four weeks a term
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
@@ -140,17 +141,16 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 361.04GBP
+## Term #1<br>TOTAL 361.53GBP
 
 - [ ] During this term I will save 900 for my PC.
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
-- [ ] [TrimUI Brick](https://www.aliexpress.com/item/1005008082195952.html?) 62.39gbp
-- [ ] # ----Not included in total----
 - [ ] [Haute42 B16 Fightstick with 3m USB C Cable](https://www.aliexpress.com/item/1005006635383497.html?) 32.89gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
+- [ ] # ----Not included in total----
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
 	> - [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) 3.89gbp
@@ -195,11 +195,10 @@ kanban-plugin: board
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
 	# ^ 859.93gbp spent
-- [ ] ## This leaves me with 283.34/3,000gbp
-- [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
+- [ ] ## This leaves me with 329.73/3,000gbp
 
 
-## Term #2<br>TOTAL 814.97GBP
+## Term #2<br>TOTAL 1,023.46GBP
 
 - [ ] During this term I will save 900 for my PC alongside spending 216 on train tickets.
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/AWD-IT-Forge-7-XT-AMD-Ryzen-5-32GB-RAM-1TB-SSD-AMD-Radeon-RX-9070-XT-Gaming-Desktop-PC/p/564757) 1,799.98gbp
@@ -208,15 +207,14 @@ kanban-plugin: board
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 	[TORRAS MagSafe case](https://amzn.eu/d/0ia2y9Sp) 19.99gbp
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
-- [ ] # ----Not included in total----
-- [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Xiaomi Mi Monitor Light Bar](https://amzn.eu/d/09XQq3Pv) 48.50gbp
+- [ ] # ----Not included in total----
 - [ ] >[!Clothing purchases]-
 	> - [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	# 65.98gbp spent
-- [ ] ## This leaves me with 392.95/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 794.56/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 728.98GBP
@@ -243,7 +241,7 @@ kanban-plugin: board
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
 	# ^ 728.98gbp spent
-- [ ] ## This leaves me with 927.02/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 1,271.02/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
