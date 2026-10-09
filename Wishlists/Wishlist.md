@@ -7,7 +7,7 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
-- [ ] 216 for 3 train tickets per week, four weeks a term
+- [ ] 216 for 3 train tickets per week, four weeks into three months a term
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
 - [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
