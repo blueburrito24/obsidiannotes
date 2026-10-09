@@ -159,8 +159,9 @@ kanban-plugin: board
 	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
 	> - [toybiz 18 inch spider-man](https://www.ebay.co.uk/itm/318944378555) ==57.90gbp==
 	> - ["Golden Logo" KO SHF Gamerverse Spider-Man](https://www.aliexpress.com/item/1005013012189134.html) ==27.19gbp==, [SHF SSJ Awakened Blood Vegeta](https://www.aliexpress.com/item/1005008493644673.html?) ==25.98gbp== for [torso mod](https://www.instagram.com/p/DW6vTDRCqc_/)
-	# ^ 193.73gbp spent
-- [ ] ## This leaves me with 101.27/3,000gbp
+	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
+	# ^ 251gbp spent
+- [ ] ## This leaves me with 44/3,000gbp
 
 
 ## Term #2<br>TOTAL 1,856.57GBP
@@ -194,7 +195,6 @@ kanban-plugin: board
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
-	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXmUfPFuJ6mrb5SYzPjeS) ==58.63gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
 	> - [HM STUDIO Young Gohan](https://www.aliexpress.com/item/1005008029085600.html) ==70.79gbp==, [SHF KHS Goku for action faces](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) ==23.85gbp==
 	> - [BLACK HOLE TOYS/TK CUSTOM Gohan headsculpt](https://www.aliexpress.com/item/1005011819956606.html) ==32.05gbp== for the spare KHS body I'll have
@@ -210,8 +210,8 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 661.08gbp spent
-- [ ] ## This leaves me with 721.16/3,100gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 602.45gbp spent
+- [ ] ## This leaves me with 779.79/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 728.98GBP
