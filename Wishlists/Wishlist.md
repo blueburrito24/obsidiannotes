@@ -142,12 +142,12 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,705GBP
+## Term #1<br>TOTAL 2680.01GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-- [ ] [ASUS ROG RX Falchion](https://amzn.eu/d/0felZxmK) 119.99gbp
+- [ ] [ASUS ROG RX Falchion](https://uk.webuy.com/product-detail?id=4711387334249A) 95gbp
 - [ ] [keyboard display stand](https://amzn.eu/d/0atjoqdQ) 9.99gbp
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Xiaomi Mi Monitor Light Bar](https://amzn.eu/d/09XQq3Pv) 48.50gbp
@@ -161,7 +161,7 @@ kanban-plugin: board
 	> - ["Golden Logo" KO SHF Gamerverse Spider-Man](https://www.aliexpress.com/item/1005013012189134.html) ==27.19gbp==, [SHF SSJ Awakened Blood Vegeta](https://www.aliexpress.com/item/1005008493644673.html?) ==25.98gbp== for [torso mod](https://www.instagram.com/p/DW6vTDRCqc_/)
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
 	# ^ 251gbp spent
-- [ ] ## This leaves me with 44/3,000gbp
+- [ ] ## This leaves me with 68.99/3,000gbp
 
 
 ## Term #2<br>TOTAL 1,856.57GBP
