@@ -18,7 +18,7 @@ kanban-plugin: board
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
 - [ ] [compressed air duster for tech](https://amzn.eu/d/0d8ohFHG) 20.99gbp
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
-- [ ] MCON Snap-On Controller 149.99
+- [ ] [MCON Snap-On Controller](https://www.getohsnap.co.uk/products/mcon-magnetic-controller) 149.99gbp
 - [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
