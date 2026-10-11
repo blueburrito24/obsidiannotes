@@ -143,12 +143,12 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2650.31GBP
+## Term #1<br>TOTAL 2685.31GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-- [ ] [Logitech G915 TKL Keyboard, Grade B](https://uk.webuy.com/product-detail/?id=5099206088801B) 60gbp
+- [ ] [ASUS ROG RX Falchion Low-Profile Keyboard](https://uk.webuy.com/product-detail/?id=4711387334249A) 95gbp
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Xiaomi Mi Monitor Light Bar](https://amzn.eu/d/09XQq3Pv) 48.50gbp
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
@@ -163,7 +163,7 @@ kanban-plugin: board
 	> - ["Golden Logo" KO SHF Gamerverse Spider-Man](https://www.aliexpress.com/item/1005013012189134.html) ==27.19gbp==, [SHF SSJ Awakened Blood Vegeta](https://www.aliexpress.com/item/1005008493644673.html?) ==25.98gbp== for [torso mod](https://www.instagram.com/p/DW6vTDRCqc_/)
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
 	# ^ 251gbp spent
-- [ ] ## This leaves me with 98.69/3,000gbp
+- [ ] ## This leaves me with 63.69/3,000gbp
 
 
 ## Term #2<br>TOTAL 1,959.57GBP
@@ -196,6 +196,8 @@ kanban-plugin: board
 	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==
 	> - [Mattel DC Creations Premium Batma: Hush Rooftop set](https://creations.mattel.com/en-gb/products/dc-premium-batman-hush-rooftop-bat-signal-diorama-set-jrh54) ==103gbp==
 	^ releases in April
+	> -  [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
+	> *would like to buy invincible in-person
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
@@ -214,11 +216,11 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 705.45gbp spent
-- [ ] ## This leaves me with 676.79/3,100gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 735.45gbp spent
+- [ ] ## This leaves me with 646.79/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 728.98GBP
+## Term #3<br>TOTAL 698.98GBP
 
 - [ ] During this term I will spend 144 on train tickets and I will save 1,000.
 - [ ] >[!Figure purchases]-
@@ -226,8 +228,6 @@ kanban-plugin: board
 	> - MESS TOYS Black Suit Neighbour, CT TOYS Agent Venom and Vallejo Glossy Black would cost me about ==80gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
-	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
-	> *would like to buy invincible in-person
 	> - [MAFEX 231 The Invincible Iron Man (Stealth Suit Ver.)](https://www.nin-nin-game.com/en/mafex/114892-mafex-iron-man-comic-stealth-color-ver-medicom-toy-.html) ==56gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Venom](https://www.nin-nin-game.com/en/shfiguarts/261372-shfiguarts-marvel-gamerverse-venom-bandai-spirits-.html) ==62.30gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
@@ -241,8 +241,8 @@ kanban-plugin: board
 	> - [tamashii effect series smoke white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) ==13.93gbp==
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
-	# ^ 728.98gbp spent
-- [ ] ## This leaves me with 1,127.02/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 698.98gbp spent
+- [ ] ## This leaves me with 1,157.02/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
