@@ -154,7 +154,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,924.11GBP
+## Term #1<br>TOTAL 2,957.19GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -171,10 +171,11 @@ kanban-plugin: board
 	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
 	> - [toybiz 18 inch spider-man](https://www.ebay.co.uk/itm/840010528384) ==70gbp==
 	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
-	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94478279033) ==93.45gbp==, [SH FIGUARTS DBS SSGSS Vegeta](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=bNAg3krjYPuYtZTeEdJ2kH) ==20.88gbp== to modify the torso
-	# ^ 284.39gbp spent
+	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94478279033) ==93.45gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
+	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
+	# ^ 317.47gbp spent
 - [ ] [1/12 suit, B](https://www.aliexpress.com/item/1005012198873192.html?) 22.29gbp for my broken SHF DP Vegeta
-- [ ] ## This leaves me with 75.89/3,000gbp
+- [ ] ## This leaves me with 42.81/3,000gbp
 
 
 ## Term #2<br>TOTAL 1,987.64GBP
