@@ -33,7 +33,6 @@ kanban-plugin: board
 	> - lpzz/upf absolute catwoman (not available yet)
 	> - blokees absolute batman (not available yet)
 	> - mattel green lanterns (both hal jordan and john stewart) (not available yet)
-	> - ==[BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?)== 40gbp
 	> - shf naruto shippuden tobirama (not available yet, i would like to buy two or three for shadow clone stuff)
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - MODARC "Super Bulky Body" Hulk 80-100gbp~
@@ -141,7 +140,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,957.19GBP
+## Term #1<br>TOTAL 2,962.74GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -158,14 +157,14 @@ kanban-plugin: board
 	^ using powered-up hairsculpt from the official Kaioken figure on the NS STUDIO figure
 	> - [toybiz 18 inch spider-man](https://www.ebay.co.uk/itm/840010528384) ==70gbp==
 	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
-	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m94478279033) ==93.45gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
+	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
-	# ^ 317.47gbp spent
+	# ^ 322.99gbp spent
 - [ ] [1/12 suit, B](https://www.aliexpress.com/item/1005012198873192.html?) 22.29gbp for my broken SHF DP Vegeta
-- [ ] ## This leaves me with 42.81/3,000gbp
+- [ ] ## This leaves me with 37.26/3,000gbp
 
 
-## Term #2<br>TOTAL 2,059.17GBP
+## Term #2<br>TOTAL 1937.03GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -191,17 +190,16 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://zenmarket.jp/product.aspx?shop=yshopping&itemCode=ssol-shopping_2336183568661) ==58gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
+	> - [Amazing Yamaguchi Revoltech Gwenom](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=mediaworldkaitoriworld%253A11157569) ==52.68gbp==
 	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==
-	> - [Mattel DC Creations Premium Batman: Hush Rooftop set](https://creations.mattel.com/en-gb/products/dc-premium-batman-hush-rooftop-bat-signal-diorama-set-jrh54) ==103gbp==
-	^ releases in April
 	> -  [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
 	> *would like to buy invincible in-person
 	> - [BLACK HOLE TOYS LSSJ Goku Upper Body Replacement](https://www.aliexpress.com/item/1005011819956606.html?) ==24gbp==
 	^ use as a swap-out on the FoR Goku body
 	[[FoR-LSSJ Kitbash.png]]
-	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==115gbp==
-	> - [HM STUDIO Young Gohan](https://www.aliexpress.com/item/1005008029085600.html) ==70.79gbp==, [SHF KHS Goku for action faces](https://www.nin-nin-game.com/en/shfiguarts/199582-shfiguarts-dragon-ball-z-son-goku-kind-hearted-saiyan-bandai-spirits-.html) ==23.85gbp==
-	> - [BLACK HOLE TOYS/TK CUSTOM Gohan headsculpt](https://www.aliexpress.com/item/1005011819956606.html) ==32.05gbp== for the spare KHS body I'll have
+	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
+	> - [HM STUDIO Young Gohan](https://www.aliexpress.com/item/1005008029085600.html) ==70.79gbp==, use KHS Goku faces
+	> - [BSM BLACKSHARK Goku headsculpts](https://www.aliexpress.com/item/1005012872590268.html?) ==33.69gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYpSWeikYaYAdKAxrYYF) ==29.82gbp==
 	> - [SH FIGUARTS SHIN ULTRAMAN Ultraman (Landing Ver.)](https://www.nin-nin-game.com/en/ultraman/80027-shfiguarts-shin-ultraman-ultraman-landing-ver-limited-edition-bandai-spirits-.html) ==21.33gbp==
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
@@ -215,7 +213,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 787.41gbp spent
+	# ^ 665.27gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -227,7 +225,7 @@ kanban-plugin: board
 	> - [1/12 leather jacket, b](https://www.aliexpress.com/item/1005011711371490.html?) 13.55gbp
 	> - [1/12 purple tee and school jacket](https://www.aliexpress.com/item/1005012032068433.html?) 22.09gbp
 	# ^ 71.53gbp spent
-- [ ] ## This leaves me with 527.19/3,100gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 649.53/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 694.39GBP
