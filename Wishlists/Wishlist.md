@@ -7,19 +7,15 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
-- [ ] should try kitbashing my revoltech symbiote spider-man and ct agent venom to see how it looks
 - [ ] 216 for 3 train tickets per week, four weeks a term
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
-- [ ] [4pcs stress balls](https://amzn.eu/d/0cfKwsiu) 7.99gbp
-- [ ] [screwdriver set](https://www.aliexpress.com/item/1005006994669847.html) 17.29gbp
 - [ ] [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) 3.89gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
 - [ ] [compressed air duster for tech](https://amzn.eu/d/0d8ohFHG) 20.99gbp
 - [ ] [MCON Snap-On Controller](https://www.getohsnap.co.uk/products/mcon-magnetic-controller) 149.99gbp
-- [ ] [sony xm6 earbuds](https://amzn.eu/d/0hyuAMT9) 249gbp
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [acrylic markers for painting figures easily](https://www.aliexpress.com/item/1005009535565214.html) 15.72gbp
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
@@ -45,15 +41,6 @@ kanban-plugin: board
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
-	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
-	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
-	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
-	> - [1/12 backpack](https://www.aliexpress.com/item/1005011599867106.html) 11.49gbp
-	> - [1/12 leather jacket, b](https://www.aliexpress.com/item/1005011711371490.html?) 13.55gbp
-	> - [1/12 purple tee and school jacket](https://www.aliexpress.com/item/1005012032068433.html?) 22.09gbp
-	> - [1/12 green apron](https://www.aliexpress.com/item/1005011556275339.html?) 22.19gbp
-	> - [1/12 anime tee](https://www.aliexpress.com/item/1005012465991987.html) 13.49gbp
-	> - [1/12 trenchcoat](https://www.aliexpress.com/item/1005008069034068.html?) 8.66gbp
 	> - [1/10 sleeping bag for figures](https://www.aliexpress.com/item/1005009654990227.html?) 4.49gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
@@ -178,7 +165,7 @@ kanban-plugin: board
 - [ ] ## This leaves me with 42.81/3,000gbp
 
 
-## Term #2<br>TOTAL 1,987.64GBP
+## Term #2<br>TOTAL 2,059.17GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -229,7 +216,18 @@ kanban-plugin: board
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
 	# ^ 787.41gbp spent
-- [ ] ## This leaves me with 598.72/3,100gbp including the expenses for buying ingredients biweekly and gym
+- [ ] >[!Figure accessories]-
+	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
+	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
+	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
+	> - [1/12 backpack](https://www.aliexpress.com/item/1005011599867106.html) 11.49gbp
+	> - [1/12 green apron](https://www.aliexpress.com/item/1005011556275339.html?) 22.19gbp
+	> - [1/12 anime tee](https://www.aliexpress.com/item/1005012465991987.html) 13.49gbp
+	> - [1/12 trenchcoat](https://www.aliexpress.com/item/1005008069034068.html?) 8.66gbp
+	> - [1/12 leather jacket, b](https://www.aliexpress.com/item/1005011711371490.html?) 13.55gbp
+	> - [1/12 purple tee and school jacket](https://www.aliexpress.com/item/1005012032068433.html?) 22.09gbp
+	# ^ 71.53gbp spent
+- [ ] ## This leaves me with 527.19/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 694.39GBP

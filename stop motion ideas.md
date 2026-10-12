@@ -20,4 +20,4 @@ doing exaggerated movement for characters with masks when doing like basic dialo
 
 recreate [this clip](https://www.instagram.com/reels/DeNmgHQOUvW/) with a fridge or something
 
-1 character hitting another in like an embarrassed crushy way but it hits so hard they fly away like shin ultraman and create a crater/explosion on the ground like a rock going across a lake
+1 character hitting another in like an embarrassed crushy way but it hits so hard they fly away like shin ultraman and create a crater/explosion 
