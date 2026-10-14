@@ -139,7 +139,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,896.98GBP
+## Term #1<br>TOTAL 2,940.31GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -152,13 +152,14 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m20042581643) ==78.92gbp==
 	> - [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==23.25gbp==
+	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) ==43.33gbp== for my SHF MARVEL GAMERVERSE Wolverine in January
 	> - [toybiz 18 inch spider-man](https://www.ebay.co.uk/itm/840010528384) ==70gbp==
 	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==43.99gbp==
-	# ^ 363.73gbp spent
-- [ ] ## This leaves me with 103.02/3,000gbp
+	# ^ 407.06gbp spent
+- [ ] ## This leaves me with 59.69/3,000gbp
 
 
 ## Term #2<br>TOTAL 2,123.19GBP
