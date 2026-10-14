@@ -139,12 +139,11 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,970.75GBP
+## Term #1<br>TOTAL 2,896.98GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-- [ ] [ASUS ROG RX Falchion Low-Profile Keyboard](https://uk.webuy.com/product-detail/?id=4711387334249A) 95gbp
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Xiaomi Mi Monitor Light Bar](https://amzn.eu/d/09XQq3Pv) 48.50gbp
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
@@ -157,9 +156,9 @@ kanban-plugin: board
 	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
-	# ^ 342.50gbp spent
-- [ ] [1/12 suit, B](https://www.aliexpress.com/item/1005012198873192.html?) 22.29gbp for my broken SHF DP Vegeta
-- [ ] ## This leaves me with 29.25/3,000gbp
+	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==43.99gbp==
+	# ^ 363.73gbp spent
+- [ ] ## This leaves me with 103.02/3,000gbp
 
 
 ## Term #2<br>TOTAL 2,123.19GBP
@@ -227,14 +226,13 @@ kanban-plugin: board
 - [ ] ## This leaves me with 463.35/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 758.38GBP
+## Term #3<br>TOTAL 718.38GBP
 
 - [ ] During this term I will spend 144 on train tickets and I will save 1,000.
 - [ ] >[!Figure purchases]-
 	> - Would need to pay ten quid for shipping on my Revoltech Symbiote Spider-Man
 	> - [mess toys black suit neighbour](https://www.aliexpress.com/item/1005009571122164.html?) 33.39gbp. [ct toys agent venom](https://www.aliexpress.com/item/1005009787035391.html?) 36.84gbp and [Vallejo Glossy Black](https://www.amazon.co.uk/Vallejo-Model-Color-Acrylic-Paint/dp/B000PHCNVC?th=1) 5.18gbp would cost me ==75.41gbp== for upgrading my Revoltech Symbiote Spider-Man
 	I'd like to drill in some extra sockets for the tendrils on the back of the figure
-	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html) ==40gbp==
 	> - [MEZCO The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==119.99gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Venom](https://www.nin-nin-game.com/en/shfiguarts/261372-shfiguarts-marvel-gamerverse-venom-bandai-spirits-.html) ==62.30gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
@@ -248,8 +246,8 @@ kanban-plugin: board
 	> - [tamashii effect series smoke white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) ==13.93gbp==
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
-	# ^ 758.38gbp spent
-- [ ] ## This leaves me with 1,097.62/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 718.38gbp spent
+- [ ] ## This leaves me with 1,137.62/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
