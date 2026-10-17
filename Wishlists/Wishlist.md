@@ -36,6 +36,12 @@ kanban-plugin: board
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - MODARC "Super Bulky Body" Hulk 80-100gbp~
 	> - ==[PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005009339829602.html)== 43.99gbp
+	> - ==[AMAZING YAMAGUCHI Reissue Iron Spider](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m70651750791)== 99.15gbp
+	> - ==[AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32256266816)== 64.45gbp
+	> - ==[AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWrAqEnJmYATJCJ2F4tox)== 45.27gbp
+	> - ==[SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm)== 67.95gbp
+	> - ac factory ko revoltech bleeding edge iron man (releases january 2027)
+	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
@@ -166,7 +172,7 @@ kanban-plugin: board
 - [ ] ## This leaves me with 90.26/3,000gbp
 
 
-## Term #2<br>TOTAL 1,739.35GBP
+## Term #2<br>TOTAL 1,686.67GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -192,7 +198,6 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	# ^ 150.54gbp spent
 - [ ] >[!Figure purchases]-
-	> - [Amazing Yamaguchi Revoltech Gwenom](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=mediaworldkaitoriworld%253A11157569) ==52.68gbp==
 	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==
 	> -  [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==30gbp==
 	> *would like to buy invincible in-person
@@ -208,7 +213,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 470.30gbp spent
+	# ^ 417.62gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -221,7 +226,7 @@ kanban-plugin: board
 	> - [1/12 purple tee and school jacket](https://www.aliexpress.com/item/1005012032068433.html?) 22.09gbp
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	# ^ 150.54gbp spent
-- [ ] ## This leaves me with 456.03/3,100gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 508.71/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 718.38GBP
