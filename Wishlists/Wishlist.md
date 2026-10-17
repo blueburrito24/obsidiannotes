@@ -139,7 +139,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,899.76GBP
+## Term #1<br>TOTAL 2,909.74GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -155,23 +155,25 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m62420443283) ==56.88gbp==
 	> - [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==23.25gbp==
-	> - [HM STUDIO Young Gohan B](https://www.aliexpress.com/item/1005008029085600.html) ==68.79gbp==
+	> - [HM STUDIO Young Gohan B](https://www.aliexpress.com/item/1005008029085600.html) ==68.79gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp==
+	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
 	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.comicsandcocktails.co.uk/store/Bandai-S-H-Figuarts-MARVEL-GAMERVERSE-Wolverine-p867394270) ==74.99gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 405.43gbp spent
-- [ ] ## This leaves me with 100.24/3,000gbp
+	# ^ 415.41gbp spent
+- [ ] ## This leaves me with 90.26/3,000gbp
 
 
-## Term #2<br>TOTAL 1,964.56GBP
+## Term #2<br>TOTAL 1,739.35GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 	[TORRAS MagSafe case](https://amzn.eu/d/0ia2y9Sp) 19.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] [GL.iNet Flint 3 Router](https://amzn.eu/d/04kXNC0e) 178.99gbp
+- [ ] [sony xm5 earbuds](https://amzn.eu/d/0btVeQIr) 179gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
 	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
@@ -188,7 +190,7 @@ kanban-plugin: board
 	> - [primark mid-rise straight-leg jeans, grey](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-grey-991143030706) 14gbp
 	> - [cotton shirt, long-sleeve, black](https://www2.hm.com/en_gb/productpage.1297891002.html) 27.99gbp
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
-	# ^ 404.89gbp spent
+	# ^ 150.54gbp spent
 - [ ] >[!Figure purchases]-
 	> - [Amazing Yamaguchi Revoltech Gwenom](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=mediaworldkaitoriworld%253A11157569) ==52.68gbp==
 	> - [MAFEX BATMAN Knight Cruasder Batman (Black Ver.)](https://www.nin-nin-game.com/en/mafex/210830-mafex-no270-batman-knight-crusader-batman-black-ver-reissue-medicom-toy-.html) ==69.95gbp==
@@ -218,8 +220,8 @@ kanban-plugin: board
 	> - [1/12 leather jacket, b](https://www.aliexpress.com/item/1005011711371490.html?) 13.55gbp
 	> - [1/12 purple tee and school jacket](https://www.aliexpress.com/item/1005012032068433.html?) 22.09gbp
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
-	# ^ 114.86gbp spent
-- [ ] ## This leaves me with 621.98/3,100gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 150.54gbp spent
+- [ ] ## This leaves me with 456.03/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 718.38GBP
