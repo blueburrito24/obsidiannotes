@@ -139,22 +139,21 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,934.15GBP
+## Term #1<br>TOTAL 2,900.97GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
 	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
-- [ ] [Xiaomi Mi Monitor Light Bar](https://amzn.eu/d/09XQq3Pv) 48.50gbp
-- [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
-- [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
+- [ ] [Pebble speakers](https://amzn.eu/d/09r8k2uA) 23.85gbp
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
 - [ ] [TP-Link TL-PA7017PKIT Powerline Adapter Kit](https://amzn.eu/d/03MABCTJ) 50.97gbp
+- [ ] [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.co.uk/Xiaomi-Computer-Monitor-Light-Bar/dp/B0BTVY9MBM) 48.50gbp
 - [ ] [New Nintendo 3DS LL](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16215223474) 99.59gbp
 	[stylus 4pcs](https://www.amazon.co.uk/Stylus-Replacement-Compatible-Nintendo-Combo-Multi/dp/B08HHRH6QL) 4.99gbp
 	[charger 2pcs](https://www.amazon.co.uk/Mcbazel-Power-Charger-Cable-Nintendo/dp/B08HWC2J17) 3.99gbp
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m20042581643) ==78.92gbp==
+	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m62420443283) ==56.88gbp==
 	> - [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==23.25gbp==
 	> - [toybiz 18 inch spider-man](https://www.ebay.co.uk/itm/840010528384) ==70gbp==
 	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
@@ -162,8 +161,8 @@ kanban-plugin: board
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.comicsandcocktails.co.uk/store/Bandai-S-H-Figuarts-MARVEL-GAMERVERSE-Wolverine-p867394270) ==74.99gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 428.68gbp spent
-- [ ] ## This leaves me with 65.85/3,000gbp
+	# ^ 406.64gbp spent
+- [ ] ## This leaves me with 99.03/3,000gbp
 
 
 ## Term #2<br>TOTAL 2,096.35GBP
