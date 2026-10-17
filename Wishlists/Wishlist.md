@@ -139,7 +139,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,926.51GBP
+## Term #1<br>TOTAL 2,934.15GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
@@ -149,24 +149,24 @@ kanban-plugin: board
 - [ ] [sony xm5sa special edition headphones](https://amzn.eu/d/0bwZiw89) 199.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/0gGkHkmS) 34.99gbp
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
+- [ ] [TP-Link TL-PA7017PKIT Powerline Adapter Kit](https://amzn.eu/d/03MABCTJ) 50.97gbp
 - [ ] [New Nintendo 3DS LL](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16215223474) 99.59gbp
 	[stylus 4pcs](https://www.amazon.co.uk/Stylus-Replacement-Compatible-Nintendo-Combo-Multi/dp/B08HHRH6QL) 4.99gbp
 	[charger 2pcs](https://www.amazon.co.uk/Mcbazel-Power-Charger-Cable-Nintendo/dp/B08HWC2J17) 3.99gbp
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m20042581643) ==78.92gbp==
 	> - [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==23.25gbp==
-	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) ==43.33gbp==
 	> - [toybiz 18 inch spider-man](https://www.ebay.co.uk/itm/840010528384) ==70gbp==
 	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.comicsandcocktails.co.uk/store/Bandai-S-H-Figuarts-MARVEL-GAMERVERSE-Wolverine-p867394270) ==74.99gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 472.01gbp spent
-- [ ] ## This leaves me with 73.49/3,000gbp
+	# ^ 428.68gbp spent
+- [ ] ## This leaves me with 65.85/3,000gbp
 
 
-## Term #2<br>TOTAL 2,053.02GBP
+## Term #2<br>TOTAL 2,096.35GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -219,8 +219,9 @@ kanban-plugin: board
 	> - [1/12 trenchcoat](https://www.aliexpress.com/item/1005008069034068.html?) 8.66gbp
 	> - [1/12 leather jacket, b](https://www.aliexpress.com/item/1005011711371490.html?) 13.55gbp
 	> - [1/12 purple tee and school jacket](https://www.aliexpress.com/item/1005012032068433.html?) 22.09gbp
-	# ^ 71.53gbp spent
-- [ ] ## This leaves me with 533.52/3,100gbp including the expenses for buying ingredients biweekly and gym
+	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
+	# ^ 114.86gbp spent
+- [ ] ## This leaves me with 490.19/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 718.38GBP
