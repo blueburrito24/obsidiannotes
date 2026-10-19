@@ -43,7 +43,6 @@ kanban-plugin: board
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
-	> - [1/12 scale fridge](https://www.aliexpress.com/item/1005010450443422.html?) 6.19gbp
 	> - [1/10 sleeping bag for figures](https://www.aliexpress.com/item/1005009654990227.html?) 4.49gbp
 	> - [1/6th scale floral tee for bigger figures](https://www.aliexpress.com/item/1005010105472307.html?) 12.89gbp
 	> - [manipple 1/12 glasses](https://www.aliexpress.com/item/1005008528170157.html?) 8gbp
