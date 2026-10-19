@@ -1,4 +1,6 @@
 https://www.shotcut.org/ potential program for editing, i'd like to animate at 15fps based on the findings of [this video](https://www.youtube.com/watch?v=LeQKbynljcQ)
+also look into dragon frame
+
 desperatelyyy need to make sure i have a tripod and good lighting for these stop motions
 [how to make a good stop motion stand](https://www.youtube.com/watch?v=3jzYOeiCMd4) should cost under 50 quid
 
@@ -21,3 +23,6 @@ doing exaggerated movement for characters with masks when doing like basic dialo
 recreate [this clip](https://www.instagram.com/reels/DeNmgHQOUvW/) with a fridge or something
 
 1 character hitting another in like an embarrassed crushy way but it hits so hard they fly away like shin ultraman and create a crater/explosion 
+
+shf gamerverse spider-man sneaking around slowly, then mezco hulk walks by in the background with a carton of milk and some glasses on, spider-man gets shocked and stands up straight wilhelming (head leading the motion exaggeratedly) then fainting onto the ground and twitching like a bug, while hulk stands over him staring in confusion (pov shot using acrylic sheet for angle)
+^ use figure boxes to create hallway shapes since i have no dioramas or anything

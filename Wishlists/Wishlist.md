@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## General Wishlist
 
-- [ ] I need to do [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) on FoR Goku
 - [ ] 216 for 3 train tickets per week, four weeks a term
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
@@ -14,8 +13,10 @@ kanban-plugin: board
 - [ ] [MCON Snap-On Controller](https://www.getohsnap.co.uk/products/mcon-magnetic-controller) 149.99gbp
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
-- [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp < for figures
-- [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp < for bigger figures
+- [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
+	< for figures
+- [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
+	< for bigger figures
 - [ ] [acrylic markers for painting figures easily](https://www.aliexpress.com/item/1005009535565214.html) 15.72gbp
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
@@ -41,7 +42,11 @@ kanban-plugin: board
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
+	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
+	> - [1/12 scale fridge](https://www.aliexpress.com/item/1005010450443422.html?) 6.19gbp
 	> - [1/10 sleeping bag for figures](https://www.aliexpress.com/item/1005009654990227.html?) 4.49gbp
+	> - [1/6th scale floral tee for bigger figures](https://www.aliexpress.com/item/1005010105472307.html?) 12.89gbp
+	> - [manipple 1/12 glasses](https://www.aliexpress.com/item/1005008528170157.html?) 8gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
