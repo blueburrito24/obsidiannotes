@@ -168,7 +168,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases
 
 
-## Term #2<br>TOTAL 1,872.39GBP
+## Term #2<br>TOTAL 1,917.82GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -194,9 +194,10 @@ kanban-plugin: board
 	> - [Tailored joggers, dark mole (brown)](https://www2.hm.com/en_gb/productpage.1349822003.html) 37.99gbp
 	# ^ 150.54gbp spent
 - [ ] >[!Figure purchases]-
-	> - [AC Factory KO Revoltech Bleeding Edge Iron Man](https://www.aliexpress.com/item/1005013428974108.html?) ==34.49gbp==
+	> - [AC Factory KO AMAZING YAMAGUCHI Bleeding Edge Iron Man](https://www.aliexpress.com/item/1005013428974108.html?) ==34.49gbp==
 	> - [AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32256266816) ==64.45gbp==
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005011541678676.html?) ==40.89gbp==
+	> - [AMAZING YAMAGUCHI Deadpool ver2.0 X-FORCE Colour Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m47087015109) ==45.43gbp==
 	> - [MAFEX 270 BATMAN KNIGHTFALL Knight Crusader Batman (Black Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m45668487522) ==39.63gbp==
 	> - [MEZCO ONE:!2 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==119.99gbp==
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
@@ -214,7 +215,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 780.89gbp spent
+	# ^ 826.32gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -223,7 +224,7 @@ kanban-plugin: board
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	# ^ 103.99gbp spent
-- [ ] ## This leaves me with 522.99/3,100gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 477.56/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 598.39GBP
