@@ -35,8 +35,6 @@ kanban-plugin: board
 	> - mattel green lanterns (both hal jordan and john stewart) (not available yet)
 	> - shf naruto shippuden tobirama (not available yet, i would like to buy two or three for shadow clone stuff)
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
-	> - MODARC "Super Bulky Body" Hulk 80-100gbp~
-	> - ==[AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWrAqEnJmYATJCJ2F4tox)== 45.27gbp
 	> - SH FIGUARTS DRAGON BALL Z "Beyond The Adventure Set" Son Goku
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 - [ ] >[!Figure accessories]-
@@ -170,7 +168,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases
 
 
-## Term #2<br>TOTAL 1,882.46GBP
+## Term #2<br>TOTAL 1,872.39GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -204,7 +202,7 @@ kanban-plugin: board
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYpSWeikYaYAdKAxrYYF) ==29.82gbp==
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
-	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWWjzXA379NRdot6kaK7c) ==37.85gbp==
+	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
 	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m87961818746) ==54.68gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
 	> - [SH FIGUARTS Shinkocchou Seihou KAMEN RIDER OOO Tatoba Combo Kamen Rider](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m93237909260) ==54.04gbp==, [Bandai SIC KAMEN RIDER OOO Effect Set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYjcoRq3zqHSH7qVLkfi) ==24gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
@@ -216,7 +214,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 790.96gbp spent
+	# ^ 780.89gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -225,7 +223,7 @@ kanban-plugin: board
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	# ^ 103.99gbp spent
-- [ ] ## This leaves me with 512.92/3,100gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 522.99/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 598.39GBP
