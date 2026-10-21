@@ -26,10 +26,6 @@ kanban-plugin: board
 	> - shf perfect cell (not available yet)
 	> - square k gotenks (not available yet)
 	> - revoltech cyborg superman (not available yet)
-	> - lpzz/upf hush batman  (not available yet)
-	> - lpzz/upf absolute catwoman (not available yet)
-	> - blokees absolute batman (not available yet)
-	> - mattel green lanterns (both hal jordan and john stewart) (not available yet)
 	> - shf naruto shippuden tobirama (not available yet, i would like to buy two or three for shadow clone stuff)
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
@@ -232,7 +228,7 @@ kanban-plugin: board
 - [ ] ## This leaves me with 299.71/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 598.39GBP
+## Term #3<br>TOTAL 737.15GBP
 
 - [ ] During this term I will spend 144 on train tickets and I will save 1,000.
 - [ ] >[!Figure purchases]-
@@ -242,7 +238,9 @@ kanban-plugin: board
 	> - [SH FIGUARTS MARVEL GAMERVERSE Venom](https://www.nin-nin-game.com/en/shfiguarts/261372-shfiguarts-marvel-gamerverse-venom-bandai-spirits-.html) ==62.30gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [SH FIGUARTS DRAGON BALL Z-FIGHTERS Vegeta](https://www.nin-nin-game.com/en/shfiguarts/255782-shfiguarts-dragon-ball-z-fighters-vegeta-bandai-spirits-.html) ==19.67gbp==
-	> - [SH FIGUARTS DRAGON BALL Z "Return to Earth Ver." Son Goku](https://www.nin-nin-game.com/en/shfiguarts/261922-shfiguarts-dragon-ball-z-son-goku-return-to-earth-ver-limited-edition-bandai-spirits-.html) ==48.09gbp==
+	> - [SH FIGUARTS DRAGON BALL Z "Return to Earth Ver." Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-return-to-earth-15cm) ==54.95gbp==
+	> - [SH FIGUARTS DRAGON BALL Z Full Power Frieza (Battle Scarred Edition)](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-full-power-frieza-battle-scarred-edition-13cm) ==59.95gbp==
+	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==71.95gbp==
 	> - [Hasuki FKEY Maid Musketeer](https://www.nin-nin-game.com/en/action-figures/161943-action-figure-pocket-art-series-maid-musketeer-fkey-112-hasuki-.html) ==79.64gbp==
 	> - [Hasuki Rose Night Gloria](https://www.nin-nin-game.com/en/original-character/135226-pocket-art-series-pa008-rose-night-gloria-112-hasuki-.html) ==83.81gbp==
 	> - [HIYA TOYS 1991 Godzilla](https://www.aliexpress.com/item/1005009982255805.html?) ==76.06gbp==
@@ -251,8 +249,8 @@ kanban-plugin: board
 	> - [tamashii effect series smoke white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) ==13.93gbp==
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
-	# ^ 598.39gbp spent
-- [ ] ## This leaves me with 1,257.61/3,100gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 737.15gbp spent
+- [ ] ## This leaves me with 1,118.85/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
