@@ -10,13 +10,8 @@ kanban-plugin: board
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
 - [ ] [compressed air duster for tech](https://amzn.eu/d/0d8ohFHG) 20.99gbp
-- [ ] [MCON Snap-On Controller](https://www.getohsnap.co.uk/products/mcon-magnetic-controller) 149.99gbp
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
-- [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
-	< for figures
-- [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
-	< for bigger figures
 - [ ] [acrylic markers for painting figures easily](https://www.aliexpress.com/item/1005009535565214.html) 15.72gbp
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
@@ -138,44 +133,50 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,903.73GBP
+## Term #1<br>TOTAL 2,933.85GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
-- [ ] [Keychron K8 TKL HE](https://amzn.eu/d/0iztHmYY) 149.99gbp
-	[Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
+- [ ] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/09r8k2uA) 23.85gbp
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
-- [ ] [TP-Link TL-PA7017PKIT Powerline Adapter Kit](https://amzn.eu/d/03MABCTJ) 50.97gbp
-- [ ] [New Nintendo 3DS LL](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m16215223474) 99.59gbp
+- [ ] [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 36.99gbp
+- [ ] [New Nintendo 3DS LL](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m73490867774) 113.21gbp
 	[stylus 4pcs](https://www.amazon.co.uk/Stylus-Replacement-Compatible-Nintendo-Combo-Multi/dp/B08HHRH6QL) 4.99gbp
 	[charger 2pcs](https://www.amazon.co.uk/Mcbazel-Power-Charger-Cable-Nintendo/dp/B08HWC2J17) 3.99gbp
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
+- [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
+	< for figures
+- [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
+	< for bigger figures
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m62420443283) ==56.88gbp==
+	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m90738411127) ==53.60gbp==
 	^ modify for more ab crunch
+	> - [MAFEX 270 BATMAN KNIGHTFALL Knight Crusader Batman (Black Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m45668487522) ==39.63gbp==
+	> - [AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81220329183) ==54.15gbp==
+	^ need to fix loose waist with nail polish
+	> - [MEZCO ONE:!2 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==119.99gbp==
 	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005012628552591.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
 	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
-	> - [Revoltech Sci-Fi Series Spider-Man 3 Spider-Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m51934532392) ==17.40gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.comicsandcocktails.co.uk/store/Bandai-S-H-Figuarts-MARVEL-GAMERVERSE-Wolverine-p867394270) ==74.99gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 447.06gbp spent
-- [ ] ## This leaves me with 96.27/3,000gbp
+	# ^ 600.05gbp spent
+	^ (-40 quid from Musa buying loose NS Gohan parts)
+- [ ] ## This leaves me with 66.15/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
-- [ ] [NS STUDIO NS003 Kaioken Goku](https://www.aliexpress.com/item/1005010677420522.html?) 47.24gbp
-	^ buy if you have the money for it
 
 
-## Term #2<br>TOTAL 1,950.82GBP
+## Term #2<br>TOTAL 1,916.67GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 52.99gbp
+- [ ] [MCON Snap-On Controller](https://www.getohsnap.co.uk/products/mcon-magnetic-controller) 149.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] [GL.iNet Flint 3 Router](https://amzn.eu/d/04kXNC0e) 178.99gbp
 - [ ] [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.co.uk/Xiaomi-Computer-Monitor-Light-Bar/dp/B0BTVY9MBM) 48.50gbp
@@ -198,17 +199,14 @@ kanban-plugin: board
 	# ^ 150.54gbp spent
 - [ ] >[!Figure purchases]-
 	> - [AC Factory KO AMAZING YAMAGUCHI Bleeding Edge Iron Man](https://www.aliexpress.com/item/1005013428974108.html?) ==34.49gbp==
-	> - [AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m32256266816) ==64.45gbp==
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005011541678676.html?) ==40.89gbp==
 	> - [AMAZING YAMAGUCHI Deadpool ver2.0 X-FORCE Colour Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m47087015109) ==45.43gbp==
-	> - [MAFEX 270 BATMAN KNIGHTFALL Knight Crusader Batman (Black Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m45668487522) ==39.63gbp==
-	> - [MEZCO ONE:!2 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==119.99gbp==
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
-	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYpSWeikYaYAdKAxrYYF) ==29.82gbp==
+	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
 	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
 	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m87961818746) ==54.68gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
-	> - [SH FIGUARTS Shinkocchou Seihou KAMEN RIDER OOO Tatoba Combo Kamen Rider](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m93237909260) ==54.04gbp==, [Bandai SIC KAMEN RIDER OOO Effect Set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYjcoRq3zqHSH7qVLkfi) ==24gbp==
+	> - [SH FIGUARTS Shinkocchou Seihou KAMEN RIDER OOO Tatoba Combo Kamen Rider](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXzGeYqtwFVxZfw8Abvfh) ==67.11gbp==, [Bandai SIC KAMEN RIDER OOO Effect Set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYjcoRq3zqHSH7qVLkfi) ==24gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
 	> - [amazon basics flexible tripod for photography](https://amzn.eu/d/09VKP8Yt) ==8.30gbp==
 	> - [heat gun for customising](https://amzn.eu/d/03Mw6Po8) ==14.99gbp==
@@ -218,7 +216,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 826.32gbp spent
+	# ^ 625.77gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -226,8 +224,9 @@ kanban-plugin: board
 	> - [tamashii effect series smoke effect white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 13.93gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
-	# ^ 103.99gbp spent
-- [ ] ## This leaves me with 444.56/3,100gbp including the expenses for buying ingredients biweekly and gym
+	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
+	# ^ 120.60gbp spent
+- [ ] ## This leaves me with 478.71/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 598.39GBP
