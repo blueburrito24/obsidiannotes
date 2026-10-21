@@ -32,7 +32,8 @@ kanban-plugin: board
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - SH FIGUARTS DRAGON BALL Z "Beyond The Adventure Set" Son Goku
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
-	> - 4pcs SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo for army building (50-70)
+	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
+	> - ==[SH FIGUARTS DRAGON BALL Z Goku's Best Friend Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm)== 54.95gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
