@@ -133,7 +133,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,851.26GBP
+## Term #1<br>TOTAL 2,874.21GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -150,8 +150,7 @@ kanban-plugin: board
 - [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
 	< for bigger figures
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m90738411127) ==53.60gbp==
-	^ modify for more ab crunch
+	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m90738411127) ==53.60gbp==, [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==22.95gbp==
 	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005012628552591.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
 	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
@@ -162,10 +161,10 @@ kanban-plugin: board
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 554.38gbp spent
+	# ^ 577.33gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts)
 - [ ] 43.63gbp for the customs fee on my existing zenmarket parcel
-- [ ] ## This leaves me with 117.19/3,000gbp
+- [ ] ## This leaves me with 94.24/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
 
 
