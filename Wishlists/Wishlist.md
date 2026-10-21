@@ -51,6 +51,7 @@ kanban-plugin: board
 	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 	> - [Figure-Rise Standard Saiyan Pod](https://www.ebay.co.uk/itm/375844975529) 53.99gbp
+	> - [SHFUpgrade Shinkocchou Seihou KAMEN RIDER OOO Elbow Joint upgrade kit](https://www.shfupgrade.com/products/skc-ooo-series-elbow-joints-pairs) 7.61gbp
 
 
 ## Recipes
@@ -135,7 +136,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,942.75GBP
+## Term #1<br>TOTAL 2,884.85GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -158,7 +159,6 @@ kanban-plugin: board
 	(I will use the B heads with the A body and use the extra faces with my Goku)
 	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
 	> - [MAFEX 270 BATMAN KNIGHTFALL Knight Crusader Batman (Black Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m45668487522) ==39.63gbp==
-	> - [Toybiz 18 Inch Spider-Man](https://www.ebay.co.uk/itm/128136303878) ==57.90gbp==
 	> - [AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81220329183) ==54.15gbp==
 	^ need to fix loose waist with nail polish
 	> - [MEZCO ONE:!2 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==119.99gbp==
@@ -166,9 +166,10 @@ kanban-plugin: board
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.comicsandcocktails.co.uk/store/Bandai-S-H-Figuarts-MARVEL-GAMERVERSE-Wolverine-p867394270) ==74.99gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 657.95gbp spent
+	# ^ 600.05gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts)
-- [ ] ## This leaves me with 57.25/3,000gbp
+- [ ] 43.63gbp for the customs fee on my existing zenmarket parcel
+- [ ] ## This leaves me with 71.52/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
 
 
