@@ -32,6 +32,7 @@ kanban-plugin: board
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - SH FIGUARTS DRAGON BALL Z "Beyond The Adventure Set" Son Goku
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
+	> - 4pcs SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo for army building (50-70)
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
@@ -152,14 +153,14 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m90738411127) ==53.60gbp==
 	^ modify for more ab crunch
+	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005012628552591.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
+	(I will use the B heads with the A body and use the extra faces with my Goku)
+	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
 	> - [MAFEX 270 BATMAN KNIGHTFALL Knight Crusader Batman (Black Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m45668487522) ==39.63gbp==
 	> - [Toybiz 18 Inch Spider-Man](https://www.ebay.co.uk/itm/128136303878) ==57.90gbp==
 	> - [AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81220329183) ==54.15gbp==
 	^ need to fix loose waist with nail polish
 	> - [MEZCO ONE:!2 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==119.99gbp==
-	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005012628552591.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
-	(I will use the B heads with the A body and use the extra faces with my Goku)
-	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://www.comicsandcocktails.co.uk/store/Bandai-S-H-Figuarts-MARVEL-GAMERVERSE-Wolverine-p867394270) ==74.99gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
