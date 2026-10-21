@@ -13,6 +13,8 @@ kanban-plugin: board
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 - [ ] [acrylic markers for painting figures easily](https://www.aliexpress.com/item/1005009535565214.html) 15.72gbp
+- [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
+	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
@@ -30,7 +32,6 @@ kanban-plugin: board
 	> - mattel green lanterns (both hal jordan and john stewart) (not available yet)
 	> - shf naruto shippuden tobirama (not available yet, i would like to buy two or three for shadow clone stuff)
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
-	> - SH FIGUARTS DRAGON BALL Z "Beyond The Adventure Set" Son Goku
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
 	> - ==[SH FIGUARTS DRAGON BALL Z Goku's Best Friend Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm)== 54.95gbp
