@@ -131,15 +131,14 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,787.75GBP
+## Term #1<br>TOTAL 2,797.75GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Keychron K8 HE](https://amzn.eu/d/0hTlyxex) 149.99gbp
 - [ ] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-- [ ] [Lenovo Legion 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0f7Im99I) 139.99gbp
-	^ sale runs out 27th october
+- [ ] [Z-Edge 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/02QfeCE1) 149.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/09r8k2uA) 23.85gbp
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
 - [ ] [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 36.99gbp
@@ -162,7 +161,7 @@ kanban-plugin: board
 	# ^ 395.27gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 212.25/3,000gbp
+- [ ] ## This leaves me with 202.25/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
 
 
