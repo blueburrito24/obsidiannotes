@@ -158,7 +158,7 @@ kanban-plugin: board
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	# ^ 395.27gbp spent
-	^ (-40 quid from Musa buying loose HM Gohan parts)
+	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] 44gbp to pay back ma
 - [ ] ## This leaves me with 85.94/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
