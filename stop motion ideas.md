@@ -24,5 +24,5 @@ recreate [this clip](https://www.instagram.com/reels/DeNmgHQOUvW/) with a fridge
 
 1 character hitting another in like an embarrassed crushy way but it hits so hard they fly away like shin ultraman and create a crater/explosion 
 
-shf gamerverse spider-man sneaking around slowly, then mezco hulk walks by in the background with a carton of milk and some glasses on, spider-man gets shocked and stands up straight wilhelming (head leading the motion exaggeratedly) then fainting onto the ground and twitching like a bug, while hulk stands over him staring in confusion (pov shot using acrylic sheet for angle)
+shf gamerverse spider-man sneaking around slowly, then hulk walks by in the background with a carton of milk and some glasses on, spider-man gets shocked and stands up straight wilhelming (head leading the motion exaggeratedly) then fainting onto the ground and twitching like a bug, while hulk stands over him staring in confusion (pov shot using acrylic sheet for angle)
 ^ use figure boxes to create hallway shapes since i have no dioramas or anything
