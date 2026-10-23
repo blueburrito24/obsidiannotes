@@ -9,7 +9,6 @@ kanban-plugin: board
 - [ ] 216 for 3 train tickets per week, four weeks a term
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
-- [ ] [compressed air duster for tech](https://amzn.eu/d/0d8ohFHG) 20.99gbp
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 - [ ] [acrylic markers for painting figures easily](https://www.aliexpress.com/item/1005009535565214.html) 15.72gbp
@@ -135,9 +134,9 @@ kanban-plugin: board
 ## Term #1<br>TOTAL 2,714.06GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
-- [ ] [Keychron K8 HE](https://amzn.eu/d/0hTlyxex) 149.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
+- [ ] [Keychron K8 HE](https://amzn.eu/d/0hTlyxex) 149.99gbp
 - [ ] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
 - [ ] [acer Nitro 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/0fM6BUk7) 159.99gbp
 - [ ] [Pebble speakers](https://amzn.eu/d/09r8k2uA) 23.85gbp
@@ -165,7 +164,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases
 
 
-## Term #2<br>TOTAL 2,441.66GBP
+## Term #2<br>TOTAL 2,350.55GBP
 
 - [ ] I will use 216 on train tickets.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -197,7 +196,6 @@ kanban-plugin: board
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
 	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
 	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m87961818746) ==54.68gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
-	> - [SH FIGUARTS Shinkocchou Seihou KAMEN RIDER OOO Tatoba Combo Kamen Rider](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXzGeYqtwFVxZfw8Abvfh) ==67.11gbp==, [Bandai SIC KAMEN RIDER OOO Effect Set](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JXYjcoRq3zqHSH7qVLkfi) ==24gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
 	> - [amazon basics flexible tripod for photography](https://amzn.eu/d/09VKP8Yt) ==8.30gbp==
 	> - [heat gun for customising](https://amzn.eu/d/03Mw6Po8) ==14.99gbp==
@@ -207,7 +205,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 827.67gbp spent
+	# ^ 736.56gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -217,7 +215,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 369.72/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 460.83/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
