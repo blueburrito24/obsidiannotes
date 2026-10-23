@@ -131,7 +131,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,714.06GBP
+## Term #1<br>TOTAL 2,720.94GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -142,6 +142,8 @@ kanban-plugin: board
 - [ ] [Pebble speakers](https://amzn.eu/d/09r8k2uA) 23.85gbp
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
 - [ ] [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 36.99gbp
+- [ ] [KOF 2002 Unlimited Match](https://www.loaded.com/the-king-of-fighters-2002-unlimited-match-pc) 2.79gbp
+- [ ] [KOF XIV](https://www.loaded.com/the-king-of-fighters-xiv-steam-edition-pc-steam) 4.09gbp
 - [ ] [New Nintendo 3DS LL](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24719218060) 113.19gbp
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
 - [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
@@ -149,9 +151,9 @@ kanban-plugin: board
 - [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
 	< for bigger figures
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m90738411127) ==53.60gbp==, [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==22.95gbp==
+	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27528684629) ==53.60gbp==, [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==22.95gbp==
 	> - [SH FIGUARTS DRAGON BALL Z "Beyond the Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) ==72.19gbp==
-	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005012628552591.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
+	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005010178780324.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
 	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
 	^ need to fix loose waist with nail polish
@@ -160,7 +162,7 @@ kanban-plugin: board
 	# ^ 395.27gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 85.94/3,000gbp
+- [ ] ## This leaves me with 79.06/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
 
 
