@@ -11,6 +11,8 @@ kanban-plugin: board
 	^ 55.96gbp per term
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
+- [ ] [Acrylic sheets 2pcs](https://amzn.eu/d/04zFLejF) 7.02gbp, [1.6mm steel wire](https://amzn.eu/d/01qC4zVm) 4.99gbp
+	^ i can cut pieces of both to make sleek display stands to slot into figures' crevices
 - [ ] [acrylic markers for painting figures easily](https://www.aliexpress.com/item/1005009535565214.html) 15.72gbp
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
@@ -129,7 +131,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,908.86GBP
+## Term #1<br>TOTAL 2,887.83GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -146,7 +148,8 @@ kanban-plugin: board
 - [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
 	< for bigger figures
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27528684629) ==53.60gbp==, [affmcustoms lssj goku ab-extension joint](https://www.ebay.co.uk/itm/267810903800) ==22.95gbp==
+	> - [SH FIGUARTS Legendary Super Saiyan Son Goku (Genkidamatsuri Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27528684629) ==53.60gbp==, [SHF SROE Goku for mod](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=m53679095873) ==11.92gbp==
+	^ heat up and swap out the torso joint from SROE onto Genkidamatsuri Goku upside-down, this requires a bit of shaving around the socket at the base of the abdomen piece and on some excess parts on the sides of the joint
 	> - [SH FIGUARTS DRAGON BALL Z "Beyond the Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) ==72.19gbp==
 	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005010178780324.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
@@ -156,18 +159,18 @@ kanban-plugin: board
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 475.38gbp spent
+	# ^ 465.35gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 91.14/3,000gbp
+- [ ] ## This leaves me with 102.17/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
 
 
 ## Term #2<br>TOTAL 2,085.25GBP
 
-- [ ] I will use 216 on train tickets.
+- [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 52.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
@@ -213,7 +216,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 730.13/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 430.13/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
