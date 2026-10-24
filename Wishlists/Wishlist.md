@@ -129,7 +129,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,886.74GBP
+## Term #1<br>TOTAL 2,882.65GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -141,7 +141,6 @@ kanban-plugin: board
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
 - [ ] [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 36.99gbp
 - [ ] [KOF 2002 Unlimited Match](https://www.loaded.com/the-king-of-fighters-2002-unlimited-match-pc) 2.79gbp
-- [ ] [KOF XIV](https://www.loaded.com/the-king-of-fighters-xiv-steam-edition-pc-steam) 4.09gbp
 - [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
 - [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
 	< for figures
@@ -163,11 +162,11 @@ kanban-plugin: board
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 113.26/3,000gbp
+- [ ] ## This leaves me with 117.35/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
 
 
-## Term #2<br>TOTAL 2,270.44GBP
+## Term #2<br>TOTAL 2,264.24GBP
 
 - [ ] I will use 216 on train tickets.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -190,7 +189,7 @@ kanban-plugin: board
 	> - AC FACTORY KO AMAZING YAMAGUCHI Symbiote Spider-Man 30gbp~, [ct toys agent venom](https://www.aliexpress.com/item/1005009787035391.html?) 36.84gbp, TOTAL ==66.84gbp== 
 	> - [AC Factory KO AMAZING YAMAGUCHI Bleeding Edge Iron Man](https://www.aliexpress.com/item/1005013428974108.html?) ==34.49gbp==
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005011541678676.html?) ==40.89gbp==
-	> - [AMAZING YAMAGUCHI Deadpool ver2.0 X-FORCE Colour Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m47087015109) ==45.43gbp==
+	> - [AMAZING YAMAGUCHI Deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m63282823609) ==39.23gbp==
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Goku's Best Friend Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) ==54.95gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
@@ -206,7 +205,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 656.45gbp spent
+	# ^ 650.25gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -216,7 +215,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 540.94/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 547.14/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
