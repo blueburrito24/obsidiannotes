@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] [Acrylic sheets 2pcs](https://amzn.eu/d/04zFLejF) 7.02gbp, [1.6mm steel wire](https://amzn.eu/d/01qC4zVm) 4.99gbp
 	^ i can cut pieces of both to make sleek display stands to slot into figures' crevices
 - [ ] [acrylic markers for painting figures easily](https://www.aliexpress.com/item/1005009535565214.html) 15.72gbp
+- [ ] [Painting clamp stand](https://amzn.eu/d/075UMk5L) 7.45gbp
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
@@ -169,7 +170,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases
 
 
-## Term #2<br>TOTAL 2,085.25GBP
+## Term #2<br>TOTAL 2,181.61GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -208,6 +209,19 @@ kanban-plugin: board
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
 	# ^ 650.25gbp spent
+- [ ] >[!custom Gohan 4.0]-
+	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
+	^ I will follow this except that I will use the BHT/TK heads and also recast the hands from my Onward to Adventure Son Goku to use for this figure
+	> - [BLACK HOLE TOYS/TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005011819956606.html?) 31.80gbp
+	> - [DO Custom Chest Replacement Part](https://www.aliexpress.com/item/1005013344285155.html?) 11.89gbp
+	> - [SH FIGUARTS DRAGON BALL SUPER Gohan (Potential Unleashed Super Hero Ver.)](https://www.nin-nin-game.com/en/shfiguarts/250955-shfiguarts-dragon-ball-super-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 20.74gbp
+	> - [36pcs acrylic markers](https://www.aliexpress.com/item/1005009535565214.html) 15.60gbp
+	> - [painting clamp stand](https://amzn.eu/d/0bslj52J) 7.45gbp
+	> - [blue stuff](https://amzn.eu/d/0198cYZn) 8.92gbp, [how to use blue stuff](https://www.youtube.com/watch?v=FOMwKVAJEfY)
+	> - [milliput epoxy putty](https://amzn.eu/d/0b2wCMEX) 6.90gbp
+	> - [12pcs sandpaper](https://amzn.eu/d/0dUMEEDV) 3.99gbp
+	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
+	# ^ 96.36gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -217,7 +231,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 430.13/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 333.77/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
