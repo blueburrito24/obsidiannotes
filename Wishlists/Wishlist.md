@@ -168,10 +168,10 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases
 
 
-## Term #2<br>TOTAL 2,190.55GBP
+## Term #2<br>TOTAL 2,125.55GBP
 
 - [ ] I will use 216 on train tickets and save 300.
-- [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
+- [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B256GTVUNLB) 495gbp
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 52.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.co.uk/Xiaomi-Computer-Monitor-Light-Bar/dp/B0BTVY9MBM) 48.50gbp
@@ -208,7 +208,7 @@ kanban-plugin: board
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
 	# ^ 650.25gbp spent
-- [ ] >[!custom Gohan 4.0]-
+	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
 	^ I will follow this except that I will use the BHT/TK heads and also recast the hands from my Onward to Adventure Son Goku to use for this figure
 	> - [BLACK HOLE TOYS/TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005011819956606.html?) 31.80gbp
@@ -233,7 +233,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 324.83/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 389.83/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
