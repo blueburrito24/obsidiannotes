@@ -171,10 +171,10 @@ kanban-plugin: board
 	^ buy if i have money available for it
 
 
-## Term #2<br>TOTAL 2,125.55GBP
+## Term #2<br>TOTAL 2,149.55GBP
 
 - [ ] I will use 216 on train tickets and save 300.
-- [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B256GTVUNLB) 495gbp
+- [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 52.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.co.uk/Xiaomi-Computer-Monitor-Light-Bar/dp/B0BTVY9MBM) 48.50gbp
@@ -236,7 +236,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 389.83/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 365.83/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
