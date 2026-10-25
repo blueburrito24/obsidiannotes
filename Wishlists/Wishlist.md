@@ -166,6 +166,8 @@ kanban-plugin: board
 - [ ] 44gbp to pay back ma
 - [ ] ## This leaves me with 91.20/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases
+- [ ] [V67 headsculpt](https://fahrulstore35.bigcartel.com/product/v67) 41.09gbp (converted from 55usd; 15usd for the base item plus 40usd for expedited shipping)
+	^ buy if i have money available for it
 
 
 ## Term #2<br>TOTAL 2,125.55GBP
