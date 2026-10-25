@@ -153,7 +153,6 @@ kanban-plugin: board
 	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005010178780324.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
 	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
-	^ need to fix loose waist with nail polish
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==, [DecentCustoms SHF Spider-Man Undies Kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) ==53.96gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
@@ -168,7 +167,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases
 
 
-## Term #2<br>TOTAL 2,185.56GBP
+## Term #2<br>TOTAL 2,190.55GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Titanium Grey, 512GB, B Grade](https://uk.webuy.com/product-detail/?id=SSAMS928B512GTGUNLB) 560gbp
@@ -214,13 +213,16 @@ kanban-plugin: board
 	> - [BLACK HOLE TOYS/TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005011819956606.html?) 31.80gbp
 	> - [DO Custom Chest Replacement Part](https://www.aliexpress.com/item/1005013344285155.html?) 11.89gbp
 	> - [SH FIGUARTS DRAGON BALL SUPER Gohan (Potential Unleashed Super Hero Ver.)](https://www.nin-nin-game.com/en/shfiguarts/250955-shfiguarts-dragon-ball-super-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 20.74gbp
+	> - [neckpeg for games begin body](https://www.ebay.co.uk/itm/860008169683) 4.99gbp
 	> - [36pcs acrylic markers](https://www.aliexpress.com/item/1005009535565214.html) 15.60gbp
 	> - [painting clamp stand](https://amzn.eu/d/0bslj52J) 7.45gbp
-	> - [blue stuff](https://amzn.eu/d/0198cYZn) 8.92gbp, [how to use blue stuff](https://www.youtube.com/watch?v=FOMwKVAJEfY)
+	> - [blue stuff](https://amzn.eu/d/0198cYZn) 8.92gbp,
+	[how to use blue stuff](https://www.youtube.com/watch?v=FOMwKVAJEfY)
+	^ use the lego method
 	> - [milliput epoxy putty](https://amzn.eu/d/0b2wCMEX) 6.90gbp
 	> - [12pcs sandpaper](https://amzn.eu/d/0dUMEEDV) 3.99gbp
 	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
-	# ^ 96.36gbp spent
+	# ^ 101.35gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -230,7 +232,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 329.82/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 324.83/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
