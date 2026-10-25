@@ -11,6 +11,7 @@ kanban-plugin: board
 	^ 55.96gbp per term
 - [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
 - [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
+- [ ] [smallrig macro photography light](https://www.aliexpress.com/item/1005009684942771.html?) 46.59gbp
 - [ ] [Acrylic sheets 2pcs](https://amzn.eu/d/04zFLejF) 7.02gbp, [1.6mm steel wire](https://amzn.eu/d/01qC4zVm) 4.99gbp
 	^ i can cut pieces of both to make sleek display stands to slot into figures' crevices
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
