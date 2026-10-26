@@ -171,7 +171,7 @@ kanban-plugin: board
 	^ buy if i have money available for it
 
 
-## Term #2<br>TOTAL 2,091.58GBP
+## Term #2<br>TOTAL 2,141.58GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -197,6 +197,8 @@ kanban-plugin: board
 	> - [AMAZING YAMAGUCHI Deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m63282823609) ==39.23gbp==
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Goku's Best Friend Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) ==54.95gbp==
+	> - MP Studio Gohan 50gbp~
+	[[mp gohan render.png]]
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
 	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
@@ -210,7 +212,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 650.25gbp spent
+	# ^ 700.25gbp spent
 	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
 	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
@@ -245,7 +247,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 423.83/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 373.83/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
