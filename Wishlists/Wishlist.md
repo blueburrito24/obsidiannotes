@@ -171,7 +171,7 @@ kanban-plugin: board
 	^ buy if i have money available for it
 
 
-## Term #2<br>TOTAL 2,077.25GBP
+## Term #2<br>TOTAL 2,091.58GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -213,7 +213,7 @@ kanban-plugin: board
 	# ^ 650.25gbp spent
 	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
-	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will use the parts from my broken SSGSS Goku body, alongside repainting the light-SSJ faces from my HM Studio Gohan into base form heads, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
+	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
 	I will want to also dye the lower body, either I can heat up and remove the boots and skintone parts or cover them in blu tack
 	**Make sure to practice dyeing and using acrylic markers on loose figure parts first**
 	I will keep the base form head from Gamma 2 and sell the figure to Musa for 30 quid
@@ -221,6 +221,7 @@ kanban-plugin: board
 	> - [DO Custom Chest Replacement Part](https://www.aliexpress.com/item/1005013344285155.html?) 11.89gbp
 	> - [SH FIGUARTS DRAGON BALL SUPER Gohan (Potential Unleashed Super Hero Ver.)](https://www.nin-nin-game.com/en/shfiguarts/250955-shfiguarts-dragon-ball-super-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 20.74gbp
 	> - [SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gamma 2](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m20656290988) 39.53gbp
+	> - [loose shf gb goku for parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15558299769) 14.33gbp
 	> - [neckpeg for games begin body](https://www.ebay.co.uk/itm/860008169683) 4.99gbp
 	> - [stainless steel milk pan 5.5"](https://amzn.eu/d/0avW34aO) 11.93gbp
 	> - [rit synthetic dye royal purple](https://amzn.eu/d/01BS3MXD) 7.19gbp
@@ -234,7 +235,7 @@ kanban-plugin: board
 	> - [milliput epoxy putty](https://amzn.eu/d/0b2wCMEX) 6.90gbp
 	> - [12pcs sandpaper](https://amzn.eu/d/0dUMEEDV) 3.99gbp
 	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
-	# ^ 121.10gbp spent
+	# ^ 135.43gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -244,7 +245,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 438.13/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 423.83/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
