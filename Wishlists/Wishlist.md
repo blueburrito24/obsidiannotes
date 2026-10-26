@@ -171,14 +171,14 @@ kanban-plugin: board
 	^ buy if i have money available for it
 
 
-## Term #2<br>TOTAL 2,136.55GBP
+## Term #2<br>TOTAL 2,077.25GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.co.uk/Xiaomi-Computer-Monitor-Light-Bar/dp/B0BTVY9MBM) 48.50gbp
-- [ ] [Sony WF-1000XM5 Earbuds](https://amzn.eu/d/0i012blX) 179gbp
+- [ ] [BOSE Noise cancelling wired earbuds](https://www.bose.co.uk/p/earbuds/bose-noise-cancelling-wired-earbuds/NCWEARB-HEADPHONEIN.html) 99.95gbp
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -213,11 +213,19 @@ kanban-plugin: board
 	# ^ 650.25gbp spent
 	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
-	^ I will follow this except that I will use the BHT/TK heads and also recast the hands from my Onward to Adventure Son Goku to use for this figure
+	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will use the parts from my broken SSGSS Goku body, alongside repainting the light-SSJ faces from my HM Studio Gohan into base form heads, which need slight cutting up to work with the glasses from the Gamma 2 bonus head.
+	I will want to also dye the lower body, either I can heat up and remove the boots and skintone parts or cover them in blu tack
+	**Make sure to practice dyeing and using acrylic markers on loose figure parts first**
+	I will keep the base form head from Gamma 2 and sell the figure to Musa for 30 quid
 	> - [BLACK HOLE TOYS/TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005011819956606.html?) 31.80gbp
 	> - [DO Custom Chest Replacement Part](https://www.aliexpress.com/item/1005013344285155.html?) 11.89gbp
 	> - [SH FIGUARTS DRAGON BALL SUPER Gohan (Potential Unleashed Super Hero Ver.)](https://www.nin-nin-game.com/en/shfiguarts/250955-shfiguarts-dragon-ball-super-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 20.74gbp
+	> - [SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gamma 2](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m20656290988) 39.53gbp
 	> - [neckpeg for games begin body](https://www.ebay.co.uk/itm/860008169683) 4.99gbp
+	> - [stainless steel milk pan 5.5"](https://amzn.eu/d/0avW34aO) 11.93gbp
+	> - [rit synthetic dye royal purple](https://amzn.eu/d/01BS3MXD) 7.19gbp
+	^ [how to dye action figures](https://www.youtube.com/watch?v=BEzkLFtnoEs)
+	> - [white blu tack](https://amzn.eu/d/050aJ6K4) 1.10gbp
 	> - [36pcs acrylic markers](https://www.aliexpress.com/item/1005009535565214.html) 15.60gbp
 	> - [painting clamp stand](https://amzn.eu/d/0bslj52J) 7.45gbp
 	> - [blue stuff](https://amzn.eu/d/0198cYZn) 8.92gbp,
@@ -226,7 +234,7 @@ kanban-plugin: board
 	> - [milliput epoxy putty](https://amzn.eu/d/0b2wCMEX) 6.90gbp
 	> - [12pcs sandpaper](https://amzn.eu/d/0dUMEEDV) 3.99gbp
 	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
-	# ^ 101.35gbp spent
+	# ^ 121.10gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -236,7 +244,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 378.83/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 438.13/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
