@@ -36,6 +36,7 @@ kanban-plugin: board
 	> - [1/10 sleeping bag for figures](https://www.aliexpress.com/item/1005009654990227.html?) 4.49gbp
 	> - [1/6th scale floral tee for bigger figures](https://www.aliexpress.com/item/1005010105472307.html?) 12.89gbp
 	> - [manipple 1/12 glasses](https://www.aliexpress.com/item/1005008528170157.html?) 8gbp
+	> - [Tamashii Stage Display Stand 2pcs](https://hobbyfigures.co.uk/products/tamashii-stage-figure-stand-act-4-for-humanoid-clear-14cm) 14.95gbp for effects and figures
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
@@ -171,7 +172,7 @@ kanban-plugin: board
 	^ buy if i have money available for it
 
 
-## Term #2<br>TOTAL 2,141.58GBP
+## Term #2<br>TOTAL 2,159.78GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -197,7 +198,7 @@ kanban-plugin: board
 	> - [AMAZING YAMAGUCHI Deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m63282823609) ==39.23gbp==
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Goku's Best Friend Krillin](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-krillin-son-gokus-old-friend-ver-11cm) ==54.95gbp==
-	> - MP Studio Gohan 50gbp~
+	> - MP Studio Gohan 50gbp~ (manga variant)
 	[[mp gohan render.png]]
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
@@ -219,7 +220,7 @@ kanban-plugin: board
 	I will want to also dye the lower body, either I can heat up and remove the boots and skintone parts or cover them in blu tack
 	**Make sure to practice dyeing and using acrylic markers on loose figure parts first**
 	I will keep the base form head from Gamma 2 and sell the figure to Musa for 30 quid
-	> - [BLACK HOLE TOYS/TK CUSTOM Gohan headsculpts](https://www.aliexpress.com/item/1005011819956606.html?) 31.80gbp
+	> - MP Studio Gohan 50gbp~ (manga variant); I would use the heads for Super Hero's Mystic form and keep the body to use with my HM Goku heads
 	> - [DO Custom Chest Replacement Part](https://www.aliexpress.com/item/1005013344285155.html?) 11.89gbp
 	> - [SH FIGUARTS DRAGON BALL SUPER Gohan (Potential Unleashed Super Hero Ver.)](https://www.nin-nin-game.com/en/shfiguarts/250955-shfiguarts-dragon-ball-super-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 20.74gbp
 	> - [SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gamma 2](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m20656290988) 39.53gbp
@@ -237,7 +238,7 @@ kanban-plugin: board
 	> - [milliput epoxy putty](https://amzn.eu/d/0b2wCMEX) 6.90gbp
 	> - [12pcs sandpaper](https://amzn.eu/d/0dUMEEDV) 3.99gbp
 	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
-	# ^ 135.43gbp spent
+	# ^ 153.63gbp spent
 - [ ] >[!Figure accessories]-
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
@@ -247,7 +248,7 @@ kanban-plugin: board
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
 	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 373.83/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 355.63/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 408.30GBP
