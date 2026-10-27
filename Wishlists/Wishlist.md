@@ -180,7 +180,7 @@ kanban-plugin: board
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99gbp
 - [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.co.uk/Xiaomi-Computer-Monitor-Light-Bar/dp/B0BTVY9MBM) 48.50gbp
-- [ ] [BOSE Noise cancelling wired earbuds](https://www.bose.co.uk/p/earbuds/bose-noise-cancelling-wired-earbuds/NCWEARB-HEADPHONEIN.html) 99.95gbp
+- [ ] [BOSE Noise cancelling wired earbuds](https://amzn.eu/d/06h6uY44) 99.95gbp
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
