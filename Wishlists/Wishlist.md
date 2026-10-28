@@ -190,7 +190,7 @@ kanban-plugin: board
 	> - [AC Factory KO AMAZING YAMAGUCHI Bleeding Edge Iron Man](https://www.aliexpress.com/item/1005013428974108.html?) ==34.49gbp==
 	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005011541678676.html?) ==40.89gbp==
 	> - [AMAZING YAMAGUCHI Deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m63282823609) ==39.23gbp==
-	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==]
+	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
 	> - MP Studio Gohan 50gbp~ (manga variant)
 	[[mp gohan render.png]]
 	> - [VARIABLE ACTION HEROES ONE PIECE Luffy Gear 4 Boundman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m52411359777) ==121.45gbp==
