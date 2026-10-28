@@ -26,3 +26,5 @@ recreate [this clip](https://www.instagram.com/reels/DeNmgHQOUvW/) with a fridge
 
 shf gamerverse spider-man sneaking around slowly, then hulk walks by in the background with a carton of milk and some glasses on, spider-man gets shocked and stands up straight wilhelming (head leading the motion exaggeratedly) then fainting onto the ground and twitching like a bug, while hulk stands over him staring in confusion (pov shot using acrylic sheet for angle)
 ^ use figure boxes to create hallway shapes since i have no dioramas or anything
+
+goku transforming from base to super saiyan, but when he goes super saiyan first he poses back with his head back and upwards towards the sky, then it cuts to a few different shots of him posing with the last being him with his hands out towards the camera before it pans to the side and he transitions into a readying pose and bursts off into flight before xyz action
