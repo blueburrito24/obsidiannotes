@@ -24,6 +24,9 @@ kanban-plugin: board
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
+	> - ==[STORM COLLECTIBLES KOF '98 Joe Higashi](https://www.nin-nin-game.com/en/the-king-of-fighters/146679-the-king-of-fighters-98-ultimate-match-joe-higashi-112-storm-collectibles-toys-.html)== 87.24gbp
+	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
+	> - ==[SH FIGUARTS STREET FIGHTER V Vega (M. Bison)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXPRDSK7NkinASvM5nqk)== 45.55gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
