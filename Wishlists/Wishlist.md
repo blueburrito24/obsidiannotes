@@ -169,7 +169,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 2,213.11GBP
+## Term #2<br>TOTAL 2,219.80GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -212,7 +212,7 @@ kanban-plugin: board
 	# ^ 764.08gbp spent
 	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
-	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
+	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads using acrylic markers and GM20 gundam marker for the pupils, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
 	I will want to also dye the lower body, either I can heat up and remove the boots and skintone parts or cover them in blu tack
 	**Make sure to practice dyeing and using acrylic markers on loose figure parts first**
 	I will keep the base form head from Gamma 2 and sell the figure to Musa for 30 quid
@@ -227,6 +227,7 @@ kanban-plugin: board
 	^ [how to dye action figures](https://www.youtube.com/watch?v=BEzkLFtnoEs)
 	> - [white blu tack](https://amzn.eu/d/050aJ6K4) 1.10gbp
 	> - [36pcs acrylic markers](https://www.aliexpress.com/item/1005009535565214.html) 15.60gbp
+	> - [Gundam marker GM20 black](https://amzn.eu/d/0hLkCzYe) 6.69gbp
 	> - [painting clamp stand](https://amzn.eu/d/0bslj52J) 7.45gbp
 	> - [blue stuff](https://amzn.eu/d/0198cYZn) 8.92gbp,
 	[how to use blue stuff](https://www.youtube.com/watch?v=FOMwKVAJEfY)
@@ -234,7 +235,7 @@ kanban-plugin: board
 	> - [milliput epoxy putty](https://amzn.eu/d/0b2wCMEX) 6.90gbp
 	> - [12pcs sandpaper](https://amzn.eu/d/0dUMEEDV) 3.99gbp
 	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
-	# ^ 153.63gbp spent
+	# ^ 160.32gbp spent
 - [ ] >[!Figure accessories]-
 	> - [ulanzi photography lights 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 24.72gbp, goes well with an amazon basics tripod for angling lighting easily
 	> - [smallrig macro photography light](https://www.aliexpress.com/item/1005009684942771.html?) 46.59gbp
@@ -245,7 +246,7 @@ kanban-plugin: board
 	> - [tamashii effect series smoke effect white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 13.93gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	# ^ 129.19gbp spent
-- [ ] ## This leaves me with 302.30/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 295.61/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 343.35GBP
