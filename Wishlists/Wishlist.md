@@ -244,22 +244,21 @@ kanban-plugin: board
 - [ ] ## This leaves me with 245.03/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 398.30GBP
+## Term #3<br>TOTAL 343.35GBP
 
 - [ ] During this term I will spend 144 on train tickets and I will save 1,700.
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS MARVEL GAMERVERSE Venom](https://www.nin-nin-game.com/en/shfiguarts/261372-shfiguarts-marvel-gamerverse-venom-bandai-spirits-.html) ==62.30gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [SH FIGUARTS DRAGON BALL Z-FIGHTERS Vegeta](https://www.nin-nin-game.com/en/shfiguarts/255782-shfiguarts-dragon-ball-z-fighters-vegeta-bandai-spirits-.html) ==19.67gbp==
-	> - [SH FIGUARTS DRAGON BALL Z "Return to Earth Ver." Son Goku](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-son-goku-return-to-earth-15cm) ==54.95gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Full Power Frieza (Battle Scarred Edition)](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-full-power-frieza-battle-scarred-edition-13cm) ==59.95gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==71.95gbp==
 	> - [tamashii effect series water blue](https://www.nin-nin-game.com/en/bandai-spirits/115591-tamashii-effect-series-water-blue-ver-for-sh-figuarts-bandai-spirits-.html) ==23.09gbp==
 	> - [tamashii effect series explosion red ver](https://www.nin-nin-game.com/en/shfiguarts/219387-shfiguarts-tamashii-effect-act-explosion-red-ver-expansion-set-bandai-spirits-.html) ==13.11gbp==
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
-	# ^ 398.30gbp spent
-- [ ] ## This leaves me with 757.70/3,100gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 343.35gbp spent
+- [ ] ## This leaves me with 812.65/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
