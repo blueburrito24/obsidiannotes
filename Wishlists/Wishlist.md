@@ -155,7 +155,7 @@ kanban-plugin: board
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 340.88gbp spent
+	# ^ 339.88gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] [V67 headsculpt](https://fahrulstore35.bigcartel.com/product/v67) 41.09gbp (converted from 55usd; 15usd for the base item plus 40usd for expedited shipping)
 	[[v67 on gamerverse body.jpg]]
@@ -164,7 +164,7 @@ kanban-plugin: board
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 141.08/3,050gbp
+- [ ] ## This leaves me with 142.08/3,050gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 	^ this total includes 50 quid from my revoltech refund
 
