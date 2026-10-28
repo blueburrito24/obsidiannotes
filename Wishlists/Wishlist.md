@@ -130,7 +130,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,808.31GBP
+## Term #1<br>TOTAL 2,746.05GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -151,13 +151,11 @@ kanban-plugin: board
 	> - [SH FIGUARTS DRAGON BALL Z "Beyond the Adventure Set" Son Goku](https://www.nin-nin-game.com/en/shfiguarts/218634-shfiguarts-dragon-ball-son-goku-beyond-the-adventure-set-bandai-spirits-.html) ==72.19gbp==
 	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005010178780324.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
-	> - [neckpeg for fighter of rage goku](https://www.ebay.co.uk/itm/860034238209) ==4.99gbp==
-	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://www.amiami.com/eng/detail/?gcode=FIGURE-193929-R) ==57.27gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==
 	^ [how to install undies](https://www.instagram.com/p/DdUhz6nSZgK/)
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 403.14gbp spent
+	# ^ 340.88gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] [V67 headsculpt](https://fahrulstore35.bigcartel.com/product/v67) 41.09gbp (converted from 55usd; 15usd for the base item plus 40usd for expedited shipping)
 	[[v67 on gamerverse body.jpg]]
@@ -249,7 +247,7 @@ kanban-plugin: board
 - [ ] ## This leaves me with 295.61/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 343.35GBP
+## Term #3<br>TOTAL 365.14GBP
 
 - [ ] During this term I will spend 144 on train tickets and I will save 1,700.
 - [ ] >[!Figure purchases]-
@@ -258,12 +256,13 @@ kanban-plugin: board
 	> - [SH FIGUARTS DRAGON BALL Z-FIGHTERS Vegeta](https://www.nin-nin-game.com/en/shfiguarts/255782-shfiguarts-dragon-ball-z-fighters-vegeta-bandai-spirits-.html) ==19.67gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Full Power Frieza (Battle Scarred Edition)](https://hobbyfigures.co.uk/products/dragon-ball-z-s-h-figuarts-action-figure-full-power-frieza-battle-scarred-edition-13cm) ==59.95gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==71.95gbp==
+	> - [SH FIGUARTS ONE PIECE Monkey D. Luffy (New World Ver.)](https://www.nin-nin-game.com/en/shfiguarts/261365-shfiguarts-one-piece-monkey-d-luffy-new-world-ver-bandai-spirits-.html) ==21.79gbp==
 	> - [tamashii effect series water blue](https://www.nin-nin-game.com/en/bandai-spirits/115591-tamashii-effect-series-water-blue-ver-for-sh-figuarts-bandai-spirits-.html) ==23.09gbp==
 	> - [tamashii effect series explosion red ver](https://www.nin-nin-game.com/en/shfiguarts/219387-shfiguarts-tamashii-effect-act-explosion-red-ver-expansion-set-bandai-spirits-.html) ==13.11gbp==
 	> - [Micro Systemz Speedsterz](https://www.amazon.co.uk/JOHN-ADAMS-MICRO-SYSTEMZ-SPEEDSTERZ/dp/B0DG2XT2GK) ==8.80gbp==, [Micro Systemz Police & Rescue](https://www.amazon.co.uk/ADAMS-MICRO-SYSTEMZ-POLICE-RESCUE/dp/B0DG315XFT) ==9.99gbp==
 	> - [1/300 scale city prop, option 9](https://www.aliexpress.com/item/1005004992733665.html) ==45.49gbp==
-	# ^ 343.35gbp spent
-- [ ] ## This leaves me with 812.65/3,100gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 365.14gbp spent
+- [ ] ## This leaves me with 790.86/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
