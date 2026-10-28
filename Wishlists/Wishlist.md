@@ -130,7 +130,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,746.05GBP
+## Term #1<br>TOTAL 2,799.65GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -159,12 +159,14 @@ kanban-plugin: board
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] [V67 headsculpt](https://fahrulstore35.bigcartel.com/product/v67) 41.09gbp (converted from 55usd; 15usd for the base item plus 40usd for expedited shipping)
 	[[v67 on gamerverse body.jpg]]
+- [ ] [shf gamerverse spider-man undies kit](https://www.etsy.com/uk/listing/4560047402/shf-gamerverse-spider-guy-undies) 53.60gbp RESTOCKS NEXT MONTH
 - [ ] [Joint Strengthening Pen](https://amzn.eu/d/0higB10Z) 9.97gbp
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 82.33/3,000gbp
+- [ ] ## This leaves me with 140.99/3,050gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
+	this total includes 50 quid from my revoltech refund
 
 
 ## Term #2<br>TOTAL 2,219.80GBP
