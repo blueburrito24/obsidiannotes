@@ -9,11 +9,6 @@ kanban-plugin: board
 - [ ] 216 for 3 train tickets per week, four weeks a term
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
 	^ 55.96gbp per term
-- [ ] [ulanzi photography lights](https://www.aliexpress.com/item/4000262959653.html?) 12.36gbp, goes well with an amazon basics tripod for angling lighting easily
-- [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
-- [ ] [smallrig macro photography light](https://www.aliexpress.com/item/1005009684942771.html?) 46.59gbp
-- [ ] [Acrylic sheets 2pcs](https://amzn.eu/d/04zFLejF) 7.02gbp, [1.6mm steel wire](https://amzn.eu/d/01qC4zVm) 4.99gbp
-	^ i can cut pieces of both to make sleek display stands to slot into figures' crevices
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
@@ -170,12 +165,11 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 2,160.43GBP
+## Term #2<br>TOTAL 2,208.77GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99gbp
-- [ ] [Desktop Wooden Bookshelf](https://amzn.eu/d/0itwzKig) 29.99gbp
 - [ ] [Xiaomi Mi Computer Monitor Light Bar](https://www.amazon.co.uk/Xiaomi-Computer-Monitor-Light-Bar/dp/B0BTVY9MBM) 48.50gbp
 - [ ] [BOSE Noise cancelling wired earbuds](https://amzn.eu/d/06h6uY44) 99.95gbp
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95gbp
@@ -238,6 +232,9 @@ kanban-plugin: board
 	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
 	# ^ 153.63gbp spent
 - [ ] >[!Figure accessories]-
+	> - [ulanzi photography lights 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 24.72gbp, goes well with an amazon basics tripod for angling lighting easily
+	> - [smallrig macro photography light](https://www.aliexpress.com/item/1005009684942771.html?) 46.59gbp
+	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
 	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
@@ -245,8 +242,8 @@ kanban-plugin: board
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
-	# ^ 120.60gbp spent
-- [ ] ## This leaves me with 354.98/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 188.93gbp spent
+- [ ] ## This leaves me with 306.64/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 398.30GBP
@@ -282,6 +279,7 @@ kanban-plugin: board
 	[MSI MAG Power Supply Unit 850W](https://amzn.eu/d/02yOtqkG) 83.99gbp
 	[ARCTIC P12 Pro Powerful Fans 5pcs](https://amzn.eu/d/04yKptWv) 23.49gbp
 	**TOTAL 1,207.31gbp**
+- [ ] [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 
 %% kanban:settings
 ```
