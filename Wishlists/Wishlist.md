@@ -24,7 +24,6 @@ kanban-plugin: board
 	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
-	> - ==[VARIABLE ACTION HEROES ONE PIECE Luffy Gear 4 Boundman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m52411359777)== 121.45gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
@@ -165,7 +164,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 2,208.77GBP
+## Term #2<br>TOTAL 2,286.79GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -191,6 +190,7 @@ kanban-plugin: board
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==]
 	> - MP Studio Gohan 50gbp~ (manga variant)
 	[[mp gohan render.png]]
+	> - [VARIABLE ACTION HEROES ONE PIECE Luffy Gear 4 Boundman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m52411359777) ==121.45gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
 	> - [AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81220329183) ==54.60gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
@@ -205,7 +205,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 699.90gbp spent
+	# ^ 821.35gbp spent
 	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
 	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
@@ -240,10 +240,9 @@ kanban-plugin: board
 	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
 	> - [tamashii effect series smoke effect white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 13.93gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
-	> - [MEZCO Wolverine effect pieces (5pcs)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77223828887) 43.33gbp
 	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
-	# ^ 188.93gbp spent
-- [ ] ## This leaves me with 306.64/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 145.60gbp spent
+- [ ] ## This leaves me with 228.62/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 398.30GBP
