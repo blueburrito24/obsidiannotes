@@ -164,7 +164,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 2,286.79GBP
+## Term #2<br>TOTAL 2,270.38GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -240,9 +240,8 @@ kanban-plugin: board
 	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
 	> - [tamashii effect series smoke effect white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 13.93gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
-	> - [SH FIGUARTS Kamen Rider OOO Ride Vendor](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m35521831729) 16.41gbp
-	# ^ 145.60gbp spent
-- [ ] ## This leaves me with 228.62/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 129.19gbp spent
+- [ ] ## This leaves me with 245.03/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 398.30GBP
