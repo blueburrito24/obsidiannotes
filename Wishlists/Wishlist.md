@@ -166,7 +166,7 @@ kanban-plugin: board
 - [ ] 44gbp to pay back ma
 - [ ] ## This leaves me with 141.08/3,050gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
-	this total includes 50 quid from my revoltech refund
+	^ this total includes 50 quid from my revoltech refund
 
 
 ## Term #2<br>TOTAL 2,219.80GBP
