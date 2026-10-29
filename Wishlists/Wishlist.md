@@ -170,7 +170,7 @@ kanban-plugin: board
 	^ this total includes 50 quid from my revoltech refund
 
 
-## Term #2<br>TOTAL 2,238.88GBP
+## Term #2<br>TOTAL 2,252.81GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -244,10 +244,10 @@ kanban-plugin: board
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
 	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
 	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
-	> - [tamashii effect series smoke effect white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 13.93gbp
+	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	# ^ 156.57gbp spent
-- [ ] ## This leaves me with 296.53/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 282.60/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 365.14GBP
