@@ -170,7 +170,7 @@ kanban-plugin: board
 	^ this total includes 50 quid from my revoltech refund
 
 
-## Term #2<br>TOTAL 2,219.80GBP
+## Term #2<br>TOTAL 2,247.18GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -238,7 +238,8 @@ kanban-plugin: board
 	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
 	# ^ 160.32gbp spent
 - [ ] >[!Figure accessories]-
-	> - [ulanzi photography lights 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 24.72gbp, goes well with an amazon basics tripod for angling lighting easily
+	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
+	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
 	> - [smallrig macro photography light](https://www.aliexpress.com/item/1005009684942771.html?) 46.59gbp
 	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
@@ -246,7 +247,7 @@ kanban-plugin: board
 	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
 	> - [tamashii effect series smoke effect white ver](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 13.93gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
-	# ^ 129.19gbp spent
+	# ^ 156.57gbp spent
 - [ ] ## This leaves me with 295.61/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
