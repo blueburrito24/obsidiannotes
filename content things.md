@@ -7,6 +7,8 @@ for the main figure review space, i would just angle my keyboard against my moni
 
 could play b-roll footage of a figure's source material such as the dragon ball manga, one piece manga, etc
 
+i can clip my videos for instagram/youtube shorts and even post more stop-motion stuff on those platforms too, alongside regular photography
+
 ---------------------------------------------------------------
 reviewing figures i own with all the important things like reviewing the box, articulation, accessories, size comparisons and how it goes with other figures
 
