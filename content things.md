@@ -5,6 +5,8 @@ i need my lighting right for a good display of what the figures look like in fai
 i could have a macro spotlight a bit overly in the foreground for highlighting figures in close-up shots e.g., showing smaller details on a figure's sculpt
 for the main figure review space, i would just angle my keyboard against my monitor and review my figures directly on my desk, with the added lighting, to give it a more cosy feel
 
+could play b-roll footage of a figure's source material such as the dragon ball manga, one piece manga, etc
+
 ---------------------------------------------------------------
 reviewing figures i own with all the important things like reviewing the box, articulation, accessories, size comparisons and how it goes with other figures
 
