@@ -21,10 +21,8 @@ kanban-plugin: board
 	> - square k gotenks (not available yet)
 	> - revoltech cyborg superman (not available yet)
 	> - shf naruto shippuden tobirama (not available yet, i would like to buy two or three for shadow clone stuff)
-	> - ==SH FIGUARTS DRAGON BALL Z Metal Cooler== 70-80gbp on ZenMarket
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
-	> - ==[STORM COLLECTIBLES KOF '98 Joe Higashi](https://www.nin-nin-game.com/en/the-king-of-fighters/146679-the-king-of-fighters-98-ultimate-match-joe-higashi-112-storm-collectibles-toys-.html)== 87.24gbp
 	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
 	> - ==[SH FIGUARTS STREET FIGHTER V Vega (M. Bison)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXPRDSK7NkinASvM5nqk)== 45.55gbp
 - [ ] >[!Figure accessories]-
@@ -130,7 +128,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,953.69GBP
+## Term #1<br>TOTAL 2,978.08GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -159,13 +157,14 @@ kanban-plugin: board
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	# ^ 480.25gbp spent
+	> - [Gene Interference Series Qk-St-002](https://www.aliexpress.com/item/1005010661749008.html?) ==24.39gbp==
+	# ^ 504.64gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] [Joint Strengthening Pen](https://amzn.eu/d/0higB10Z) 9.97gbp
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 96.31/3,050gbp
+- [ ] ## This leaves me with 71.92/3,050gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 	^ this total includes 50 quid from my revoltech refund
 
