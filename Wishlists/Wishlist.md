@@ -24,7 +24,10 @@ kanban-plugin: board
 	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
 	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
-	> - ==[SH FIGUARTS STREET FIGHTER V Vega (M. Bison)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXPRDSK7NkinASvM5nqk)== 45.55gbp
+	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
+	> - ==[SH FIGUARTS DANDADAN Okarun (Transformed) Ver.2](https://www.nin-nin-game.com/en/shfiguarts/230402-shfiguarts-dandadan-okarun-transformed-ver2-bandai-spirits-.html)== 32.78gbp
+	> - ==[SH FIGUARTS DANDADAN Momo Ayase Ver.2](https://www.nin-nin-game.com/en/shfiguarts/230403-shfiguarts-dandadan-momo-ayase-ver2-bandai-spirits-.html)== 32.78gbp
+	> - ==UPGRADE PARTS==; [shf momo ver.1](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m87258661772) 24.78gbp, [1/2 scale poseable hands 2 pcs](https://www.aliexpress.com/item/1005011650519844.html?) 10.19gbp, [Rit Tropical Teal Synthetic Dye](https://www.amazon.co.uk/NAKOMA-PRODUCTS-SYNTHTC-Tropical-turquoise/dp/B07KRL6SQ8) 7.05gbp; TOTAL 42.02gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
@@ -128,7 +131,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,978.08GBP
+## Term #1<br>TOTAL 2,934.08GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
@@ -163,10 +166,8 @@ kanban-plugin: board
 - [ ] [Joint Strengthening Pen](https://amzn.eu/d/0higB10Z) 9.97gbp
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
-- [ ] 44gbp to pay back ma
-- [ ] ## This leaves me with 71.92/3,050gbp
+- [ ] ## This leaves me with 65.92/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
-	^ this total includes 50 quid from my revoltech refund
 
 
 ## Term #2<br>TOTAL 2,252.81GBP
