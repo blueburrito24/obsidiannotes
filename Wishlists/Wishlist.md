@@ -26,8 +26,6 @@ kanban-plugin: board
 	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
 	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
 	> - ==[SH FIGUARTS DANDADAN Okarun (Transformed) Ver.2](https://www.nin-nin-game.com/en/shfiguarts/230402-shfiguarts-dandadan-okarun-transformed-ver2-bandai-spirits-.html)== 32.78gbp
-	> - ==[SH FIGUARTS DANDADAN Momo Ayase Ver.2](https://www.nin-nin-game.com/en/shfiguarts/230403-shfiguarts-dandadan-momo-ayase-ver2-bandai-spirits-.html)== 32.78gbp
-	> - ==UPGRADE PARTS==; [shf momo ver.1](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m87258661772) 24.78gbp, [1/2 scale poseable hands 2 pcs](https://www.aliexpress.com/item/1005011650519844.html?) 10.19gbp, [Rit Tropical Teal Synthetic Dye](https://www.amazon.co.uk/NAKOMA-PRODUCTS-SYNTHTC-Tropical-turquoise/dp/B07KRL6SQ8) 7.05gbp; TOTAL 42.02gbp
 	> - ==[MARVEL LEGENDS DELUXE Modular Armour Iron Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m14592134624)== 65.63gbp
 	^ mainly buying for proton cannon which is rare
 	> - ==[MARVEL LEGENDS GAMERVERSE Iron Man VS Spiral pack](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-Series-Marvel-Games-Iron-Man-vs-Marvels-Spiral-Action-Figure-Collectibles-p874474585)== 57.99gbp
@@ -174,7 +172,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 2,252.81GBP
+## Term #2<br>TOTAL 2,267.24GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -202,7 +200,8 @@ kanban-plugin: board
 	[[mp gohan render.png]]
 	> - [VARIABLE ACTION HEROES ONE PIECE Luffy Gear 4 Boundman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m52411359777) ==121.45gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
-	> - [AMAZING YAMAGUCHI MY HERO ACADEMIA Katsuki Bakugo](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m81220329183) ==54.60gbp==
+	> - [SH FIGUARTS DANDADAN Momo Ayase Ver.2](https://www.nin-nin-game.com/en/shfiguarts/230403-shfiguarts-dandadan-momo-ayase-ver2-bandai-spirits-.html) ==32.78gbp==
+	> - UPGRADE PARTS; [shf momo ver.1](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m87258661772) 24.78gbp, [1/2 scale poseable hand](https://www.aliexpress.com/item/1005011650519844.html?) 4.42gbp, [Rit Tropical Teal Synthetic Dye](https://www.amazon.co.uk/NAKOMA-PRODUCTS-SYNTHTC-Tropical-turquoise/dp/B07KRL6SQ8) 7.05gbp; ==TOTAL 36.25gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
 	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
 	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=zenplus&itemCode=thrift-webshop%253Aa-066-wh6523-08&Id=68020dc8-6507-4453-9f74-d826e103bf1f) ==54.68gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
@@ -213,7 +212,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 775.78gbp spent
+	# ^ 790.21gbp spent
 	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
 	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads using acrylic markers and GM20 gundam marker for the pupils, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
@@ -251,7 +250,7 @@ kanban-plugin: board
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	# ^ 156.57gbp spent
-- [ ] ## This leaves me with 282.60/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 288.17/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 365.14GBP
