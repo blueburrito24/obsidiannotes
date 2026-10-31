@@ -28,6 +28,12 @@ kanban-plugin: board
 	> - ==[SH FIGUARTS DANDADAN Okarun (Transformed) Ver.2](https://www.nin-nin-game.com/en/shfiguarts/230402-shfiguarts-dandadan-okarun-transformed-ver2-bandai-spirits-.html)== 32.78gbp
 	> - ==[SH FIGUARTS DANDADAN Momo Ayase Ver.2](https://www.nin-nin-game.com/en/shfiguarts/230403-shfiguarts-dandadan-momo-ayase-ver2-bandai-spirits-.html)== 32.78gbp
 	> - ==UPGRADE PARTS==; [shf momo ver.1](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m87258661772) 24.78gbp, [1/2 scale poseable hands 2 pcs](https://www.aliexpress.com/item/1005011650519844.html?) 10.19gbp, [Rit Tropical Teal Synthetic Dye](https://www.amazon.co.uk/NAKOMA-PRODUCTS-SYNTHTC-Tropical-turquoise/dp/B07KRL6SQ8) 7.05gbp; TOTAL 42.02gbp
+	> - ==[MARVEL LEGENDS DELUXE Modular Armour Iron Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m14592134624)== 65.63gbp
+	^ mainly buying for proton cannon which is rare
+	> - ==[MARVEL LEGENDS GAMERVERSE Iron Man VS Spiral pack](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-Series-Marvel-Games-Iron-Man-vs-Marvels-Spiral-Action-Figure-Collectibles-p874474585)== 57.99gbp
+	^ mainly buying for iron man
+	[[iron man kitbash.jpg]]
+	> - ==[SH FIGUARTS DRAGON BALL FIGHTERZ Android 21 (lab coat)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m58987618595)== 59.22gbp, ==[1/12 female white coat](https://www.aliexpress.com/item/1005010434392237.html?)== 9.68gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
