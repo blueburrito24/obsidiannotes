@@ -25,11 +25,6 @@ kanban-plugin: board
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
 	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
 	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
-	> - ==[MARVEL LEGENDS DELUXE Modular Armour Iron Man](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m14592134624)== 65.63gbp
-	^ mainly buying for proton cannon which is rare
-	> - ==[MARVEL LEGENDS GAMERVERSE Iron Man VS Spiral pack](https://www.comicsandcocktails.co.uk/store/Marvel-Legends-Series-Marvel-Games-Iron-Man-vs-Marvels-Spiral-Action-Figure-Collectibles-p874474585)== 57.99gbp
-	^ mainly buying for iron man
-	[[iron man kitbash.jpg]]
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
@@ -47,7 +42,7 @@ kanban-plugin: board
 	> - [wired 1/12 stands](https://www.aliexpress.com/item/1005010276092517.html?) 1.99gbp
 	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
-	> - [Figure-Rise Standard Saiyan Pod](https://www.ebay.co.uk/itm/375844975529) 53.99gbp
+	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44gbp
 	> - [SHFUpgrade Shinkocchou Seihou KAMEN RIDER OOO Elbow Joint upgrade kit](https://www.shfupgrade.com/products/skc-ooo-series-elbow-joints-pairs) 7.61gbp
 
 
