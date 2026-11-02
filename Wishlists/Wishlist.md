@@ -25,6 +25,7 @@ kanban-plugin: board
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
 	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
 	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
+	> - ==[Gene Interference Series Qk-St-002](https://www.aliexpress.com/item/1005010661749008.html?)== 24.39gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
@@ -128,18 +129,16 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,882.03GBP
+## Term #1<br>TOTAL 2,907.35GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
+- [ ] [Amzfast 1440p, 200Hz, IPS, 27" monitor](https://amzn.eu/d/060fL1nH) 119.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
-- [ ] [GL.iNet Flint 3 Router](https://amzn.eu/d/04kXNC0e) 178.99gbp
 - [ ] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-- [ ] [Z-Edge 27 inch, 1440p, 240hz IPS monitor](https://amzn.eu/d/02QfeCE1) 149.99gbp
-- [ ] [Pebble speakers](https://amzn.eu/d/09r8k2uA) 23.85gbp
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
 - [ ] [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 36.99gbp
-- [ ] [duster](https://amzn.eu/d/02iWzGfz) 6.95gbp
+- [ ] [GL.iNet Flint 3 Router](https://amzn.eu/d/04kXNC0e) 178.99gbp
 - [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
 	< for figures
 - [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
@@ -152,17 +151,19 @@ kanban-plugin: board
 	^ Following [this mod](https://www.instagram.com/p/DbZHq9SFpQK/) and replace the internals of the FoR Goku using my replacement KHS I am receiving.
 	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005010178780324.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
-	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==,[SHF DBSSH Vegeta 2.0](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m75227028678) ==15.79gbp== for torso mod
+	> - [SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku (Genkidamatsuri Event Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m96369880793) ==61.53gbp==, + ==31.30gbp== for custom.up headsculpt
+	> - [shf dbz/dbs super hero goku and vegeta 2.0s](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m48718915084) ==33.47gbp==
+	> - ==[lssj goku torso mod using 2.0 goku](https://www.instagram.com/p/DeNLCb5tvoL/), [spider-man torso mod using 2.0 vegeta](https://www.instagram.com/p/DcPWfCuxwul/)==
+	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
-	> - [Gene Interference Series Qk-St-002](https://www.aliexpress.com/item/1005010661749008.html?) ==24.39gbp==
-	# ^ 452.59gbp spent
+	# ^ 538.71gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
 - [ ] [Joint Strengthening Pen](https://amzn.eu/d/0higB10Z) 9.97gbp
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
-- [ ] ## This leaves me with 117.97/3,000gbp
-	^ this money will mostly go towards fees on my figure purchases, also genkidamatsuri goku if a good listing is available and  bobacustom super hero gohan boots if they release
+- [ ] ## This leaves me with 92.65/3,000gbp
+	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
 ## Term #2<br>TOTAL 2,198.21GBP
@@ -241,7 +242,7 @@ kanban-plugin: board
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	# ^ 156.57gbp spent
-- [ ] ## This leaves me with 288.17/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 357.20/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 365.14GBP
