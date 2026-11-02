@@ -152,6 +152,7 @@ kanban-plugin: board
 	> - [HM STUDIO Young Gohan A&B](https://www.aliexpress.com/item/1005010178780324.html?) ==123.59gbp==, [custom neckpeg for gb-3.0 for goku](https://www.ebay.co.uk/itm/860008169683) ==4.99gbp== 
 	(I will use the B heads with the A body and use the extra faces with my Goku)
 	> - [SH FIGUARTS DRAGON BALL Z Legendary Super Saiyan Son Goku (Genkidamatsuri Event Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m96369880793) ==61.53gbp==, + ==31.30gbp== for custom.up headsculpt
+	> - [[custom.up genkidamatsuri goku heads.png]]
 	> - [shf dbz/dbs super hero goku and vegeta 2.0s](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m48718915084) ==33.47gbp==
 	> - ==[lssj goku torso mod using 2.0 goku](https://www.instagram.com/p/DeNLCb5tvoL/), [spider-man torso mod using 2.0 vegeta](https://www.instagram.com/p/DcPWfCuxwul/)==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==
