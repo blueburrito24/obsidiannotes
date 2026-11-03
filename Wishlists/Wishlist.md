@@ -128,13 +128,15 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,779.16GBP
+## Term #1<br>TOTAL 2,783.62GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Amzfast 1440p, 200Hz, IPS, 27" monitor](https://amzn.eu/d/060fL1nH) 119.99gbp
 - [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [ ] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
+- [ ] [8bitdo double-layered crystal arrow keycaps](https://shop.8bitdo.com/products/8bitdo-double-layered-crystal-arrow-keycaps) 4.46gbp
+	(converted from 5.99USD)
 - [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
 - [ ] [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 36.99gbp
 - [ ] [Killer Bean](https://store.steampowered.com/app/1597080/Killer_Bean/) 13.75gbp
@@ -165,7 +167,7 @@ kanban-plugin: board
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] [Nylon pliers for joint removal](https://amzn.eu/d/04QN9Ba4) 6.59gbp
 - [ ] driving theory test 23gbp
-- [ ] ## This leaves me with 220.84/3,000gbp
+- [ ] ## This leaves me with 216.38/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
