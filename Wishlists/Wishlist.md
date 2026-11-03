@@ -128,7 +128,7 @@ kanban-plugin: board
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
 
 
-## Term #1<br>TOTAL 2,836.33GBP
+## Term #1<br>TOTAL 2,840.32GBP
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Amzfast 1440p, 200Hz, IPS, 27" monitor](https://amzn.eu/d/060fL1nH) 119.99gbp
@@ -157,7 +157,7 @@ kanban-plugin: board
 	> - [[custom.up genkidamatsuri goku heads.png]]
 	> - [shf dbz/dbs super hero goku and vegeta 2.0s](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m48718915084) ==33.47gbp==
 	> - ==[lssj goku torso mod using 2.0 goku](https://www.instagram.com/p/DeNLCb5tvoL/), [spider-man torso mod using 2.0 vegeta](https://www.instagram.com/p/DcPWfCuxwul/)==
-	> - [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza (Final Form Ver.)](https://www.nin-nin-game.com/en/dragon-ball/234861-shfiguarts-dragon-ball-z-frieza-final-form-ver-the-universes-bottomless-power-bandai-spirits-.html) ==31.33gbp==, [SHF KO Mecha Frieza](https://www.aliexpress.com/item/1005008250400825.html?) ==21.38gbp==
+	> - [SH FIGUARTS DRAGON BALL Z "The Universe's Bottomless Power" Frieza (Final Form Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m39152912105) ==31.33gbp==, [SHF KO Mecha Frieza](https://www.aliexpress.com/item/1005008250400825.html?) ==21.38gbp==
 	^ Heat up and remove the abdomen on 4.0 frieza, carve out the waist piece to look more standard and then dremel in a socket if needed for the mecha frieza abdomen, alongside adjusting the mecha frieza abdomen's socket accordingly and making any other adjustments for it to look good. also make sure to carve out plastic to increase abdomen range and also carve out the heads at the back to increase upwards range
 	> - [SH FIGUARTS MARVEL GAMERVERSE Spider-Man](https://www.comicsandcocktails.co.uk/store/Bandai-MARVEL-GAMERVERSE-S-H-Figuarts-Spider-Man-Action-Figure-Marvel-vs-Capcom-p841164864) ==99gbp==
 	> - [SH FIGUARTS MARVEL GAMERVERSE Wolverine](https://hobbyfigures.co.uk/products/marvel-s-h-figuarts-action-figure-wolverine-gamerverse-15cm) ==68.95gbp==, [Vallejo black wash](https://amzn.eu/d/0c4XKsp7) ==7.27gbp==, [Rimmel Clear Coat Nail Polish](https://amzn.eu/d/002BoRqV) ==3.89gbp==
@@ -168,8 +168,9 @@ kanban-plugin: board
 - [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [ ] [Nylon pliers for joint removal](https://amzn.eu/d/04QN9Ba4) 6.59gbp
+- [ ] [12pcs sandpaper of various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
 - [ ] driving theory test 23gbp
-- [ ] ## This leaves me with 163.67/3,000gbp
+- [ ] ## This leaves me with 159.88/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
