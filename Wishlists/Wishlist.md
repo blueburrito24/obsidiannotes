@@ -215,7 +215,7 @@ kanban-plugin: board
 	# ^ 721.18gbp spent
 	>[!custom Gohan 4.0]-
 	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
-	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Onward to Adventure Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads using acrylic markers and GM20 gundam marker for the pupils, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
+	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Fighter of Rage SSJ Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads using acrylic markers and GM20 gundam marker for the pupils, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
 	I will want to also dye the lower body, either I can heat up and remove the boots and skintone parts or cover them in blu tack
 	**Make sure to practice dyeing and using acrylic markers on loose figure parts first**
 	I will keep the base form head from Gamma 2 and sell the figure to Musa for 30 quid
