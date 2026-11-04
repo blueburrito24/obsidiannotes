@@ -146,7 +146,7 @@ kanban-plugin: board
 	< for bigger figures
 - [x] [desktop bookshelf](https://www.amazon.co.uk/NUODWELL-Adjustable-Bookshelf-Expandable-Home%EF%BC%88TS10/dp/B0CB7ZY78P?s=kitchen) 29.99gbp
 - [x] [You're Not In Trouble: The ADHD Guide to Building Healthy, Connected Relationships](https://www.amazon.co.uk/Youre-Not-Trouble-Connected-Relationships/dp/0241800161) 16.68gbp
-- [ ] >[!Figure purchases]-
+- [x] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z "Onward to Adventure Set" Son Goku](https://www.amiami.com/eng/detail/?gcode=MED-BOOK-056965) ==62.47gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Fighter of Rage Super Saiyan Son Goku](https://www.amiami.com/eng/detail/?gcode=FIGURE-204385-R) ==68.06gbp==
 	> - [sh_figuposes FoR adapter peg](https://www.ebay.co.uk/itm/860034238209?) ==4.99gbp==
@@ -169,7 +169,7 @@ kanban-plugin: board
 	^ cotton wool buds for general application on figures, toothpicks for precise application
 - [x] [Nylon pliers for joint removal](https://amzn.eu/d/04QN9Ba4) 6.59gbp
 - [x] [12pcs sandpaper of various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
-- [ ] driving theory test 23gbp
+- [x] driving theory test 23gbp
 - [ ] ## This leaves me with 159.88/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
