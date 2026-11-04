@@ -130,8 +130,8 @@ kanban-plugin: board
 
 ## Term #1<br>TOTAL 2,840.32GBP
 
-- [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
-- [ ] [Amzfast 1440p, 200Hz, IPS, 27" monitor](https://amzn.eu/d/060fL1nH) 119.99gbp
+- [x] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
+- [x] [Amzfast 1440p, 200Hz, IPS, 27" monitor](https://amzn.eu/d/060fL1nH) 119.99gbp
 - [x] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
 - [x] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
@@ -170,7 +170,7 @@ kanban-plugin: board
 - [x] [Nylon pliers for joint removal](https://amzn.eu/d/04QN9Ba4) 6.59gbp
 - [x] [12pcs sandpaper of various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
 - [x] driving theory test 23gbp
-- [ ] ## This leaves me with 159.88/3,000gbp
+- [x] ## This leaves me with 159.88/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
@@ -290,6 +290,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":true,"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,false],"show-checkboxes":true,"lane-width":345}
 ```
 %%
