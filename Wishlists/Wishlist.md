@@ -132,20 +132,20 @@ kanban-plugin: board
 
 - [ ] [pc](https://www.costco.co.uk/Computers/Desktops-PCs-iMacs/CyberPower-Intel-Core-i7-16GB-RAM-1TB-SSD-NVIDIA-GeForce-RTX-5070-Gaming-Desktop-PC/p/634445) 1,929.99gbp
 - [ ] [Amzfast 1440p, 200Hz, IPS, 27" monitor](https://amzn.eu/d/060fL1nH) 119.99gbp
-- [ ] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
+- [x] [USB-USB C Adapters](https://amzn.eu/d/0i1fF6cv) 3.99gbp
 	^ for my ssd to connect safely
-- [ ] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
-- [ ] [8bitdo double-layered crystal arrow keycaps](https://shop.8bitdo.com/products/8bitdo-double-layered-crystal-arrow-keycaps) 4.46gbp
+- [x] [Shadow Pink Keycaps](https://kbdfans.com/collections/keycaps/products/shadow-keycap?variant=46187720441995) 18.68gbp (converted from 25USD)
+- [x] [8bitdo double-layered crystal arrow keycaps](https://shop.8bitdo.com/products/8bitdo-double-layered-crystal-arrow-keycaps) 4.46gbp
 	(converted from 5.99USD)
-- [ ] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
+- [x] [Microphone Foam Cover 2pcs](https://amzn.eu/d/0c8bjJnZ) 3.79gbp
 - [ ] [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 36.99gbp
-- [ ] [Killer Bean](https://store.steampowered.com/app/1597080/Killer_Bean/) 13.75gbp
-- [ ] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
+- [x] [Killer Bean](https://store.steampowered.com/app/1597080/Killer_Bean/) 13.75gbp
+- [x] [Novelinks "Photo Storage Boxes with Organisers" Pink Gradient](https://www.amazon.co.uk/Novelinks-Transparent-Photo-Keeper-Handle/dp/B0CZCTSWKQ?th=1) 16.99gbp
 	< for figures
-- [ ] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
+- [x] [Marte Vanci "Project Storage Box"](https://www.amazon.co.uk/Marte-Vanci-Transparent-Organiser-Stationery/dp/B0F9XXP4ZS?th=1) 10.39gbp
 	< for bigger figures
-- [ ] [desktop bookshelf](https://www.amazon.co.uk/NUODWELL-Adjustable-Bookshelf-Expandable-Home%EF%BC%88TS10/dp/B0CB7ZY78P?s=kitchen) 29.99gbp
-- [ ] [You're Not In Trouble: The ADHD Guide to Building Healthy, Connected Relationships](https://www.amazon.co.uk/Youre-Not-Trouble-Connected-Relationships/dp/0241800161) 16.68gbp
+- [x] [desktop bookshelf](https://www.amazon.co.uk/NUODWELL-Adjustable-Bookshelf-Expandable-Home%EF%BC%88TS10/dp/B0CB7ZY78P?s=kitchen) 29.99gbp
+- [x] [You're Not In Trouble: The ADHD Guide to Building Healthy, Connected Relationships](https://www.amazon.co.uk/Youre-Not-Trouble-Connected-Relationships/dp/0241800161) 16.68gbp
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z "Onward to Adventure Set" Son Goku](https://www.amiami.com/eng/detail/?gcode=MED-BOOK-056965) ==62.47gbp==
 	> - [SH FIGUARTS DRAGON BALL Z Fighter of Rage Super Saiyan Son Goku](https://www.amiami.com/eng/detail/?gcode=FIGURE-204385-R) ==68.06gbp==
@@ -164,11 +164,11 @@ kanban-plugin: board
 	^ use nail polish to tighten any loose joints and tighten the connection for the claws on the hands, need to diassemble the torso and carve out the supports to give the butterfly joints more clearance, fill in the arm detailing with black wash.
 	# ^ 582.22gbp spent
 	^ (-40 quid from Musa buying loose HM Gohan parts; B body and hairsculpts, no hands)
-- [ ] [Joint Strengthening Pen](https://amzn.eu/d/0higB10Z) 9.97gbp
-- [ ] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
+- [x] [Joint Strengthening Pen](https://amzn.eu/d/0higB10Z) 9.97gbp
+- [x] [Isopropyl Alcohol 99%](https://amzn.eu/d/04iefXSd) 4.49gbp, [Cotton wool buds 200pcs](https://www.amazon.co.uk/Amazon-Cotton-Buds-100-Units/dp/B0FPDB8ZGS) 0.90gbp, [Toothpicks 500pcs](https://www.amazon.co.uk/500pcs-Bamboo-Toothpicks-Cocktail-Kitchen/dp/B0DGVCFPS9) 3.49gbp
 	^ cotton wool buds for general application on figures, toothpicks for precise application
-- [ ] [Nylon pliers for joint removal](https://amzn.eu/d/04QN9Ba4) 6.59gbp
-- [ ] [12pcs sandpaper of various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
+- [x] [Nylon pliers for joint removal](https://amzn.eu/d/04QN9Ba4) 6.59gbp
+- [x] [12pcs sandpaper of various grit](https://www.amazon.co.uk/dp/B0B4FMJBFG) 3.99gbp
 - [ ] driving theory test 23gbp
 - [ ] ## This leaves me with 159.88/3,000gbp
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
@@ -290,6 +290,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":false,"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"show-checkboxes":true,"lane-width":345}
 ```
 %%
