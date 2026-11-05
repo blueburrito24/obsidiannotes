@@ -174,7 +174,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 2,198.21GBP
+## Term #2<br>TOTAL 2,038.50GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -193,9 +193,9 @@ kanban-plugin: board
 	> - [dc originals green lanterns tee](https://amzn.eu/d/01u3cbWG) 7gbp
 	# ^ 227.92gbp spent
 - [ ] >[!Figure purchases]-
-	> - AC FACTORY KO AMAZING YAMAGUCHI Symbiote Spider-Man 30gbp~, [ct toys agent venom](https://www.aliexpress.com/item/1005009787035391.html?) 36.84gbp, TOTAL ==66.84gbp== 
+	> - AC FACTORY KO AMAZING YAMAGUCHI Symbiote Spider-Man 30gbp~, [ct toys agent venom](https://www.aliexpress.com/item/1005009787035391.html?) 36.84gbp, TOTAL ==66.84gbp==
+	> - [SH FIGUARTS ONE PIECE X NBA Luffy (Lakers)](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=m31421866429) ==41.50gbp==
 	> - [AC Factory KO AMAZING YAMAGUCHI Bleeding Edge Iron Man](https://www.aliexpress.com/item/1005013428974108.html?) ==34.49gbp==
-	> - [PC TOYS Venom Gloss Black Ver.](https://www.aliexpress.com/item/1005011541678676.html?) ==40.89gbp==
 	> - [AMAZING YAMAGUCHI Deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m63282823609) ==39.23gbp==
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
 	> - MP Studio Gohan 50gbp~ (manga variant)
@@ -212,33 +212,7 @@ kanban-plugin: board
 	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
 	  ==25.67gbp== total cost
 	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 721.18gbp spent
-	>[!custom Gohan 4.0]-
-	> - [Tutorial](https://www.instagram.com/p/De5NC9SlpS2)
-	^ I will follow this except that I will dye the gi parts and also recast both the crossed-arm piece from my HM Studio Gohan and the hands from my Fighter of Rage SSJ Son Goku to use for this figure. I will repaint the light-SSJ faces from my HM Studio Gohan into base form heads using acrylic markers and GM20 gundam marker for the pupils, which need slight cutting up to work with the glasses from the Gamma 2 bonus head alongside cutting off the pegs and sticking them onto the top of the face so they can slot into the base form hairsculpt.
-	I will want to also dye the lower body, either I can heat up and remove the boots and skintone parts or cover them in blu tack
-	**Make sure to practice dyeing and using acrylic markers on loose figure parts first**
-	I will keep the base form head from Gamma 2 and sell the figure to Musa for 30 quid
-	> - MP Studio Gohan 50gbp~ (manga variant); I would use the heads for Super Hero's Mystic form and keep the body to use with my HM Goku heads
-	> - [DO Custom Chest Replacement Part](https://www.aliexpress.com/item/1005013344285155.html?) 11.89gbp
-	> - [SH FIGUARTS DRAGON BALL SUPER Gohan (Potential Unleashed Super Hero Ver.)](https://www.nin-nin-game.com/en/shfiguarts/250955-shfiguarts-dragon-ball-super-son-gohan-potential-unleashed-super-hero-ver-reissue-bandai-spirits-.html) 20.74gbp
-	> - [SH FIGUARTS DRAGON BALL SUPER SUPER HERO Gamma 2](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m20656290988) 39.53gbp
-	> - [loose shf gb goku for parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15558299769) 14.33gbp
-	> - [neckpeg for games begin body](https://www.ebay.co.uk/itm/860008169683) 4.99gbp
-	> - [stainless steel milk pan 5.5"](https://amzn.eu/d/0avW34aO) 11.93gbp
-	> - [rit synthetic dye royal purple](https://amzn.eu/d/01BS3MXD) 7.19gbp
-	^ [how to dye action figures](https://www.youtube.com/watch?v=BEzkLFtnoEs)
-	> - [white blu tack](https://amzn.eu/d/050aJ6K4) 1.10gbp
-	> - [36pcs acrylic markers](https://www.aliexpress.com/item/1005009535565214.html) 15.60gbp
-	> - [Gundam marker GM20 black](https://amzn.eu/d/0hLkCzYe) 6.69gbp
-	> - [painting clamp stand](https://amzn.eu/d/0bslj52J) 7.45gbp
-	> - [blue stuff](https://amzn.eu/d/0198cYZn) 8.92gbp,
-	[how to use blue stuff](https://www.youtube.com/watch?v=FOMwKVAJEfY)
-	^ use the lego method
-	> - [milliput epoxy putty](https://amzn.eu/d/0b2wCMEX) 6.90gbp
-	> - [12pcs sandpaper](https://amzn.eu/d/0dUMEEDV) 3.99gbp
-	> - [vallejo basic skintone](https://amzn.eu/d/0hBToBQG) 4.95gbp
-	# ^ 160.32gbp spent
+	# ^ 721.79gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -250,7 +224,7 @@ kanban-plugin: board
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	# ^ 156.57gbp spent
-- [ ] ## This leaves me with 357.20/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 516.92/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 365.14GBP
@@ -290,6 +264,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,false],"show-checkboxes":true,"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"lane-width":345}
 ```
 %%
