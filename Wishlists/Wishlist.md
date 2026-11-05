@@ -7,8 +7,8 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] 216 for 3 train tickets per week, four weeks a term
-- [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 13.99gbp/month
-	^ 55.96gbp per term
+- [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 20.99gbp/month
+	^ 83.96gbp per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
@@ -174,7 +174,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 2,038.50GBP
+## Term #2<br>TOTAL 1,777.60GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -194,25 +194,22 @@ kanban-plugin: board
 	# ^ 227.92gbp spent
 - [ ] >[!Figure purchases]-
 	> - AC FACTORY KO AMAZING YAMAGUCHI Symbiote Spider-Man 30gbp~, [ct toys agent venom](https://www.aliexpress.com/item/1005009787035391.html?) 36.84gbp, TOTAL ==66.84gbp==
-	> - [SH FIGUARTS ONE PIECE X NBA Luffy (Lakers)](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=m31421866429) ==41.50gbp==
 	> - [AC Factory KO AMAZING YAMAGUCHI Bleeding Edge Iron Man](https://www.aliexpress.com/item/1005013428974108.html?) ==34.49gbp==
 	> - [AMAZING YAMAGUCHI Deadpool](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m63282823609) ==39.23gbp==
 	> - [OTD Toys OT01 Broly](https://www.aliexpress.com/item/1005012849037921.html?) ==65.39gbp==
+	> - [SH FIGUARTS DRAGON BALL DAIMA Goku (Mini)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYUbZPr2crQUCQnFzkuvX) ==13.81gbp==
 	> - MP Studio Gohan 50gbp~ (manga variant)
 	[[mp gohan render.png]]
 	> - [VARIABLE ACTION HEROES ONE PIECE Luffy Gear 4 Boundman](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m52411359777) ==121.45gbp==
+	> - [SH FIGUARTS ONE PIECE X NBA Luffy (Lakers)](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=m31421866429) ==41.50gbp==
+	^ sell the NBA body and its accessories besides the heads
+	> - [SHF ONE PIECE Romance Dawn Luffy loose parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m10197570442) ==9.77gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
 	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
 	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=zenplus&itemCode=thrift-webshop%253Aa-066-wh6523-08&Id=68020dc8-6507-4453-9f74-d826e103bf1f) ==54.68gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
-	> - [heat gun for customising](https://amzn.eu/d/03Mw6Po8) ==14.99gbp==
-	> - [8pcs pencil boxes for storing action figures on the go](https://amzn.eu/d/0iabR3qK) ==12.99gbp==
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) ==22.11gbp==
-	^ repaint white using the vallejo game colour inks
-	> - [20cm plastic ruler](https://amzn.eu/d/09iBId06) 1.58gbp, [Vallejo Game Colour Inks](https://amzn.eu/d/06s5uF3o) 19.60gbp, [99.9% Isopropyl, Rubbing Alcohol](https://amzn.eu/d/0fAsgFqd) 4.49gbp
-	  ==25.67gbp== total cost
-	^ I would remove the details on the ruler using the rubbing alcohol and cotton buds, then paint it in the blue ink and paint on light blue streaks using my pre-purchased blue vallejo paint, to make a scaled ultra-beam for the DYNACTION Shin Ultraman
-	# ^ 721.79gbp spent
+	# ^ 681.72gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -224,7 +221,7 @@ kanban-plugin: board
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	# ^ 156.57gbp spent
-- [ ] ## This leaves me with 516.92/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 489.78/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 365.14GBP
