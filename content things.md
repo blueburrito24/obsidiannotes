@@ -1,5 +1,6 @@
 video format; stop-motion or candid camera shots of figures out in the open, such as natural scenery or public areas, before transitioning to the main review section with an ambience playing behind it all
 if i'm talking for a while i can put footage of me playing with the figure or b-roll of the figure on display
+-> should do b-roll inspired by toys front, doing close-ups of the figure in a lightbox on a rotating display and using editing to highlight details
 
 i need my lighting right for a good display of what the figures look like in fairly neutral lighting, my phone camera positioned nicely to show everything the viewers need to see and at a nice, flatter angle
 i could have a macro spotlight a bit overly in the foreground for highlighting figures in close-up shots e.g., showing smaller details on a figure's sculpt
