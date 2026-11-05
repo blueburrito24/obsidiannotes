@@ -174,7 +174,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,777.60GBP
+## Term #2<br>TOTAL 1,856.83GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -204,12 +204,14 @@ kanban-plugin: board
 	> - [SH FIGUARTS ONE PIECE X NBA Luffy (Lakers)](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=m31421866429) ==41.50gbp==
 	^ sell the NBA body and its accessories besides the heads
 	> - [SHF ONE PIECE Romance Dawn Luffy loose parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m10197570442) ==9.77gbp==
+	> - [SH FIGUARTS ONE PIECE Sanji (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/250943-shfiguarts-one-piece-sanji-romance-dawn-ver-reissue-bandai-spirits-.html) ==34.78gbp==
+	> - [SH FIGUARTS ONE PIECE Roronoa Zoro (Romance Dawn Ver.)](https://www.nin-nin-game.com/en/shfiguarts/215283-shfiguarts-one-piece-roronoa-zoro-romance-dawn-ver-2nd-reissue-bandai-spirits-.html) ==44.45gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
 	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
 	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=zenplus&itemCode=thrift-webshop%253Aa-066-wh6523-08&Id=68020dc8-6507-4453-9f74-d826e103bf1f) ==54.68gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) ==22.11gbp==
-	# ^ 681.72gbp spent
+	# ^ 760.95gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -221,7 +223,7 @@ kanban-plugin: board
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
 	# ^ 156.57gbp spent
-- [ ] ## This leaves me with 489.78/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 410.55/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 365.14GBP
