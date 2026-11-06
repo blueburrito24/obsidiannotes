@@ -25,6 +25,11 @@ kanban-plugin: board
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
 	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
 	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
+	> - ==[SNAIL SHELL SHINGETSU ACCOMPANYING; Agent Chiaki](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m24829625214)== 44.31gbp
+	> - ==[SH FIGUARTS ONE PIECE Nami (New World Ver.)](https://www.nin-nin-game.com/en/shfiguarts/266374-shfiguarts-one-piece-nami-new-world-ver-bandai-spirits-.html)== 33.85gbp
+	^ would only purchase with the following items; [white tee, "anti-dyeing B"](https://www.aliexpress.com/item/1005013335816599.html?) 2.59gbp, [three-piece outfit](https://www.aliexpress.com/item/1005008631450361.html?) 18.29gbp, [black trenchcoat set B](https://www.aliexpress.com/item/1005012499228282.html?) 10.11gbp
+	> - ==[SH FIGUARTS ONE PIECE WORLD FIGURE COLOSSEUM Portgas D. Ace (Fire Fist Ace Ver.)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m61689980580)== 92.99gbp
+	> - ==[SH FIGUARTS ONE PIECE Boa Hancock Bonus Part for Luffy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m47831445267)== 8.27gbp
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
