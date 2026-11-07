@@ -38,8 +38,6 @@ kanban-plugin: board
 	> - [1/6th scale floral tee for bigger figures](https://www.aliexpress.com/item/1005010105472307.html?) 12.89gbp
 	> - [manipple 1/12 glasses](https://www.aliexpress.com/item/1005008528170157.html?) 8gbp
 	> - [Tamashii Stage Display Stand 2pcs](https://hobbyfigures.co.uk/products/tamashii-stage-figure-stand-act-4-for-humanoid-clear-14cm) 14.95gbp for effects and figures
-	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
-	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
 	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99gbp
 	> - [snail shell kunoichi reppu set](https://www.nin-nin-game.com/en/action-figures/255055-action-figure-kunoichi-reppu-112-optional-parts-snail-shell-.html) 15.30gbp
@@ -179,7 +177,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,863.29GBP
+## Term #2<br>TOTAL 1,900.12GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -228,8 +226,10 @@ kanban-plugin: board
 	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
-	# ^ 193.55gbp spent
-- [ ] ## This leaves me with 404.19/3,000gbp including the expenses for buying ingredients biweekly and gym
+	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
+	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
+	# ^ 230.38gbp spent
+- [ ] ## This leaves me with 367.36/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 365.14GBP
