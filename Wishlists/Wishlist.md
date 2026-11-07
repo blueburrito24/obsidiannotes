@@ -36,7 +36,6 @@ kanban-plugin: board
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
 	> - [1/10 sleeping bag for figures](https://www.aliexpress.com/item/1005009654990227.html?) 4.49gbp
 	> - [1/6th scale floral tee for bigger figures](https://www.aliexpress.com/item/1005010105472307.html?) 12.89gbp
-	> - [manipple 1/12 glasses](https://www.aliexpress.com/item/1005008528170157.html?) 8gbp
 	> - [Tamashii Stage Display Stand 2pcs](https://hobbyfigures.co.uk/products/tamashii-stage-figure-stand-act-4-for-humanoid-clear-14cm) 14.95gbp for effects and figures
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
 	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99gbp
