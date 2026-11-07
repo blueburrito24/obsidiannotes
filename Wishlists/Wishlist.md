@@ -21,7 +21,6 @@ kanban-plugin: board
 	> - square k gotenks (not available yet)
 	> - revoltech cyborg superman (not available yet)
 	> - shf naruto shippuden tobirama (not available yet, i would like to buy two or three for shadow clone stuff)
-	> - ac factory ko revoltech 1.0 spider-man (releases 2027)
 	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
 	> - ==[SH FIGUARTS STREET FIGHTER V Akuma](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRWAHG2phqDmrEV6xDtC)== 36.34gbp
 	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
