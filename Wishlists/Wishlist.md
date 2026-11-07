@@ -42,7 +42,6 @@ kanban-plugin: board
 	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99gbp
 	> - [snail shell kunoichi reppu set](https://www.nin-nin-game.com/en/action-figures/255055-action-figure-kunoichi-reppu-112-optional-parts-snail-shell-.html) 15.30gbp
 	^ for good ninja weapon accessories
-	> - [wired 1/12 stands](https://www.aliexpress.com/item/1005010276092517.html?) 1.99gbp
 	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44gbp
@@ -269,6 +268,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,false,false,false,false,false],"lane-width":345}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,false],"lane-width":345}
 ```
 %%
