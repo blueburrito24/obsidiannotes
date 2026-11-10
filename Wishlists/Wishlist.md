@@ -16,12 +16,8 @@ kanban-plugin: board
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
-	> - ==jada toys omni-man==
 	> - shf perfect cell (not available yet)
 	> - square k gotenks (not available yet)
-	> - revoltech cyborg superman (not available yet)
-	> - shf naruto shippuden tobirama (not available yet, i would like to buy two or three for shadow clone stuff)
-	> - ==SHF SHINKOCCHOU SEIHOU KAMEN RIDER OOO Gata Kiriba Combo== 4pcs for army building (50-70)
 	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
 	> - ==[SH FIGUARTS ONE PIECE Boa Hancock Bonus Part for Luffy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m47831445267)== 8.27gbp
 - [ ] >[!Figure accessories]-
@@ -169,7 +165,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,328.94GBP
+## Term #2<br>TOTAL 1,284.02GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -194,24 +190,19 @@ kanban-plugin: board
 	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
 	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
 	> - [SH FIGUARTS SHIN KAMEN RIDER Batta-Augment-01/MASKED RIDER](https://zenmarket.jp/product.aspx?shop=zenplus&itemCode=thrift-webshop%253Aa-066-wh6523-08&Id=68020dc8-6507-4453-9f74-d826e103bf1f) ==54.68gbp==, [SH FIGUARTS SHIN KAMEN RIDER Cyclone](https://zenmarket.jp/product.aspx?shop=othershop&u=https%253A%252F%252Fwww.suruga-ya.jp%252Fproduct%252Fdetail%252F602256337) ==26.45gbp==
-	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) ==22.11gbp==
-	# ^ 429.67gbp spent
+	# ^ 407.56gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
-	> - [smallrig macro photography light](https://www.aliexpress.com/item/1005009684942771.html?) 46.59gbp
 	> - [Rotating display stand for figure reviews](https://amzn.eu/d/01n2GeSQ) 13.99gbp
 	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99gbp
 	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
-	> - [1/12 table with chairs](https://www.aliexpress.com/item/1005005997530719.html) 7.32gbp
-	> - [1/12 turkish blanket](https://www.aliexpress.com/item/1005012335945975.html?) 2.53gbp
-	> - [1/12 fridge](https://www.aliexpress.com/item/1005010450443422.html?) 5.89gbp
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
-	> - [tamashii effect series concrete crash](https://www.nin-nin-game.com/en/shfiguarts/181249-shfiguarts-tamashii-effect-series-concrete-crash-bandai-spirits-.html) 30.99gbp
+	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
-	# ^ 230.38gbp spent
-- [ ] ## This leaves me with 939.54/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 208.02gbp spent
+- [ ] ## This leaves me with 984.01/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 302.84GBP
