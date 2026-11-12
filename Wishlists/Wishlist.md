@@ -29,12 +29,9 @@ kanban-plugin: board
 	> - [Tamashii Stage Display Stand 2pcs](https://hobbyfigures.co.uk/products/tamashii-stage-figure-stand-act-4-for-humanoid-clear-14cm) 14.95gbp for effects and figures
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
 	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99gbp
-	> - [snail shell kunoichi reppu set](https://www.nin-nin-game.com/en/action-figures/255055-action-figure-kunoichi-reppu-112-optional-parts-snail-shell-.html) 15.30gbp
-	^ for good ninja weapon accessories
 	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44gbp
-	> - [SHFUpgrade Shinkocchou Seihou KAMEN RIDER OOO Elbow Joint upgrade kit](https://www.shfupgrade.com/products/skc-ooo-series-elbow-joints-pairs) 7.61gbp
 
 
 ## Recipes
@@ -165,7 +162,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,442.66GBP
+## Term #2<br>TOTAL 1,450.24GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -182,19 +179,15 @@ kanban-plugin: board
 	# ^ 97.93gbp spent
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Sage Mode Saviour of Konoha](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) ==102.05gbp==
-	> - [SH FIG UARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JZGtjAEyM3XvxEpo9GoA4) ==25.38gbp==
+	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) ==39.86gbp==
 	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite)](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) ==44.45gbp==
 	> - [SH FIGUARTS NARUTO SHIPPUDEN Sasuke Uchiha (Solitary Shinobi)](https://www.nin-nin-game.com/en/shfiguarts/210288-shfiguarts-naruto-shippuden-sasuke-uchiha-solitary-shinobi-bandai-spirits-.html) ==57.89gbp==
-	> - SHF NBA LUFFY; Oklahoma and Bulls ==120gbp==
-	[[nba okc luffy.png]], [[nba bulls luffy.png]]
-	^ I'll sell both bodies, one set of hands, both balls, and one set of heads to big C for 80USD (60gbp)
-	> - [SH FIGUARTS DRAGON BALL DAIMA Goku (Mini)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYUbZPr2crQUCQnFzkuvX) ==13.81gbp==
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==123.87gbp==
 	> - [5mm gold rings for ZT Broly's earrings](https://amzn.eu/d/0gjWCkC1) ==2.75gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
-	> - [BANDAI DYNACTION Shin Ultraman](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=otakara-100%253A10128853) ==40.27gbp==
-	> - [BANDAI ULTRA-ACT Ultraman](https://zenmarket.jp/en/product.aspx?shop=mercari&itemCode=2JTtjrbShAXhV9SQLRHte6) ==27.78gbp==
-	# ^ 566.20gbp spent
+	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91gbp==
+	> - [BANDAI DYNACTION Shin Ultraman](https://www.nin-nin-game.com/en/ultraman/62867-dynaction-ultraman-shin-ultraman-reissue-bandai-spirits-.html) ==75.05gbp==
+	# ^ 573.78gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -206,7 +199,7 @@ kanban-plugin: board
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	# ^ 208.02gbp spent
-- [ ] ## This leaves me with 625.37/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 617.79/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 132.74GBP
