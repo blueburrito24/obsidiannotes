@@ -162,7 +162,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,558.79GBP
+## Term #2<br>TOTAL 1,514.52GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -187,8 +187,8 @@ kanban-plugin: board
 	^ releases ==February==, I want to modify the waist for articulation and buy Tony Mei's custom chest and neck joints for ==26.45gbp== (converted from 35.20USD)
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
 	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91gbp==
-	> - [BANDAI DYNACTION Shin Ultraman](https://www.nin-nin-game.com/en/ultraman/62867-dynaction-ultraman-shin-ultraman-reissue-bandai-spirits-.html) ==75.05gbp==
-	# ^ 682.33gbp spent
+	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78gbp==
+	# ^ 648.06gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -200,7 +200,7 @@ kanban-plugin: board
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
 	# ^ 208.02gbp spent
-- [ ] ## This leaves me with 675.68/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 553.51/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 132.74GBP
