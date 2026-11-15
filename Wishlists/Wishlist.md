@@ -19,15 +19,9 @@ kanban-plugin: board
 	> - [MARVEL LEGENDS Acroyear](https://www.hasbropulse.com/uk/product/marvel-legends-series-acroyear/G24105X00) ==27.99gbp==
 	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
 	> - [FAHRULSTORE35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD)
-	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/255215-mafex-no185-spider-man-classic-costume-ver-reissue-medicom-toy-.html) ==42.17gbp==
-	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
-	> - [FAHRULSTORE35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==22gbp== (converted from 30USD)
 	> - [MAFEX 118 Carnage](https://www.nin-nin-game.com/en/mafex/217682-mafex-no118-spider-man-carnage-comics-ver-3rd-reissue-medicom-toy-.html) ==50.43gbp==
 - [ ] >[!Figure accessories]-
-	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
-	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
-	> - [translucent wired display stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.55gbp
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
 	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99gbp
 	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
@@ -162,7 +156,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,488.10GBP
+## Term #2<br>TOTAL 1,653.98GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -171,6 +165,7 @@ kanban-plugin: board
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95gbp
 - [ ] [7 inch IPS screen](https://www.aliexpress.com/item/1005008182468833.html?) 36.16gbp
 - [ ] [WOMIER Jelly MDA Keycaps](https://amzn.eu/d/09fKHLjK) 21.16gbp
+- [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99gbp
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -189,20 +184,24 @@ kanban-plugin: board
 	> - [MARVEL LEGENDS Super Skrull BAF She-Hulk](https://www.ebay.co.uk/itm/257816663112?) ==28.92gbp== for [[Super Skrull Kitbash.jpg]]
 	> - [MARVEL LEGENDS MARVEL GAMES Wolverine VS Psylocke](https://www.hasbropulse.com/uk/product/marvel-legends-series-marvel-games-wolverine-vs-psylocke/G24035L00) ==64.99gbp==
 	> - [CraftyGeckoCustoms Wolverine Articulated Feet](https://www.etsy.com/uk/listing/4463592687/wolvie-gamerverse-toes-pair-for-112) ==14.90gbp== (wait for green version)
-	# ^ 588.62gbp spent
+	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/255215-mafex-no185-spider-man-classic-costume-ver-reissue-medicom-toy-.html) ==42.17gbp==
+	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
+	> - [FAHRULSTORE35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
+	# ^ 725.96gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
 	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99gbp
 	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 	> - [Tamashii Display Stands 16pcs](https://www.aliexpress.com/item/1005007367851910.html?) 12.29gbp
+	> - [translucent wired display stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.55gbp
 	> - [MEZCO ONE:12 COLLECTIVE Wolverine Effect Parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m62393453699) 36.86gbp
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
-	# ^ 201.01gbp spent
-- [ ] ## This leaves me with 576.28/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 203.56gbp spent
+- [ ] ## This leaves me with 420.40/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
