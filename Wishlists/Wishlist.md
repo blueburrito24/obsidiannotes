@@ -16,22 +16,21 @@ kanban-plugin: board
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
-	> - shf perfect cell (not available yet)
-	> - square k gotenks (not available yet)
-	> - ==[MAFEX 231 THE INVINCIBLE IRON MAN Iron Man (Stealth Ver.)](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=hsalpha%253A12460309)== 38.10gbp
-	> - ==[SH FIGUARTS ONE PIECE Boa Hancock Bonus Part for Luffy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m47831445267)== 8.27gbp
+	> - [MARVEL LEGENDS Acroyear](https://www.hasbropulse.com/uk/product/marvel-legends-series-acroyear/G24105X00) ==27.99gbp==
+	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
 - [ ] >[!Figure accessories]-
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
-	> - [1/10 sleeping bag for figures](https://www.aliexpress.com/item/1005009654990227.html?) 4.49gbp
-	> - [1/6th scale floral tee for bigger figures](https://www.aliexpress.com/item/1005010105472307.html?) 12.89gbp
 	> - [Tamashii Stage Display Stand 2pcs](https://hobbyfigures.co.uk/products/tamashii-stage-figure-stand-act-4-for-humanoid-clear-14cm) 14.95gbp for effects and figures
+	> - [translucent wired display stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.55gbp
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
 	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99gbp
 	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18gbp~
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44gbp
+	> - [TAMASHII EFFECT Impact Beige Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m40809292631) 14.81gbp
+	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71gbp
 
 
 ## Recipes
@@ -162,7 +161,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,514.52GBP
+## Term #2<br>TOTAL 1,645.84GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -179,39 +178,49 @@ kanban-plugin: board
 	# ^ 97.93gbp spent
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Sage Mode Saviour of Konoha](https://www.nin-nin-game.com/en/naruto-hidden/122067-shfiguarts-naruto-shippuuden-uzumaki-naruto-sage-mode-savior-of-konoha-limited-edition-bandai-spirits-.html) ==102.05gbp==
-	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://www.nin-nin-game.com/en/naruto/111460-shfiguarts-naruto-shippuuden-naruto-uzumaki-narutop99-edition-ver-bandai-spirits-.html) ==39.86gbp==
+	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JZGtjAEyM3XvxEpo9GoA4) ==24.53gbp==
 	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite)](https://www.nin-nin-game.com/en/shfiguarts/210289-shfiguarts-naruto-shippuden-naruto-uzumaki-the-power-to-unite-bandai-spirits-.html) ==44.45gbp==
-	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012312118560.html?) ==123.87gbp==
+	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012229768035.html?) ==101.99gbp==
 	> - [5mm gold rings for ZT Broly's earrings](https://amzn.eu/d/0gjWCkC1) ==2.75gbp==
+	> - [SH FIGUARTS DRAGON BALL Z Mecha Frieza](https://www.nin-nin-game.com/en/dragon-ball/99386-shfiguarts-dragon-ball-z-mecha-freezer-limited-edition-bandai-spirits-.html) ==60.90gbp==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99gbp==
 	^ releases ==February==, I want to modify the waist for articulation and buy Tony Mei's custom chest and neck joints for ==26.45gbp== (converted from 35.20USD)
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
 	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78gbp==
-	# ^ 648.06gbp spent
+	> - [MARVEL LEGENDS FANTASTIC FOUR Super Skrull](https://www.hasbropulse.com/uk/product/marvel-legends-series-fantastic-four-villain-superskrull/G06485L00) ==39.99gbp==
+	> - [MARVEL LEGENDS Super Skrull BAF She-Hulk](https://www.ebay.co.uk/itm/257816663112?) ==28.92gbp== for [[Super Skrull Kitbash.jpg]]
+	> - [MARVEL LEGENDS MARVEL GAMES Wolverine VS Psylocke](https://www.hasbropulse.com/uk/product/marvel-legends-series-marvel-games-wolverine-vs-psylocke/G24035L00) ==64.99gbp==
+	> - [CraftyGeckoCustoms Wolverine Articulated Feet](https://www.etsy.com/uk/listing/4463592687/wolvie-gamerverse-toes-pair-for-112) ==14.90gbp== (wait for green version)
+	# ^ 811.55gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
-	> - [Rotating display stand for figure reviews](https://amzn.eu/d/01n2GeSQ) 13.99gbp
 	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99gbp
 	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
-	> - [tamashii effect series thunder blue](https://www.nin-nin-game.com/en/shfiguarts/167591-tamashii-effect-series-shfiguarts-thunder-blue-ver-bandai-spirits-.html) 20.62gbp & [yellow](https://www.nin-nin-game.com/en/shfiguarts/102407-tamashii-effect-series-thunder-yellow-ver-for-sh-figuarts-reissue-bandai-spirits-.html) 31.15gbp
-	# ^ 208.02gbp spent
-- [ ] ## This leaves me with 553.51/3,000gbp including the expenses for buying ingredients biweekly and gym
+	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
+	# ^ 151.86gbp spent
+- [ ] ## This leaves me with 436.18/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 132.74GBP
+## Term #3<br>TOTAL 276.14GBP
 
 - [ ] During this term I will spend 144 on train tickets and I will save 1,700.
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
+	> - [SH FIGUARTS MY HERO ACADEMIA Endeavour](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-endeavor-19cm) ==74.95gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==71.95gbp==
 	> - [SH FIGUARTS ONE PIECE Monkey D. Luffy (New World Ver.)](https://www.nin-nin-game.com/en/shfiguarts/261365-shfiguarts-one-piece-monkey-d-luffy-new-world-ver-bandai-spirits-.html) ==21.79gbp==
-	# ^ 132.74gbp spent
-- [ ] ## This leaves me with 1,023.26/3,100gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 207.69gbp spent
+- [ ] >[!Figure accessories]-
+	> - [TAMASHII EFFECT Burning Flame Red Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m50781104461) 24.13gbp
+	> - [TAMASHII EFFECT Impact Magma Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYPyjfNArwFnJm7zqLzWb) 27.17gbp
+	> - [TAMASHII EFFECT Smoke Burst Effect](https://www.nin-nin-game.com/en/shfiguarts/215278-shfiguarts-tamashii-effect-smoke-burst-effect-expansion-set-bandai-spirits-.html) 17.15gbp
+	# ^ 68.45gbp spent
+- [ ] ## This leaves me with 879.86/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
