@@ -27,7 +27,6 @@ kanban-plugin: board
 	> - [single-seat 1/12 leather sofa](https://www.aliexpress.com/item/1005008394952044.html?) 12.79gbp
 	> - [1/12 floral armchair](https://www.aliexpress.com/item/1005012088002563.html?) 9.99gbp
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
-	> - [Tamashii Display Stands 16pcs](https://www.aliexpress.com/item/1005007367851910.html?) 12.29gbp
 	> - [translucent wired display stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.55gbp
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
 	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99gbp
@@ -36,7 +35,6 @@ kanban-plugin: board
 	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44gbp
 	> - [TAMASHII EFFECT Impact Beige Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m40809292631) 14.81gbp
 	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71gbp
-	> - [MEZCO ONE:12 COLLECTIVE Wolverine Effect Parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m62393453699) 36.86gbp
 
 
 ## Recipes
@@ -164,7 +162,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,417.79GBP
+## Term #2<br>TOTAL 1,488.10GBP
 
 - [ ] I will use 216 on train tickets and save 500.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -172,6 +170,7 @@ kanban-plugin: board
 - [ ] [BOSE Noise cancelling wired earbuds](https://amzn.eu/d/06h6uY44) 99.95gbp
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95gbp
 - [ ] [7 inch IPS screen](https://www.aliexpress.com/item/1005008182468833.html?) 36.16gbp
+- [ ] [WOMIER Jelly MDA Keycaps](https://amzn.eu/d/09fKHLjK) 21.16gbp
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
@@ -196,12 +195,14 @@ kanban-plugin: board
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
 	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99gbp
 	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
+	> - [Tamashii Display Stands 16pcs](https://www.aliexpress.com/item/1005007367851910.html?) 12.29gbp
+	> - [MEZCO ONE:12 COLLECTIVE Wolverine Effect Parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m62393453699) 36.86gbp
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
-	# ^ 151.86gbp spent
-- [ ] ## This leaves me with 646.59/3,000gbp including the expenses for buying ingredients biweekly and gym
+	# ^ 201.01gbp spent
+- [ ] ## This leaves me with 576.28/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
