@@ -16,9 +16,6 @@ kanban-plugin: board
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
-	> - [MARVEL LEGENDS Acroyear](https://www.hasbropulse.com/uk/product/marvel-legends-series-acroyear/G24105X00) ==27.99gbp==
-	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
-	> - [FAHRULSTORE35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD)
 	> - [MAFEX 118 Carnage](https://www.nin-nin-game.com/en/mafex/217682-mafex-no118-spider-man-carnage-comics-ver-3rd-reissue-medicom-toy-.html) ==50.43gbp==
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
@@ -156,9 +153,9 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,653.98GBP
+## Term #2<br>TOTAL 1,696.97GBP
 
-- [ ] I will use 216 on train tickets and save 500.
+- [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99gbp
 - [ ] [BOSE Noise cancelling wired earbuds](https://amzn.eu/d/06h6uY44) 99.95gbp
@@ -184,10 +181,12 @@ kanban-plugin: board
 	> - [MARVEL LEGENDS Super Skrull BAF She-Hulk](https://www.ebay.co.uk/itm/257816663112?) ==28.92gbp== for [[Super Skrull Kitbash.jpg]]
 	> - [MARVEL LEGENDS MARVEL GAMES Wolverine VS Psylocke](https://www.hasbropulse.com/uk/product/marvel-legends-series-marvel-games-wolverine-vs-psylocke/G24035L00) ==64.99gbp==
 	> - [CraftyGeckoCustoms Wolverine Articulated Feet](https://www.etsy.com/uk/listing/4463592687/wolvie-gamerverse-toes-pair-for-112) ==14.90gbp== (wait for green version)
+	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
+	> - [FAHRULSTORE35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/255215-mafex-no185-spider-man-classic-costume-ver-reissue-medicom-toy-.html) ==42.17gbp==
 	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
 	> - [FAHRULSTORE35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 725.96gbp spent
+	# ^ 768.95gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -201,12 +200,12 @@ kanban-plugin: board
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
 	# ^ 203.56gbp spent
-- [ ] ## This leaves me with 420.40/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 577.41/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
 
-- [ ] During this term I will spend 144 on train tickets and I will save 1,700.
+- [ ] During this term I will spend 144 on train tickets and I will save 1,900.
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA Endeavour](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-endeavor-19cm) ==74.95gbp==
