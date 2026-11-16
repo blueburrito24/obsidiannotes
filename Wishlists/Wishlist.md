@@ -153,7 +153,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,696.97GBP
+## Term #2<br>TOTAL 1,726.41GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -179,6 +179,11 @@ kanban-plugin: board
 	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78gbp==
 	> - [MARVEL LEGENDS FANTASTIC FOUR Super Skrull](https://www.hasbropulse.com/uk/product/marvel-legends-series-fantastic-four-villain-superskrull/G06485L00) ==39.99gbp==
 	> - [MARVEL LEGENDS Super Skrull BAF She-Hulk](https://www.ebay.co.uk/itm/257816663112?) ==28.92gbp== for [[Super Skrull Kitbash.jpg]]
+	> - [Pry tools for the toe-joint mod](https://amzn.eu/d/08uADBcQ) ==4.29gbp==
+	> - [Drill bits for making toe joints](https://amzn.eu/d/0fOX2P25) ==4.29gbp==
+	> - [Joint set](https://www.aliexpress.com/item/1005006807926035.html?) ==4.59gbp==
+	> - [MARVEL LEGENDS Super Skrull fodder](https://www.ebay.co.uk/itm/168860997319) ==16.27gbp==
+	^ I'm gonna test out doing a ball-joint waist mod, like [this](https://www.youtube.com/watch?v=zXLxT0x3jQg) on this fodder body before doing it on the main Super Skrull figure, alongside trying out [this toe-joint mod](https://www.instagram.com/p/DCdUHFaOEj9/) on the fodder body before doing it on the main Super Skrull figure. I already have the metal rods for it.
 	> - [MARVEL LEGENDS MARVEL GAMES Wolverine VS Psylocke](https://www.hasbropulse.com/uk/product/marvel-legends-series-marvel-games-wolverine-vs-psylocke/G24035L00) ==64.99gbp==
 	> - [CraftyGeckoCustoms Wolverine Articulated Feet](https://www.etsy.com/uk/listing/4463592687/wolvie-gamerverse-toes-pair-for-112) ==14.90gbp== (wait for green version)
 	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
@@ -186,7 +191,7 @@ kanban-plugin: board
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/255215-mafex-no185-spider-man-classic-costume-ver-reissue-medicom-toy-.html) ==42.17gbp==
 	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
 	> - [FAHRULSTORE35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 768.95gbp spent
+	# ^ 798.39gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -200,7 +205,7 @@ kanban-plugin: board
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
 	# ^ 203.56gbp spent
-- [ ] ## This leaves me with 577.41/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 547.97/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
