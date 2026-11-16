@@ -217,7 +217,7 @@ kanban-plugin: board
 	> - [TAMASHII EFFECT Impact Magma Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYPyjfNArwFnJm7zqLzWb) 27.17gbp
 	> - [TAMASHII EFFECT Smoke Burst Effect](https://www.nin-nin-game.com/en/shfiguarts/215278-shfiguarts-tamashii-effect-smoke-burst-effect-expansion-set-bandai-spirits-.html) 17.15gbp
 	# ^ 68.45gbp spent
-- [ ] ## This leaves me with 895.90/3,100gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 695.90/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
