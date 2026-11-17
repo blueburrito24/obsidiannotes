@@ -17,6 +17,10 @@ kanban-plugin: board
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
 	> - [MAFEX 118 Carnage](https://www.nin-nin-game.com/en/mafex/217682-mafex-no118-spider-man-carnage-comics-ver-3rd-reissue-medicom-toy-.html) ==50.43gbp==
+	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m38686423966) ==54.49gbp==
+	> - [MESS TOYS Unbreakable B](https://www.aliexpress.com/item/1005009961707946.html?) ==35.49gbp==
+	> - [ZO Custom Goku](https://www.aliexpress.com/item/1005013316259352.html?) ==29.24gbp==
+	^ to use with my Fighter of Rage heads and hands; would need [sh_figuposes' FoR neckpeg](https://www.ebay.co.uk/itm/860034238209?) ==4.99gbp==
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
@@ -26,6 +30,15 @@ kanban-plugin: board
 	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44gbp
 	> - [TAMASHII EFFECT Impact Beige Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m40809292631) 14.81gbp
 	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71gbp
+- [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://www.ebay.co.uk/itm/960197214086?) 1,349gbp
+- [ ] >[!Stickers for laptop]-
+	> - [Canna Lily Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481904065/) 3.50gbp
+	> - [Quilt Squares Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481926058/) 2.75gbp
+	> - [Pink Stonecrop Flowers Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4577909177/) 3.50gbp
+	> - [Red Gaillardia Flowers Vinyl Sticker](https://www.etsy.com/uk/listing/4615523028/) 3.50gbp
+	> - [Black Rabbit Vinyl Sticker](https://www.etsy.com/uk/listing/4541967936/) 3gbp
+	> - [Dragon Ball Stickers](https://www.etsy.com/uk/listing/4608859208/) 9.41gbp
+	> - [Sonic the Hedgehog Mega Drive Holographic Sticker](https://www.etsy.com/uk/listing/4512248757/) 6.99gbp
 
 
 ## Recipes
@@ -185,11 +198,11 @@ kanban-plugin: board
 	> - [CraftyGeckoCustoms Wolverine Articulated Feet](https://www.etsy.com/uk/listing/4463592687/wolvie-gamerverse-toes-pair-for-112) ==14.90gbp== (wait for green version)
 	^ I also want to carve out some plastic on the abdomen and hip-socket on the legs for increased range and use some joints from the joint set I bought for Super Skrull to add boot swivel, like [this mod](https://www.instagram.com/p/DO6jglND94h/)
 	> - [AC FACTORY Symbiote Spider-Man](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
-	> - [FAHRULSTORE35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
+	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
 	> - [CT TOYS Agent Venom for tendrils](https://www.aliexpress.com/item/1005009736005670.html?) ==43.39gbp==
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.amiami.com/eng/detail/?gcode=FIGURE-141484) ==40.82gbp==
 	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
-	> - [FAHRULSTORE35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
+	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
 	# ^ 848.42gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
@@ -209,7 +222,7 @@ kanban-plugin: board
 
 ## Term #3<br>TOTAL 276.14GBP
 
-- [ ] During this term I will spend 144 on train tickets and I will save 1,900.
+- [ ] During this term I will spend 144 on train tickets and I will save 2,000.
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39gbp==
 	> - [SH FIGUARTS MY HERO ACADEMIA Endeavour](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-endeavor-19cm) ==74.95gbp==
@@ -221,7 +234,7 @@ kanban-plugin: board
 	> - [TAMASHII EFFECT Impact Magma Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYPyjfNArwFnJm7zqLzWb) 27.17gbp
 	> - [TAMASHII EFFECT Smoke Burst Effect](https://www.nin-nin-game.com/en/shfiguarts/215278-shfiguarts-tamashii-effect-smoke-burst-effect-expansion-set-bandai-spirits-.html) 17.15gbp
 	# ^ 68.45gbp spent
-- [ ] ## This leaves me with 695.90/3,100gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 595.90/3,100gbp including the expenses for buying ingredients biweekly and gym
 
 
 ***
