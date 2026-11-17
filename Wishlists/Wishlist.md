@@ -183,6 +183,7 @@ kanban-plugin: board
 	^ I'm gonna test out doing a ball-joint waist mod, like [this](https://www.youtube.com/watch?v=zXLxT0x3jQg) on this fodder body before doing it on the main Super Skrull figure, alongside trying out this [[toe joint mod.mp4]] ([instagram link](https://www.instagram.com/p/DCdUHFaOEj9/)) on the fodder body before doing it on the main Super Skrull figure. I already have the metal rods for it.
 	> - [MARVEL LEGENDS MARVEL GAMES Wolverine VS Psylocke](https://www.hasbropulse.com/uk/product/marvel-legends-series-marvel-games-wolverine-vs-psylocke/G24035L00) ==64.99gbp==
 	> - [CraftyGeckoCustoms Wolverine Articulated Feet](https://www.etsy.com/uk/listing/4463592687/wolvie-gamerverse-toes-pair-for-112) ==14.90gbp== (wait for green version)
+	^ I also want to carve out some plastic on the abdomen and hip-socket on the legs for increased range and use some joints from the joint set I bought for Super Skrull to add boot swivel, like [this mod](https://www.instagram.com/p/DO6jglND94h/)
 	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
 	> - [FAHRULSTORE35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/255215-mafex-no185-spider-man-classic-costume-ver-reissue-medicom-toy-.html) ==42.17gbp==
@@ -202,7 +203,7 @@ kanban-plugin: board
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
 	# ^ 203.56gbp spent
-- [ ] ## This leaves me with 561.14/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 556.51/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
