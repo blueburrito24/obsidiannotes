@@ -10,6 +10,8 @@ kanban-plugin: board
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 20.99gbp/month
 	^ 83.96gbp per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
+- [ ] [Cefrank Shelf Lights 4pcs](https://amzn.eu/d/0h8DDXi7) 29.99gbp
+- [ ] [Command Brand Hanging Strips](https://amzn.eu/d/06eMmLpg) 3.50gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
 	> - [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
