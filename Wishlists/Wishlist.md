@@ -19,8 +19,7 @@ kanban-plugin: board
 	> - [MAFEX 118 Carnage](https://www.nin-nin-game.com/en/mafex/217682-mafex-no118-spider-man-carnage-comics-ver-3rd-reissue-medicom-toy-.html) ==50.43gbp==
 	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m38686423966) ==54.49gbp==
 	> - [MESS TOYS Unbreakable B](https://www.aliexpress.com/item/1005009961707946.html?) ==35.49gbp==
-	> - [ZO Custom Goku](https://www.aliexpress.com/item/1005013316259352.html?) ==29.24gbp==
-	^ to use with my Fighter of Rage heads and hands; would need [sh_figuposes' FoR neckpeg](https://www.ebay.co.uk/itm/860034238209?) ==4.99gbp==
+	> - [BloodFang Sirius Wraith (Omega Shenron)](https://www.aliexpress.com/item/1005012803185953.html?) ==63.60gbp==
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
@@ -29,6 +28,7 @@ kanban-plugin: board
 	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90gbp
 	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44gbp
 	> - [TAMASHII EFFECT Impact Beige Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m40809292631) 14.81gbp
+	> - [BSM Rock Display 05A](https://www.aliexpress.com/item/1005012806817427.html?) 27.27gbp
 	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71gbp
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://www.ebay.co.uk/itm/960197214086?) 1,349gbp
 - [ ] >[!Stickers for laptop]-
@@ -166,7 +166,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,756.67GBP
+## Term #2<br>TOTAL 1,770.24GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -188,7 +188,7 @@ kanban-plugin: board
 	> - [HM EoZ Goku](https://www.aliexpress.com/item/1005008819398218.html?) ==40.59gbp==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99gbp==
 	^ releases ==February==, I want to modify the waist for articulation and buy Tony Mei's custom chest and neck joints for ==26.45gbp== (converted from 35.20USD)
-	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
+	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77121725162) ==81.52gbp==
 	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91gbp==
 	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78gbp==
 	> - [MARVEL LEGENDS FANTASTIC FOUR Super Skrull](https://www.hasbropulse.com/uk/product/marvel-legends-series-fantastic-four-villain-superskrull/G06485L00) ==39.99gbp==
@@ -202,7 +202,7 @@ kanban-plugin: board
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.amiami.com/eng/detail/?gcode=FIGURE-141484) ==40.82gbp==
 	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 845.18gbp spent
+	# ^ 858.75gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -217,7 +217,7 @@ kanban-plugin: board
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
 	# ^ 203.56gbp spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 594.36/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 504.14/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
