@@ -166,7 +166,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,759.91GBP
+## Term #2<br>TOTAL 1,756.67GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -184,6 +184,8 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012229768035.html?) ==101.99gbp==
 	> - [5mm gold rings for ZT Broly's earrings](https://amzn.eu/d/0gjWCkC1) ==2.75gbp==
+	> - [SH FIGUARTS DRAGON BALL GT Pan](https://www.amiami.com/eng/detail/?gcode=FIGURE-179952-R) ==36.06gbp==
+	> - [HM EoZ Goku](https://www.aliexpress.com/item/1005008819398218.html?) ==40.59gbp==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99gbp==
 	^ releases ==February==, I want to modify the waist for articulation and buy Tony Mei's custom chest and neck joints for ==26.45gbp== (converted from 35.20USD)
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-all-might-19cm) ==67.95gbp==
@@ -194,16 +196,13 @@ kanban-plugin: board
 	> - [Pry tools for the toe-joint mod](https://amzn.eu/d/08uADBcQ) 4.29gbp, [Drill bits for making toe joints](https://amzn.eu/d/0fOX2P25) 4.29gbp, [HD MA-SBJ002 Joint set](https://www.aliexpress.com/item/1005006807926035.html?) 4.59gbp, [7-in-1 Model Scriber for cutting outline of toe-joint](https://amzn.eu/d/02UNl2dw) 7.99gbp, [MARVEL LEGENDS Super Skrull fodder](https://www.ebay.co.uk/itm/168860997319) 16.27gbp
 	> - ==TOTAL 37.43gbp==
 	^ I'm gonna test out doing a ball-joint waist mod, like [this](https://www.youtube.com/watch?v=zXLxT0x3jQg) on this fodder body before doing it on the main Super Skrull figure, alongside trying out this [[toe joint mod.mp4]] ([instagram link](https://www.instagram.com/p/DCdUHFaOEj9/)) on the fodder body before doing it on the main Super Skrull figure. I already have the metal rods for it.
-	> - [MARVEL LEGENDS MARVEL GAMES Wolverine VS Psylocke](https://www.hasbropulse.com/uk/product/marvel-legends-series-marvel-games-wolverine-vs-psylocke/G24035L00) ==64.99gbp==
-	> - [CraftyGeckoCustoms Wolverine Articulated Feet](https://www.etsy.com/uk/listing/4463592687/wolvie-gamerverse-toes-pair-for-112) ==14.90gbp== (wait for green version)
-	^ I also want to carve out some plastic on the abdomen and hip-socket on the legs for increased range and use some joints from the joint set I bought for Super Skrull to add boot swivel, like [this mod](https://www.instagram.com/p/DO6jglND94h/)
 	> - [AC FACTORY Symbiote Spider-Man](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
 	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
 	> - [CT TOYS Agent Venom for tendrils](https://www.aliexpress.com/item/1005009736005670.html?) ==43.39gbp==
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.amiami.com/eng/detail/?gcode=FIGURE-141484) ==40.82gbp==
 	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 848.42gbp spent
+	# ^ 845.18gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -217,7 +216,8 @@ kanban-plugin: board
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
 	# ^ 203.56gbp spent
-- [ ] ## This leaves me with 514.47/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
+- [ ] ## This leaves me with 594.36/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
