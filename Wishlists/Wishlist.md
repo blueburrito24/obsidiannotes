@@ -164,7 +164,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,716.77GBP
+## Term #2<br>TOTAL 1,819.32GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -176,7 +176,6 @@ kanban-plugin: board
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
 - [ ] [Cefrank Shelf Lights 4pcs](https://amzn.eu/d/0h8DDXi7) 29.99gbp
 - [ ] [Command Brand Hanging Strips](https://amzn.eu/d/06eMmLpg) 3.50gbp
-- [ ] [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
 	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
@@ -192,22 +191,21 @@ kanban-plugin: board
 	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==71.95gbp==
 	^ Pre-order.
 	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78gbp==
-	> - [MARVEL LEGENDS FANTASTIC FOUR Super Skrull](https://www.hasbropulse.com/uk/product/marvel-legends-series-fantastic-four-villain-superskrull/G06485L00) ==39.99gbp==
-	> - [MARVEL LEGENDS Super Skrull BAF She-Hulk](https://www.ebay.co.uk/itm/257816663112?) ==28.92gbp== for [[Super Skrull Kitbash.jpg]]
-	> - [Pry tools for the toe-joint mod](https://amzn.eu/d/08uADBcQ) 4.29gbp, [Drill bits for making toe joints](https://amzn.eu/d/0fOX2P25) 4.29gbp, [HD MA-SBJ002 Joint set](https://www.aliexpress.com/item/1005006807926035.html?) 4.59gbp, [7-in-1 Model Scriber for cutting outline of toe-joint](https://amzn.eu/d/02UNl2dw) 7.99gbp, [MARVEL LEGENDS Super Skrull fodder](https://www.ebay.co.uk/itm/168860997319) 16.27gbp
-	> - ==TOTAL 37.43gbp==
-	^ I'm gonna test out doing a ball-joint waist mod, like [this](https://www.youtube.com/watch?v=zXLxT0x3jQg) on this fodder body before doing it on the main Super Skrull figure, alongside trying out this [[toe joint mod.mp4]] ([instagram link](https://www.instagram.com/p/DCdUHFaOEj9/)) on the fodder body before doing it on the main Super Skrull figure. I already have the metal rods for it.
 	> - ==9.39gbp== to ship my SHF ATSV Scarlet Spider
 	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58gbp==
 	^ I will remove the plastic on the sides and most of the torso so I can use the MESS TOYS hoodie on the SHF ATSV Scarlet Spider, alongside carving out plastic on the abdomen, neck, waist and the inside of the waist for articulation.
 	The hands' sockets also need dremelling to fit better on the wristpegs instead of fitting tightly and unsafely.
-	See [this post](https://www.instagram.com/p/DUR030EEX_d/) and [[shf atsv scarlet spider mockup.png]] for reference.
+	See [this post](https://www.instagram.com/p/DUR030EEX_d/), [this post](https://www.youtube.com/watch?v=jcY71H7CkRY) and [[shf atsv scarlet spider mockup.png]] for reference.
 	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
-	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man (Purple)](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
-	> - [XT Factory Accessory Set (Purple) for tendrils](https://www.aliexpress.com/item/1005013587352925.html?) ==16.29gbp==
+	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man (Purple)](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other head)
+	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53gbp, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44gbp, [Pot](https://amzn.eu/d/09KolpUV) 11.98gbp, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99gbp, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19gbp
+	> - ==TOTAL PRICE 59.13gbp==
+	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.amiami.com/eng/detail/?gcode=FIGURE-141484) ==40.82gbp==
+	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49gbp==
+	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==41gbp== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 783.66gbp spent
+	# ^ 741.65gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -219,9 +217,15 @@ kanban-plugin: board
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
-	# ^ 166.70gbp spent
+	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) 5.33gbp
+	^ for making custom webs like [this](https://www.youtube.com/shorts/SpB-Fvy_YeI)
+	> - [Pry tools](https://amzn.eu/d/08uADBcQ) 4.29gbp 
+	> - [Drill bits](https://amzn.eu/d/0fOX2P25) 4.29gbp 
+	> - [7-in-1 Model Scriber](https://amzn.eu/d/02UNl2dw) 7.99gbp
+	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99gbp
+	# ^ 213.59gbp spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 557.61/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 547.06/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 204.19GBP
