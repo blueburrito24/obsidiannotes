@@ -16,7 +16,6 @@ kanban-plugin: board
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
-	> - [MAFEX 118 Carnage](https://www.nin-nin-game.com/en/mafex/217682-mafex-no118-spider-man-carnage-comics-ver-3rd-reissue-medicom-toy-.html) ==50.43gbp==
 	> - [BloodFang Sirius Wraith (Omega Shenron)](https://www.aliexpress.com/item/1005012803185953.html?) ==63.60gbp==
 	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==25.99gbp==
 - [ ] >[!Figure accessories]-
