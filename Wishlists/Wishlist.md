@@ -15,9 +15,6 @@ kanban-plugin: board
 	> - [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9gbp
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
-- [ ] >[!Figures I would like to get]-
-	> - [BloodFang Sirius Wraith (Omega Shenron)](https://www.aliexpress.com/item/1005012803185953.html?) ==63.60gbp==
-	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==25.99gbp==
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
@@ -164,7 +161,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,819.32GBP
+## Term #2<br>TOTAL 1,845.31GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -191,6 +188,7 @@ kanban-plugin: board
 	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==71.95gbp==
 	^ Pre-order.
 	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78gbp==
+	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==25.99gbp==
 	> - ==9.39gbp== to ship my SHF ATSV Scarlet Spider
 	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58gbp==
 	^ I will remove the plastic on the sides and most of the torso so I can use the MESS TOYS hoodie on the SHF ATSV Scarlet Spider, alongside carving out plastic on the abdomen, neck, waist and the inside of the waist for articulation.
@@ -205,7 +203,7 @@ kanban-plugin: board
 	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49gbp==
 	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==41gbp== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 741.65gbp spent
+	# ^ 767.64gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -225,7 +223,7 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99gbp
 	# ^ 213.59gbp spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 547.06/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 638.69/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 204.19GBP
