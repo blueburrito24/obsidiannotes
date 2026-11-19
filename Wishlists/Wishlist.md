@@ -161,7 +161,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,845.31GBP
+## Term #2<br>TOTAL 1,801.48GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -179,8 +179,6 @@ kanban-plugin: board
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/hollister-feel-good-faux-fur-trim-zip-up-hoodie-63616480-1005?faceout=model&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=1) 59.95gbp
 	# ^ 97.93gbp spent
 - [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS DRAGON BALL GT Pan](https://www.amiami.com/eng/detail/?gcode=FIGURE-179952-R) ==36.06gbp==
-	> - [HM EoZ Goku](https://www.aliexpress.com/item/1005008819398218.html?) ==40.59gbp==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99gbp==
 	^ releases ==February==, I want to modify the waist for articulation and buy Tony Mei's custom chest and neck joints for ==26.45gbp== (converted from 35.20USD)
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77121725162) ==81.52gbp==
@@ -199,11 +197,11 @@ kanban-plugin: board
 	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53gbp, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44gbp, [Pot](https://amzn.eu/d/09KolpUV) 11.98gbp, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99gbp, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19gbp
 	> - ==TOTAL PRICE 59.13gbp==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
-	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.amiami.com/eng/detail/?gcode=FIGURE-141484) ==40.82gbp==
+	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/224902-mafex-no-303-venom-2099-medicom-toy-.html) ==73.63gbp==
 	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49gbp==
 	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==41gbp== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 767.64gbp spent
+	# ^ 723.81gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -223,7 +221,7 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99gbp
 	# ^ 213.59gbp spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 638.69/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 521.92/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 204.19GBP
