@@ -161,7 +161,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,817.77GBP
+## Term #2<br>TOTAL 1,829.06GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -169,6 +169,7 @@ kanban-plugin: board
 - [ ] [BOSE Noise cancelling wired earbuds](https://amzn.eu/d/06h6uY44) 99.95gbp
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95gbp
 - [ ] [7 inch IPS screen](https://amzn.eu/d/04PUbpN8) 40.79gbp
+- [ ] [400x800x3mm mousepad (black-11)](https://www.aliexpress.com/item/1005007876823800.html?) 11.29gbp
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99gbp
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
 - [ ] [Cefrank Shelf Lights 4pcs](https://amzn.eu/d/0h8DDXi7) 29.99gbp
@@ -221,7 +222,7 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99gbp
 	# ^ 213.59gbp spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 598.56/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 582.27/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 204.19GBP
