@@ -161,7 +161,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,801.48GBP
+## Term #2<br>TOTAL 1,817.77GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -194,14 +194,14 @@ kanban-plugin: board
 	See [this post](https://www.instagram.com/p/DUR030EEX_d/), [this post](https://www.youtube.com/watch?v=jcY71H7CkRY) and [[shf atsv scarlet spider mockup.png]] for reference.
 	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
 	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man (Purple)](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other head)
-	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53gbp, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44gbp, [Pot](https://amzn.eu/d/09KolpUV) 11.98gbp, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99gbp, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19gbp
-	> - ==TOTAL PRICE 59.13gbp==
+	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53gbp, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44gbp, [Pot](https://amzn.eu/d/09KolpUV) 11.98gbp, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99gbp, [Acrylic Markers 48pcs](https://www.aliexpress.com/item/1005008378784949.html?) 16.29gbp, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19gbp
+	> - ==TOTAL PRICE 75.42gbp==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/224902-mafex-no-303-venom-2099-medicom-toy-.html) ==73.63gbp==
 	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49gbp==
 	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 075](https://fahrulstore35.bigcartel.com/product/v91) ==41gbp== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 723.81gbp spent
+	# ^ 740.10gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
