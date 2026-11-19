@@ -10,8 +10,6 @@ kanban-plugin: board
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 20.99gbp/month
 	^ 83.96gbp per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99gbp
-- [ ] [Cefrank Shelf Lights 4pcs](https://amzn.eu/d/0h8DDXi7) 29.99gbp
-- [ ] [Command Brand Hanging Strips](https://amzn.eu/d/06eMmLpg) 3.50gbp
 - [ ] >[!Clothes]-
 	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100gbp~ (139$)
 	> - [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42gbp
@@ -19,9 +17,8 @@ kanban-plugin: board
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28gbp
 - [ ] >[!Figures I would like to get]-
 	> - [MAFEX 118 Carnage](https://www.nin-nin-game.com/en/mafex/217682-mafex-no118-spider-man-carnage-comics-ver-3rd-reissue-medicom-toy-.html) ==50.43gbp==
-	> - [SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m38686423966) ==54.49gbp==
-	> - [MESS TOYS Unbreakable B](https://www.aliexpress.com/item/1005009961707946.html?) ==35.49gbp==
 	> - [BloodFang Sirius Wraith (Omega Shenron)](https://www.aliexpress.com/item/1005012803185953.html?) ==63.60gbp==
+	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==25.99gbp==
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4gbp~
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49gbp
@@ -168,7 +165,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,770.24GBP
+## Term #2<br>TOTAL 1,644.82GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519gbp
@@ -178,14 +175,15 @@ kanban-plugin: board
 - [ ] [7 inch IPS screen](https://amzn.eu/d/04PUbpN8) 40.79gbp
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99gbp
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99gbp
+- [ ] [Cefrank Shelf Lights 4pcs](https://amzn.eu/d/0h8DDXi7) 29.99gbp
+- [ ] [Command Brand Hanging Strips](https://amzn.eu/d/06eMmLpg) 3.50gbp
+- [ ] [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99gbp
 - [ ] >[!general purchases]-
 	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99gbp
 	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99gbp
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/hollister-feel-good-faux-fur-trim-zip-up-hoodie-63616480-1005?faceout=model&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=1) 59.95gbp
 	# ^ 97.93gbp spent
 - [ ] >[!Figure purchases]-
-	> - [ZT TOYS 02B Broly](https://www.aliexpress.com/item/1005012229768035.html?) ==101.99gbp==
-	> - [5mm gold rings for ZT Broly's earrings](https://amzn.eu/d/0gjWCkC1) ==2.75gbp==
 	> - [SH FIGUARTS DRAGON BALL GT Pan](https://www.amiami.com/eng/detail/?gcode=FIGURE-179952-R) ==36.06gbp==
 	> - [HM EoZ Goku](https://www.aliexpress.com/item/1005008819398218.html?) ==40.59gbp==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99gbp==
@@ -198,13 +196,17 @@ kanban-plugin: board
 	> - [Pry tools for the toe-joint mod](https://amzn.eu/d/08uADBcQ) 4.29gbp, [Drill bits for making toe joints](https://amzn.eu/d/0fOX2P25) 4.29gbp, [HD MA-SBJ002 Joint set](https://www.aliexpress.com/item/1005006807926035.html?) 4.59gbp, [7-in-1 Model Scriber for cutting outline of toe-joint](https://amzn.eu/d/02UNl2dw) 7.99gbp, [MARVEL LEGENDS Super Skrull fodder](https://www.ebay.co.uk/itm/168860997319) 16.27gbp
 	> - ==TOTAL 37.43gbp==
 	^ I'm gonna test out doing a ball-joint waist mod, like [this](https://www.youtube.com/watch?v=zXLxT0x3jQg) on this fodder body before doing it on the main Super Skrull figure, alongside trying out this [[toe joint mod.mp4]] ([instagram link](https://www.instagram.com/p/DCdUHFaOEj9/)) on the fodder body before doing it on the main Super Skrull figure. I already have the metal rods for it.
-	> - [AC FACTORY Symbiote Spider-Man](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
-	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
-	> - [CT TOYS Agent Venom for tendrils](https://www.aliexpress.com/item/1005009736005670.html?) ==43.39gbp==
+	> - ==9.39gbp== to ship my SHF ATSV Scarlet Spider
+	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58gbp==
+	^ I will remove the plastic on the sides and most of the torso so I can use the MESS TOYS hoodie on the SHF ATSV Scarlet Spider, alongside carving out plastic on the abdomen, neck, waist and the inside of the waist for articulation.
+	The hands' sockets also need dremelling to fit better on the wristpegs instead of fitting tightly and unsafely.
+	See [this post](https://www.instagram.com/p/DUR030EEX_d/) and [[shf atsv scarlet spider mockup.png]] for reference.
+	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99gbp==
+	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man (Purple)](https://fahrulstore35.bigcartel.com/product/v94) ==11gbp== (converted from 15USD; shipped with other heads)
+	> - [XT Factory Accessory Set (Purple) for tendrils](https://www.aliexpress.com/item/1005013587352925.html?) ==16.29gbp==
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.amiami.com/eng/detail/?gcode=FIGURE-141484) ==40.82gbp==
-	> - [MAFEX 143 Spider-Man (Ben Reilly)](https://www.nin-nin-game.com/en/mafex/196338-mafex-no143-spider-man-ben-reilly-comics-ver-2nd-reissue-medicom-toy-.html) ==42.17gbp==
-	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==53gbp== (converted from 70USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 858.75gbp spent
+	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==41gbp== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
+	# ^ 711.71gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80gbp, goes well with an amazon basics tripod for angling lighting easily
@@ -212,14 +214,13 @@ kanban-plugin: board
 	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02gbp
 	> - [Tamashii Display Stands 16pcs](https://www.aliexpress.com/item/1005007367851910.html?) 12.29gbp
 	> - [translucent wired display stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.55gbp
-	> - [MEZCO ONE:12 COLLECTIVE Wolverine Effect Parts](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m62393453699) 36.86gbp
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86gbp
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11gbp
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68gbp
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60gbp
-	# ^ 203.56gbp spent
+	# ^ 166.70gbp spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 504.14/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 629.56/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 276.14GBP
