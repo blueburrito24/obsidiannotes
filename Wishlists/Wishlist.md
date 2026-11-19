@@ -222,7 +222,7 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99gbp
 	# ^ 213.59gbp spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 582.27/3,000gbp including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 570.98/3,000gbp including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 204.19GBP
