@@ -200,7 +200,7 @@ kanban-plugin: board
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/224902-mafex-no-303-venom-2099-medicom-toy-.html) ==73.63gbp==
 	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49gbp==
 	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
-	> - [fahrulstore35 V91 Headsculpt for MAFEX 185/143](https://fahrulstore35.bigcartel.com/product/v91) ==41gbp== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
+	> - [fahrulstore35 V91 Headsculpt for MAFEX 075](https://fahrulstore35.bigcartel.com/product/v91) ==41gbp== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
 	# ^ 723.81gbp spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30gbp
