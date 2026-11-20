@@ -113,6 +113,7 @@ kanban-plugin: board
 	pour in your brownie mix and throw on some dark chocolate chips on top, bake for 40 minutes until fudgy in the centre, let it cool and enjoy
 	^ this is a ton of brownies, enough to have over a week or two
 - [ ] grated, seasoned, fried potato would be better to eat than rice ^^
+- [ ] [Desert](https://www.youtube.com/watch?v=zOREN7bwZHU)
 
 
 ## Term #1<br>TOTAL 2,840.32GBP
@@ -161,7 +162,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,803.26GBP
+## Term #2<br>TOTAL 1,839.71GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519GBP
@@ -201,11 +202,12 @@ kanban-plugin: board
 	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53GBP, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44GBP, [Pot](https://amzn.eu/d/09KolpUV) 11.98GBP, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99GBP, [Acrylic Markers 48pcs](https://www.aliexpress.com/item/1005008378784949.html?) 16.29GBP, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19GBP
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
+	> - [PC TOYS 01 Venom (blue)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45gbp==
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/224902-mafex-no-303-venom-2099-medicom-toy-.html) ==73.63GBP==
 	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49GBP==
 	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 075](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 688.05GBP spent
+	# ^ 723.50GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
@@ -225,7 +227,7 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 213.59GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 596.78/3,000GBP including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 556.92/3,000GBP including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 256.24GBP
