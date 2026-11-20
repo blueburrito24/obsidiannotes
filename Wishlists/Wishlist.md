@@ -173,7 +173,7 @@ kanban-plugin: board
 - [ ] [ZUOYA GMK87L White Keyboard Kit](https://www.aliexpress.com/item/1005010616097650.html?) 38GBP
 	[Arctic Fox Switches 90pcs](https://www.aliexpress.com/item/1005010149555052.html?) 19.39GBP
 	TOTAL 57.39GBP
-	^ use with my existing keycap set
+	^ use with my existing keycap set; should list Akko 5087HE V3 on eBay
 - [ ] [400x800x3mm mousepad (black-11)](https://www.aliexpress.com/item/1005007876823800.html?) 11.29GBP
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99GBP
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
