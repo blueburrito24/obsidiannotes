@@ -25,6 +25,8 @@ kanban-plugin: board
 	> - [TAMASHII EFFECT Impact Beige Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m40809292631) 14.81GBP
 	> - [BSM Rock Display 05A](https://www.aliexpress.com/item/1005012806817427.html?) 27.27GBP
 	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71GBP
+	> - [fahrulstore35 V91 Headsculpt](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
+	^ for upcoming MESS TOYS Spider-Man
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://www.ebay.co.uk/itm/960197214086?) 1,349GBP
 - [ ] >[!Stickers for laptop]-
 	> - [Canna Lily Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481904065/) 3.50GBP
@@ -34,6 +36,14 @@ kanban-plugin: board
 	> - [Black Rabbit Vinyl Sticker](https://www.etsy.com/uk/listing/4541967936/) 3GBP
 	> - [Dragon Ball Stickers](https://www.etsy.com/uk/listing/4608859208/) 9.41GBP
 	> - [Sonic the Hedgehog Mega Drive Holographic Sticker](https://www.etsy.com/uk/listing/4512248757/) 6.99GBP
+- [ ] >[!Games]-
+	> - [Just Cause 3 XXL](https://www.loaded.com/just-cause-3-xxl-pc) 4.69GBP
+	> - [CONTROL Ultimate Edition](https://www.loaded.com/control-ultimate-edition-pc-steam) 5.99GBP
+	> - [FINAL FANTASY VII REMAKE INTERGRADE](https://www.loaded.com/final-fantasy-vii-remake-intergrade-pc-steam-eu) 9.79GBP
+	> - [007 First Light](https://www.loaded.com/007-first-light-pc-steam) 28.99GBP
+	> - [Far Cry 3](https://store.steampowered.com/app/220240/Far_Cry_3/) 16.99GBP
+	> - [Grand Theft Auto IV: The Complete Edition](https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/) 16.99GBP
+	> - [Cyberpunk 2077](https://store.steampowered.com/app/1091500/Cyberpunk_2077/) 49.99GBP (wait for sale)
 
 
 ## Recipes
@@ -162,7 +172,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,829.01GBP
+## Term #2<br>TOTAL 1,722.89GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -199,16 +209,12 @@ kanban-plugin: board
 	The hands' sockets also need dremelling to fit better on the wristpegs instead of fitting tightly and unsafely.
 	See [this post](https://www.instagram.com/p/DUR030EEX_d/), [this post](https://www.youtube.com/watch?v=jcY71H7CkRY) and [[shf atsv scarlet spider mockup.png]] for reference.
 	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99GBP==
-	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man (Purple)](https://fahrulstore35.bigcartel.com/product/v94) ==11GBP== (converted from 15USD; shipped with other head)
+	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man (Purple)](https://fahrulstore35.bigcartel.com/product/v94) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
 	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53GBP, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44GBP, [Pot](https://amzn.eu/d/09KolpUV) 11.98GBP, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99GBP, [Acrylic Markers 48pcs](https://www.aliexpress.com/item/1005008378784949.html?) 16.29GBP, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19GBP
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45gbp==
-	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/224902-mafex-no-303-venom-2099-medicom-toy-.html) ==73.63GBP==
-	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49GBP==
-	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
-	> - [fahrulstore35 V91 Headsculpt for MAFEX 075](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 723.50GBP spent
+	# ^ 617.38GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
@@ -228,8 +234,8 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 207.85GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,170.99/3,000GBP.
-- [ ] I will then need to split 1,170.99GBP across the three months of Term #2; about 390GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,277.11/3,000GBP.
+- [ ] I will then need to split 1,277.11GBP across the three months of Term #2; about 425GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 256.24GBP
