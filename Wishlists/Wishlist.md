@@ -162,15 +162,18 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,839.71GBP
+## Term #2<br>TOTAL 1,780.85GBP
 
 - [ ] I will use 216 on train tickets and save 300.
-- [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519GBP
+- [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 429GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
 - [ ] [BOSE Noise cancelling wired earbuds](https://amzn.eu/d/06h6uY44) 99.95GBP
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95GBP
 - [ ] [7 inch IPS screen](https://amzn.eu/d/04PUbpN8) 40.79GBP
-- [ ] [Akko Starlit Switches](https://www.aliexpress.com/item/1005009264498740.html?) 26.25gbp
+- [ ] [ZUOYA GMK87L White Keyboard Kit](https://www.aliexpress.com/item/1005010616097650.html?) 38GBP
+	[Arctic Fox Switches 90pcs](https://www.aliexpress.com/item/1005010149555052.html?) 19.39GBP
+	TOTAL 57.39GBP
+	^ use with my existing keycap set
 - [ ] [400x800x3mm mousepad (black-11)](https://www.aliexpress.com/item/1005007876823800.html?) 11.29GBP
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99GBP
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
@@ -202,7 +205,7 @@ kanban-plugin: board
 	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53GBP, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44GBP, [Pot](https://amzn.eu/d/09KolpUV) 11.98GBP, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99GBP, [Acrylic Markers 48pcs](https://www.aliexpress.com/item/1005008378784949.html?) 16.29GBP, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19GBP
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
-	> - [PC TOYS 01 Venom (blue)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45gbp==
+	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45gbp==
 	> - [MAFEX 185 Spider-Man (Classic Costume)](https://www.nin-nin-game.com/en/mafex/224902-mafex-no-303-venom-2099-medicom-toy-.html) ==73.63GBP==
 	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49GBP==
 	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
@@ -227,7 +230,7 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 213.59GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 561.23/3,000GBP including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 620.09/3,000GBP including the expenses for buying ingredients biweekly and gym
 
 
 ## Term #3<br>TOTAL 256.24GBP
