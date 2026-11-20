@@ -164,7 +164,6 @@ kanban-plugin: board
 
 ## Term #2<br>TOTAL 1,746.80GBP
 
-- [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95GBP
@@ -229,12 +228,13 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 213.59GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 654.04/3,000GBP including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 1,253.20/3,000GBP.
+- [ ] I will then need to split 1,253.20GBP across the three months of Term #2; about 415GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 256.24GBP
 
-- [ ] During this term I will spend 144 on train tickets and I will save 2,000.
+- [ ] During this term I will save 2,000GBP.
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39GBP==
 	> - [SH FIGUARTS MY HERO ACADEMIA Endeavor](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-endeavor-19cm) ==65GBP==
@@ -248,7 +248,8 @@ kanban-plugin: board
 	> - [TAMASHII EFFECT Impact Magma Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYPyjfNArwFnJm7zqLzWb) 27.17GBP
 	> - [TAMASHII EFFECT Smoke Burst Effect](https://www.nin-nin-game.com/en/shfiguarts/215278-shfiguarts-tamashii-effect-smoke-burst-effect-expansion-set-bandai-spirits-.html) 17.15GBP
 	# ^ 68.45GBP spent
-- [ ] ## This leaves me with 615.80/3,100GBP including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 2,643.76/3,100GBP.
+- [ ] I will then need to split 2,643.76GBP across the three months of Term #3; about 880GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ***
