@@ -161,7 +161,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,829.06GBP
+## Term #2<br>TOTAL 1,767.06GBP
 
 - [ ] I will use 216 on train tickets and save 300.
 - [ ] [Samsung S24 Ultra, Black, 256GB, Good Condition](https://www.backmarket.co.uk/en-gb/p/samsung-gb/054e2038-83e0-4f7d-879d-782343fe3d4c?l=11) 519GBP
@@ -184,8 +184,8 @@ kanban-plugin: board
 	^ releases ==February==, I want to modify the waist for articulation and buy Tony Mei's custom chest and neck joints for ==26.45GBP== (converted from 35.20USD)
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77121725162) ==81.52GBP==
 	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91GBP==
-	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==71.95GBP==
-	^ Pre-order.
+	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==9.95GBP==
+	^ Pre-order/Deposit.
 	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78GBP==
 	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==25.99GBP==
 	> - ==9.39GBP== to ship my SHF ATSV Scarlet Spider
@@ -202,7 +202,7 @@ kanban-plugin: board
 	> - [CT Revoltech 2.0 Spider-Man](https://www.aliexpress.com/item/1005013361555974.html?) ==21.49GBP==
 	^ use hands on MAFEX as seen in [this post](https://www.instagram.com/p/DY_PZwAEua_/)
 	> - [fahrulstore35 V91 Headsculpt for MAFEX 075](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	# ^ 740.10GBP spent
+	# ^ 678.10GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
@@ -222,23 +222,25 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 213.59GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 570.98/3,000GBP including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 632.98/3,000GBP including the expenses for buying ingredients biweekly and gym
 
 
-## Term #3<br>TOTAL 204.19GBP
+## Term #3<br>TOTAL 266.19GBP
 
 - [ ] During this term I will spend 144 on train tickets and I will save 2,000.
 - [ ] >[!Figure purchases]-
 	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39GBP==
 	> - [SH FIGUARTS MY HERO ACADEMIA Endeavour](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-endeavor-19cm) ==74.95GBP==
+	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==62GBP==
+	^ Deposit paid, paying for the rest of the order on release.
 	> - [SH FIGUARTS ONE PIECE Monkey D. Luffy (New World Ver.)](https://www.nin-nin-game.com/en/shfiguarts/261365-shfiguarts-one-piece-monkey-d-luffy-new-world-ver-bandai-spirits-.html) ==21.79GBP==
-	# ^ 135.74GBP spent
+	# ^ 197.74GBP spent
 - [ ] >[!Figure accessories]-
 	> - [TAMASHII EFFECT Burning Flame Red Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m50781104461) 24.13GBP
 	> - [TAMASHII EFFECT Impact Magma Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYPyjfNArwFnJm7zqLzWb) 27.17GBP
 	> - [TAMASHII EFFECT Smoke Burst Effect](https://www.nin-nin-game.com/en/shfiguarts/215278-shfiguarts-tamashii-effect-smoke-burst-effect-expansion-set-bandai-spirits-.html) 17.15GBP
 	# ^ 68.45GBP spent
-- [ ] ## This leaves me with 667.85/3,100GBP including the expenses for buying ingredients biweekly and gym
+- [ ] ## This leaves me with 605.85/3,100GBP including the expenses for buying ingredients biweekly and gym
 
 
 ***
