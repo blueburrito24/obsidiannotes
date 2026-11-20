@@ -162,7 +162,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,834.75GBP
+## Term #2<br>TOTAL 1,829.01GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -214,8 +214,8 @@ kanban-plugin: board
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
 	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99GBP
 	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02GBP
-	> - [Tamashii Display Stands 16pcs](https://www.aliexpress.com/item/1005007367851910.html?) 12.29GBP
-	> - [translucent wired display stand](https://www.aliexpress.com/item/1005010276092517.html?) 2.55GBP
+	> - [Tamashii Display Stands 10pcs](https://www.aliexpress.com/item/1005007367851910.html?) 8.50GBP
+	> - [translucent wired display stand 2pcs](https://www.aliexpress.com/item/1005010276092517.html?) 5.10GBP
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86GBP
 	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11GBP
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68GBP
@@ -226,10 +226,10 @@ kanban-plugin: board
 	> - [Drill bits](https://amzn.eu/d/0fOX2P25) 4.29GBP 
 	> - [7-in-1 Model Scriber](https://amzn.eu/d/02UNl2dw) 7.99GBP
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
-	# ^ 213.59GBP spent
+	# ^ 207.85GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,165.25/3,000GBP.
-- [ ] I will then need to split 1,165.25GBP across the three months of Term #2; about 388GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,170.99/3,000GBP.
+- [ ] I will then need to split 1,170.99GBP across the three months of Term #2; about 390GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 256.24GBP
