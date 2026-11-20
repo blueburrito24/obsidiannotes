@@ -186,7 +186,7 @@ kanban-plugin: board
 	# ^ 97.93GBP spent
 - [ ] >[!Figure purchases]-
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99GBP==
-	^ releases ==February==, I want to modify the waist for articulation and buy Tony Mei's custom chest and neck joints for ==26.45GBP== (converted from 35.20USD)
+	^ releases ==February==, I want to modify the body for articulation like [this](https://www.youtube.com/watch?v=qngwwcIPxAo) and buy Tony Mei's custom chest and neck joints for ==26.45GBP== (converted from 35.20USD)
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77121725162) ==81.52GBP==
 	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91GBP==
 	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==9.95GBP==
