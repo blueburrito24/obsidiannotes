@@ -172,7 +172,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,722.89GBP
+## Term #2<br>TOTAL 1,755.53GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -193,6 +193,7 @@ kanban-plugin: board
 	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/hollister-feel-good-faux-fur-trim-zip-up-hoodie-63616480-1005?faceout=model&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=1) 59.95GBP
 	# ^ 97.93GBP spent
 - [ ] >[!Figure purchases]-
+	> - [affmcustoms custom HM Gohan ankle covers 2pcs](https://www.ebay.co.uk/itm/267843585582?var=567794686947) ==32.64GBP== including shipping
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99GBP==
 	^ releases ==February==, I want to modify the body for articulation like [this](https://www.youtube.com/watch?v=qngwwcIPxAo) and buy Tony Mei's custom chest and neck joints for ==26.45GBP== (converted from 35.20USD)
 	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77121725162) ==81.52GBP==
@@ -214,7 +215,7 @@ kanban-plugin: board
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45gbp==
-	# ^ 617.38GBP spent
+	# ^ 650.34GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
@@ -234,8 +235,8 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 207.85GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,277.11/3,000GBP.
-- [ ] I will then need to split 1,277.11GBP across the three months of Term #2; about 425GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,244.47/3,000GBP.
+- [ ] I will then need to split 1,244.47GBP across the three months of Term #2; about 414GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 256.24GBP
