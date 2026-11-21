@@ -172,7 +172,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,797.90GBP
+## Term #2<br>TOTAL 1,720.38GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -187,11 +187,7 @@ kanban-plugin: board
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
 - [ ] [Cefrank Shelf Lights 4pcs](https://amzn.eu/d/0h8DDXi7) 29.99GBP
 - [ ] [Command Brand Hanging Strips](https://amzn.eu/d/06eMmLpg) 3.50GBP
-- [ ] >[!general purchases]-
-	> - [voova laptop bag](https://amzn.eu/d/03iEkKeX) 16.99GBP
-	> - [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
-	> - [faux fur trim zip-up hoodie, xl](https://www.hollisterco.com/shop/uk/p/hollister-feel-good-faux-fur-trim-zip-up-hoodie-63616480-1005?faceout=model&seq=01&pagefm=navigation-grid&prodvm=navigation-grid&gridProductPosition=1) 59.95GBP
-	# ^ 97.93GBP spent
+- [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
 - [ ] >[!Figure purchases]-
 	> - [affmcustoms custom HM Gohan ankle covers 2pcs](https://www.ebay.co.uk/itm/267843585582?var=567794686947) ==32.64GBP== including shipping
 	> - [NS X Dimensionia "Corrupted Blue Mechanism Doll" Majin Vegeta](https://www.aliexpress.com/item/1005010423546108.html?) ==52.07GBP==
@@ -236,7 +232,7 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 207.85GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,202.10/3,000GBP.
+- [ ] ## This leaves me with 1,279.62/3,000GBP.
 - [ ] I will then need to split 1,202.10GBP across the three months of Term #2; about 400GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
