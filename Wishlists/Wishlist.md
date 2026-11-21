@@ -233,7 +233,7 @@ kanban-plugin: board
 	# ^ 207.85GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
 - [ ] ## This leaves me with 1,279.62/3,000GBP.
-- [ ] I will then need to split 1,202.10GBP across the three months of Term #2; about 400GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] I will then need to split 1,202.10GBP across the three months of Term #2; about 425GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 256.24GBP
