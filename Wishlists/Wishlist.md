@@ -172,7 +172,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,755.53GBP
+## Term #2<br>TOTAL 1,745.83GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -203,7 +203,7 @@ kanban-plugin: board
 	> - [SH FIGUARTS MY HERO ACADEMIA Endeavor](https://hobbyfigures.co.uk/products/my-hero-academia-s-h-figuarts-action-figure-endeavor-19cm) ==9.95GBP==
 	^ Pre-order/Deposit.
 	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78GBP==
-	> - [JADA TOYS Invincible](https://forbiddenplanet.com/505419-invincible-112-scale-action-figure-invincible/) ==25.99GBP==
+	> - [MESS TOYS Unbreakable B](https://www.aliexpress.com/item/1005009961707946.html) ==35.69GBP==
 	> - ==9.39GBP== to ship my SHF ATSV Scarlet Spider
 	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58GBP==
 	^ I will remove the plastic on the sides and most of the torso so I can use the MESS TOYS hoodie on the SHF ATSV Scarlet Spider, alongside carving out plastic on the abdomen, neck, waist and the inside of the waist for articulation.
@@ -215,7 +215,7 @@ kanban-plugin: board
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45gbp==
-	# ^ 650.34GBP spent
+	# ^ 640.64GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
@@ -235,8 +235,8 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 207.85GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,244.47/3,000GBP.
-- [ ] I will then need to split 1,244.47GBP across the three months of Term #2; about 414GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,254.17/3,000GBP.
+- [ ] I will then need to split 1,254.17GBP across the three months of Term #2; about 418GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 256.24GBP
