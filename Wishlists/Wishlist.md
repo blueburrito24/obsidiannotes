@@ -189,7 +189,7 @@ kanban-plugin: board
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
 - [ ] >[!Figure purchases]-
 	> - [affmcustoms custom HM Gohan ankle covers 2pcs](https://www.ebay.co.uk/itm/267843585582?var=567794686947) ==32.64GBP== including shipping
-	> - [NS X Dimensionia "Corrupted Blue Mechanism Doll" Majin Vegeta](https://www.aliexpress.com/item/1005010423546108.html?) ==52.07GBP==
+	> - [NS X Dimensionia NS006 "Corrupted Blue Mechanism Doll" Majin Vegeta](https://www.aliexpress.com/item/1005010423546108.html?) ==52.07GBP==
 	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Sage Mode Saviour of Konoha)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m36239681470) 95.68GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27377838975) 35.72GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m72938652397) 35.16GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m67485276649) 27.73GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JZGtjAEyM3XvxEpo9GoA4) 25.97GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Jinchuuriki Entrusted with Hope)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXK8FvdANZz7rmJVhBMw) 15.45GBP
 	^ ==TOTAL PRICE 235.71GBP==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99GBP==
