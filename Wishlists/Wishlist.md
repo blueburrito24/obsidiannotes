@@ -30,6 +30,7 @@ kanban-plugin: board
 	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71GBP
 	> - [fahrulstore35 V91 Headsculpt](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
 	^ for upcoming MESS TOYS Spider-Man
+	> - [2pcs three-tiered acrylic display stand for photography](https://amzn.eu/d/00X7OkfW) 5.99GBP
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
 - [ ] >[!Stickers for laptop]-
 	> - [Canna Lily Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481904065/) 3.50GBP
