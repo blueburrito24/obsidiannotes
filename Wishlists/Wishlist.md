@@ -15,6 +15,9 @@ kanban-plugin: board
 	> - [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42GBP
 	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9GBP
 	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28GBP
+- [ ] >[!Figure wishlist]-
+	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Sage Mode Saviour of Konoha)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m36239681470) 95.68GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27377838975) 35.72GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m72938652397) 35.16GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m67485276649) 27.73GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JZGtjAEyM3XvxEpo9GoA4) 25.97GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Jinchuuriki Entrusted with Hope)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXK8FvdANZz7rmJVhBMw) 15.45GBP
+	^ ==TOTAL PRICE 235.71GBP==
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4GBP~
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49GBP
@@ -27,7 +30,7 @@ kanban-plugin: board
 	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71GBP
 	> - [fahrulstore35 V91 Headsculpt](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
 	^ for upcoming MESS TOYS Spider-Man
-- [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://www.ebay.co.uk/itm/960197214086?) 1,349GBP
+- [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
 - [ ] >[!Stickers for laptop]-
 	> - [Canna Lily Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481904065/) 3.50GBP
 	> - [Quilt Squares Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481926058/) 2.75GBP
@@ -209,7 +212,7 @@ kanban-plugin: board
 	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53GBP, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44GBP, [Pot](https://amzn.eu/d/09KolpUV) 11.98GBP, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99GBP, [Acrylic Markers 48pcs](https://www.aliexpress.com/item/1005008378784949.html?) 16.29GBP, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19GBP
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
-	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45gbp==
+	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45GBP==
 	# ^ 682.76GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
