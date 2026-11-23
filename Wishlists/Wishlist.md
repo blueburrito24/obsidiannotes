@@ -31,6 +31,7 @@ kanban-plugin: board
 	> - [fahrulstore35 V91 Headsculpt](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
 	^ for upcoming MESS TOYS Spider-Man
 	> - [2pcs three-tiered acrylic display stand for photography](https://amzn.eu/d/00X7OkfW) 5.99GBP
+	> - [SHF Sage Mode Naruto cloth cloak and scroll](https://www.aliexpress.com/item/1005006911455241.html?) 26.99GBP
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
 - [ ] >[!Stickers for laptop]-
 	> - [Canna Lily Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481904065/) 3.50GBP
@@ -176,7 +177,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,710.43GBP
+## Term #2<br>TOTAL 1,617.34GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -201,7 +202,6 @@ kanban-plugin: board
 	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91GBP==
 	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==9.95GBP==
 	^ Pre-order/Deposit.
-	> - [BANDAI DYNACTION Shin Ultraman](https://www.amiami.com/eng/detail/?gcode=FIGURE-126591-R) ==40.78GBP==
 	> - [MESS TOYS Unbreakable B](https://www.aliexpress.com/item/1005009961707946.html) ==35.69GBP==
 	> - ==9.39GBP== to ship my SHF ATSV Scarlet Spider
 	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58GBP==
@@ -209,17 +209,15 @@ kanban-plugin: board
 	The hands' sockets also need dremelling to fit better on the wristpegs instead of fitting tightly and unsafely.
 	See [this post](https://www.instagram.com/p/DUR030EEX_d/), [this post](https://www.youtube.com/watch?v=jcY71H7CkRY) and [[shf atsv scarlet spider mockup.png]] for reference.
 	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99GBP==
-	> - [fahrulstore35 V94 Headsculpt for Revoltech's Symbiote Spider-Man (Purple)](https://fahrulstore35.bigcartel.com/product/v94) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
 	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53GBP, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44GBP, [Pot](https://amzn.eu/d/09KolpUV) 11.98GBP, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99GBP, [Acrylic Markers 48pcs](https://www.aliexpress.com/item/1005008378784949.html?) 16.29GBP, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19GBP
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45GBP==
-	# ^ 682.76GBP spent
+	# ^ 600.98GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
 	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99GBP
-	> - [Acrylic sheets 2pcs for photography](https://www.amazon.co.uk/Pack-Clear-Acrylic-Sheets-Transparent/dp/B0G57N6QVD?th=1) 7.02GBP
 	> - [Tamashii Display Stands 10pcs](https://www.aliexpress.com/item/1005007367851910.html?) 8.50GBP
 	> - [translucent wired display stand 2pcs](https://www.aliexpress.com/item/1005010276092517.html?) 5.10GBP
 	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86GBP
@@ -228,14 +226,13 @@ kanban-plugin: board
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60GBP
 	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) 5.33GBP
 	^ for making custom webs like [this](https://www.youtube.com/shorts/SpB-Fvy_YeI)
-	> - [Pry tools](https://amzn.eu/d/08uADBcQ) 4.29GBP 
-	> - [Drill bits](https://amzn.eu/d/0fOX2P25) 4.29GBP 
+	> - [Pry tools](https://amzn.eu/d/08uADBcQ) 4.29GBP
 	> - [7-in-1 Model Scriber](https://amzn.eu/d/02UNl2dw) 7.99GBP
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
-	# ^ 207.85GBP spent
+	# ^ 196.54GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,289.57/3,000GBP.
-- [ ] I will then need to split 1,289.57GBP across the three months of Term #2; about 429GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,382.66/3,000GBP.
+- [ ] I will then need to split 1,382.66GBP across the three months of Term #2; about 460GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 122.79GBP
