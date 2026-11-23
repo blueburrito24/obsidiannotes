@@ -174,7 +174,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,916.65GBP
+## Term #2<br>TOTAL 1,922.44GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -223,6 +223,8 @@ kanban-plugin: board
 	> - [SHF Effect bundle; SSJ Goku Effect Parts Set, Effect Energy Aura Yellow, Effect Smoke White, Effect Impact Beige](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15133184732) 49.99GBP
 	> - [SHF SSJ Goku Effects Part Set 2nd Copy](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=istock2%253A10002716) 19.80GBP
 	> - [tamashii effect series shock impact yellow](https://zenmarket.jp/product.aspx?shop=amazon&itemCode=B0D5LJC8BY) 9.68GBP
+	> - [Vallejo Game Colour White Ink](https://amzn.eu/d/0aRY24YA) 5.79GBP
+	^ I want to repaint the Shock Impact Yellow set into white
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68GBP
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60GBP
 	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) 5.33GBP
@@ -230,10 +232,10 @@ kanban-plugin: board
 	> - [Pry tools](https://amzn.eu/d/08uADBcQ) 4.29GBP
 	> - [7-in-1 Model Scriber](https://amzn.eu/d/02UNl2dw) 7.99GBP
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
-	# ^ 226.04GBP spent
+	# ^ 231.83GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,083.35/3,000GBP.
-- [ ] I will then need to split 1,083.35GBP across the three months of Term #2; about 361GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,077.56/3,000GBP.
+- [ ] I will then need to split 1,077.56GBP across the three months of Term #2; about 359GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 122.79GBP
