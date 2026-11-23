@@ -174,7 +174,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,922.44GBP
+## Term #2<br>TOTAL 1,886.89GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -193,8 +193,10 @@ kanban-plugin: board
 - [ ] >[!Figure purchases]-
 	> - [affmcustoms custom HM Gohan ankle covers 2pcs](https://www.ebay.co.uk/itm/267843585582?var=567794686947) ==32.64GBP== including shipping
 	> - [NS X Dimensionia NS006 "Corrupted Blue Mechanism Doll" Majin Vegeta](https://www.aliexpress.com/item/1005010423546108.html?) ==52.07GBP==
-	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Sage Mode Saviour of Konoha)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m36239681470) 95.68GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27377838975) 35.72GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m72938652397) 35.16GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m67485276649) 27.73GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JZGtjAEyM3XvxEpo9GoA4) 25.97GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Jinchuuriki Entrusted with Hope)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXK8FvdANZz7rmJVhBMw) 15.45GBP
-	^ ==TOTAL PRICE 235.71GBP==
+	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Sage Mode Saviour of Konoha)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m36239681470) 95.68GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27377838975) 35.72GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m72938652397) 35.16GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Power to Unite) 3rd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWm3mybRkr7Ep4RFbyeik) 34.45GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m67485276649) 27.73GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JZGtjAEyM3XvxEpo9GoA4) 25.97GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Jinchuuriki Entrusted with Hope)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXK8FvdANZz7rmJVhBMw) 15.45GBP
+	^ ==TOTAL PRICE 270.16GBP==
+	I will sell some parts to Jonas on the DBZ server for ==70GBP (90USD)==.
+	[[stuff to sell to Jonas.png]]
 	> - [SH FIGUARTS NARUTO SHIPPUDEN Sakura Haruno (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=3mSCiaFnidf4sSJ877wmwn) ==34.10GBP==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99GBP==
 	^ releases ==February==, I want to modify the body for articulation like [this](https://www.youtube.com/watch?v=qngwwcIPxAo) and buy Tony Mei's custom chest and neck joints for ==26.45GBP== (converted from 35.20USD)
@@ -213,7 +215,7 @@ kanban-plugin: board
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45GBP==
-	# ^ 870.79GBP spent
+	# ^ 835.24GBP spent
 - [ ] >[!Figure accessories]-
 	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
 	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
@@ -234,8 +236,8 @@ kanban-plugin: board
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
 	# ^ 231.83GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,077.56/3,000GBP.
-- [ ] I will then need to split 1,077.56GBP across the three months of Term #2; about 359GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,113.11/3,000GBP.
+- [ ] I will then need to split 1,113.11GBP across the three months of Term #2; about 371GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 122.79GBP
