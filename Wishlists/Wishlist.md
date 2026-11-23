@@ -171,7 +171,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,853.05GBP
+## Term #2<br>TOTAL 1,882.55GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -216,8 +216,9 @@ kanban-plugin: board
 	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99GBP
 	> - [Tamashii Display Stands 10pcs](https://www.aliexpress.com/item/1005007367851910.html?) 8.50GBP
 	> - [translucent wired display stand 2pcs](https://www.aliexpress.com/item/1005010276092517.html?) 5.10GBP
-	> - [tamashii effect series smoke effect white ver 2pcs](https://www.nin-nin-game.com/en/shfiguarts/210282-shfiguarts-tamashii-effect-smoke-effect-white-ver-expansion-set-bandai-spirits-.html) 27.86GBP
-	> - [tamashii effect series shock impact yellow](https://www.nin-nin-game.com/en/bandai-spirits/129527-tamashii-effect-series-shock-impact-yellow-ver-for-sh-figuarts-bandai-spirits-.html) 22.11GBP
+	> - [SHF Effect bundle; SSJ Goku Effect Parts Set, Effect Energy Aura Yellow, Effect Smoke White, Effect Impact Beige](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15133184732) 49.99GBP
+	> - [SHF SSJ Goku Effects Part Set 2nd Copy](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=istock2%253A10002716) 19.80GBP
+	> - [tamashii effect series shock impact yellow](https://zenmarket.jp/product.aspx?shop=amazon&itemCode=B0D5LJC8BY) 9.68GBP
 	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68GBP
 	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60GBP
 	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) 5.33GBP
@@ -225,10 +226,10 @@ kanban-plugin: board
 	> - [Pry tools](https://amzn.eu/d/08uADBcQ) 4.29GBP
 	> - [7-in-1 Model Scriber](https://amzn.eu/d/02UNl2dw) 7.99GBP
 	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
-	# ^ 196.54GBP spent
+	# ^ 226.04GBP spent
 - [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,146.95/3,000GBP.
-- [ ] I will then need to split 1,146.95GBP across the three months of Term #2; about 382GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 1,117.45/3,000GBP.
+- [ ] I will then need to split 1,117.45GBP across the three months of Term #2; about 372GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL 122.79GBP
