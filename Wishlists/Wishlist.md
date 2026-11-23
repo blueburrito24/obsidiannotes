@@ -10,11 +10,6 @@ kanban-plugin: board
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 20.99GBP/month
 	^ 83.96GBP per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
-- [ ] >[!Clothes]-
-	> - [air jordan 1 high og "next chapter" spider 2.0, size 10](https://trendysneakers.shop/prodts.php?listnp=Air-Jordan-1-High-OG-Next-Chapter-SPIDEr-2-0&id=8364) 100GBP~ (139$)
-	> - [stripe double-layer long-sleeve tee](https://www.urbanoutfitters.com/en-gb/shop/iets-frans-stripe-double-layer-long-sleeve-t-shirt?color=001&type=REGULAR&size=XL&quantity=1) 42GBP
-	> - [primark mid-rise straight-leg jeans, blue](https://www.primark.com/en-gb/p/mid-rise-straight-leg-jeans-blue-991194280505) 9GBP
-	> - [UO paisley scarf](https://www.urbanoutfitters.com/en-gb/shop/uo-paisley-scarf?color=000&type=REGULAR&new_tab=1&a15_rid=7642fb556c87%2FGXiM64tbh0-830225) 28GBP
 - [ ] >[!Figure wishlist]-
 	> -
 - [ ] >[!Figure accessories]-
@@ -27,7 +22,7 @@ kanban-plugin: board
 	> - [TAMASHII EFFECT Impact Beige Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m40809292631) 14.81GBP
 	> - [BSM Rock Display 05A](https://www.aliexpress.com/item/1005012806817427.html?) 27.27GBP
 	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71GBP
-	> - [fahrulstore35 V91 Headsculpt](https://fahrulstore35.bigcartel.com/product/v91) ==41GBP== (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
+	> - [fahrulstore35 V91 Headsculpt](https://fahrulstore35.bigcartel.com/product/v91) 41GBP (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
 	^ for upcoming MESS TOYS Spider-Man
 	> - [2pcs three-tiered acrylic display stand for photography](https://amzn.eu/d/00X7OkfW) 5.99GBP
 	> - [SHF Sage Mode Naruto cloth cloak and scroll](https://www.aliexpress.com/item/1005006911455241.html?) 26.99GBP
