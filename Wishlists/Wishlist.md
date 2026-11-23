@@ -11,7 +11,10 @@ kanban-plugin: board
 	^ 83.96GBP per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
 - [ ] >[!Figure wishlist]-
-	> -
+	> - [SH FIGUARTS ONE PIECE X NBA Monkey D. Luffy (Chicago Bulls Ver.)](https://tamashiiweb.com/item/15800/?wovn=en) ==47GBP~== (converted from 9900JPY)
+	^ Releases in April 2027
+	> - [SH FIGUARTS ONE PIECE X NBA Monkey D. Luffy (Oklahoma City Thunder Ver.)](https://tamashiiweb.com/item/15801/?wovn=en) ==47GBP~== (converted from 9900JPY)
+	^ Releases in April 2027
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4GBP~
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49GBP
