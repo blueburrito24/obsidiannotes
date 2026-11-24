@@ -147,7 +147,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 940.92GBP
+## Term #2<br>TOTAL 932.03GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 46.99GBP
@@ -158,12 +158,11 @@ kanban-plugin: board
 	[MDA, double-shot layer backlit keycaps, pink](https://www.aliexpress.com/item/1005004067490701.html?) 17.19GBP
 	[Arctic Fox Switches 90pcs](https://www.aliexpress.com/item/1005010149555052.html?) 19.39GBP
 	TOTAL 145.34GBP
-- [ ] [400x800x2mm mousepad (black-11)](https://www.aliexpress.com/item/1005007876823800.html?) 8.89GBP
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99GBP
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
-- [ ] ## This leaves me with 2,059.08/3,000GBP.
-- [ ] I will then need to split 2,059.08GBP across the three months of Term #2; about 686GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 2,067.97/3,000GBP.
+- [ ] I will then need to split 2,067.97GBP across the three months of Term #2; about 689GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL ---GBP
