@@ -7,14 +7,9 @@ kanban-plugin: board
 ## General Wishlist
 
 - [ ] 216 for 3 train tickets per week, four weeks a term
-- [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 20.99GBP/month
-	^ 83.96GBP per term
+- [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 26.99GBP/month
+	^ 101.96GBP per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
-- [ ] >[!Figure wishlist]-
-	> - [SH FIGUARTS ONE PIECE X NBA Monkey D. Luffy (Chicago Bulls Ver.)](https://tamashiiweb.com/item/15800/?wovn=en) ==47GBP~== (converted from 9900JPY)
-	^ Releases in April 2027
-	> - [SH FIGUARTS ONE PIECE X NBA Monkey D. Luffy (Oklahoma City Thunder Ver.)](https://tamashiiweb.com/item/15801/?wovn=en) ==47GBP~== (converted from 9900JPY)
-	^ Releases in April 2027
 - [ ] >[!Figure accessories]-
 	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4GBP~
 	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49GBP
@@ -174,7 +169,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,886.89GBP
+## Term #2<br>TOTAL 1,152.21GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -187,24 +182,10 @@ kanban-plugin: board
 - [ ] [400x800x3mm mousepad (black-11)](https://www.aliexpress.com/item/1005007876823800.html?) 11.29GBP
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99GBP
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
-- [ ] [Cefrank Shelf Lights 4pcs](https://amzn.eu/d/0h8DDXi7) 29.99GBP
-- [ ] [Command Brand Hanging Strips](https://amzn.eu/d/06eMmLpg) 3.50GBP
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
 - [ ] >[!Figure purchases]-
-	> - [affmcustoms custom HM Gohan ankle covers 2pcs](https://www.ebay.co.uk/itm/267843585582?var=567794686947) ==32.64GBP== including shipping
-	> - [NS X Dimensionia NS006 "Corrupted Blue Mechanism Doll" Majin Vegeta](https://www.aliexpress.com/item/1005010423546108.html?) ==52.07GBP==
-	> - [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Sage Mode Saviour of Konoha)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m36239681470) 95.68GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m27377838975) 35.72GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (The Power to Unite) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m72938652397) 35.16GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Power to Unite) 3rd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JWm3mybRkr7Ep4RFbyeik) 34.45GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m67485276649) 27.73GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (NARUTOP99 Edition) 2nd Copy](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JZGtjAEyM3XvxEpo9GoA4) 25.97GBP, [SH FIGUARTS NARUTO SHIPPUDEN Naruto Uzumaki (Jinchuuriki Entrusted with Hope)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYXK8FvdANZz7rmJVhBMw) 15.45GBP
-	^ ==TOTAL PRICE 270.16GBP==
-	I will sell some parts to Jonas on the DBZ server for ==70GBP (90USD)==.
-	[[stuff to sell to Jonas.png]]
-	> - [SH FIGUARTS NARUTO SHIPPUDEN Sakura Haruno (NARUTOP99 Edition)](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=3mSCiaFnidf4sSJ877wmwn) ==34.10GBP==
 	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99GBP==
 	^ releases ==February==, I want to modify the body for articulation like [this](https://www.youtube.com/watch?v=qngwwcIPxAo) and buy Tony Mei's custom chest and neck joints for ==26.45GBP== (converted from 35.20USD)
-	> - [SH FIGUARTS MY HERO ACADEMIA All Might](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m77121725162) ==81.52GBP==
-	> - [REVOLTECH AMAZING YAMAGUCHI MY HERO ACADEMIA Izuku Midoriya](https://www.nin-nin-game.com/en/boku-no-hero-academia/124416-amazing-yamaguchi-revoltech-my-hero-academia-izuku-midoriya-kaiyodo-.html) ==59.91GBP==
-	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==9.95GBP==
-	^ Pre-order/Deposit.
-	> - [MESS TOYS Unbreakable B](https://www.aliexpress.com/item/1005009961707946.html) ==35.69GBP==
 	> - ==9.39GBP== to ship my SHF ATSV Scarlet Spider
 	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58GBP==
 	^ I will remove the plastic on the sides and most of the torso so I can use the MESS TOYS hoodie on the SHF ATSV Scarlet Spider, alongside carving out plastic on the abdomen, neck, waist and the inside of the waist for articulation.
@@ -215,42 +196,22 @@ kanban-plugin: board
 	> - ==TOTAL PRICE 75.42GBP==
 	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
 	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45GBP==
-	# ^ 835.24GBP spent
+	# ^ 348.27GBP spent
 - [ ] >[!Figure accessories]-
-	> - [Amazon Basics Flexible Tripod for photography and videography](https://amzn.eu/d/0ifdnbsv) 8.30GBP
-	> - [ulanzi photography lights with tripod kit 2pcs](https://www.aliexpress.com/item/4000262959653.html?) 43.80GBP, goes well with an amazon basics tripod for angling lighting easily
-	> - [Light box for figure reviews](https://amzn.eu/d/05eNQJRs) 22.99GBP
-	> - [Tamashii Display Stands 10pcs](https://www.aliexpress.com/item/1005007367851910.html?) 8.50GBP
-	> - [translucent wired display stand 2pcs](https://www.aliexpress.com/item/1005010276092517.html?) 5.10GBP
-	> - [SHF Effect bundle; SSJ Goku Effect Parts Set, Effect Energy Aura Yellow, Effect Smoke White, Effect Impact Beige](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m15133184732) 49.99GBP
-	> - [SHF SSJ Goku Effects Part Set 2nd Copy](https://zenmarket.jp/product.aspx?shop=rakuten&itemCode=istock2%253A10002716) 19.80GBP
-	> - [tamashii effect series shock impact yellow](https://zenmarket.jp/product.aspx?shop=amazon&itemCode=B0D5LJC8BY) 9.68GBP
-	> - [Vallejo Game Colour White Ink](https://amzn.eu/d/0aRY24YA) 5.79GBP
-	^ I want to repaint the Shock Impact Yellow set into white
-	> - [ac factory wind effects](https://www.aliexpress.com/item/1005011772250933.html?) 5.68GBP
-	> - [TAMASHII EFFECT Wave Clear Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYQiJWYqW2SmrefwuuaeV) 9.60GBP
 	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) 5.33GBP
 	^ for making custom webs like [this](https://www.youtube.com/shorts/SpB-Fvy_YeI)
 	> - [Pry tools](https://amzn.eu/d/08uADBcQ) 4.29GBP
 	> - [7-in-1 Model Scriber](https://amzn.eu/d/02UNl2dw) 7.99GBP
-	> - [6pcs Large Pencil Boxes for big action figures](https://amzn.eu/d/0hkETeFj) 24.99GBP
-	# ^ 231.83GBP spent
-- [ ] I want to commission Ferrytale_customs to repaint my FoR Goku faceplates and hands for my Genkidama Tsuri Goku which will probably cost a bit
-- [ ] ## This leaves me with 1,113.11/3,000GBP.
-- [ ] I will then need to split 1,113.11GBP across the three months of Term #2; about 371GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+	# ^ 17.61GBP spent
+- [ ] ## This leaves me with 1,847.79/3,000GBP.
+- [ ] I will then need to split 1,847.79GBP across the three months of Term #2; about 615GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
-## Term #3<br>TOTAL 122.79GBP
+## Term #3<br>TOTAL ---GBP
 
 - [ ] During this term I will save 2,000GBP.
-- [ ] >[!Figure purchases]-
-	> - [SH FIGUARTS DRAGON BALL Z Trunks (with bonus)](https://www.nin-nin-game.com/en/shfiguarts/255781-shfiguarts-dragon-ball-z-fighters-trunks-with-bonus-bandai-spirits-.html) ==39GBP==
-	> - [SH FIGUARTS MY HERO ACADEMIA Dark Deku](https://hobbyfigures.co.uk/collections/figures/products/my-hero-academia-s-h-figuarts-action-figure-dark-deku-14cm) ==62GBP==
-	^ Deposit paid, paying for the rest of the order on release.
-	> - [SH FIGUARTS ONE PIECE Monkey D. Luffy (New World Ver.)](https://www.nin-nin-game.com/en/shfiguarts/261365-shfiguarts-one-piece-monkey-d-luffy-new-world-ver-bandai-spirits-.html) ==21.79GBP==
-	# ^ 132.74GBP spent
-- [ ] ## This leaves me with 777.21/3,100GBP.
-- [ ] I will then need to split 777.21GBP across the three months of Term #3; about 259GBP per month to spend on gym, transit and other expenses.
+- [ ] ## This leaves me with 1,100/3,100GBP.
+- [ ] I will then need to split 1,100GBP across the three months of Term #3; about 366GBP per month to spend on gym, transit and other expenses.
 
 
 ***
