@@ -163,7 +163,7 @@ kanban-plugin: board
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
 - [ ] ## This leaves me with 2,059.08/3,000GBP.
-- [ ] I will then need to split 2,213.67GBP across the three months of Term #2; about 685GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] I will then need to split 2,059.08GBP across the three months of Term #2; about 686GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL ---GBP
