@@ -11,6 +11,18 @@ kanban-plugin: board
 	^ 101.96GBP per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
+- [ ] >[!Figure Wishlist]-
+	>[SH FIGUARTS ULTRAMAN NEXUS Anphans](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m48836349153) ==61.32GBP==
+	> - ==9.39GBP== to ship my SHF ATSV Scarlet Spider
+	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58GBP==
+	^ I will remove the plastic on the sides and most of the torso so I can use the MESS TOYS hoodie on the SHF ATSV Scarlet Spider, alongside carving out plastic on the abdomen, neck, waist and the inside of the waist for articulation.	
+	The hands' sockets also need dremelling to fit better on the wristpegs instead of fitting tightly and unsafely.
+	See [this post](https://www.instagram.com/p/DUR030EEX_d/), [this post](https://www.youtube.com/watch?v=jcY71H7CkRY) and [[shf atsv scarlet spider mockup.png]] for reference.
+	> - [AC FACTORY Symbiote Spider-Man (Black)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99GBP==
+	> - [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005009404471478.html?) ==29.53GBP==
+	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) ==5.33GBP==
+	^ for making custom webs like [this](https://www.youtube.com/shorts/SpB-Fvy_YeI)
+	### I also want to buy DYNACTION Shin Ultraman, but I need to wait for AmiAmi to confirm shipping costs before I include it in my plans.
 - [ ] >[!Games]-
 	> - [Just Cause 3 XXL](https://www.loaded.com/just-cause-3-xxl-pc) 4.69GBP
 	> - [CONTROL Ultimate Edition](https://www.loaded.com/control-ultimate-edition-pc-steam) 5.99GBP
