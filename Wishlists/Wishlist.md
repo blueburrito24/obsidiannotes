@@ -150,7 +150,7 @@ kanban-plugin: board
 ## Term #2<br>TOTAL 932.03GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
-	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 46.99GBP
+	[RHINOSHIELD MagSafe-compatible Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 46.99GBP
 	[MCON Controller](https://www.getohsnap.co.uk/products/mcon-magnetic-controller?variant=52801906704711) 149.99GBP
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95GBP
 - [ ] [7 inch IPS screen](https://amzn.eu/d/04PUbpN8) 40.79GBP
