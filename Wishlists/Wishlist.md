@@ -147,10 +147,11 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 786.33GBP
+## Term #2<br>TOTAL 943.32GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
-	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
+	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 46.99GBP
+	[MCON Controller](https://www.getohsnap.co.uk/products/mcon-magnetic-controller?variant=52801906704711) 149.99GBP
 - [ ] [Cutting mat](https://amzn.eu/d/08GoNRn0) 3.95GBP
 - [ ] [7 inch IPS screen](https://amzn.eu/d/04PUbpN8) 40.79GBP
 - [ ] [WEIKAV NUT87 Red Kit](https://www.aliexpress.com/item/1005013090248410.html?) 108.76GBP
@@ -161,8 +162,8 @@ kanban-plugin: board
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99GBP
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
-- [ ] ## This leaves me with 2,213.67/3,000GBP.
-- [ ] I will then need to split 2,213.67GBP across the three months of Term #2; about 737GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 2,056.68/3,000GBP.
+- [ ] I will then need to split 2,213.67GBP across the three months of Term #2; about 685GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL ---GBP
