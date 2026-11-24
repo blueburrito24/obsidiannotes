@@ -11,6 +11,7 @@ kanban-plugin: board
 	^ 101.96GBP per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
+- [ ] [Gulikit TT Max](https://amzn.eu/d/02dEtSNI) 69.99GBP (Blue and Gray)
 - [ ] >[!Games]-
 	> - [Just Cause 3 XXL](https://www.loaded.com/just-cause-3-xxl-pc) 4.69GBP
 	> - [CONTROL Ultimate Edition](https://www.loaded.com/control-ultimate-edition-pc-steam) 5.99GBP
