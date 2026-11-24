@@ -22,6 +22,7 @@ kanban-plugin: board
 	> - [CT TOYS Agent Venom](https://www.aliexpress.com/item/1005009404471478.html?) ==29.53GBP==
 	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) ==5.33GBP==
 	^ for making custom webs like [this](https://www.youtube.com/shorts/SpB-Fvy_YeI)
+	> - MESS TOYS Red and Blue Spider-Man (details unavailable as of now)
 	### I also want to buy DYNACTION Shin Ultraman, but I need to wait for AmiAmi to confirm shipping costs before I include it in my plans.
 - [ ] >[!Games]-
 	> - [Just Cause 3 XXL](https://www.loaded.com/just-cause-3-xxl-pc) 4.69GBP
