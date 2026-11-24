@@ -10,29 +10,7 @@ kanban-plugin: board
 - [ ] [the gym group, one stop, off-peak hours](https://www.thegymgroup.com/find-a-gym/birmingham-gyms/birmingham-perry-barr/) 26.99GBP/month
 	^ 101.96GBP per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
-- [ ] >[!Figure accessories]-
-	> - [1/12 scale food items](https://www.aliexpress.com/item/1005009417832030.html?) 4GBP~
-	> - [kamehameha effect](https://www.ebay.co.uk/itm/860012260116) 3.49GBP
-	> - [large ki blast](https://www.ebay.co.uk/itm/318921018095) 7.99GBP
-	> - [kawasaki 1/12 die cast motorbike](https://www.aliexpress.com/item/1005009430443453.html?) 18GBP~
-	> - [SH FIGUARTS DRAGON BALL Z Son Goku's Eating Moderately Set](https://www.nin-nin-game.com/en/dragon-ball/102404-shfiguarts-dragon-ball-z-son-goku-s-eating-moderately-set-reissue-bandai-spirits-.html) 38.90GBP
-	> - [Figure-Rise Standard Saiyan Pod](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=2JYRPsmG9w6KMJPJku3ncr) 23.44GBP
-	> - [TAMASHII EFFECT Impact Beige Ver.](https://zenmarket.jp/product.aspx?shop=mercari&itemCode=m40809292631) 14.81GBP
-	> - [BSM Rock Display 05A](https://www.aliexpress.com/item/1005012806817427.html?) 27.27GBP
-	> - [BHT LSSJ Goku Upper Body](https://www.aliexpress.com/item/1005012817667346.html?) 19.71GBP
-	> - [fahrulstore35 V91 Headsculpt](https://fahrulstore35.bigcartel.com/product/v91) 41GBP (converted from 55USD; 15USD per headsculpt and 40USD for expedited shipping)
-	^ for upcoming MESS TOYS Spider-Man
-	> - [2pcs three-tiered acrylic display stand for photography](https://amzn.eu/d/00X7OkfW) 5.99GBP
-	> - [SHF Sage Mode Naruto cloth cloak and scroll](https://www.aliexpress.com/item/1005006911455241.html?) 26.99GBP
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
-- [ ] >[!Stickers for laptop]-
-	> - [Canna Lily Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481904065/) 3.50GBP
-	> - [Quilt Squares Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4481926058/) 2.75GBP
-	> - [Pink Stonecrop Flowers Vinyl Sticker by KatiePonks](https://www.etsy.com/uk/listing/4577909177/) 3.50GBP
-	> - [Red Gaillardia Flowers Vinyl Sticker](https://www.etsy.com/uk/listing/4615523028/) 3.50GBP
-	> - [Black Rabbit Vinyl Sticker](https://www.etsy.com/uk/listing/4541967936/) 3GBP
-	> - [Dragon Ball Stickers](https://www.etsy.com/uk/listing/4608859208/) 9.41GBP
-	> - [Sonic the Hedgehog Mega Drive Holographic Sticker](https://www.etsy.com/uk/listing/4512248757/) 6.99GBP
 - [ ] >[!Games]-
 	> - [Just Cause 3 XXL](https://www.loaded.com/just-cause-3-xxl-pc) 4.69GBP
 	> - [CONTROL Ultimate Edition](https://www.loaded.com/control-ultimate-edition-pc-steam) 5.99GBP
@@ -169,7 +147,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,152.21GBP
+## Term #2<br>TOTAL 786.33GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=69&spec=52&from=ip_page) 39.99GBP
@@ -183,28 +161,8 @@ kanban-plugin: board
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99GBP
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
-- [ ] >[!Figure purchases]-
-	> - [MEZCO MARVEL ONE:12 COLLECTIVE The Incredible Hulk](https://thewhole-shebang.co.uk/product/mezco-marvel-one12-collective-the-incredible-hulk-action-figure-free-uk-shipping-pre-order-due-may/) ==139.99GBP==
-	^ releases ==February==, I want to modify the body for articulation like [this](https://www.youtube.com/watch?v=qngwwcIPxAo) and buy Tony Mei's custom chest and neck joints for ==26.45GBP== (converted from 35.20USD)
-	> - ==9.39GBP== to ship my SHF ATSV Scarlet Spider
-	> - [MESS TOYS Scarlet Hero](https://www.aliexpress.com/item/1005012210486038.html?) ==29.58GBP==
-	^ I will remove the plastic on the sides and most of the torso so I can use the MESS TOYS hoodie on the SHF ATSV Scarlet Spider, alongside carving out plastic on the abdomen, neck, waist and the inside of the waist for articulation.
-	The hands' sockets also need dremelling to fit better on the wristpegs instead of fitting tightly and unsafely.
-	See [this post](https://www.instagram.com/p/DUR030EEX_d/), [this post](https://www.youtube.com/watch?v=jcY71H7CkRY) and [[shf atsv scarlet spider mockup.png]] for reference.
-	> - [AC FACTORY Symbiote Spider-Man (Purple)](https://www.aliexpress.com/item/1005013479548682.html?) ==31.99GBP==
-	> - [CT TOYS Agent Anti-Venom](https://www.aliexpress.com/item/1005009404471478.html?) 29.53GBP, [Rit Synthetic Dye Royal Purple](https://amzn.eu/d/070h1s3b) 7.44GBP, [Pot](https://amzn.eu/d/09KolpUV) 11.98GBP, [Spray painting clamp stand](https://amzn.eu/d/0h2Gx0Eo) 5.99GBP, [Acrylic Markers 48pcs](https://www.aliexpress.com/item/1005008378784949.html?) 16.29GBP, [Cut-resistant gloves](https://amzn.eu/d/05O2HHl9) 4.19GBP
-	> - ==TOTAL PRICE 75.42GBP==
-	^ I will dye the CT TOYS Agent Anti-Venom tendrils purple to match the AC Factory Symbiote Spider-Man, following [this tutorial](https://www.youtube.com/watch?v=BEzkLFtnoEs) and then semi-gloss coat them, I also want to try dyeing and repainting Agent Anti-Venom to match Spider-Man.
-	> - [PC TOYS 01 Venom (purple)](https://www.aliexpress.com/item/1005013550971181.html?) ==35.45GBP==
-	# ^ 348.27GBP spent
-- [ ] >[!Figure accessories]-
-	> - [PME Sugarcraft 22 Gauge White Floral Wire 50pcs](https://amzn.eu/d/088Q3E8D) 5.33GBP
-	^ for making custom webs like [this](https://www.youtube.com/shorts/SpB-Fvy_YeI)
-	> - [Pry tools](https://amzn.eu/d/08uADBcQ) 4.29GBP
-	> - [7-in-1 Model Scriber](https://amzn.eu/d/02UNl2dw) 7.99GBP
-	# ^ 17.61GBP spent
-- [ ] ## This leaves me with 1,847.79/3,000GBP.
-- [ ] I will then need to split 1,847.79GBP across the three months of Term #2; about 615GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] ## This leaves me with 2,213.67/3,000GBP.
+- [ ] I will then need to split 2,213.67GBP across the three months of Term #2; about 737GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL ---GBP
