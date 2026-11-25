@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
 - [ ] [XIAOMI TV F32](https://amzn.eu/d/0fDjG83X) 119GBP
-- [ ] [Herman Miller Aeron Remastered](https://www.facebook.com/marketplace/item/4658645684380130/) 450GBP
 - [ ] [Gulikit TT Max](https://amzn.eu/d/02dEtSNI) 139.98GBP (2pcs Blue and Gray)
 - [ ] >[!Games]-
 	> - [Just Cause 3 XXL](https://www.loaded.com/just-cause-3-xxl-pc) 4.69GBP
@@ -150,7 +149,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 932.03GBP
+## Term #2<br>TOTAL 1,382.03GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD MagSafe-compatible Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 46.99GBP
@@ -164,8 +163,9 @@ kanban-plugin: board
 - [ ] [UGREEN Full HD Webcam](https://amzn.eu/d/0gMmFSOn) 15.99GBP
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
-- [ ] ## This leaves me with 2,067.97/3,000GBP.
-- [ ] I will then need to split 2,067.97GBP across the three months of Term #2; about 689GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] [Herman Miller Aeron Remastered](https://www.facebook.com/marketplace/item/4658645684380130/) 450GBP
+- [ ] ## This leaves me with 1,617.97/3,000GBP.
+- [ ] I will then need to split 1,617.97GBP across the three months of Term #2; about 539GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL ---GBP
