@@ -13,7 +13,7 @@ kanban-plugin: board
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
 - [ ] [XIAOMI TV F32](https://amzn.eu/d/0fDjG83X) 119GBP
 - [ ] [Gulikit TT Max](https://amzn.eu/d/02dEtSNI) 69.99GBP per controller
-- [ ] [8BitDo Ultimate 2C Wireless](https://amzn.eu/d/0aTYMu31) 24.29GBP per controller; cheap, can buy multiple
+- [ ] [8BitDo Ultimate 2C Bluetooth](https://amzn.eu/d/01gNGEv8) 24.98GBP per controller; cheap, can buy multiple
 - [ ] >[!Games]-
 	> - [Just Cause 3 XXL](https://www.loaded.com/just-cause-3-xxl-pc) 4.69GBP
 	> - [CONTROL Ultimate Edition](https://www.loaded.com/control-ultimate-edition-pc-steam) 5.99GBP
