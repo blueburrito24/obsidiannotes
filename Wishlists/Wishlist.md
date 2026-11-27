@@ -11,7 +11,6 @@ kanban-plugin: board
 	^ 101.96GBP per term
 - [ ] [Dog Ningen Vol 1](https://www.amazon.co.uk/Dog-Ningen-Vol-Dh-Animations/dp/B09BGLWYQW) 10.99GBP
 - [ ] [GPD Pocket 4; Ryzen AI 9 HX370, 32GB, 2TB](https://amzn.eu/d/020zIIVu) 1,435.99GBP
-- [ ] [XIAOMI TV F32](https://amzn.eu/d/0fDjG83X) 119GBP
 - [ ] [Gulikit TT Max](https://amzn.eu/d/02dEtSNI) 69.99GBP per controller
 - [ ] [8BitDo Ultimate 2C Bluetooth](https://amzn.eu/d/01gNGEv8) 24.98GBP per controller; cheap, can buy multiple
 - [ ] >[!Games]-
@@ -150,7 +149,7 @@ kanban-plugin: board
 	^ this money will mostly go towards fees on my figure purchases, also bobacustom super hero gohan boots if they release
 
 
-## Term #2<br>TOTAL 1,397.11GBP
+## Term #2<br>TOTAL 1,516.11GBP
 
 - [ ] [Samsung S24 Ultra, Titanium Violet, 256GB, Grade B Unlocked](https://uk.webuy.com/product-detail?id=SSAMS928B256GTVUNLB) 495GBP
 	[RHINOSHIELD MagSafe-compatible Spider-Man case](https://rhinoshield.uk/design-studio/collections/spider-man/SPD13?identification=solidsuit&device=samsung-galaxy-s24-ultra&device_color=black-525252&product_line=68&spec=52&from=ip_page) 46.99GBP
@@ -165,8 +164,9 @@ kanban-plugin: board
 - [ ] [masterclass deep pie dish 9in](https://amzn.eu/d/0iZY8DyN) 12.99GBP
 - [ ] [Compressed Air Duster for cleaning tech](https://amzn.eu/d/0awT7Pqh) 20.99GBP
 - [ ] [Herman Miller Aeron Remastered](https://www.facebook.com/marketplace/item/4658645684380130/) 450GBP
-- [ ] ## This leaves me with 1,611.99/3,000GBP.
-- [ ] I will then need to split 1,611.99GBP across the three months of Term #2; about 537GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
+- [ ] [XIAOMI TV F32](https://amzn.eu/d/0fDjG83X) 119GBP
+- [ ] ## This leaves me with 1,492.99/3,000GBP.
+- [ ] I will then need to split 1,611.99GBP across the three months of Term #2; about 497GBP per month to spend on gym, transit and other expenses alongside saving up money at the end of the month.
 
 
 ## Term #3<br>TOTAL ---GBP
